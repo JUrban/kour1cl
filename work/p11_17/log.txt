@@ -1,8 +1,12 @@
-Error, no method found! For debugging hints type ?Recovery from NoMethodFound
-Error, no 1st choice method found for `Name' on 1 arguments
-*[1] Name( G )
-   @ engel.g:28
-<function "unknown">( <arguments> )
- called from read-eval loop at engel.g:29
-type 'quit;' to quit to outer loop
-[1m[34m[0m[31m
+PSL(3,3): d(G)=34320 exp(G)=312 exp divides d: true
+PSU(3,3): d(G)=55440 exp(G)=168 exp divides d: true
+M11: d(G)=205920 exp(G)=1320 exp divides d: true
+PSL(3,4): d(G)=14280 exp(G)=420 exp divides d: true
+PSU(4,2): d(G)=154440 exp(G)=180 exp divides d: true
+Sz(8): d(G)=540540 exp(G)=1820 exp divides d: true
+PSU(3,4): d(G)=2227680 exp(G)=780 exp divides d: true
+M12: d(G)=159999840 exp(G)=1320 exp divides d: true
+PSL(3,5): d(G)=16980163200 exp(G)=3720 exp divides d: true
+PSU(3,5): d(G)=176400 exp(G)=840 exp divides d: true
+J1: d(G)=1777525249500 exp(G)=43890 exp divides d: true
+FINISHED

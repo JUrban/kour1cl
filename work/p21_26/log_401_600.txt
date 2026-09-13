@@ -144,3 +144,25 @@ done order 572 total non-nilpotent groups checked 5048
 done order 573 total non-nilpotent groups checked 5048
 done order 574 total non-nilpotent groups checked 5051
 done order 575 total non-nilpotent groups checked 5051
+done order 576 total non-nilpotent groups checked 13198
+done order 578 total non-nilpotent groups checked 13201
+done order 579 total non-nilpotent groups checked 13202
+done order 580 total non-nilpotent groups checked 13215
+done order 581 total non-nilpotent groups checked 13215
+done order 582 total non-nilpotent groups checked 13220
+done order 583 total non-nilpotent groups checked 13220
+done order 584 total non-nilpotent groups checked 13230
+done order 585 total non-nilpotent groups checked 13232
+done order 586 total non-nilpotent groups checked 13233
+done order 588 total non-nilpotent groups checked 13295
+done order 589 total non-nilpotent groups checked 13295
+done order 590 total non-nilpotent groups checked 13298
+done order 591 total non-nilpotent groups checked 13298
+done order 592 total non-nilpotent groups checked 13335
+done order 594 total non-nilpotent groups checked 13360
+done order 595 total non-nilpotent groups checked 13360
+done order 596 total non-nilpotent groups checked 13363
+done order 597 total non-nilpotent groups checked 13364
+done order 598 total non-nilpotent groups checked 13367
+done order 600 total non-nilpotent groups checked 13562
+FINISHED 401..600

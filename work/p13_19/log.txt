@@ -2,3 +2,12 @@
 done order 24 found 0
 done order 32 found 0
 done order 48 found 0
+done order 64 found 0
+done order 72 found 0
+done order 80 found 0
+done order 96 found 0
+done order 128 found 0
+done order 144 found 0
+done order 160 found 0
+done order 192 found 0
+FINISHED

@@ -10,3 +10,19 @@ done order 420 (1 nonsoluble groups) hits 0
 done order 480 (26 nonsoluble groups) hits 0
 done order 504 (2 nonsoluble groups) hits 0
 done order 540 (2 nonsoluble groups) hits 0
+done order 600 (5 nonsoluble groups) hits 0
+done order 660 (2 nonsoluble groups) hits 0
+done order 672 (8 nonsoluble groups) hits 0
+done order 720 (23 nonsoluble groups) hits 0
+done order 780 (1 nonsoluble groups) hits 0
+done order 840 (6 nonsoluble groups) hits 0
+done order 900 (1 nonsoluble groups) hits 0
+done order 960 (107 nonsoluble groups) hits 0
+done order 1008 (6 nonsoluble groups) hits 0
+done order 1020 (1 nonsoluble groups) hits 0
+done order 1080 (14 nonsoluble groups) hits 0
+done order 1092 (1 nonsoluble groups) hits 0
+done order 1140 (1 nonsoluble groups) hits 0
+done order 1176 (1 nonsoluble groups) hits 0
+done order 1200 (19 nonsoluble groups) hits 0
+FINISHED

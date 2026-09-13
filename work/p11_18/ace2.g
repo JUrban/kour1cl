@@ -1,0 +1,11 @@
+LoadPackage("ace");
+F := FreeGroup("x","y"); x := F.1; y := F.2;
+LeftComm := function(u, v, k) local w, i; w := u; for i in [1..k] do w := Comm(w, v); od; return w; end;
+rels := [x^-1 * LeftComm(x, y, 2), y^-1 * LeftComm(y, x, 3)];
+Print("ACE test with max 2000000\n");
+t := ACECosetTableFromGensAndRels([x,y], rels, [] : max := 2000000);
+Print("result: ", t, "\n");
+Print("ACE big run: max 150000000, workspace 3G\n");
+t := ACECosetTableFromGensAndRels([x,y], rels, [] : max := 150000000, workspace := 3000000000);
+if t = fail then Print("ACE: FAILED\n"); else Print("ACE: ORDER ", Length(t[1]), "\n"); fi;
+QUIT;

@@ -92,3 +92,64 @@ done perfect groups of order 58240 total checks 765
 done perfect groups of order 58320 total checks 771
 done perfect groups of order 58800 total checks 775
 done perfect groups of order 60480 total checks 787
+done perfect groups of order 61440 total checks 1081
+done perfect groups of order 62400 total checks 1085
+done perfect groups of order 64512 total checks 1097
+done perfect groups of order 64800 total checks 1100
+done perfect groups of order 65520 total checks 1105
+done perfect groups of order 68880 total checks 1110
+done perfect groups of order 69120 total checks 1122
+done perfect groups of order 74412 total checks 1126
+done perfect groups of order 75000 total checks 1138
+done perfect groups of order 77760 total checks 1150
+done perfect groups of order 79200 total checks 1162
+done perfect groups of order 79464 total checks 1167
+done perfect groups of order 79860 total checks 1171
+done perfect groups of order 80640 total checks 1195
+done perfect groups of order 84672 total checks 1198
+done perfect groups of order 86016 total checks 1354
+done perfect groups of order 86400 total checks 1357
+done perfect groups of order 87480 total checks 1381
+done perfect groups of order 92160 total checks 1387
+done perfect groups of order 95040 total checks 1391
+done perfect groups of order 96000 total checks 1400
+done primitive degree 2 total checks 1401
+done primitive degree 3 total checks 1404
+done primitive degree 4 total checks 1408
+done primitive degree 5 total checks 1419
+done primitive degree 6 total checks 1431
+done primitive degree 7 total checks 1450
+done primitive degree 8 total checks 1472
+done primitive degree 9 total checks 1500
+done primitive degree 10 total checks 1525
+done primitive degree 11 total checks 1541
+done primitive degree 12 total checks 1557
+done primitive degree 13 total checks 1573
+done primitive degree 14 total checks 1581
+done primitive degree 15 total checks 1595
+done primitive degree 16 total checks 1650
+done primitive degree 17 total checks 1671
+done primitive degree 18 total checks 1677
+done primitive degree 19 total checks 1690
+done primitive degree 20 total checks 1698
+done primitive degree 21 total checks 1725
+done primitive degree 22 total checks 1735
+done primitive degree 23 total checks 1743
+done primitive degree 24 total checks 1751
+done primitive degree 25 total checks 1822
+done primitive degree 26 total checks 1842
+done primitive degree 27 total checks 1874
+done primitive degree 28 total checks 1917
+done primitive degree 29 total checks 1930
+done primitive degree 30 total checks 1940
+done primitive degree 31 total checks 1964
+done primitive degree 32 total checks 1977
+done primitive degree 33 total checks 1986
+done primitive degree 34 total checks 1986
+done primitive degree 35 total checks 2002
+done primitive degree 36 total checks 2065
+done primitive degree 37 total checks 2086
+done primitive degree 38 total checks 2094
+done primitive degree 39 total checks 2094
+done primitive degree 40 total checks 2106
+FINISHED

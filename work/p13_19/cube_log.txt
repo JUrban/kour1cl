@@ -1,1 +1,17 @@
-
+done D8^3: subdirect Q's checked, counterexamples: 0
+done Q8^3: subdirect Q's checked, counterexamples: 0
+Error, reached the pre-set memory limit
+(change it with the -o command line option)
+*[1] return ImmutableVector( ocr.field, x );
+   @ /project/gap-4.16.1/lib/onecohom.gi:265
+ [2] ocr.moduleMap( n )
+   @ /project/gap-4.16.1/lib/onecohom.gi:338
+ [3] z.listToCocycle( l )
+   @ /project/gap-4.16.1/lib/grppclat.gi:966
+ [4] act( pnt, acts[i] )
+   @ /project/gap-4.16.1/lib/oprtpcgs.gi:42
+ [5] Pcs_OrbitStabilizer( pcgs, D, pnt, acts, act )
+   @ /project/gap-4.16.1/lib/oprtpcgs.gi:93
+...  at cube.g:26
+you can 'return;'
+[1m[34m[0m[31m

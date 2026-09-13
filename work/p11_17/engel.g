@@ -23,8 +23,10 @@ DOfGroup := function(G)
   od;
   return d;
 end;
-for G in [PSL(3,3), PSU(3,3), MathieuGroup(11), PSL(3,4), PSU(4,2), Sz(8), PSU(3,4), MathieuGroup(12), PSL(3,5), PSU(3,5), SimpleGroup("J1")] do
-  d := DOfGroup(G); e := Exponent(G);
-  Print(Name(G), ": d(G)=", d, " exp(G)=", e, " exp divides d: ", d mod e = 0, "\n");
+names := ["PSL(3,3)","PSU(3,3)","M11","PSL(3,4)","PSU(4,2)","Sz(8)","PSU(3,4)","M12","PSL(3,5)","PSU(3,5)","J1"];
+grps := [PSL(3,3), PSU(3,3), MathieuGroup(11), PSL(3,4), PSU(4,2), Sz(8), PSU(3,4), MathieuGroup(12), PSL(3,5), PSU(3,5), SimpleGroup("J1")];
+for i in [1..Length(grps)] do
+  G := grps[i]; d := DOfGroup(G); e := Exponent(G);
+  Print(names[i], ": d(G)=", d, " exp(G)=", e, " exp divides d: ", d mod e = 0, "\n");
 od;
 Print("FINISHED\n"); QUIT;

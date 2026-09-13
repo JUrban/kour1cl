@@ -1,0 +1,21 @@
+ACE test with max 2000000
+Error, no coset table ...
+ the `ACE' coset enumeration failed with the result:
+ OVERFLOW (a=245247 r=12789 h=12789 n=249999; l=211 c=0.20; m=247900 t=249998)
+*[1] Error( ACE_ERROR( errmsg, onbreakmsg ), "\n" );
+   @ /project/gap-4.16.1/pkg/ace/gap/interact.gi:2316
+ [2] ACECosetTable( fgens, rels, sgens )
+   @ /project/gap-4.16.1/pkg/ace/gap/general.gi:210
+<function "ACECosetTableFromGensAndRels">( <arguments> )
+ called from read-eval loop at ace2.g:6
+ try relaxing any restrictive options
+ e.g. try the `hard' strategy or increasing `workspace'
+ type: '?strategy options' for info on strategies
+ type: '?options for ACE' for info on options
+ type: 'DisplayACEOptions();' to see current ACE options;
+ type: 'SetACEOptions(:<option1> := <value1>, ...);'
+ to set <option1> to <value1> etc.
+ (i.e. pass options after the ':' in the usual way)
+ ... and then, type: 'return;' to continue.
+ Otherwise, type: 'quit;' to quit to outer loop.
+[1m[34m[0m[31m

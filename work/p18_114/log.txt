@@ -1,0 +1,8 @@
+k(VG)=|V| for G of order 1 cyclic=true n=1 1
+k(VG)=|V| for G of order 4 cyclic=true n=1 C4
+done n=1 groups tested 3
+k(VG)=|V| for G of order 24 cyclic=true n=2 C24
+done n=2 groups tested 19
+k(VG)=|V| for G of order 124 cyclic=true n=3 C124
+done n=3 groups tested 22
+FINISHED

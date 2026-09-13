@@ -16,3 +16,11 @@
   except 32), 21.113(a) (all groups of order ≤ 256 and more; (b) for 1663 library tables and p-solvable groups ≤ 300),
   21.26 (orders ≤ ~500), 21.52/21.53 (simple groups up to M11), 21.25 (simple groups so far), 21.27/21.28.
 - 21.111: τ-groups found so far: A6, PSL(2,27), PSL(2,81) (τ-involutions); pattern PSL(2,3^n). No odd-order τ yet.
+
+## 2026-09-13 13:05 UTC
+- Triage from issues 10–18 received (compact). Many sweeps launched; none found a counterexample so far
+  (summary table: reports/verifications.md).
+- **16.60 (MacHale) SOLVED** (reports/16.60_twisted_frobenius_schur.md): T(G) ≥ |S_α| for all automorphisms.
+- 21.111: τ-groups among simple groups of order ≤ 10^7 are exactly PSL(2,3^n), n=2..5; all τ-automorphisms are
+  involutions (data for (a); nothing for (b) yet).
+- 11.18: G(2,3) resists (perfect, no small quotients, coset enumeration overflow at 4e8) — likely infinite but unproved.

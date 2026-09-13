@@ -65,3 +65,19 @@ done order 378 checked 5344
 done order 380 checked 5371
 done order 381 checked 5373
 done order 382 checked 5375
+done order 384 checked 41057
+done order 385 checked 41060
+done order 386 checked 41062
+done order 387 checked 41066
+done order 388 checked 41072
+done order 390 checked 41116
+done order 391 checked 41116
+done order 392 checked 41184
+done order 393 checked 41184
+done order 394 checked 41186
+done order 395 checked 41186
+done order 396 checked 41264
+done order 398 checked 41266
+done order 399 checked 41278
+done order 400 checked 41664
+FINISHED 301..400

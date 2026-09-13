@@ -104,3 +104,19 @@ done order 378 total non-nilpotent groups checked 3635
 done order 380 total non-nilpotent groups checked 3644
 done order 381 total non-nilpotent groups checked 3645
 done order 382 total non-nilpotent groups checked 3646
+done order 384 total non-nilpotent groups checked 21487
+done order 385 total non-nilpotent groups checked 21488
+done order 386 total non-nilpotent groups checked 21489
+done order 387 total non-nilpotent groups checked 21491
+done order 388 total non-nilpotent groups checked 21494
+done order 390 total non-nilpotent groups checked 21505
+done order 391 total non-nilpotent groups checked 21505
+done order 392 total non-nilpotent groups checked 21539
+done order 393 total non-nilpotent groups checked 21539
+done order 394 total non-nilpotent groups checked 21540
+done order 395 total non-nilpotent groups checked 21540
+done order 396 total non-nilpotent groups checked 21566
+done order 398 total non-nilpotent groups checked 21567
+done order 399 total non-nilpotent groups checked 21571
+done order 400 total non-nilpotent groups checked 21764
+FINISHED 251..400

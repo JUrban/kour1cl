@@ -1,0 +1,3 @@
+done order 27 configurations 13
+done order 81 configurations 142
+done order 243 configurations 1478

@@ -1,0 +1,28 @@
+Search1319 := function(n)
+  local k, Q, nsQ, H, P, p, cands, N, I, found;
+  found := 0;
+  for k in [1..NrSmallGroups(n)] do
+    Q := SmallGroup(n, k);
+    nsQ := NormalSubgroups(Q);
+    for H in nsQ do
+      if Size(H) = n or Size(H) = 1 then continue; fi;
+      if not IsPrimePowerInt(Index(Q, H)) then continue; fi;
+      p := PrimeDivisors(Index(Q,H))[1];
+      P := Q / H;
+      if IsAbelian(P) then continue; fi;
+      if p > 2 and NilpotencyClassOfGroup(P) < p then continue; fi;  # class < p => regular
+      cands := Filtered(nsQ, N -> Size(ClosureGroup(N, H)) = n);
+      I := Q;
+      for N in cands do I := Intersection(I, N); if Size(I) = 1 then break; fi; od;
+      if Size(I) = 1 then
+        if p = 2 or not MyIsRegular(P, p) then
+          found := found + 1;
+          Print("COUNTEREXAMPLE candidate: SmallGroup(", n, ",", k, ") ", StructureDescription(Q), " H of order ", Size(H), " Q/H = ", StructureDescription(P), " (class ", NilpotencyClassOfGroup(P), "), using ", Length(cands), " normal subgroups N\n");
+        fi;
+      fi;
+    od;
+  od;
+  Print("done order ", n, " found ", found, "\n");
+end;
+Search1319(256);
+Print("FINISHED\n"); QUIT;

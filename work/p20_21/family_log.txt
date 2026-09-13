@@ -1,2 +1,18 @@
 C8 x C8: tested 1 semidirect products M = N x| V4 of order 256
 C16 x C16: tested 1 semidirect products M = N x| V4 of order 1024
+Error, reached the pre-set memory limit
+(change it with the -o command line option)
+*[1] res[Length( C )] := 1;
+   @ /project/gap-4.16.1/lib/coll.gi:647
+ [2] List( TriangulizedNullspaceMat( MutableTransposedMat( newmat ) ), 
+ ShallowCopy )
+   @ /project/gap-4.16.1/lib/grppclat.gi:402
+ [3] ActionSubspacesElementaryAbelianGroup( G, mpcgs )
+   @ /project/gap-4.16.1/lib/grplatt.gi:1026
+ [4] LatticeSubgroups( NiceObject( G ) )
+   @ /project/gap-4.16.1/lib/grplatt.gi:1276
+ [5] LatticeSubgroups( G )
+   @ /project/gap-4.16.1/lib/grplatt.gi:208
+...  at /project/work/p20_21/family.g:28
+you can 'return;'
+[1m[34m[0m[31m

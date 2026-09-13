@@ -5,8 +5,9 @@ for cf in sorted(glob.glob('caseb_*.txt'), key=lambda f: int(re.findall(r'\d+', 
     n = int(re.findall(r'\d+', cf)[0])
     with open(cf) as f: f.readline(); need = list(map(int, f.readline().split()))
     found = {}
-    lf = 'f4log_%d.txt' % n
-    if os.path.exists(lf):
+    for lf in ['f4log_%d.txt' % n, 'f5log_%d.txt' % n]:
+      if not os.path.exists(lf): continue
+      if True:
         for l in open(lf):
             m = re.match(r'FOUND \|G\|=(\d+) a=(\d+) b=(\d+) via \|H\|=(\d+) k=(\d+) \|K\|=(\d+) l=(\d+) \|Omega\|=(\d+)', l)
             if m: found[int(m.group(2))] = (int(m.group(4)), int(m.group(5)), int(m.group(6)), int(m.group(7)), int(m.group(8)))

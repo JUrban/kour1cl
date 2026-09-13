@@ -4,3 +4,5 @@ FOUND |G|=12180 a=42 b=290 via |H|=14 k=3 |K|=29 l=10 |Omega|=30 trial=0
 FOUND |G|=12180 a=70 b=174 via |H|=14 k=5 |K|=29 l=6 |Omega|=30 trial=0
 FOUND |G|=12180 a=84 b=145 via |H|=28 k=3 |K|=29 l=5 |Omega|=15 trial=0
 FOUND |G|=12180 a=87 b=140 via |H|=29 k=3 |K|=28 l=5 |Omega|=15 trial=0
+NOT FOUND |G|=12180 a=105
+FINISHED

@@ -1,0 +1,10 @@
+FOUND |G|=102660 a=87 b=1180 via |H|=29 k=3 |K|=59 l=20 |Omega|=60 trial=0
+FOUND |G|=102660 a=116 b=885 via |H|=58 k=2 |K|=59 l=15 |Omega|=30 trial=0
+FOUND |G|=102660 a=118 b=870 via |H|=59 k=2 |K|=58 l=15 |Omega|=30 trial=0
+FOUND |G|=102660 a=145 b=708 via |H|=29 k=5 |K|=59 l=12 |Omega|=60 trial=0
+FOUND |G|=102660 a=174 b=590 via |H|=58 k=3 |K|=59 l=10 |Omega|=30 trial=0
+FOUND |G|=102660 a=177 b=580 via |H|=59 k=3 |K|=58 l=10 |Omega|=30 trial=0
+FOUND |G|=102660 a=236 b=435 via |H|=59 k=4 |K|=29 l=15 |Omega|=60 trial=0
+FOUND |G|=102660 a=290 b=354 via |H|=58 k=5 |K|=59 l=6 |Omega|=30 trial=0
+FOUND |G|=102660 a=295 b=348 via |H|=59 k=5 |K|=58 l=6 |Omega|=30 trial=0
+FINISHED

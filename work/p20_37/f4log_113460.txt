@@ -1,0 +1,4 @@
+FOUND |G|=113460 a=93 b=1220 via |H|=31 k=3 |K|=610 l=2 |Omega|=6 trial=0
+FOUND |G|=113460 a=155 b=732 via |H|=31 k=5 |K|=366 l=2 |Omega|=10 trial=1
+FOUND |G|=113460 a=244 b=465 via |H|=122 k=2 |K|=31 l=15 |Omega|=30 trial=0
+FINISHED

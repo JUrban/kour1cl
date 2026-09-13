@@ -1,0 +1,15 @@
+done degree 2600 groups-with-regular-suborbit so far: 213
+done degree 2700 groups-with-regular-suborbit so far: 414
+done degree 2800 groups-with-regular-suborbit so far: 618
+done degree 2900 groups-with-regular-suborbit so far: 899
+done degree 3000 groups-with-regular-suborbit so far: 1042
+done degree 3100 groups-with-regular-suborbit so far: 1262
+done degree 3200 groups-with-regular-suborbit so far: 1500
+done degree 3300 groups-with-regular-suborbit so far: 1653
+done degree 3400 groups-with-regular-suborbit so far: 1935
+done degree 3500 groups-with-regular-suborbit so far: 2167
+done degree 3600 groups-with-regular-suborbit so far: 2394
+done degree 3700 groups-with-regular-suborbit so far: 2610
+done degree 3800 groups-with-regular-suborbit so far: 2982
+done degree 3900 groups-with-regular-suborbit so far: 3157
+done degree 4000 groups-with-regular-suborbit so far: 3286

@@ -1,0 +1,7 @@
+Error, Range: <last> must be a small integer (not the value 'fail')
+*[1] NrTransitiveGroups( n )
+   @ /project/work/p21_99/check.g:40
+<function "RunDegrees">( <arguments> )
+ called from read-eval loop at run3.g:2
+type 'quit;' to quit to outer loop
+[1m[34m[0m[31m

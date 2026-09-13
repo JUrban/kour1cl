@@ -1,0 +1,31 @@
+done degree 2: checked 0 groups, skipped 1 p-groups
+done degree 3: checked 1 groups, skipped 1 p-groups
+done degree 4: checked 2 groups, skipped 3 p-groups
+done degree 5: checked 4 groups, skipped 1 p-groups
+done degree 6: checked 16 groups, skipped 0 p-groups
+done degree 7: checked 6 groups, skipped 1 p-groups
+done degree 8: checked 24 groups, skipped 26 p-groups
+done degree 9: checked 29 groups, skipped 5 p-groups
+done degree 10: checked 45 groups, skipped 0 p-groups
+done degree 11: checked 7 groups, skipped 1 p-groups
+done degree 12: checked 301 groups, skipped 0 p-groups
+done degree 13: checked 8 groups, skipped 1 p-groups
+done degree 14: checked 63 groups, skipped 0 p-groups
+done degree 15: checked 104 groups, skipped 0 p-groups
+done degree 16: checked 527 groups, skipped 1427 p-groups
+done degree 17: checked 9 groups, skipped 1 p-groups
+done degree 18: checked 983 groups, skipped 0 p-groups
+done degree 19: checked 7 groups, skipped 1 p-groups
+done degree 20: checked 1117 groups, skipped 0 p-groups
+done degree 21: checked 164 groups, skipped 0 p-groups
+done degree 22: checked 59 groups, skipped 0 p-groups
+done degree 23: checked 6 groups, skipped 1 p-groups
+done degree 24: checked 25000 groups, skipped 0 p-groups
+done degree 25: checked 202 groups, skipped 9 p-groups
+done degree 26: checked 96 groups, skipped 0 p-groups
+done degree 27: checked 2163 groups, skipped 229 p-groups
+done degree 28: checked 1854 groups, skipped 0 p-groups
+done degree 29: checked 7 groups, skipped 1 p-groups
+done degree 30: checked 5712 groups, skipped 0 p-groups
+done degree 31: checked 11 groups, skipped 1 p-groups
+FINISHED degrees 2..31

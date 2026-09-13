@@ -1,0 +1,12 @@
+COUNTEREXAMPLE: PrimitiveGroup(2,1) = S(2) size 2 bad betas [ 2 ]
+done degree 100 groups-with-regular-suborbit so far: 254
+done degree 200 groups-with-regular-suborbit so far: 553
+done degree 300 groups-with-regular-suborbit so far: 816
+done degree 400 groups-with-regular-suborbit so far: 1107
+done degree 500 groups-with-regular-suborbit so far: 1319
+done degree 600 groups-with-regular-suborbit so far: 1529
+done degree 700 groups-with-regular-suborbit so far: 2046
+done degree 800 groups-with-regular-suborbit so far: 2322
+done degree 900 groups-with-regular-suborbit so far: 2593
+done degree 1000 groups-with-regular-suborbit so far: 2891
+FINISHED degrees 2..1000 groups checked: 2891

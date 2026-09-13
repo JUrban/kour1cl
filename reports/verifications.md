@@ -51,3 +51,5 @@ All scripts/logs are in `work/<problem>/`. "Verified for X" means: exhaustive ch
 | 17.1 (Isaacs) | partition by equal-order subgroups with a non-abelian component | none for exponent-3 groups of order 3⁶ (exact cover over all subgroups of order 27) | `work/p17_1` |
 | 21.2 (Amiri) | order-divisibility bijection onto a simple group forces simplicity | no non-simple group of order 60, 168 (more running) admits such a bijection (Hall condition on order statistics) | `work/p21_2` |
 | 18.20 / 18.119 / 14.44 / 19.20 | (stopped) | verified for orders ≤ 250 / ≤ 240 / ≤ 382 / ≤ 127 respectively | |
+| 19.12 (Bezerra–Halasi–Maróti–Sidki) | every finite simple group is conjugacy-expansive | verified (all 2^k normal subsets N, all classes C) for all 34 simple groups with ≤ 24 conjugacy classes in the character table library (order ≤ 3·10⁶): A5…A7, PSL(2,q) (q ≤ 61), PSL(3,3), PSL(3,4), PSU(3,3)…PSU(3,5), PSU(4,2), Sz(8), M11, M12, J1, J2, … | `work/p19_12` |
+| 20.100 (Sun, n = 4) | 4-subsets orderable with a₁, a₂², a₃³, a₄⁴ distinct | all 85 groups of order coprime to 30 and ≤ 300 (all 4-subsets, C program) | `work/p20_100` |

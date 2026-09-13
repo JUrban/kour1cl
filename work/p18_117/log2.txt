@@ -1,0 +1,6 @@
+Co3: degree 276 order 495766656000
+Co3: classes 42, not yet realised as coprime commutators: 
+[ [ 2, 170775 ], [ 3, 1416800 ] ] (300000 random pairs)
+Co3: class of order 2 size 170775 realised: |x|=18 |y|=5
+Co3: class of order 3 size 1416800 realised: |x|=15 |y|=8
+Co2: degree 2300 order 42305421312000

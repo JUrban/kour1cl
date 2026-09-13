@@ -1,0 +1,25 @@
+M11: classes 10, not yet realised as coprime commutators: [  ] (
+70 random pairs)
+M12: classes 15, not yet realised as coprime commutators: [  ] (
+191 random pairs)
+M22: classes 12, not yet realised as coprime commutators: [  ] (
+180 random pairs)
+M23: classes 17, not yet realised as coprime commutators: [  ] (
+2050 random pairs)
+M24: classes 26, not yet realised as coprime commutators: [  ] (
+52838 random pairs)
+J1: classes 15, not yet realised as coprime commutators: [  ] (
+227 random pairs)
+J2: classes 21, not yet realised as coprime commutators: [  ] (
+2326 random pairs)
+HS: classes 24, not yet realised as coprime commutators: [  ] (
+24320 random pairs)
+J3: classes 21, not yet realised as coprime commutators: [  ] (
+3348 random pairs)
+McL: classes 24, not yet realised as coprime commutators: [  ] (
+149564 random pairs)
+He: classes 33, not yet realised as coprime commutators: [  ] (
+70199 random pairs)
+Co3: classes 42, not yet realised as coprime commutators: 
+[ [ 2, 170775 ], [ 3, 1416800 ] ] (400000 random pairs)
+FINISHED

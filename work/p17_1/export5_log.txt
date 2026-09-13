@@ -11,3 +11,19 @@ exponent-5 group [ 15625, 240 ] ((C5 x C5) : C5) x ((C5 x C5) : C5)
 exponent-5 group [ 15625, 258 ] (C5 x C5 x ((C5 x C5) : C5)) : C5
 exponent-5 group [ 15625, 276 ] ((C5 x ((C5 x C5) : C5)) : C5) : C5
 exponent-5 group [ 15625, 284 ] ((C5 x C5 x C5 x C5) : C5) : C5
+exponent-5 group [ 15625, 302 ] (C5 x C5 x ((C5 x C5) : C5)) : C5
+exponent-5 group [ 15625, 353 ] ((C5 x C5 x C5 x C5) : C5) : C5
+exponent-5 group [ 15625, 454 ] (C5 x C5 x ((C5 x C5) : C5)) : C5
+exponent-5 group [ 15625, 455 ] ((C5 x C5 x C5 x C5) : C5) : C5
+exponent-5 group [ 15625, 498 ] ((C5 x C5 x C5 x C5) : C5) : C5
+exponent-5 group [ 15625, 548 ] ((C5 x ((C5 x C5) : C5)) : C5) : C5
+exponent-5 group [ 15625, 555 ] (C5 x ((C5 x C5 x C5) : C5)) : C5
+exponent-5 group [ 15625, 573 ] (C5 x ((C5 x C5 x C5) : C5)) : C5
+exponent-5 group [ 15625, 585 ] (C5 x ((C5 x C5 x C5) : C5)) : C5
+exponent-5 group [ 15625, 603 ] ((C5 x ((C5 x C5) : C5)) : C5) : C5
+exponent-5 group [ 15625, 609 ] (C5 x ((C5 x C5 x C5) : C5)) : C5
+exponent-5 group [ 15625, 616 ] (C5 x ((C5 x C5 x C5) : C5)) : C5
+exponent-5 group [ 15625, 621 ] ((C5 x ((C5 x C5) : C5)) : C5) : C5
+exponent-5 group [ 15625, 669 ] ((C5 x ((C5 x C5) : C5)) : C5) : C5
+exponent-5 group [ 15625, 672 ] (C5 x ((C5 x C5 x C5) : C5)) : C5
+FINISHED

@@ -35,9 +35,9 @@ AnalyseFast := function(n, k, r, tag, sanity)
   local H, P;
   H := SmallGroup(n, k);
   if RankPGroup(H) <> 2*r+1 then return "rank"; fi;
-  if not F2(H) then return "F2"; fi;
   if sanity then P := PqPCover(H); if not CheckLift(H, P) then Print(tag, " ", [n,k], " LIFT MAP NOT A HOMOMORPHISM\n"); return "BAD"; fi; fi;
   if F3prime(H) then return "F3"; fi;
-  Print(tag, " ", [n,k], " SURVIVOR (passes F2 and F3')\n");
+  if not F2(H) then return "F2"; fi;
+  Print(tag, " ", [n,k], " SURVIVOR (passes F3' and F2)\n");
   return "S";
 end;

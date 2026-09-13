@@ -1,0 +1,21 @@
+done order 100 groups so far 0
+done order 200 groups so far 3
+done order 300 groups so far 12
+done order 400 groups so far 19
+done order 500 groups so far 46
+done order 600 groups so far 54
+done order 700 groups so far 63
+done order 800 groups so far 84
+done order 900 groups so far 91
+done order 1000 groups so far 91
+done order 1100 groups so far 112
+done order 1200 groups so far 133
+done order 1300 groups so far 135
+done order 1400 groups so far 143
+done order 1500 groups so far 145
+done order 1700 groups so far 180
+done order 1800 groups so far 191
+done order 1900 groups so far 193
+done order 2000 groups so far 195
+small groups done: 195
+library tables done: 2275

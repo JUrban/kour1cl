@@ -1,0 +1,22 @@
+done order 100 nonsoluble groups so far 1
+done order 200 nonsoluble groups so far 6
+done order 300 nonsoluble groups so far 15
+done order 400 nonsoluble groups so far 24
+done order 500 nonsoluble groups so far 51
+done order 600 nonsoluble groups so far 60
+done order 700 nonsoluble groups so far 70
+done order 800 nonsoluble groups so far 94
+done order 900 nonsoluble groups so far 101
+done order 1000 nonsoluble groups so far 101
+done order 1100 nonsoluble groups so far 123
+done order 1200 nonsoluble groups so far 144
+done order 1300 nonsoluble groups so far 146
+done order 1400 nonsoluble groups so far 155
+done order 1500 nonsoluble groups so far 157
+done order 1700 nonsoluble groups so far 193
+done order 1800 nonsoluble groups so far 204
+done order 1900 nonsoluble groups so far 206
+done order 2000 nonsoluble groups so far 208
+small groups done: 208 nonsoluble groups
+library tables done: 2275
+FINISHED

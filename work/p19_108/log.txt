@@ -1,0 +1,11 @@
+done order 27
+done order 81
+done order 243
+done order 729
+done order 125
+done order 625
+done order 3125
+done order 343
+done order 2401
+  2187 id 2000
+  2187 id 4000

@@ -1,0 +1,2 @@
+progress 6000 weak-passing so far 1716
+FINISHED 512 ids 2045..9500 weak-passing 2003

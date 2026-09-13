@@ -55,3 +55,20 @@
 - 14:38 UTC: **13.19 strengthened**: uniform construction — every finite p-group P is Q/H for a configuration with
   n = class(P)+1 (Möbius lemma for word maps on nilpotent groups); verified for P = C3 ≀ C3 (|Q| = 3^32). So 13.19
   fails for every prime p. 21.2 verified for the six smallest simple groups; 20.71(a,b) none up to 10 vertices.
+
+## 2026-09-13 15:35 UTC
+- Clock note: all times from here on are taken from `date -u` (earlier entries were corrected from git).
+- 21.26 (Lisi–Sabatini): new double-coset checker (`work/p21_26/check2.g`); verified for all groups of order ≤ 2000
+  except 1024/1280/1536/1792 (768, 1152, 1920 partly still running) and for ~60 larger groups (S₈–S₁₀, M₁₁, M₁₂, M₂₂,
+  L₃(q), U₃(q), Sz(8), wreath products, AGL, PΓL, Sp(4,3), …). Observation: every inclusion-minimal P ∩ P^x equals
+  O_p(G) (consistent with Zenkov's theorem), and a common x is found by ≤ 10 random samples in every case.
+- 16.14 (Berkovich): Theorem B (structure of a minimal counterexample: d = 2r+1, E ≤ Φ, all maximal subgroups
+  extremal with the same Frattini subgroup, order-doubling on G → G/E, Chevalley–Warning bound on the 2-rank of G/E,
+  subgroups of G/E with trivial multiplier are abelian). Cohomological search over the possible quotients H = G/E
+  (GAP `TwoCocycles` + `Extension`): no counterexample of order ≤ 2¹⁰; none of order 2¹¹ with r = 3; order 2¹²
+  (r = 3, 1139 candidate H of order 512) running. Report: reports/16.14_notes.md.
+- 20.71: n = 11 exhaustive (1 006 700 565 connected graphs): no example with k ∈ {2,3} card types and > k orbits.
+- 18.119 targeted sweep (δ₂, γ₃; orders ≤ 2000, derived length ≥ 3): no counterexample. 18.120: none for
+  p-groups of order ≤ 64, 3⁵, 5³. 18.20: all 2063 library tables (≤ 200 classes) — semiproportional irreducibles
+  have equal degrees.
+- Stopped low-value sweeps: 17.128, 18.44, 16.33, 16.63, 21.113 (orders 769–1000 reached 959), 2.78 L₂(q) data.

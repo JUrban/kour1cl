@@ -205,3 +205,87 @@ H512 [ 512, 10493175
  ] F2: some maximal subgroup has smaller Frattini -> excluded
 H512 [ 512, 10493176 
  ] F2: some maximal subgroup has smaller Frattini -> excluded
+H512 [ 512, 10493177 ] F3: 
+3 involutions always lift to involutions -> excluded
+H512 [ 512, 10493178 ] F3: 
+3 involutions always lift to involutions -> excluded
+H512 [ 512, 10493179 ] F3: 
+3 involutions always lift to involutions -> excluded
+H512 [ 512, 10493180 
+ ] F2: some maximal subgroup has smaller Frattini -> excluded
+H512 [ 512, 10493181 ] F3: 
+3 involutions always lift to involutions -> excluded
+H512 [ 512, 10493182 ] F3: 
+3 involutions always lift to involutions -> excluded
+H512 [ 512, 10493183 ] F3: 
+3 involutions always lift to involutions -> excluded
+H512 [ 512, 10493184 ] F3: 
+3 involutions always lift to involutions -> excluded
+H512 [ 512, 10493185 
+ ] F2: some maximal subgroup has smaller Frattini -> excluded
+H512 [ 512, 10493186 
+ ] F2: some maximal subgroup has smaller Frattini -> excluded
+H512 [ 512, 10493187 ] F3: 
+3 involutions always lift to involutions -> excluded
+H512 [ 512, 10493188 ] F3: 
+3 involutions always lift to involutions -> excluded
+H512 [ 512, 10493189 ] F3: 
+3 involutions always lift to involutions -> excluded
+H512 [ 512, 10493190 ] F3: 
+3 involutions always lift to involutions -> excluded
+H512 [ 512, 10493191 ] F3: 
+3 involutions always lift to involutions -> excluded
+H512 [ 512, 10493192 
+ ] F2: some maximal subgroup has smaller Frattini -> excluded
+H512 [ 512, 10493193 ] F3: 
+3 involutions always lift to involutions -> excluded
+H512 [ 512, 10493194 ] F3: 
+3 involutions always lift to involutions -> excluded
+H512 [ 512, 10493195 ] F3: 
+3 involutions always lift to involutions -> excluded
+H512 [ 512, 10493196 ] F3: 
+3 involutions always lift to involutions -> excluded
+H512 [ 512, 10493197 ] F3: 
+3 involutions always lift to involutions -> excluded
+H512 [ 512, 10493198 ] F3: 
+3 involutions always lift to involutions -> excluded
+H512 [ 512, 10493199 
+ ] F2: some maximal subgroup has smaller Frattini -> excluded
+H512 [ 512, 10493200 ] F3: 
+3 involutions always lift to involutions -> excluded
+H512 [ 512, 10493201 ] F3: 
+3 involutions always lift to involutions -> excluded
+H512 [ 512, 10493202 ] F3: 
+3 involutions always lift to involutions -> excluded
+H512 [ 512, 10493203 ] F3: 
+3 involutions always lift to involutions -> excluded
+H512 [ 512, 10493204 
+ ] F2: some maximal subgroup has smaller Frattini -> excluded
+H512 [ 512, 10493205 
+ ] F2: some maximal subgroup has smaller Frattini -> excluded
+H512 [ 512, 10493206 ] F3: 
+3 involutions always lift to involutions -> excluded
+H512 [ 512, 10493207 ] F3: 
+3 involutions always lift to involutions -> excluded
+H512 [ 512, 10493208 ] F3: 
+3 involutions always lift to involutions -> excluded
+H512 [ 512, 10493209 ] F3: 
+3 involutions always lift to involutions -> excluded
+H512 [ 512, 10493210 ] F3: 
+3 involutions always lift to involutions -> excluded
+H512 [ 512, 10493211 ] F3: 
+3 involutions always lift to involutions -> excluded
+H512 [ 512, 10493212 
+ ] F2: some maximal subgroup has smaller Frattini -> excluded
+H512 [ 512, 10493213 ] F3: 
+3 involutions always lift to involutions -> excluded
+H512 [ 512, 10493214 ] F3: 
+3 involutions always lift to involutions -> excluded
+H512 [ 512, 10493215 ] F3: 
+3 involutions always lift to involutions -> excluded
+H512 [ 512, 10493216 
+ ] F2: some maximal subgroup has smaller Frattini -> excluded
+H512 [ 512, 10493217 ] F3: 
+3 involutions always lift to involutions -> excluded
+H512 [ 512, 10493218 ] F3: 
+3 involutions always lift to involutions -> excluded

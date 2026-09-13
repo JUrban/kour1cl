@@ -1,0 +1,24 @@
+Syntax warning: Unbound global variable in necessary.g:7
+    ns := Filtered(NormalSubgroups(K), N -> Index(K,N) = 4);
+                                                  ^
+Syntax warning: Unbound global variable in necessary.g:8
+    Vs := Filtered(ns, N -> not IsCyclic(K/N));
+                                         ^
+Syntax warning: Unbound global variable in necessary.g:9
+    Cs := Filtered(ns, N -> IsCyclic(K/N));
+                                     ^
+done order 4
+done order 8
+done order 12
+done order 16
+done order 20
+done order 24
+done order 28
+done order 32
+done order 36
+done order 40
+done order 44
+done order 48
+done order 52
+done order 56
+done order 60

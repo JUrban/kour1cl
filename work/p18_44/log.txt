@@ -3534,3 +3534,339 @@ return to continue
 #I  If you gave a domain and not seeds consider `OrbitsDomain' instead.
 #I  You are calculating `Orbits' with a large set of seeds.
 #I  If you gave a domain and not seeds consider `OrbitsDomain' instead.
+#I  You are calculating `Orbits' with a large set of seeds.
+#I  If you gave a domain and not seeds consider `OrbitsDomain' instead.
+#I  You are calculating `Orbits' with a large set of seeds.
+#I  If you gave a domain and not seeds consider `OrbitsDomain' instead.
+#I  You are calculating `Orbits' with a large set of seeds.
+#I  If you gave a domain and not seeds consider `OrbitsDomain' instead.
+done order 80
+Error, no method found! For debugging hints type ?Recovery from NoMethodFound
+Error, no 1st choice method found for `[]' on 2 arguments
+The 2nd argument is 'fail' which might point to an earlier problem
+
+Error, no method found! For debugging hints type ?Recovery from NoMethodFound
+Error, no 1st choice method found for `[]' on 2 arguments
+The 2nd argument is 'fail' which might point to an earlier problem
+
+Error, no method found! For debugging hints type ?Recovery from NoMethodFound
+Error, no 1st choice method found for `[]' on 2 arguments
+The 2nd argument is 'fail' which might point to an earlier problem
+
+#I  You are calculating `Orbits' with a large set of seeds.
+#I  If you gave a domain and not seeds consider `OrbitsDomain' instead.
+#I  You are calculating `Orbits' with a large set of seeds.
+#I  If you gave a domain and not seeds consider `OrbitsDomain' instead.
+#I  You are calculating `Orbits' with a large set of seeds.
+#I  If you gave a domain and not seeds consider `OrbitsDomain' instead.
+Error, no method found! For debugging hints type ?Recovery from NoMethodFound
+Error, no 1st choice method found for `[]' on 2 arguments
+The 2nd argument is 'fail' which might point to an earlier problem
+
+Error, no method found! For debugging hints type ?Recovery from NoMethodFound
+Error, no 1st choice method found for `[]' on 2 arguments
+The 2nd argument is 'fail' which might point to an earlier problem
+
+Error, no method found! For debugging hints type ?Recovery from NoMethodFound
+Error, no 1st choice method found for `[]' on 2 arguments
+The 2nd argument is 'fail' which might point to an earlier problem
+
+Error, no method found! For debugging hints type ?Recovery from NoMethodFound
+Error, no 1st choice method found for `[]' on 2 arguments
+The 2nd argument is 'fail' which might point to an earlier problem
+
+Error, no method found! For debugging hints type ?Recovery from NoMethodFound
+Error, no 1st choice method found for `[]' on 2 arguments
+The 2nd argument is 'fail' which might point to an earlier problem
+
+Error, no method found! For debugging hints type ?Recovery from NoMethodFound
+Error, no 1st choice method found for `[]' on 2 arguments
+The 2nd argument is 'fail' which might point to an earlier problem
+
+Error, no method found! For debugging hints type ?Recovery from NoMethodFound
+Error, no 1st choice method found for `[]' on 2 arguments
+The 2nd argument is 'fail' which might point to an earlier problem
+
+Error, Conway Polynomial 7^40 will need to computed and might be slow
+return to continue
+Error, Conway Polynomial 11^40 will need to computed and might be slow
+return to continue
+Error, Conway Polynomial 13^40 will need to computed and might be slow
+return to continue
+#I  You are calculating `Orbits' with a large set of seeds.
+#I  If you gave a domain and not seeds consider `OrbitsDomain' instead.
+#I  You are calculating `Orbits' with a large set of seeds.
+#I  If you gave a domain and not seeds consider `OrbitsDomain' instead.
+#I  You are calculating `Orbits' with a large set of seeds.
+#I  If you gave a domain and not seeds consider `OrbitsDomain' instead.
+#I  You are calculating `Orbits' with a large set of seeds.
+#I  If you gave a domain and not seeds consider `OrbitsDomain' instead.
+#I  You are calculating `Orbits' with a large set of seeds.
+#I  If you gave a domain and not seeds consider `OrbitsDomain' instead.
+#I  You are calculating `Orbits' with a large set of seeds.
+#I  If you gave a domain and not seeds consider `OrbitsDomain' instead.
+#I  You are calculating `Orbits' with a large set of seeds.
+#I  If you gave a domain and not seeds consider `OrbitsDomain' instead.
+#I  You are calculating `Orbits' with a large set of seeds.
+#I  If you gave a domain and not seeds consider `OrbitsDomain' instead.
+#I  You are calculating `Orbits' with a large set of seeds.
+#I  If you gave a domain and not seeds consider `OrbitsDomain' instead.
+#I  You are calculating `Orbits' with a large set of seeds.
+#I  If you gave a domain and not seeds consider `OrbitsDomain' instead.
+#I  You are calculating `Orbits' with a large set of seeds.
+#I  If you gave a domain and not seeds consider `OrbitsDomain' instead.
+#I  You are calculating `Orbits' with a large set of seeds.
+#I  If you gave a domain and not seeds consider `OrbitsDomain' instead.
+#I  You are calculating `Orbits' with a large set of seeds.
+#I  If you gave a domain and not seeds consider `OrbitsDomain' instead.
+#I  You are calculating `Orbits' with a large set of seeds.
+#I  If you gave a domain and not seeds consider `OrbitsDomain' instead.
+#I  You are calculating `Orbits' with a large set of seeds.
+#I  If you gave a domain and not seeds consider `OrbitsDomain' instead.
+#I  You are calculating `Orbits' with a large set of seeds.
+#I  If you gave a domain and not seeds consider `OrbitsDomain' instead.
+#I  You are calculating `Orbits' with a large set of seeds.
+#I  If you gave a domain and not seeds consider `OrbitsDomain' instead.
+#I  You are calculating `Orbits' with a large set of seeds.
+#I  If you gave a domain and not seeds consider `OrbitsDomain' instead.
+#I  You are calculating `Orbits' with a large set of seeds.
+#I  If you gave a domain and not seeds consider `OrbitsDomain' instead.
+#I  You are calculating `Orbits' with a large set of seeds.
+#I  If you gave a domain and not seeds consider `OrbitsDomain' instead.
+#I  You are calculating `Orbits' with a large set of seeds.
+#I  If you gave a domain and not seeds consider `OrbitsDomain' instead.
+#I  You are calculating `Orbits' with a large set of seeds.
+#I  If you gave a domain and not seeds consider `OrbitsDomain' instead.
+#I  You are calculating `Orbits' with a large set of seeds.
+#I  If you gave a domain and not seeds consider `OrbitsDomain' instead.
+#I  You are calculating `Orbits' with a large set of seeds.
+#I  If you gave a domain and not seeds consider `OrbitsDomain' instead.
+#I  You are calculating `Orbits' with a large set of seeds.
+#I  If you gave a domain and not seeds consider `OrbitsDomain' instead.
+#I  You are calculating `Orbits' with a large set of seeds.
+#I  If you gave a domain and not seeds consider `OrbitsDomain' instead.
+#I  You are calculating `Orbits' with a large set of seeds.
+#I  If you gave a domain and not seeds consider `OrbitsDomain' instead.
+#I  You are calculating `Orbits' with a large set of seeds.
+#I  If you gave a domain and not seeds consider `OrbitsDomain' instead.
+#I  You are calculating `Orbits' with a large set of seeds.
+#I  If you gave a domain and not seeds consider `OrbitsDomain' instead.
+#I  You are calculating `Orbits' with a large set of seeds.
+#I  If you gave a domain and not seeds consider `OrbitsDomain' instead.
+#I  You are calculating `Orbits' with a large set of seeds.
+#I  If you gave a domain and not seeds consider `OrbitsDomain' instead.
+#I  You are calculating `Orbits' with a large set of seeds.
+#I  If you gave a domain and not seeds consider `OrbitsDomain' instead.
+#I  You are calculating `Orbits' with a large set of seeds.
+#I  If you gave a domain and not seeds consider `OrbitsDomain' instead.
+#I  You are calculating `Orbits' with a large set of seeds.
+#I  If you gave a domain and not seeds consider `OrbitsDomain' instead.
+#I  You are calculating `Orbits' with a large set of seeds.
+#I  If you gave a domain and not seeds consider `OrbitsDomain' instead.
+#I  You are calculating `Orbits' with a large set of seeds.
+#I  If you gave a domain and not seeds consider `OrbitsDomain' instead.
+#I  You are calculating `Orbits' with a large set of seeds.
+#I  If you gave a domain and not seeds consider `OrbitsDomain' instead.
+#I  You are calculating `Orbits' with a large set of seeds.
+#I  If you gave a domain and not seeds consider `OrbitsDomain' instead.
+#I  You are calculating `Orbits' with a large set of seeds.
+#I  If you gave a domain and not seeds consider `OrbitsDomain' instead.
+#I  You are calculating `Orbits' with a large set of seeds.
+#I  If you gave a domain and not seeds consider `OrbitsDomain' instead.
+#I  You are calculating `Orbits' with a large set of seeds.
+#I  If you gave a domain and not seeds consider `OrbitsDomain' instead.
+#I  You are calculating `Orbits' with a large set of seeds.
+#I  If you gave a domain and not seeds consider `OrbitsDomain' instead.
+#I  You are calculating `Orbits' with a large set of seeds.
+#I  If you gave a domain and not seeds consider `OrbitsDomain' instead.
+#I  You are calculating `Orbits' with a large set of seeds.
+#I  If you gave a domain and not seeds consider `OrbitsDomain' instead.
+#I  You are calculating `Orbits' with a large set of seeds.
+#I  If you gave a domain and not seeds consider `OrbitsDomain' instead.
+#I  You are calculating `Orbits' with a large set of seeds.
+#I  If you gave a domain and not seeds consider `OrbitsDomain' instead.
+#I  You are calculating `Orbits' with a large set of seeds.
+#I  If you gave a domain and not seeds consider `OrbitsDomain' instead.
+done order 90
+#I  You are calculating `Orbits' with a large set of seeds.
+#I  If you gave a domain and not seeds consider `OrbitsDomain' instead.
+#I  You are calculating `Orbits' with a large set of seeds.
+#I  If you gave a domain and not seeds consider `OrbitsDomain' instead.
+Error, Conway Polynomial 5^46 will need to computed and might be slow
+return to continue
+Error, Conway Polynomial 11^46 will need to computed and might be slow
+return to continue
+Error, Conway Polynomial 13^46 will need to computed and might be slow
+return to continue
+#I  You are calculating `Orbits' with a large set of seeds.
+#I  If you gave a domain and not seeds consider `OrbitsDomain' instead.
+#I  You are calculating `Orbits' with a large set of seeds.
+#I  If you gave a domain and not seeds consider `OrbitsDomain' instead.
+#I  You are calculating `Orbits' with a large set of seeds.
+#I  If you gave a domain and not seeds consider `OrbitsDomain' instead.
+#I  You are calculating `Orbits' with a large set of seeds.
+#I  If you gave a domain and not seeds consider `OrbitsDomain' instead.
+#I  You are calculating `Orbits' with a large set of seeds.
+#I  If you gave a domain and not seeds consider `OrbitsDomain' instead.
+#I  You are calculating `Orbits' with a large set of seeds.
+#I  If you gave a domain and not seeds consider `OrbitsDomain' instead.
+#I  You are calculating `Orbits' with a large set of seeds.
+#I  If you gave a domain and not seeds consider `OrbitsDomain' instead.
+#I  You are calculating `Orbits' with a large set of seeds.
+#I  If you gave a domain and not seeds consider `OrbitsDomain' instead.
+#I  You are calculating `Orbits' with a large set of seeds.
+#I  If you gave a domain and not seeds consider `OrbitsDomain' instead.
+#I  You are calculating `Orbits' with a large set of seeds.
+#I  If you gave a domain and not seeds consider `OrbitsDomain' instead.
+#I  You are calculating `Orbits' with a large set of seeds.
+#I  If you gave a domain and not seeds consider `OrbitsDomain' instead.
+#I  You are calculating `Orbits' with a large set of seeds.
+#I  If you gave a domain and not seeds consider `OrbitsDomain' instead.
+#I  You are calculating `Orbits' with a large set of seeds.
+#I  If you gave a domain and not seeds consider `OrbitsDomain' instead.
+#I  You are calculating `Orbits' with a large set of seeds.
+#I  If you gave a domain and not seeds consider `OrbitsDomain' instead.
+#I  You are calculating `Orbits' with a large set of seeds.
+#I  If you gave a domain and not seeds consider `OrbitsDomain' instead.
+#I  You are calculating `Orbits' with a large set of seeds.
+#I  If you gave a domain and not seeds consider `OrbitsDomain' instead.
+#I  You are calculating `Orbits' with a large set of seeds.
+#I  If you gave a domain and not seeds consider `OrbitsDomain' instead.
+#I  You are calculating `Orbits' with a large set of seeds.
+#I  If you gave a domain and not seeds consider `OrbitsDomain' instead.
+#I  You are calculating `Orbits' with a large set of seeds.
+#I  If you gave a domain and not seeds consider `OrbitsDomain' instead.
+#I  You are calculating `Orbits' with a large set of seeds.
+#I  If you gave a domain and not seeds consider `OrbitsDomain' instead.
+#I  You are calculating `Orbits' with a large set of seeds.
+#I  If you gave a domain and not seeds consider `OrbitsDomain' instead.
+#I  You are calculating `Orbits' with a large set of seeds.
+#I  If you gave a domain and not seeds consider `OrbitsDomain' instead.
+#I  You are calculating `Orbits' with a large set of seeds.
+#I  If you gave a domain and not seeds consider `OrbitsDomain' instead.
+#I  You are calculating `Orbits' with a large set of seeds.
+#I  If you gave a domain and not seeds consider `OrbitsDomain' instead.
+#I  You are calculating `Orbits' with a large set of seeds.
+#I  If you gave a domain and not seeds consider `OrbitsDomain' instead.
+#I  You are calculating `Orbits' with a large set of seeds.
+#I  If you gave a domain and not seeds consider `OrbitsDomain' instead.
+#I  You are calculating `Orbits' with a large set of seeds.
+#I  If you gave a domain and not seeds consider `OrbitsDomain' instead.
+#I  You are calculating `Orbits' with a large set of seeds.
+#I  If you gave a domain and not seeds consider `OrbitsDomain' instead.
+#I  You are calculating `Orbits' with a large set of seeds.
+#I  If you gave a domain and not seeds consider `OrbitsDomain' instead.
+#I  You are calculating `Orbits' with a large set of seeds.
+#I  If you gave a domain and not seeds consider `OrbitsDomain' instead.
+#I  You are calculating `Orbits' with a large set of seeds.
+#I  If you gave a domain and not seeds consider `OrbitsDomain' instead.
+#I  You are calculating `Orbits' with a large set of seeds.
+#I  If you gave a domain and not seeds consider `OrbitsDomain' instead.
+#I  You are calculating `Orbits' with a large set of seeds.
+#I  If you gave a domain and not seeds consider `OrbitsDomain' instead.
+#I  You are calculating `Orbits' with a large set of seeds.
+#I  If you gave a domain and not seeds consider `OrbitsDomain' instead.
+#I  You are calculating `Orbits' with a large set of seeds.
+#I  If you gave a domain and not seeds consider `OrbitsDomain' instead.
+#I  You are calculating `Orbits' with a large set of seeds.
+#I  If you gave a domain and not seeds consider `OrbitsDomain' instead.
+#I  You are calculating `Orbits' with a large set of seeds.
+#I  If you gave a domain and not seeds consider `OrbitsDomain' instead.
+#I  You are calculating `Orbits' with a large set of seeds.
+#I  If you gave a domain and not seeds consider `OrbitsDomain' instead.
+#I  You are calculating `Orbits' with a large set of seeds.
+#I  If you gave a domain and not seeds consider `OrbitsDomain' instead.
+#I  You are calculating `Orbits' with a large set of seeds.
+#I  If you gave a domain and not seeds consider `OrbitsDomain' instead.
+#I  You are calculating `Orbits' with a large set of seeds.
+#I  If you gave a domain and not seeds consider `OrbitsDomain' instead.
+#I  You are calculating `Orbits' with a large set of seeds.
+#I  If you gave a domain and not seeds consider `OrbitsDomain' instead.
+#I  You are calculating `Orbits' with a large set of seeds.
+#I  If you gave a domain and not seeds consider `OrbitsDomain' instead.
+#I  You are calculating `Orbits' with a large set of seeds.
+#I  If you gave a domain and not seeds consider `OrbitsDomain' instead.
+#I  You are calculating `Orbits' with a large set of seeds.
+#I  If you gave a domain and not seeds consider `OrbitsDomain' instead.
+#I  You are calculating `Orbits' with a large set of seeds.
+#I  If you gave a domain and not seeds consider `OrbitsDomain' instead.
+#I  You are calculating `Orbits' with a large set of seeds.
+#I  If you gave a domain and not seeds consider `OrbitsDomain' instead.
+#I  You are calculating `Orbits' with a large set of seeds.
+#I  If you gave a domain and not seeds consider `OrbitsDomain' instead.
+#I  You are calculating `Orbits' with a large set of seeds.
+#I  If you gave a domain and not seeds consider `OrbitsDomain' instead.
+#I  You are calculating `Orbits' with a large set of seeds.
+#I  If you gave a domain and not seeds consider `OrbitsDomain' instead.
+#I  You are calculating `Orbits' with a large set of seeds.
+#I  If you gave a domain and not seeds consider `OrbitsDomain' instead.
+#I  You are calculating `Orbits' with a large set of seeds.
+#I  If you gave a domain and not seeds consider `OrbitsDomain' instead.
+#I  You are calculating `Orbits' with a large set of seeds.
+#I  If you gave a domain and not seeds consider `OrbitsDomain' instead.
+#I  You are calculating `Orbits' with a large set of seeds.
+#I  If you gave a domain and not seeds consider `OrbitsDomain' instead.
+#I  You are calculating `Orbits' with a large set of seeds.
+#I  If you gave a domain and not seeds consider `OrbitsDomain' instead.
+#I  You are calculating `Orbits' with a large set of seeds.
+#I  If you gave a domain and not seeds consider `OrbitsDomain' instead.
+#I  You are calculating `Orbits' with a large set of seeds.
+#I  If you gave a domain and not seeds consider `OrbitsDomain' instead.
+#I  You are calculating `Orbits' with a large set of seeds.
+#I  If you gave a domain and not seeds consider `OrbitsDomain' instead.
+#I  You are calculating `Orbits' with a large set of seeds.
+#I  If you gave a domain and not seeds consider `OrbitsDomain' instead.
+#I  You are calculating `Orbits' with a large set of seeds.
+#I  If you gave a domain and not seeds consider `OrbitsDomain' instead.
+#I  You are calculating `Orbits' with a large set of seeds.
+#I  If you gave a domain and not seeds consider `OrbitsDomain' instead.
+#I  You are calculating `Orbits' with a large set of seeds.
+#I  If you gave a domain and not seeds consider `OrbitsDomain' instead.
+#I  You are calculating `Orbits' with a large set of seeds.
+#I  If you gave a domain and not seeds consider `OrbitsDomain' instead.
+#I  You are calculating `Orbits' with a large set of seeds.
+#I  If you gave a domain and not seeds consider `OrbitsDomain' instead.
+#I  You are calculating `Orbits' with a large set of seeds.
+#I  If you gave a domain and not seeds consider `OrbitsDomain' instead.
+#I  You are calculating `Orbits' with a large set of seeds.
+#I  If you gave a domain and not seeds consider `OrbitsDomain' instead.
+#I  You are calculating `Orbits' with a large set of seeds.
+#I  If you gave a domain and not seeds consider `OrbitsDomain' instead.
+#I  You are calculating `Orbits' with a large set of seeds.
+#I  If you gave a domain and not seeds consider `OrbitsDomain' instead.
+#I  You are calculating `Orbits' with a large set of seeds.
+#I  If you gave a domain and not seeds consider `OrbitsDomain' instead.
+#I  You are calculating `Orbits' with a large set of seeds.
+#I  If you gave a domain and not seeds consider `OrbitsDomain' instead.
+#I  You are calculating `Orbits' with a large set of seeds.
+#I  If you gave a domain and not seeds consider `OrbitsDomain' instead.
+#I  You are calculating `Orbits' with a large set of seeds.
+#I  If you gave a domain and not seeds consider `OrbitsDomain' instead.
+#I  You are calculating `Orbits' with a large set of seeds.
+#I  If you gave a domain and not seeds consider `OrbitsDomain' instead.
+#I  You are calculating `Orbits' with a large set of seeds.
+#I  If you gave a domain and not seeds consider `OrbitsDomain' instead.
+#I  You are calculating `Orbits' with a large set of seeds.
+#I  If you gave a domain and not seeds consider `OrbitsDomain' instead.
+#I  You are calculating `Orbits' with a large set of seeds.
+#I  If you gave a domain and not seeds consider `OrbitsDomain' instead.
+#I  You are calculating `Orbits' with a large set of seeds.
+#I  If you gave a domain and not seeds consider `OrbitsDomain' instead.
+#I  You are calculating `Orbits' with a large set of seeds.
+#I  If you gave a domain and not seeds consider `OrbitsDomain' instead.
+#I  You are calculating `Orbits' with a large set of seeds.
+#I  If you gave a domain and not seeds consider `OrbitsDomain' instead.
+#I  You are calculating `Orbits' with a large set of seeds.
+#I  If you gave a domain and not seeds consider `OrbitsDomain' instead.
+#I  You are calculating `Orbits' with a large set of seeds.
+#I  If you gave a domain and not seeds consider `OrbitsDomain' instead.
+#I  You are calculating `Orbits' with a large set of seeds.
+#I  If you gave a domain and not seeds consider `OrbitsDomain' instead.
+#I  You are calculating `Orbits' with a large set of seeds.
+#I  If you gave a domain and not seeds consider `OrbitsDomain' instead.
+#I  You are calculating `Orbits' with a large set of seeds.
+#I  If you gave a domain and not seeds consider `OrbitsDomain' instead.
+#I  You are calculating `Orbits' with a large set of seeds.
+#I  If you gave a domain and not seeds consider `OrbitsDomain' instead.
+#I  You are calculating `Orbits' with a large set of seeds.
+#I  If you gave a domain and not seeds consider `OrbitsDomain' instead.

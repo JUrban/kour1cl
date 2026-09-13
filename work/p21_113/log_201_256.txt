@@ -53,3 +53,4 @@ done order 252 (46 groups) checked 2165 pairs
 done order 253 (2 groups) checked 2169 pairs
 done order 254 (2 groups) checked 2173 pairs
 done order 255 (1 groups) checked 2176 pairs
+done order 256 (56092 groups) checked 58268 pairs

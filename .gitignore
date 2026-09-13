@@ -4,3 +4,4 @@ gap-4.16.1/
 __pycache__/
 work/**/*.out
 work/**/*.tmp
+venv/

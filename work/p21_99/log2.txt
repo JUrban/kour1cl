@@ -5,3 +5,12 @@ done degree 36: checked 121279 groups, skipped 0 p-groups
 done degree 37: checked 10 groups, skipped 1 p-groups
 done degree 38: checked 76 groups, skipped 0 p-groups
 done degree 39: checked 306 groups, skipped 0 p-groups
+done degree 40: checked 315842 groups, skipped 0 p-groups
+done degree 41: checked 9 groups, skipped 1 p-groups
+done degree 42: checked 9491 groups, skipped 0 p-groups
+done degree 43: checked 9 groups, skipped 1 p-groups
+done degree 44: checked 2113 groups, skipped 0 p-groups
+done degree 45: checked 10923 groups, skipped 0 p-groups
+done degree 46: checked 56 groups, skipped 0 p-groups
+done degree 47: checked 5 groups, skipped 1 p-groups
+FINISHED degrees 33..47

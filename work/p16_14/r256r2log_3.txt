@@ -1,0 +1,41 @@
+H256r2 
+[ 256, 36526 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 [ 256, 36527 ] F1: 2-rank >= 5 -> excluded
+H256r2 
+[ 256, 36528 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 [ 256, 36529 ] F1: 2-rank >= 5 -> excluded
+H256r2 
+[ 256, 36530 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 [ 256, 36531 ] F1: 2-rank >= 5 -> excluded
+H256r2 
+[ 256, 36532 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 [ 256, 36533 ] F1: 2-rank >= 5 -> excluded
+H256r2 [ 256, 36534 ] F1: 2-rank >= 5 -> excluded
+H256r2 
+[ 256, 36535 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 [ 256, 36536 ] F1: 2-rank >= 5 -> excluded
+H256r2 
+[ 256, 36537 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 [ 256, 36538 ] F1: 2-rank >= 5 -> excluded
+H256r2 [ 256, 36539 ] F3: 7 involutions always lift to involutions -> excluded
+H256r2 [ 256, 36540 ] F3: 7 involutions always lift to involutions -> excluded
+H256r2 [ 256, 36541 ] F3: 7 involutions always lift to involutions -> excluded
+H256r2 [ 256, 36542 ] F3: 7 involutions always lift to involutions -> excluded
+H256r2 [ 256, 36543 ] F3: 7 involutions always lift to involutions -> excluded
+H256r2 [ 256, 36544 ] F3: 7 involutions always lift to involutions -> excluded
+H256r2 [ 256, 36545 ] F3: 7 involutions always lift to involutions -> excluded
+H256r2 [ 256, 36546 ] F3: 7 involutions always lift to involutions -> excluded
+H256r2 [ 256, 36547 ] F3: 7 involutions always lift to involutions -> excluded
+H256r2 [ 256, 36548 ] F3: 7 involutions always lift to involutions -> excluded
+H256r2 [ 256, 36549 ] F3: 7 involutions always lift to involutions -> excluded
+H256r2 [ 256, 36550 ] F3: 7 involutions always lift to involutions -> excluded
+H256r2 [ 256, 36551 ] F3: 7 involutions always lift to involutions -> excluded
+H256r2 [ 256, 36552 ] F3: 7 involutions always lift to involutions -> excluded
+H256r2 [ 256, 36553 ] F3: 7 involutions always lift to involutions -> excluded
+H256r2 [ 256, 36554 ] F3: 7 involutions always lift to involutions -> excluded
+H256r2 [ 256, 36555 ] F3: 7 involutions always lift to involutions -> excluded
+H256r2 [ 256, 36556 ] F3: 7 involutions always lift to involutions -> excluded
+H256r2 [ 256, 36557 ] F3: 7 involutions always lift to involutions -> excluded
+H256r2 [ 256, 36558 ] F3: 7 involutions always lift to involutions -> excluded
+H256r2 [ 256, 36559 ] F3: 7 involutions always lift to involutions -> excluded
+H256r2 [ 256, 36560 ] F3: 7 involutions always lift to involutions -> excluded

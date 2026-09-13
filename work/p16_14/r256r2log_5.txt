@@ -1,0 +1,24 @@
+H256r2 [ 256, 46076 ] F3: 7 involutions always lift to involutions -> excluded
+H256r2 [ 256, 46077 ] F3: 7 involutions always lift to involutions -> excluded
+H256r2 [ 256, 46078 ] F3: 7 involutions always lift to involutions -> excluded
+H256r2 [ 256, 46079 ] F3: 7 involutions always lift to involutions -> excluded
+H256r2 [ 256, 46080 ] F3: 7 involutions always lift to involutions -> excluded
+H256r2 [ 256, 46081 ] F3: 7 involutions always lift to involutions -> excluded
+H256r2 [ 256, 46082 ] F3: 7 involutions always lift to involutions -> excluded
+H256r2 [ 256, 46083 ] F3: 7 involutions always lift to involutions -> excluded
+H256r2 [ 256, 46084 ] F3: 7 involutions always lift to involutions -> excluded
+H256r2 [ 256, 46085 ] F3: 7 involutions always lift to involutions -> excluded
+H256r2 [ 256, 46086 ] F3: 7 involutions always lift to involutions -> excluded
+H256r2 [ 256, 46087 ] F3: 7 involutions always lift to involutions -> excluded
+H256r2 [ 256, 46088 ] F3: 7 involutions always lift to involutions -> excluded
+H256r2 [ 256, 46089 ] F3: 7 involutions always lift to involutions -> excluded
+H256r2 [ 256, 46090 ] F1: 2-rank >= 5 -> excluded
+H256r2 [ 256, 46091 ] F1: 2-rank >= 5 -> excluded
+H256r2 [ 256, 46092 ] F3: 7 involutions always lift to involutions -> excluded
+H256r2 [ 256, 46093 ] F3: 7 involutions always lift to involutions -> excluded
+H256r2 [ 256, 46094 ] F3: 7 involutions always lift to involutions -> excluded
+H256r2 [ 256, 46095 ] F3: 7 involutions always lift to involutions -> excluded
+H256r2 [ 256, 46096 ] F3: 7 involutions always lift to involutions -> excluded
+H256r2 [ 256, 46097 ] F3: 7 involutions always lift to involutions -> excluded
+H256r2 [ 256, 46098 ] F3: 7 involutions always lift to involutions -> excluded
+H256r2 [ 256, 46099 ] F3: 7 involutions always lift to involutions -> excluded

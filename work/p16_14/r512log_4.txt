@@ -98,3 +98,99 @@ H512 [ 512, 10493964 ] F3:
 3 involutions always lift to involutions -> excluded
 H512 [ 512, 10493965 ] F3: 
 3 involutions always lift to involutions -> excluded
+H512 [ 512, 10493966 ] F3: 
+3 involutions always lift to involutions -> excluded
+H512 [ 512, 10493967 ] F3: 
+3 involutions always lift to involutions -> excluded
+H512 [ 512, 10493968 ] F3: 
+3 involutions always lift to involutions -> excluded
+H512 [ 512, 10493969 ] F3: 
+3 involutions always lift to involutions -> excluded
+H512 [ 512, 10493970 ] F3: 
+3 involutions always lift to involutions -> excluded
+H512 [ 512, 10493971 ] F3: 
+3 involutions always lift to involutions -> excluded
+H512 [ 512, 10493972 ] F3: 
+3 involutions always lift to involutions -> excluded
+H512 [ 512, 10493973 ] F3: 
+3 involutions always lift to involutions -> excluded
+H512 [ 512, 10493974 ] F3: 
+3 involutions always lift to involutions -> excluded
+H512 [ 512, 10493975 ] F3: 
+3 involutions always lift to involutions -> excluded
+H512 [ 512, 10493976 ] F3: 
+3 involutions always lift to involutions -> excluded
+H512 [ 512, 10493977 ] F3: 
+3 involutions always lift to involutions -> excluded
+H512 [ 512, 10493978 ] F3: 
+3 involutions always lift to involutions -> excluded
+H512 [ 512, 10493979 ] F3: 
+3 involutions always lift to involutions -> excluded
+H512 [ 512, 10493980 ] F3: 
+3 involutions always lift to involutions -> excluded
+H512 [ 512, 10493981 ] F3: 
+3 involutions always lift to involutions -> excluded
+H512 [ 512, 10493982 ] F3: 
+3 involutions always lift to involutions -> excluded
+H512 [ 512, 10493983 ] F3: 
+3 involutions always lift to involutions -> excluded
+H512 [ 512, 10493984 ] F3: 
+3 involutions always lift to involutions -> excluded
+H512 [ 512, 10493985 ] F3: 
+3 involutions always lift to involutions -> excluded
+H512 [ 512, 10493986 ] F3: 
+3 involutions always lift to involutions -> excluded
+H512 [ 512, 10493987 ] F3: 
+3 involutions always lift to involutions -> excluded
+H512 [ 512, 10493988 ] F3: 
+3 involutions always lift to involutions -> excluded
+H512 [ 512, 10493989 ] F3: 
+3 involutions always lift to involutions -> excluded
+H512 [ 512, 10493990 ] F3: 
+3 involutions always lift to involutions -> excluded
+H512 [ 512, 10493991 ] F3: 
+3 involutions always lift to involutions -> excluded
+H512 [ 512, 10493992 ] F3: 
+3 involutions always lift to involutions -> excluded
+H512 [ 512, 10493993 ] F3: 
+3 involutions always lift to involutions -> excluded
+H512 [ 512, 10493994 ] F3: 
+3 involutions always lift to involutions -> excluded
+H512 [ 512, 10493995 ] F3: 
+3 involutions always lift to involutions -> excluded
+H512 [ 512, 10493996 ] F3: 
+3 involutions always lift to involutions -> excluded
+H512 [ 512, 10493997 ] F3: 
+3 involutions always lift to involutions -> excluded
+H512 [ 512, 10493998 ] F3: 
+3 involutions always lift to involutions -> excluded
+H512 [ 512, 10493999 ] F3: 
+3 involutions always lift to involutions -> excluded
+H512 [ 512, 10494000 ] F3: 
+3 involutions always lift to involutions -> excluded
+H512 [ 512, 10494001 ] F3: 
+3 involutions always lift to involutions -> excluded
+H512 [ 512, 10494002 ] F3: 
+3 involutions always lift to involutions -> excluded
+H512 [ 512, 10494003 ] F3: 
+3 involutions always lift to involutions -> excluded
+H512 [ 512, 10494004 ] F3: 
+3 involutions always lift to involutions -> excluded
+H512 [ 512, 10494005 ] F3: 
+3 involutions always lift to involutions -> excluded
+H512 [ 512, 10494006 ] F3: 
+3 involutions always lift to involutions -> excluded
+H512 [ 512, 10494007 ] F3: 
+3 involutions always lift to involutions -> excluded
+H512 [ 512, 10494008 ] F3: 
+3 involutions always lift to involutions -> excluded
+H512 [ 512, 10494009 ] F3: 
+3 involutions always lift to involutions -> excluded
+H512 [ 512, 10494010 ] F3: 
+3 involutions always lift to involutions -> excluded
+H512 [ 512, 10494011 ] F3: 
+3 involutions always lift to involutions -> excluded
+H512 [ 512, 10494012 ] F3: 
+3 involutions always lift to involutions -> excluded
+H512 [ 512, 10494013 ] F3: 
+3 involutions always lift to involutions -> excluded

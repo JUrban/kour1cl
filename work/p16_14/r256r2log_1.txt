@@ -1,0 +1,98 @@
+H256r2 [ 256, 26973 ] F1: 2-rank >= 5 -> excluded
+H256r2 [ 256, 26974 ] F1: 2-rank >= 5 -> excluded
+H256r2 [ 256, 26975 ] F1: 2-rank >= 5 -> excluded
+H256r2 [ 256, 26976 ] F1: 2-rank >= 5 -> excluded
+H256r2 [ 256, 26977 ] F1: 2-rank >= 5 -> excluded
+H256r2 [ 256, 26978 ] F1: 2-rank >= 5 -> excluded
+H256r2 [ 256, 26979 ] F1: 2-rank >= 5 -> excluded
+H256r2 
+[ 256, 26980 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 26981 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 [ 256, 26982 ] F1: 2-rank >= 5 -> excluded
+H256r2 [ 256, 26983 ] F1: 2-rank >= 5 -> excluded
+H256r2 [ 256, 26984 ] F1: 2-rank >= 5 -> excluded
+H256r2 [ 256, 26985 ] F1: 2-rank >= 5 -> excluded
+H256r2 
+[ 256, 26986 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 26987 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 [ 256, 26988 ] F1: 2-rank >= 5 -> excluded
+H256r2 
+[ 256, 26989 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 26990 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 [ 256, 26991 ] F1: 2-rank >= 5 -> excluded
+H256r2 [ 256, 26992 ] F1: 2-rank >= 5 -> excluded
+H256r2 [ 256, 26993 ] F1: 2-rank >= 5 -> excluded
+H256r2 [ 256, 26994 ] F1: 2-rank >= 5 -> excluded
+H256r2 [ 256, 26995 ] F1: 2-rank >= 5 -> excluded
+H256r2 [ 256, 26996 ] F1: 2-rank >= 5 -> excluded
+H256r2 [ 256, 26997 ] F1: 2-rank >= 5 -> excluded
+H256r2 [ 256, 26998 ] F1: 2-rank >= 5 -> excluded
+H256r2 [ 256, 26999 ] F1: 2-rank >= 5 -> excluded
+H256r2 [ 256, 27000 ] F1: 2-rank >= 5 -> excluded
+H256r2 [ 256, 27001 ] F1: 2-rank >= 5 -> excluded
+H256r2 [ 256, 27002 ] F1: 2-rank >= 5 -> excluded
+H256r2 [ 256, 27003 ] F1: 2-rank >= 5 -> excluded
+H256r2 [ 256, 27004 ] F1: 2-rank >= 5 -> excluded
+H256r2 [ 256, 27005 ] F1: 2-rank >= 5 -> excluded
+H256r2 [ 256, 27006 ] F1: 2-rank >= 5 -> excluded
+H256r2 [ 256, 27007 ] F1: 2-rank >= 5 -> excluded
+H256r2 [ 256, 27008 ] F1: 2-rank >= 5 -> excluded
+H256r2 [ 256, 27009 ] F1: 2-rank >= 5 -> excluded
+H256r2 
+[ 256, 27010 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 [ 256, 27011 ] F1: 2-rank >= 5 -> excluded
+H256r2 [ 256, 27012 ] F1: 2-rank >= 5 -> excluded
+H256r2 [ 256, 27013 ] F1: 2-rank >= 5 -> excluded
+H256r2 
+[ 256, 27014 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 [ 256, 27015 ] F1: 2-rank >= 5 -> excluded
+H256r2 [ 256, 27016 ] F1: 2-rank >= 5 -> excluded
+H256r2 [ 256, 27017 ] F1: 2-rank >= 5 -> excluded
+H256r2 [ 256, 27018 ] F1: 2-rank >= 5 -> excluded
+H256r2 [ 256, 27019 ] F1: 2-rank >= 5 -> excluded
+H256r2 [ 256, 27020 ] F1: 2-rank >= 5 -> excluded
+H256r2 [ 256, 27021 ] F1: 2-rank >= 5 -> excluded
+H256r2 
+[ 256, 27022 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27023 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 [ 256, 27024 ] F1: 2-rank >= 5 -> excluded
+H256r2 
+[ 256, 27025 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27026 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27027 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 [ 256, 27028 ] F1: 2-rank >= 5 -> excluded
+H256r2 [ 256, 27029 ] F1: 2-rank >= 5 -> excluded
+H256r2 [ 256, 27030 ] F1: 2-rank >= 5 -> excluded
+H256r2 [ 256, 27031 ] F1: 2-rank >= 5 -> excluded
+H256r2 [ 256, 27032 ] F1: 2-rank >= 5 -> excluded
+H256r2 [ 256, 27033 ] F1: 2-rank >= 5 -> excluded
+H256r2 [ 256, 27034 ] F1: 2-rank >= 5 -> excluded
+H256r2 [ 256, 27035 ] F1: 2-rank >= 5 -> excluded
+H256r2 [ 256, 27036 ] F1: 2-rank >= 5 -> excluded
+H256r2 [ 256, 27037 ] F1: 2-rank >= 5 -> excluded
+H256r2 [ 256, 27038 ] F1: 2-rank >= 5 -> excluded
+H256r2 [ 256, 27039 ] F1: 2-rank >= 5 -> excluded
+H256r2 [ 256, 27040 ] F1: 2-rank >= 5 -> excluded
+H256r2 [ 256, 27041 ] F1: 2-rank >= 5 -> excluded
+H256r2 [ 256, 27042 ] F1: 2-rank >= 5 -> excluded
+H256r2 
+[ 256, 27043 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27044 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 [ 256, 27045 ] F1: 2-rank >= 5 -> excluded
+H256r2 [ 256, 27046 ] F1: 2-rank >= 5 -> excluded
+H256r2 
+[ 256, 27047 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27048 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 [ 256, 27049 ] F1: 2-rank >= 5 -> excluded
+H256r2 [ 256, 27050 ] F1: 2-rank >= 5 -> excluded
+H256r2 [ 256, 27051 ] F1: 2-rank >= 5 -> excluded
+H256r2 [ 256, 27052 ] F1: 2-rank >= 5 -> excluded
+H256r2 [ 256, 27053 ] F1: 2-rank >= 5 -> excluded

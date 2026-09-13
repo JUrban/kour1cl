@@ -1,0 +1,210 @@
+H128r2 [ 128, 2150 ] F1: 2-rank >= 5 -> excluded
+H128r2 [ 128, 2151 ] F1: 2-rank >= 5 -> excluded
+H128r2 [ 128, 2152 ] F1: 2-rank >= 5 -> excluded
+H128r2 [ 128, 2153 ] F1: 2-rank >= 5 -> excluded
+H128r2 [ 128, 2154 ] F1: 2-rank >= 5 -> excluded
+H128r2 
+[ 128, 2155 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H128r2 
+[ 128, 2156 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H128r2 [ 128, 2157 ] F1: 2-rank >= 5 -> excluded
+H128r2 
+[ 128, 2158 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H128r2 
+[ 128, 2159 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H128r2 
+[ 128, 2160 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H128r2 
+[ 128, 2161 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H128r2 
+[ 128, 2162 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H128r2 [ 128, 2163 ] F1: 2-rank >= 5 -> excluded
+H128r2 [ 128, 2164 ] F1: 2-rank >= 5 -> excluded
+H128r2 [ 128, 2165 ] F1: 2-rank >= 5 -> excluded
+H128r2 [ 128, 2166 ] F1: 2-rank >= 5 -> excluded
+H128r2 [ 128, 2167 ] F1: 2-rank >= 5 -> excluded
+H128r2 [ 128, 2168 ] F1: 2-rank >= 5 -> excluded
+H128r2 [ 128, 2169 ] F3: 3 involutions always lift to involutions -> excluded
+H128r2 [ 128, 2170 ] F1: 2-rank >= 5 -> excluded
+H128r2 [ 128, 2171 ] F3: 3 involutions always lift to involutions -> excluded
+H128r2 [ 128, 2172 ] F1: 2-rank >= 5 -> excluded
+H128r2 
+[ 128, 2173 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H128r2 
+[ 128, 2174 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H128r2 [ 128, 2175 ] F3: 3 involutions always lift to involutions -> excluded
+H128r2 [ 128, 2176 ] F3: 3 involutions always lift to involutions -> excluded
+H128r2 [ 128, 2177 ] F1: 2-rank >= 5 -> excluded
+H128r2 [ 128, 2178 ] F1: 2-rank >= 5 -> excluded
+H128r2 
+[ 128, 2179 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H128r2 
+[ 128, 2180 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H128r2 
+[ 128, 2181 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H128r2 [ 128, 2182 ] F1: 2-rank >= 5 -> excluded
+H128r2 [ 128, 2183 ] F3: 3 involutions always lift to involutions -> excluded
+H128r2 [ 128, 2184 ] F3: 3 involutions always lift to involutions -> excluded
+H128r2 [ 128, 2185 ] F3: 3 involutions always lift to involutions -> excluded
+H128r2 [ 128, 2186 ] F3: 3 involutions always lift to involutions -> excluded
+H128r2 [ 128, 2187 ] F3: 3 involutions always lift to involutions -> excluded
+H128r2 [ 128, 2188 ] F1: 2-rank >= 5 -> excluded
+H128r2 [ 128, 2189 ] F3: 3 involutions always lift to involutions -> excluded
+H128r2 [ 128, 2190 ] F3: 3 involutions always lift to involutions -> excluded
+H128r2 [ 128, 2191 ] F3: 3 involutions always lift to involutions -> excluded
+H128r2 [ 128, 2192 ] F3: 3 involutions always lift to involutions -> excluded
+H128r2 [ 128, 2193 ] F3: 3 involutions always lift to involutions -> excluded
+H128r2 [ 128, 2194 ] F1: 2-rank >= 5 -> excluded
+H128r2 [ 128, 2195 ] F1: 2-rank >= 5 -> excluded
+H128r2 
+[ 128, 2196 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H128r2 
+[ 128, 2197 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H128r2 
+[ 128, 2198 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H128r2 
+[ 128, 2199 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H128r2 
+[ 128, 2200 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H128r2 [ 128, 2201 ] F1: 2-rank >= 5 -> excluded
+H128r2 [ 128, 2202 ] F3: 3 involutions always lift to involutions -> excluded
+H128r2 [ 128, 2203 ] F3: 3 involutions always lift to involutions -> excluded
+H128r2 [ 128, 2204 ] F3: 3 involutions always lift to involutions -> excluded
+H128r2 [ 128, 2205 ] F3: 3 involutions always lift to involutions -> excluded
+H128r2 [ 128, 2206 ] F3: 3 involutions always lift to involutions -> excluded
+H128r2 [ 128, 2207 ] F3: 3 involutions always lift to involutions -> excluded
+H128r2 [ 128, 2208 ] F3: 3 involutions always lift to involutions -> excluded
+H128r2 [ 128, 2209 ] F3: 3 involutions always lift to involutions -> excluded
+H128r2 [ 128, 2210 ] F3: 3 involutions always lift to involutions -> excluded
+H128r2 [ 128, 2211 ] F3: 3 involutions always lift to involutions -> excluded
+H128r2 [ 128, 2212 ] F3: 3 involutions always lift to involutions -> excluded
+H128r2 [ 128, 2213 ] F3: 3 involutions always lift to involutions -> excluded
+H128r2 [ 128, 2214 ] F3: 3 involutions always lift to involutions -> excluded
+H128r2 [ 128, 2215 ] F3: 3 involutions always lift to involutions -> excluded
+H128r2 [ 128, 2216 ] F1: 2-rank >= 5 -> excluded
+H128r2 
+[ 128, 2217 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H128r2 
+[ 128, 2218 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H128r2 
+[ 128, 2219 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H128r2 
+[ 128, 2220 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H128r2 
+[ 128, 2221 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H128r2 [ 128, 2222 ] F1: 2-rank >= 5 -> excluded
+H128r2 [ 128, 2223 ] F3: 3 involutions always lift to involutions -> excluded
+H128r2 [ 128, 2224 ] F3: 3 involutions always lift to involutions -> excluded
+H128r2 [ 128, 2225 ] F3: 3 involutions always lift to involutions -> excluded
+H128r2 [ 128, 2226 ] F3: 3 involutions always lift to involutions -> excluded
+H128r2 [ 128, 2227 ] F3: 3 involutions always lift to involutions -> excluded
+H128r2 
+[ 128, 2228 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H128r2 
+[ 128, 2229 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H128r2 
+[ 128, 2230 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H128r2 
+[ 128, 2231 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H128r2 
+[ 128, 2232 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H128r2 [ 128, 2233 ] F3: 3 involutions always lift to involutions -> excluded
+H128r2 [ 128, 2234 ] F3: 3 involutions always lift to involutions -> excluded
+H128r2 [ 128, 2235 ] F3: 3 involutions always lift to involutions -> excluded
+H128r2 [ 128, 2236 ] F3: 3 involutions always lift to involutions -> excluded
+H128r2 [ 128, 2237 ] F3: 3 involutions always lift to involutions -> excluded
+H128r2 [ 128, 2238 ] F3: 3 involutions always lift to involutions -> excluded
+H128r2 [ 128, 2239 ] F3: 3 involutions always lift to involutions -> excluded
+H128r2 [ 128, 2240 ] F3: 3 involutions always lift to involutions -> excluded
+H128r2 [ 128, 2241 ] F3: 3 involutions always lift to involutions -> excluded
+H128r2 [ 128, 2242 ] F3: 3 involutions always lift to involutions -> excluded
+H128r2 [ 128, 2243 ] F3: 3 involutions always lift to involutions -> excluded
+H128r2 [ 128, 2244 ] F3: 3 involutions always lift to involutions -> excluded
+H128r2 [ 128, 2245 ] F3: 3 involutions always lift to involutions -> excluded
+H128r2 [ 128, 2246 ] F3: 3 involutions always lift to involutions -> excluded
+H128r2 [ 128, 2247 ] F3: 3 involutions always lift to involutions -> excluded
+H128r2 [ 128, 2248 ] F3: 3 involutions always lift to involutions -> excluded
+H128r2 [ 128, 2249 ] F3: 3 involutions always lift to involutions -> excluded
+H128r2 [ 128, 2250 ] F3: 3 involutions always lift to involutions -> excluded
+H128r2 [ 128, 2251 ] F3: 3 involutions always lift to involutions -> excluded
+H128r2 [ 128, 2252 ] F3: 3 involutions always lift to involutions -> excluded
+H128r2 [ 128, 2253 ] F3: 3 involutions always lift to involutions -> excluded
+H128r2 [ 128, 2254 ] F3: 3 involutions always lift to involutions -> excluded
+H128r2 [ 128, 2255 ] F3: 3 involutions always lift to involutions -> excluded
+H128r2 [ 128, 2256 ] F3: 3 involutions always lift to involutions -> excluded
+H128r2 [ 128, 2257 ] F1: 2-rank >= 5 -> excluded
+H128r2 [ 128, 2258 ] F1: 2-rank >= 5 -> excluded
+H128r2 [ 128, 2259 ] F3: 3 involutions always lift to involutions -> excluded
+H128r2 [ 128, 2260 ] F3: 3 involutions always lift to involutions -> excluded
+H128r2 [ 128, 2261 ] F3: 3 involutions always lift to involutions -> excluded
+H128r2 [ 128, 2262 ] F3: 3 involutions always lift to involutions -> excluded
+H128r2 [ 128, 2263 ] F3: 3 involutions always lift to involutions -> excluded
+H128r2 [ 128, 2264 ] F1: 2-rank >= 5 -> excluded
+H128r2 [ 128, 2265 ] F3: 3 involutions always lift to involutions -> excluded
+H128r2 [ 128, 2266 ] F3: 3 involutions always lift to involutions -> excluded
+H128r2 [ 128, 2267 ] F3: 3 involutions always lift to involutions -> excluded
+H128r2 [ 128, 2268 ] F3: 3 involutions always lift to involutions -> excluded
+H128r2 [ 128, 2269 ] F3: 3 involutions always lift to involutions -> excluded
+H128r2 [ 128, 2270 ] F3: 3 involutions always lift to involutions -> excluded
+H128r2 [ 128, 2271 ] F3: 3 involutions always lift to involutions -> excluded
+H128r2 [ 128, 2272 ] F3: 3 involutions always lift to involutions -> excluded
+H128r2 [ 128, 2273 ] F3: 3 involutions always lift to involutions -> excluded
+H128r2 [ 128, 2274 ] F3: 3 involutions always lift to involutions -> excluded
+H128r2 [ 128, 2275 ] F3: 3 involutions always lift to involutions -> excluded
+H128r2 [ 128, 2276 ] F3: 3 involutions always lift to involutions -> excluded
+H128r2 [ 128, 2277 ] F3: 3 involutions always lift to involutions -> excluded
+H128r2 [ 128, 2278 ] F3: 3 involutions always lift to involutions -> excluded
+H128r2 [ 128, 2279 ] F3: 3 involutions always lift to involutions -> excluded
+H128r2 [ 128, 2280 ] F3: 3 involutions always lift to involutions -> excluded
+H128r2 [ 128, 2281 ] F3: 3 involutions always lift to involutions -> excluded
+H128r2 [ 128, 2282 ] F3: 3 involutions always lift to involutions -> excluded
+H128r2 [ 128, 2283 ] F3: 3 involutions always lift to involutions -> excluded
+H128r2 [ 128, 2284 ] F3: 3 involutions always lift to involutions -> excluded
+H128r2 [ 128, 2285 ] F3: 3 involutions always lift to involutions -> excluded
+H128r2 [ 128, 2286 ] F3: 3 involutions always lift to involutions -> excluded
+H128r2 [ 128, 2287 ] F3: 3 involutions always lift to involutions -> excluded
+H128r2 [ 128, 2288 ] F3: 3 involutions always lift to involutions -> excluded
+H128r2 [ 128, 2289 ] F3: 3 involutions always lift to involutions -> excluded
+H128r2 [ 128, 2290 ] F3: 3 involutions always lift to involutions -> excluded
+H128r2 [ 128, 2291 ] F3: 3 involutions always lift to involutions -> excluded
+H128r2 [ 128, 2292 ] F3: 3 involutions always lift to involutions -> excluded
+H128r2 [ 128, 2293 ] F3: 3 involutions always lift to involutions -> excluded
+H128r2 [ 128, 2294 ] F3: 3 involutions always lift to involutions -> excluded
+H128r2 [ 128, 2295 ] F3: 3 involutions always lift to involutions -> excluded
+H128r2 [ 128, 2296 ] F3: 3 involutions always lift to involutions -> excluded
+H128r2 [ 128, 2297 ] F3: 3 involutions always lift to involutions -> excluded
+H128r2 [ 128, 2298 ] F3: 3 involutions always lift to involutions -> excluded
+H128r2 [ 128, 2299 ] F3: 3 involutions always lift to involutions -> excluded
+H128r2 [ 128, 2300 ] F3: 3 involutions always lift to involutions -> excluded
+H128r2 [ 128, 2301 ] F1: 2-rank >= 5 -> excluded
+H128r2 [ 128, 2302 ] F1: 2-rank >= 5 -> excluded
+H128r2 
+[ 128, 2303 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H128r2 
+[ 128, 2304 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H128r2 
+[ 128, 2305 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H128r2 [ 128, 2306 ] F1: 2-rank >= 5 -> excluded
+H128r2 [ 128, 2307 ] F1: 2-rank >= 5 -> excluded
+H128r2 
+[ 128, 2308 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H128r2 
+[ 128, 2309 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H128r2 [ 128, 2310 ] F1: 2-rank >= 5 -> excluded
+H128r2 
+[ 128, 2311 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H128r2 
+[ 128, 2312 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H128r2 
+[ 128, 2313 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H128r2 
+[ 128, 2314 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H128r2 
+[ 128, 2315 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H128r2 
+[ 128, 2316 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H128r2 
+[ 128, 2317 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H128r2 
+[ 128, 2318 ] F2: some maximal subgroup has smaller Frattini -> excluded
+FINISHED

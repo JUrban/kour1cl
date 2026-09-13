@@ -3,3 +3,8 @@ done order 16 tested 9
 done order 32 tested 37
 done order 64 tested 127
 done order 128 tested 402
+done order 256 tested 1135
+done order 27 tested 2
+done order 81 tested 10
+done order 243 tested 60
+done order 729 tested 493

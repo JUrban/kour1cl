@@ -1,0 +1,1972 @@
+arXiv:2505.03976v4 [math.RT] 21 Oct 2025
+
+A generalized character related to the
+p-local structure and representation
+theory of a finite group
+Geoffrey R. Robinson
+Institute of Mathematics
+University of Aberdeen
+Fraser Noble Building
+Aberdeen
+AB24 3UE
+United Kingdom
+October 22, 2025
+
+To the memory of Marty Isaacs
+Abstract
+Let G be a finite group and p be a prime. Let (K, R, F) be a (splitting)
+p-modular system for G.
+We let Gp denote the set of p-elements of G and Gp′ denote the set of pregular elements of G. In this note, we examine the generalized character
+Ψ1,p,G of G which vanishes on all p-singular elements and whose value at
+each p-regular y ∈ G is the number of p-elements of CG (y). We examine
+cases when Ψ1,p,G is a character, and when it is a character afforded by
+a projective RG-module. We conjecture that, in fact, Ψ1,p,G is always a
+character, and may always be afforded by a projective RG-module. We
+discuss some properties of Ψ1,p,G , and relate it to a truncated version of
+the RG-module afforded by the conjugation action of G on itself.
+Since the virtual character Ψ1,p,G vanishes on p-singular elements, it
+corresponds to a unique virtual projective module P1,p,G in the Green
+ring for RG, and we obtain a uniform explicit expression for P1,p,G which
+is valid for all finite G. It is however not immediately obvious from this
+expression whether or not P1,p,G is always a module. On the other hand,
+letting R denote the trivial RG-module, we give a general explicit formula
+expressing P1,p,G − R (in the Green ring for RG) as a virtual module
+induced from (proper) p-local subgroups of G when Op (G) = 1.
+Among other examples, we prove for each prime p and each prime
+power q (not necessarily divisible by p) that P1,p,G is a genuine projective
+RG-module when G ∼
+= PSL(2, q) and when G ∼
+= SL(2, q).
+
+1
+
+1
+
+Notation and Introduction
+
+Let G be a finite group, p be a prime, (K, R, F) be a (splitting) p-modular system
+for G.
+When n is a positive integer and π is a set of primes, we let nπ denote the
+largest positive integer which divides n and is itself only divisible by primes in
+π. As usual, when g ∈ G and π is a set of primes, we may (uniquely) write
+g = xy = yx with ⟨x⟩ a π-group and ⟨y⟩ a π ′ -group. We call x the π-part of g
+and denote it by gπ . The π-section of g ∈ G is the set of elements of G whose
+π-part is conjugate to gπ , and is denoted by SG
+π (g) (usually we will take g to be
+a π-element itself). The element g ∈ G is said to be π-singular if gπ ̸= 1G , and
+π-regular otherwise.
+We let Gp denote the set of p-elements of G and Gp′ denote the set of pregular elements of G. Let {ϕi : 1 ≤ i ≤ ℓ} be the irreducible Brauer characters
+of G, and let {θi : 1 ≤ i ≤ ℓ} be the set of characters of the projective indecomposable RG-modules, where we label so that ⟨θi , ϕj ⟩ = δij for 1 ≤ i, j ≤ ℓ.
+(When α is a class function which is only defined for p-regular elements and β
+is a class function of G which vanishes on p-singular elements, we will use ⟨α, β⟩
+to denote
+
+
+X
+1 
+α(g)β(g) ,
+|G|
+g∈Gp′
+
+which is compatible with the usual notation for the standard inner product on
+class functions of G).
+We define the class function Ψ1,p,G of G to take value 0 on all p-singular
+elements of G, and to take value
+Ψ1,p,G (y) = (the number of p-elements of CG (y)) whenever y ∈ G is pregular.
+Notice that Ψ1,p,G agrees with the permutation character
+X
+IndG
+CG (x) (1)
+x∈Gp /G
+
+on p-regular elements (and vanishes elsewhere). We note also that it is clear
+that algebraically conjugate irreducible characters occur with equal multiplicity
+in Ψ1,p,G .
+By a well-known theorem of Frobenius, we know that |CG (y)|p divides |CG (y)p |
+for each p-regular y ∈ G. By Brauer’s characterization of characters, it follows
+that Ψ1,p,G is a generalized character of G.
+To see that Ψ1,p,G is a generalized character, notice that whenever E is
+a Brauer elementary subgroup of G of order prime to p, the class function
+ResG
+E (Ψ1,p,G ) is a character of E (since it agrees with the restriction to E of a
+2
+
+permutation character). If a Brauer elementary subgroup E has the form P × F
+for some non-trivial p-group P and some p′ -group F , then
+E
+ResG
+E (Ψ1,p,G ) = IndF (
+
+and
+
+ResG
+F (Ψ1,p,G )
+)
+|P |
+
+ResG
+F (Ψ1,p,G )
+|P |
+
+is a character of F. Using Brauer’s induction theorem, it also follows that Ψ1,p,G
+is a Z-linear combination of characters each induced from linear characters of
+Brauer elementary p′ -subgroups of G.
+Since Ψ1,p,G agrees with a character on p-regular elements, and each (irreducible character χ in a) p-block of defect zero of G vanishes off p-regular
+elements, it follows that ⟨Ψ1,p,G , χ⟩ is a non-negative integer whenever χ is (an
+irreducible character in) a p-block of defect zero of G. In fact, we have
+X
+⟨Ψ1,p,G , χ⟩ =
+⟨ResG
+CG (x) (χ), 1⟩
+x∈Gp /G
+
+for each such χ.
+k
+
+Notice that if x ∈ Gp and z p = x, we have CG (z) ≤ CG (x), and that,
+furthermore, two such pk -th roots of x which are conjugate in G are already
+conjugate in CG (x).
+G
+Now if ⟨ResG
+CG (x) (χ), 1⟩ > 0 we must have ⟨ResCG (z) (χ), 1⟩ > 0 for any such
+z. It follows by Frobenius reciprocity that ⟨Ψ1,p,G , χ⟩ is at least as great as the
+number of CG (x)-conjugacy classes of p-power roots of x when such an x exists.
+
+In the case p = 2, whenever χ is a real-valued irreducible character in a 2block of defect zero of G, there is (by Theorem 8 of Murray [12]) an involution
+t ∈ G, unique up to conjugacy, such that ⟨χ, IndG
+CG (t) (1)⟩ > 0, and the multiplicity is in fact 1. Hence the above argument shows that ⟨Ψ1,p,G , χ⟩ is at least as
+great as the number of CG (t)-conjugacy classes of 2-power roots of t (including
+t itself).
+
+2
+
+The generalized character Ψ1,p,G and root counting
+
+Notice that if G has a Sylow p-subgroup S, then Ψ1,p,G (x) is the number of
+|S|-th roots of x in G. If x is p-singular, there is clearly no such root of x, while
+if x is p-regular and y |S| = x, then y has the form uv = vu where u is the unique
+generator of ⟨x⟩ with u|S| = x and v is a p-element of CG (x). In fact, we may
+choose a power q of p so that |S| divides q and q ≡ 1 (mod |G|p′ ), and then we
+see easily that Ψ1,p,G (x) is the number of q-th roots of x in G for each x ∈ G.
+3
+
+Now for each irreducible character χ of G, it is well-known that the class
+function χ(q) of G defined by χ(q) (g) = χ(g q ) for all g ∈ G is a generalized
+character of G. Note that we have χ(q) (g) = χ(gp′ ) for each g by the choice of
+q.
+Setting νq (χ) = ⟨χ(q) , 1⟩, we see easily that
+X
+Ψ1,p,G =
+νq (χ)χ,
+χ∈Irr(G)
+
+so that Ψ1,p,G is a character of G if and only if νq (χ) ≥ 0 for each irreducible
+character χ of G.
+We may note further that νq (χ) ≤ χ(1) with equality if and only if
+χ(gp′ ) = χ(1)
+for all g ∈ G, so that νq (χ) = χ(1) if and only if Op (G) ≤ kerχ.
+We also note that
+−χ(1) < νq (χ) ≤ χ(1)
+for each irreducible character χ of G, so that when χ is linear, we have νq (χ) ≥ 0
+and νq (χ) = 1 = χ(1) if and only if Op (G) ≤ kerχ. Hence we have proved:
+Theorem 2.1: We have G ̸= Op (G) if and only if Ψ1,p,G contains some
+non-trivial linear character with non-zero multiplicity. Furthermore, for every
+irreducible character χ of G, we have
+−χ(1) < νq (χ) ≤ χ(1),
+and the irreducible characters χ of G which occur with multiplicity χ(1) in Ψ1,p,G
+are precisely the irreducible characters of G with Op (G) in their kernels.
+Another extreme case is:
+Theorem 2.2: Let χ be an irreducible character of G such that
+′
+
+Op (G) ≤ kerχ.
+Then χ occurs with zero multiplicity in Ψ1,p,G except when χ is the trivial character, in which case, χ occurs with multiplicity one in Ψ1,p,G . In any case, χ
+occurs with non-negative multiplicity in Ψ1,p,G .
+Proof: The given hypothesis on χ is equivalent to asserting that every p-element
+of G lies in kerχ. Hence for each g ∈ G, we have χ(q) (g) = χ(gp′ ) = χ(g). Thus
+χ(q) = χ, so that νq (χ) = δ1,χ and the result follows.
+Remark 2.3: Note that Theorem 2.1 implies, in particular that Ψ1,p,G is the
+regular character of G if and only if G is a p-group. On the other hand, if
+G is a p′ -group, then Theorem 2.2 implies that Ψ1,p,G is the trivial character.
+
+4
+
+Finally, we note that if Ψ1,p,G is the trivial character, then G contains only one
+p-element, so that (by Cauchy’s theorem), G is a p′ -group.
+Hence we have:
+Corollary 2.4: Ψ1,p,G is the trivial character if and only if G is a p′ -group.
+Also, Ψ1,p,G is the regular character if and only if G is a p-group.
+Remark 2.5: In the case of symmetric groups, generalized characters which
+count the numbers of roots of a given element are well-understood. T. Scharf
+has proved in [15] that for any two positive integers m and n, the integer-valued
+class function θm of the symmetric group Sn defined by letting θm (x) denote
+the number of m-th roots of x in Sn is a character of Sn . No such result is true
+for the general finite group G. Notice that Scharf’s result implies, in particular,
+that Ψ1,p,Sn is a character of Sn for every prime p and every positive integer n.
+
+3
+
+Some general observations
+
+Remark 3.1: For a general finite group G, we note that
+
+
+1  X
+|SpG′ (y)| = 1,
+⟨Ψ1,p,G , 1⟩ =
+|G|
+y∈Gp′ /G
+
+since for each p-regular y ∈ G, the cardinality of the p′ -section of y in G is
+[G : CG (y)] × (the number of p-elements of CG (y)).
+Hence, by block orthogonality relations, the character of the projective cover
+of the trivial module occurs exactly once when Ψ1,p,G is uniquely expressed as a
+Z-linear combination of characters of projective indecomposable RG-modules.
+In this note, we are principally concerned with two questions: firstly, is Ψ1,p,G
+always a character? Secondly, is Ψ1,p,G a non-negative integer combination of
+characters of projective indecomposable RG-modules (which certainly would
+imply that it is a character)? We conjecture that the latter is always the case.
+Though we are not able to prove this at present, we illustrate that it is true in
+many cases, and we draw some consequences for groups such that Ψ1,p,G is a
+character afforded by a projective RG-module.
+We now note the following extension of Corollary 2.4:
+Theorem 3.2 : i) Suppose that G has a normal p-complement. Then Ψ1,p,G is
+a character, and may be afforded by a projective RG-module.
+ii) Suppose that G has a normal Sylow p-subgroup. Then Ψ1,p,G is the character
+afforded by the projective cover of the trivial RG-module.
+iii) If Ψ1,p,G/Op (G) is a character of G/Op (G) afforded by a projective RG/Op (G)module M , then Ψ1,p,G is afforded by P (M ), the projective cover (as RGmodule) of the inflation of M to an RG-module.
+5
+
+Proof: i) It suffices to prove that whenever ϕi is a Brauer irreducible character
+of G, then
+⟨Ψ1,p,G , ϕi ⟩ ≥ 0.
+But
+⟨Ψ1,p,G , ϕi ⟩ =
+
+X
+
+′
+⟨ResG
+CG (x) (ϕi ), 1⟩ ≥ 0,
+
+x∈Gp /G
+′
+
+where ⟨, ⟩ denotes that the inner product is restricted to p-regular elements.
+For each p-element x ∈ G, the set of p-regular elements of CG (x) is the
+subgroup Op′ (CG (x)), and it follows that
+′
+|CG (x)|p ⟨ResG
+CG (x) (ϕi ), 1⟩
+
+is a non-negative integer, and, in particular, ⟨Ψ1,p,G , ϕi ⟩ is non-negative, since
+ϕi always restricts to a character of Op′ (CG (x)) (and we already know that the
+inner product in question is an integer).
+To be precise, we have
+Ψ1,p,G =
+
+ℓ
+X
+
+
+X
+
+⟨ResG
+Op′ (CG (x)) (ϕi ), 1⟩
+
+
+i=1
+
+|CG (x)|p
+
+x∈Gp /G
+
+
+ θi .
+
+ii) Suppose that G has a normal Sylow p-subgroup P . Then G has a Hall p′ subgroup H, and the character IndG
+H (1) is easily seen to take value |CP (y)| for
+each y ∈ H. But for each such y, the subgroup CG (y) has a normal Sylow
+p-subgroup CP (y) and we have |CP (y)| = |CG (y)p | = Ψ1,p,G (y). Hence
+Ψ1,p,G = IndG
+H (1),
+which is the character afforded by the projective cover of the trivial module.
+iii) A theorem of W.F. Reynolds [13] asserts that if H is a finite group and
+U = Op (H), then whenever α is the Brauer character of a projective
+RH/U -module X and β is the Brauer character afforded by the projective cover
+of X as RH-module, then for each p-regular y ∈ H, we have
+β(y) = |CU (y)|α(yU )
+for all p-regular y ∈ H. In fact, Reynolds’ observation gives a (Brauer character
+preserving) bijection between virtual Brauer characters of virtual projective
+RH/U -modules and virtual Brauer characters of virtual projective RH-modules,
+obtained by multiplying the virtual projective Brauer character of H/U by the
+Brauer character afforded by the conjugation action of H on U .
+Remark 3.3 : Theorem 3.2 tells us that if G has a normal p-complement
+or a normal Sylow p-subgroup, or if Ψ1,p,G/Op (G) is a character afforded by a
+
+6
+
+projective RG-module, then Ψ1,p,G is a character afforded by a projective RGmodule. It follows that Ψ1,p,G is a character afforded by a projective RG-module
+if G = Op,p′ ,p (G).
+By P. Fong’s theorems on characters of p-solvable groups (see [7]), it is known
+that when G is p-solvable, a character which vanishes on p-singular elements may
+be afforded by a projective RG-module. Hence to prove for such G that Ψ1,p,G
+is a character which may be afforded by a projective RG-module, it is sufficient
+to prove that Ψ1,p,G is a character of G.
+
+4
+
+The generalized character Ψ1,p,G and blocks of
+RG
+
+Since Ψ1,p,G is a virtual projective character of G, it may be uniquely decomP (b)
+posed as an orthogonal sum b Ψ1,p,G where b runs over the blocks of RG, and
+(b)
+
+each Ψ1,p,G is a (possibly zero) virtual projective character which is a Z-linear
+combination of irreducible characters in b.
+Generalizing some of the results of the previous section, we may note that:
+(b)
+
+Theorem 4.1: If b is a block of RG, then Ψ1,p,G contains the character of
+at least one projective indecomposable b-module with non-negative multiplicity.
+(b)
+In particular, if ℓ(b) = 1, then Ψ1,p,G is either zero or else is a character of G
+which may be afforded by a projective RG-module.
+Proof: Let θi be the character afforded by some projective indecomposable
+b-module. Then
+⟨θi , Ψ1,p,G ⟩ ≥ 0,
+since θi vanishes on all p-singular elements and Ψ1,p,G agrees with a permutation
+character on p-regular elements.
+Now θi agrees with a non-negative integer linear combination of Brauer
+irreducible characters in b on p-regular elements. Hence there must be some j
+with
+⟨ϕj , Ψ1,p,G ⟩ ≥ 0
+(and with ϕj ∈ b). Then the character θj is a character of a projective indecomposable b-module, and occurs with non-negative multiplicity when Ψ1,p,G is
+expressed as a Z-linear combination of {θr : 1 ≤ r ≤ ℓ}.
+Remark 4.2 : This provides an alternative proof of part i) of Theorem 3.2.
+It also reproves the fact that irreducible characters in p-blocks of defect zero all
+occur with non-negative multiplicity in Ψ1,p,G .
+
+7
+
+5
+
+Other p′ -sections
+
+Let y be a p-regular element of G, and consider the generalized character
+Ψ1,p,CG (y) of CG (y), which vanishes on all p-singular elements of CG (y), and
+takes value (the number of p-elements of CG (y) ∩ CG (z)) for each p-regular z in
+CG (y). This is the exact analogue of Ψ1,p,G , but for the subgroup CG (y).
+Then Ψ1,p,CG (y) agrees with
+C (y)
+
+X
+
+IndCG
+(1)
+G (xy)
+
+x∈CG (y)p /CG (y)
+
+on p-regular elements of CG (y) and vanishes on all p-singular elements of CG (y).
+Notice then that IndG
+CG (y) (Ψ1,p,CG (y) ) agrees on p-regular elements of G with
+the character afforded by the conjugation action of G on the p′ -section of y, and
+vanishes on all p-singular elements of G.
+Hence we see that
+X
+
+IndG
+CG (y) (Ψ1,p,CG (y) )
+
+y∈Gp′ /G
+
+agrees on p-regular elements of G with the character afforded by the conjugation
+action of G on itself, and vanishes on all p-singular elements of G. Thus, by
+block orthogonality relations, we have:
+Remark 5.1:
+X
+
+IndG
+CG (y) (Ψ1,p,CG (y) ) =
+
+ℓ
+X
+
+ϕi θ i .
+
+i=1
+
+y∈Gp′ /G
+
+We call this character the truncated conjugation character of G, and denote it by
+Λc,p,G . We denote the projective RG-module affording this character by Tc,p,G
+and call it the truncated conjugation module.
+Note that Λc,p,G takes value |CG (y)| on each p-regular element y ∈ G (and
+vanishes on all p-singular elements). Note
+L also that Tc,p,G is the lift to an RGmodule of the projective FG-module
+S Hom(S, P (S)), where S runs over a
+full set of isomorphism types of absolutely irreducible FG-modules, and P (S)
+denotes the projective cover of S as FG-module.
+We remark that the multiplicity L
+of the projective cover of the trivial module
+as a summand of the FG-module
+S Hom(S, P (S)), is ℓ(G), the number of
+simple FG-modules, which is also the number of p-regular conjugacy classes of
+G.
+We note that if Z is a central p′ -subgroup of G, then for each p-regular y ∈ G,
+the number of p-elements in CG (y) is the same as the number of p-elements of
+CG/Z (yZ). For if x is a p-element of G with [y, x] ∈ yZ, then we have x ∈ CG (y)
+by a standard argument, and x is the unique p-element in xZ. Hence Ψ1,p,G is
+8
+
+the inflation to G of Ψ1,p,G/Z , and Ψ1,p,G is afforded by a projective module if
+and only if Ψ1,p,G/Z is afforded by a projective module.
+Hence to prove that Ψ1,p,G is afforded by a projective RG-module, we may
+assume by induction that Z(G) is a p-group. But we have already dealt with the
+case Op (G) ̸= 1, so to prove that Ψ1,p,G is a character afforded by a projective
+RG-module, we may assume by induction that Op (G) = Z(G) = 1.
+Example 5.2: If we consider the special case that G = GL(n, pa ) for some
+positive integer a, then for each p-regular element y ∈ G, it is clear (and wellknown) that CG (y) is a direct product of general linear groups over fields of
+characteristic p (allowing the possibility that a cyclic group of order pr − 1 is
+considered as GL(1, pr )). The Steinberg character St1 of G is known to have
+degree |G|p and, more generally, to take value ±|CG (y)|p for each p-regular
+y ∈ G.
+Hence, for each p-regular y ∈ G, we see that CG (y) has a Steinberg character
+Sty , and we have St1 (y) = ±Sty (1) for each p-regular y ∈ G. Since St1 is
+irreducible and vanishes on p-singular elements, we have
+X
+|G| =
+[G : CG (y)]Sty (1)2 .
+y∈Gp′ /G
+
+Since
+P we have
+|G| = y∈Gp′ /G [G : CG (y)]× (the number of p-elements of CG (y)), an inductive
+argument recovers the well-known fact that for each p-regular y ∈ G, the number
+of p-elements in CG (y) is equal to |CG (y)|2p .
+Notice then that now we have Ψ1,p,G = St21 , so proving that Ψ1,p,G is afforded
+by a projective RG-module, since the Steinberg character of G is afforded by a
+projective RG-module for this choice of G.
+In fact, the same statement holds whenever G is a finite group which has
+a (split,restricted) BN -pair with characteristic p (the number of p-elements of
+CG (y) is equal to |CG (y)|2p whenever y ∈ G is p-regular, and consequently Ψ1,p,G
+is afforded by a projective RG-module, for all such G). We will provide a new
+proof of this result later.
+Returning to the case G = GL(n, pa ), we note that we have
+X
+2
+Λc,p,G =
+IndG
+CG (y) (Sty ).
+y∈Gp′ /G
+
+6
+
+Some consequences of non-negativity
+
+When ϕ is a Brauer character of G (with respect to the prime p), we define the
+generalized character ϕ∗ of G via ϕ∗ (xy) = ϕ(y) whenever x is a p-element and
+9
+
+y is a p-regular element with xy = yx. That this is a generalized character of G
+is an easy consequence of Brauer’s characterization of characters, as noted by
+J.A. Green in [8].
+Theorem 6.1: Let G be a finite group. Then Ψ1,p,G is a non-negative integer
+combination of characters of projective indecomposable RG-modules if and only
+if we have ⟨ϕ∗i , ϕ∗j ⟩ ≥ 0 for 1 ≤ i, j ≤ ℓ.
+Proof: Let ϕi be an irreducible Brauer character of G.
+Then the coefficient of θi when Ψ1,p,G is expressed as a Z-linear combination
+of characters of projective indecomposable RG-modules is
+⟨Ψ1,p,G , ϕi ⟩ = ⟨Ψ1,p,G , ϕ∗i ⟩
+(recall that Ψ1,p,G vanishes on p-singular elements, so on all elements of the
+p′ -section of y outside the conjugacy class of y).
+Since Ψ1,p,G (y) = (the number of p-elements of CG (y)) for each p-regular
+y ∈ G, we see from the definitions of Ψ1,p,G and ϕ∗i that this last inner product
+is ⟨1, ϕ∗i ⟩.
+Hence Ψ1,p,G is the character afforded by a projective RG-module if and
+only if
+⟨Ψ1,p,G , ϕi ⟩ = ⟨1, ϕ∗i ⟩
+is non-negative for each absolutely irreducible Brauer character ϕi of G. Suppose
+then that this positivity condition holds.
+∗
+
+It is clear that if ϕi and ϕj are irreducible Brauer characters, then ϕi ϕ∗j is
+a non-negative integer combination of extended (that is to say, starred) Brauer
+irreducible characters, so this implies that
+∗
+
+⟨ϕ∗i , ϕ∗j ⟩ = ⟨ϕi ϕ∗j , 1⟩ ≥ 0.
+Hence if Ψ1,p,G is the character of a projective RG-module, then
+⟨ϕ∗i , ϕ∗j ⟩ ≥ 0
+for all i, j.
+On the other hand, if such inner products are always non-negative, then the
+case that ϕj is the trivial character already implies that
+⟨Ψ1,p,G , ϕi ⟩ = ⟨1, ϕ∗i ⟩ ≥ 0
+for each i, so that Ψ1,p,G is a non-negative integer combination of characters of
+projective indecomposable RG-modules.
+Remark 6.2 : Since the generalized characters ϕ∗i are not, in general, characters, this non-negativity condition appears to be slightly surprising.
+
+10
+
+7
+
+Some remarks on Ψ1,p,G for groups in which
+the centralizer of each non-identity p-element
+has a normal p-complement
+
+We suppose (throughout this section) that the centralizer of each non-identity
+p-element of G has a normal p-complement.
+We may decompose Ψ1,p,G according to blocks of RG. We let B0 denote the
+principal block of RG, and we set
+X
+(0)
+Ψ1,p,G =
+⟨Ψ1,p,G , χ⟩χ.
+χ∈Irr(B0 )
+(1)
+
+(0)
+
+Then we define Ψ1,p,G as Ψ1,p,G − Ψ1,p,G .
+(1)
+
+Theorem 7.1: Ψ1,p,G is a character afforded by a projective RG-module.
+Proof: It suffices to prove that whenever ϕi is an absolutely irreducible Brauer
+character in a non-principal block of RG, then
+⟨Ψ1,p,G , ϕi ⟩ ≥ 0.
+We have
+⟨Ψ1,p,G , ϕi ⟩ =
+
+X
+
+′
+⟨ResG
+CG (x) (ϕi ), 1⟩
+
+x∈Gp /G
+
+and (since CG (x) has a normal p-complement whenever 1 ̸= x is a p-element)
+the contribution from non-identity p-elements x is non-negative.
+P
+But by block orthogonality relations, we know that g∈Gp′ ϕi (g) = 0 whenever ϕi is a Brauer irreducible character not in the principal block of RG, so the
+required non-negativity follows for all Brauer characters in non-principal blocks.
+As a consequence of 7.1, we have:
+Corollary 7.2 : Let G be a finite group whose Sylow p-subgroups are cyclic,
+dihedral or Klein four, or that G has an Abelian Sylow p-subgroup P such that
+NG (P )/Op′ (CG (P )) is a Frobenius group with Frobenius kernel isomorphic to
+P.
+(0)
+
+(1)
+
+(0)
+
+Then we may write Ψ1,p,G = Ψ1,p,G + Ψ1,p,G , where Ψ1,p,G is a virtual
+projective character which is a Z-combination of irreducible characters in the
+(1)
+principal p-block, and Ψ1,p,G is the character of a projective RG-module which
+has no indecomposable summand in the principal p-block of G.
+Proof: In all of the cases listed, CG (x) has a normal p-complement for each
+non-identity p-element x ∈ G.
+Theorem 7.3 Suppose that CG (x) has a normal p-complement for each nonidentity p-element x ∈ G. Then Ψ1,p,G is a character of G.
+11
+
+Proof: By 7.1, it suffices to prove that ⟨Ψ1,p,G , χ⟩ ≥ 0 for each irreducible
+character χ in the principal p-block of G. It is clearly sufficient to consider the
+case that χ is non-trivial, since (for example), we always have ⟨Ψ1,p,G , 1⟩ = 1.
+We first note that if χ isP
+a non-trivial irreducible character in the principal
+p-block of G, then we have g∈G χ(g) = 0, and from this (and from Brauer’s
+Second and Third Main Theorems, since they imply that χ is constant on nonidentity p-sections), we easily deduce that
+
+
+X
+χ(x)
+1  X
+χ(g) = −
+.
+|G|
+|CG (x)|p
+g∈Gp′
+
+1̸=x∈Gp /G
+
+We may note as in the previous proofs that for each non-identity p-element
+x of G, we have
+
+
+X
+1
+1
+
+χ(y) =
+⟨ResG
+Op′ (CG (x)) (χ), 1⟩.
+|CG (x)|
+|CG (x)|p
+y∈CG (x)p′
+
+Now let x be a non-identity p-element of G. By Brauer’s Second Main
+Theorem, χ(x) can be evaluated by considering only the irreducible constituents
+of ResG
+CG (x) (χ) which lie in the principal p-block, and hence, in particular, have
+Op′ (CG (x)) in their kernel. This certainly yields |χ(x)| ≤ ⟨ResG
+Op′ (CG (x)) (χ), 1⟩,
+since χ(x) is a sum of ⟨ResG
+Op′ (CG (x)) (χ), 1⟩ roots of unity. More precisely, we
+may conclude that (for each p-element x),
+⟨ResG
+Op′ (CG (x)) (χ), 1⟩ − χ(x)
+is a complex number with non-negative real part.
+Now we have
+⟨Ψ1,p,G , χ⟩ =
+
+X
+1̸=x∈Gp /G
+
+
+
+1
+⟨ResG
+(χ),
+1⟩
+−
+χ(x)
+.
+Op′ (CG (x))
+|CG (x)|p
+
+This is a rational integer with non-negative real part, so is a non-negative integer. Hence we do have ⟨Ψ1,p,G , χ⟩ ≥ 0, and Ψ1,p,G is a character, as χ was an
+arbitrary non-trivial irreducible character in the principal p-block.
+Notice that in fact ⟨Ψ1,p,G , χ⟩ is strictly positive for χ as above unless
+χ(g) = ⟨ResG
+Op′ (CG (gp )) (χ), 1⟩
+for all p-singular g ∈ G. In particular, ⟨Ψ1,p,G , χ⟩ is strictly positive unless χ
+takes non-negative rational integer values at all non-identity p-elements of G.
+Since χ does not vanish on all non-identity p-elements of G, we may also note
+12
+
+that if ⟨Ψ1,p,G , χ⟩ = 0, then there is at least one non-identity p-element x such
+that χ(x) takes a constant strictly positive rational integer value on the p-section
+of x, and, in particular, we must have ⟨ResG
+Op′ (CG (x)) (χ), 1⟩ > 0 for this x.
+Corollary 7.4: Suppose that G ∼
+= PSL(2, q). Then the generalized character
+Ψ1,p,G is a character of G for each prime divisor p of |G|.
+Proof: There are three possible structures for the Sylow p-subgroup P of G,
+and we note that in each of these cases, the centralizer of each non-identity
+p-element of G has a normal p-complement. If P is cyclic, then CG (x) has a
+normal p-complement for each non-identity element x ∈ P. If p = 2 and P is
+dihedral (allowing a Klein 4-group), then CG (x) has a normal p-complement for
+each non-identity element x ∈ P . If p|q and P is non-cyclic elementary Abelian,
+then CG (x) is a p-group for each non-identity element x ∈ P.
+
+8
+
+Variants for sets of primes
+
+Let π be a set of prime divisors of the order of the finite group G, and let
+n = |G|π , that is to say, the largest divisor of |G| which is only divisible by
+primes in π. We may refer to n as a Hall divisor of |G|.
+Let Ψ1,π,G denote the class function of G which takes value 0 on all π-singular
+elements of G and which takes the value ( the number of π-elements of CG (x))
+on all π-regular elements of G.
+Then Ψ1,π,G is a generalized character of G, and Ψ1,π,G (x) is the number of
+n-th roots of x in G, where n = |G|π . Furthermore, Ψ1,π,G is a Z-linear combination of characters each induced from linear characters of Brauer elementary
+π ′ -subgroups of G, all proved in manner entirely analogous to the case π = {p}.
+It is also the case that if we let Gπ′ /G denote a full set of representatives
+for the conjugacy classes of π-regular elements of G, then we have
+X
+IndG
+CG (y) (Ψ1,π,CG (y) ) = Λc,π,G
+y∈Gπ′ /G
+
+where Λc,π,G is the generalized character of G which takes value |CG (x)| on
+π-regular elements x, and 0 on all π-singular elements.
+There is some computational evidence that Ψ1,π,G is always a character,
+but this remains unproven at present. We are thus interested in determining
+whether or not Λc,π,G is a character, for if there is a group G such that Λc,π,G
+is not a character of G, then there is a π-regular element y ∈ G such that
+Ψ1,π,CG (y) is not a character of CG (y).
+We recall that a π-separable finite group G is a finite group whose composition factors are all either π-groups or π ′ -groups. Every solvable group is
+π-separable for every set of primes π.
+
+13
+
+Theorem 8.1: If G is a π-separable group, then Λc,π,G is a character of G,
+and Λc,π,G is induced from a character of a Hall π ′ -subgroup of G.
+Proof: Since G is π-separable, G has a Hall π ′ -subgroup H. By the extension
+of Fong’s theory for p-solvable groups in [7] to sets of primes for π-separable
+groups by I.M. Isaacs in [9], we know that if G has ℓ conjugacy classes of πregular elements of G, then there are ℓ irreducible characters {ϕi : 1 ≤ i ≤ ℓ} of
+G/Oπ (G) (which we inflate to irreducible characters of G), such that for each
+irreducible character χ of G, the restriction χ0 of χ to Gπ′ is a non-negative
+integer combination of {ϕi,0 : 1 ≤ i ≤ ℓ}, and there are ℓ distinct irreducible
+characters of H, {αi : 1 ≤ i ≤ ℓ} such that
+⟨ResG
+H (ϕi ), αj ⟩ = δij .
+In particular, this implies that {ϕi : 1 ≤ i ≤ ℓ} is linearly independent over C.
+For each i, if we let θj denote the induced character IndG
+H (αj ), then we have
+⟨θj , αi ⟩ = δi,j . Notice then that {θj : 1 ≤ j ≤ ℓ} is linearly independent over C,
+and forms a C-basis for the space of complex-valued class functions of G which
+vanish on all π-singular elements of G.
+For if Λ is any class function of G which vanishes on all π-singular elements
+of G, then we have
+ℓ
+X
+Λ=
+⟨Λ, ϕi ⟩θi .
+i=1
+
+In particular, Λ is a generalized character if and only if ⟨Λ, ϕi ⟩ ∈ Z for each
+i, and Λ is a character if and only if ⟨Λ, ϕi ⟩ ∈ N ∪ {0} for each i. Notice, in
+particular, that Λ is a character if and only if Λ is induced from a character of
+H.
+So far, all is analogous to Fong’s theory for p-solvable groups, and is as
+developed by I.M. Isaacs for π-separable groups.
+Here, the ϕi are analogous to the Brauer characters in the usual modular
+theory. Now let y be a π-regular element of G, and let χy denote the characteristic function of the conjugacy class of y. Then |CG (y)|χy is a C-linear
+combination of irreducible characters of G, and certainly vanishes on π-singular
+elements of G, and we see easily using inner products as above that
+|CG (y)|χy =
+
+ℓ
+X
+
+ϕi (y −1 )θi .
+
+i=1
+
+Since each θi vanishes on π-singular elements, we conclude that the truncated
+conjugation class function Λc,π,G coincides with the character
+ℓ
+X
+
+ϕi θ i ,
+
+i=1
+
+14
+
+and is induced from a character of H (in fact from a non-negative integer combination of {αi : 1 ≤ i ≤ ℓ}), and this linear combination of the αi is unique
+subject to inducing to Λc,π,G ).
+Now let us note that the coefficient of θi in Λc,π,G is ⟨Λc,π,G , ϕi ⟩, and this
+Pℓ
+is clearly j=1 ϕi (yj ), where {yj : 1 ≤ j ≤ ℓ} is a set of representatives for
+the conjugacy classes of π-regular elements of G (for convenience, we choose
+these to be closed under inversion). Note, in particular, that this sum is always
+a non-negative integer (cf. a theorem of L.Solomon (in [16]) about complex
+irreducible characters).
+Remark 8.2: C. Schroeder has informed us that he has independently obtained
+in unpublished work a different proof that the generalized character we call
+Λc,π,G is a character when G is π-separable.
+This seems an opportune moment to note that R. Boltje’s theory of Explicit
+Brauer Induction (see [1]) (which is a form of Brauer’s Induction Theorem commuting with restriction of characters) may be relevant to the question of whether
+Ψ1,π,G is a character of G in general.
+Boltje’s explicit Brauer induction theorem is compatible with Adams operations in a remarkable fashion. It guarantees that for each irreducible character
+χ of G, we may write
+X
+χ=
+aH,λ,χ IndG
+H (λ)
+(H,λ)/G
+
+with each aH,λ,χ ∈ Z, each λ a linear character of the subgroup H of G, and
+furthermore, we also have (for every integer n),
+X
+n
+χ(n) =
+aH,λ,χ IndG
+H (λ ),
+(H,λ)/G
+
+where χ(n) (g) = χ(g n ) for all g ∈ G.
+Let us reconsider Ψ1,p,G in this light. In Section 1, we saw that Ψ1,p,G is a
+character of G if and only if ⟨χ(q) , 1⟩ ≥ 0 for each irreducible character χ of G,
+where q is a power of p with q ≥ |G|p and q ≡ 1 (mod |G|p′ ).
+If we write, as above,
+χ=
+
+X
+
+aH,λ,χ IndG
+H (λ)
+
+(H,λ)/G
+
+such that we also have
+χ(q) =
+
+X
+
+q
+aH,λ,χ IndG
+H (λ ),
+
+(H,λ)/G
+
+then we see easily that
+⟨χ(q) , 1⟩ =
+
+X
+(H,λ):λq =1
+
+15
+
+aH,λ,χ .
+
+Using similar arguments for π we may deduce:
+Theorem 8.3: i) Let G be a finite group. Let p be a prime divisor of |G| and
+let S be a Sylow p-subgroup of G. Write (for each irreducible character χ of G,
+as we may)
+X
+χ=
+aH,λ,χ IndG
+H (λ),
+(H,λ)/G
+
+where each aH,λ,χ ∈ Z and (H, λ) ranges over G-conjugacy classes of pairs such
+that H is a subgroup of G and λ is a linear character of H, where we also have
+(for every integer n),
+X
+n
+χ(n) =
+aH,λ,χ IndG
+H (λ ),
+(H,λ)/G
+
+where χ(n) (g) = χ(g n ) for each g ∈ G. Then Ψ1,p,G is a character of G if and
+only if
+X
+aH,λ,χ ≥ 0
+(H,λ,χ):λ|S| =1
+
+for each irreducible character χ of G.
+ii) Let G be a finite group. Let π be a set of primes and let m be the π-part
+of |G|. Write (for each irreducible character χ of G, as we may)
+X
+χ=
+aH,λ,χ IndG
+H (λ),
+(H,λ)/G
+
+where each aH,λ,χ ∈ Z and (H, λ) ranges over G-conjugacy classes of pairs such
+that H is a subgroup of G and λ is a linear character of H, where we also have
+X
+n
+χ(n) =
+aH,λ,χ IndG
+H (λ ),
+(H,λ)/G
+
+where χ(n) (g) = χ(g n ) for each g ∈ G. Then Ψ1,π,G is a character of G if and
+only if
+X
+aH,λ,χ ≥ 0
+(H,λ):λm =1
+
+for each irreducible character χ of G.
+
+16
+
+9
+
+The prime to the first power case, and groups
+with a strongly p-embedded subgroup
+
+Let G be a finite group with Sylow p-subgroup P of order p for p a fixed prime.
+Let H = NG (P ) and let T be a Hall p′ -subgroup of H. Then from Theorem
+3.2, we know that Ψ1,p,H is the character afforded by the projective cover of the
+trivial module, which is IndH
+T (1).
+We also know that
+Ψ1,p,H = χr,H +
+
+X
+
+IndH
+CH (x) (χr,CH (x) ),
+
+1̸=x∈P/H
+
+where χr,H is the characteristic function of the set of p-regular elements of H,
+etc.
+Note that H controls the conjugacy of elements of P in G, and notice also
+that
+G
+IndG
+H (χr,H ) − χr,G = IndH (1) − 1.
+Now we have
+Ψ1,p,G = χr,G +
+
+X
+
+IndG
+CG (x) (χr,CG (x) ).
+
+1̸=x∈P/G
+
+Now we see that
+G
+IndG
+H (Ψ1,p,H ) − Ψ1,p,G = IndH (1) − 1.
+
+Hence we have
+G
+Ψ1,p,G = IndG
+H (Ψ1,p,H ) − IndH (1) + 1.
+
+Since we know that
+Ψ1,p,H = IndH
+T (1),
+we have now proved that in this case, we have:
+Theorem 9.1: If the group G has a Sylow p-subgroup P of order p, then we
+have
+G
+Ψ1,p,G = 1 + IndG
+T (1) − IndH (1),
+where H = NG (P ) and T is a Hall p′ -subgroup of H.
+Remark 9.2: We note that in Theorem 9.1, the irreducible constituents of
+Ψ1,p,G are among the irreducible constituents of IndG
+T (1).
+We claim next that Ψ1,p,G is the character afforded by some projective RG
+module. To see this, it suffices to prove that Ψ1,p,G agrees on p-regular elements
+with the Brauer character of a projective FG-module.
+17
+
+Let P1 denote the projective cover of the trivial FH-module F, whose Brauer
+character agrees with Ψ1,p,H on p-regular elements. Let us write
+IndG
+H (F) = F ⊕ Q,
+where Q is projective. We need to prove that IndG
+H (P1 ) has an indecomposable
+summand isomorphic to Q. Since projective FG-modules are injective, it sufG
+fices to prove that IndG
+H (P1 ) has a submodule isomorphic to Q. But IndH (F) is
+G
+certainly isomorphic to a submodule of IndH (P1 ), so this is clear.
+Theorem 9.3: Suppose that G is a finite group which has a (proper) strongly
+p-embedded subgroup H. Suppose further that Ψ1,p,H may be afforded by a projective RH-module M . Then Ψ1,p,G may be afforded by a projective RG-module.
+Proof: We mimic the proof in the case that the Sylow p-subgroup of G had
+order p. Just as in the preamble to 9.1, we see
+G
+IndG
+H (Ψ1,p,H ) − Ψ1,p,G = IndH (1) − 1,
+
+so that
+G
+Ψ1,p,G = 1 + IndG
+H (Ψ1,p,H ) − IndH (1).
+
+Since Ψ1,p,H is assumed to be a character, and contains the trivial character
+with multiplicity one, it is clear that Ψ1,p,G is a character (still containing the
+trivial character with multiplicity one).
+Now let M be a projective FH-module whose Brauer character agrees with
+Ψ1,p,H on p-regular elements of H. Since H is strongly p-embedded in G, we
+may write
+IndG
+H (F) = F ⊕ Q,
+where Q is a projective FG-module.
+It suffices to prove that, in the Green ring of FG-modules,
+G
+F + IndG
+H (M ) − IndH (F)
+
+represents a genuine projective FG-module. For this, it is enough to show that
+IndG
+H (M ) has a direct summand isomorphic to Q. Now M has a direct summand
+which is the projective cover of the trivial FH-module. Hence the socle of M
+has a trivial summand and IndG
+H (F) is certainly isomorphic to a submodule of
+IndG
+(M
+).
+In
+particular,
+Q
+is
+isomorphic to a direct summand of IndG
+H
+H (M )
+(since Q is projective, and hence also injective), as required.
+Remark 9.4: In fact, M has at least two trivial composition factors since the
+projective cover of the trivial FH-module has trivial head and trivial socle, so
+that Q occurs with multiplicity at least two as a summand of IndG
+H (M ), and the
+lift of Q to a projective RG-module occurs as a direct summand of the projective
+RG-module affording Ψ1,p,G . Furthermore, it is easy to check that the projective
+cover of the trivial FG-module is not isomorphic to a direct summand of Q.
+18
+
+Theorem 9.5: If G has a cyclic Sylow p-subgroup S, then Ψ1,p,G is a character
+afforded by a projective RG-module.
+Proof: We proceed by induction on |S|, the result being clear when |S| = 1,
+so suppose that |S| > 1 and the result is true for groups G with a Sylow psubgroup of order less than |S|. If Op (G) ̸= 1, then by induction Ψ1,p,G/Op (G)
+is afforded by a projective RG/Op (G)-module X, and then Ψ1,p,G is afforded
+by the projective cover of (the inflation of) X as RG-module. Hence we may
+suppose that Op (G) = 1.
+But then N = NG (Ω1 (P )) is a proper strongly p-embedded subgroup of G,
+where Ω1 (P ) is the unique subgroup of P of order p, and furthermore, Ψ1,p,N is
+afforded by a projective RN -module by the argument of the previous paragraph.
+By Theorem 9.3, Ψ1,p,G is afforded by a projective RG-module.
+We also mention another case of interest, which is a special case of Theorem
+9.3, after noting that
+Ψ1,p,H = IndH
+T (1)
+by part iii) of Theorem 3.2.
+Corollary 9.6: Suppose that G has a T I-Sylow p-subgroup P . Let H = NG (P )
+and T be a Hall p′ -subgroup of H. Then
+G
+Ψ1,p,G = 1 + IndG
+T (1) − IndH (1)
+
+is a character which may be afforded by a projective RG-module.
+
+10
+
+More on the Truncated Conjugation Module
+
+We recall that the Tc,p,G , the truncated conjugation module, is the projective
+RG-module whose character takes value 0 on each p-singular element of G, and
+value |CG (x)| on each p-regular element of G. We propose the following:
+Conjecture A: For each p′ -element x of G, the R-valued class function Ψx,p,G
+which agrees on p-regular elements with the character afforded by the conjugation action on the p′ -section of x in G, and which vanishes on all p-singular
+elements, is a character, and may be afforded by a projective RG-module Px,p,G .
+Consequently,
+M
+Tc,p,G =
+Px,p,G .
+x∈Gp′ /G
+
+Lemma 10.1: To prove Conjecture A, it suffices to treat (for all G) the case
+that x = 1G .
+Proof: Suppose that for every finite group H, we know that the class function
+Ψ1,p,H which agrees with the permutation character
+X
+IndH
+CH (y) (1)
+y∈Hp /H
+
+19
+
+on p-regular elements, and vanishes elsewhere, is a character, and is afforded by
+a projective RH-module. We claim that Conjecture A holds for G.
+Suppose first that G contains a non-trivial central p-regular element z. Then,
+as noted at the end of Remark 5.1,
+Ψz,p,G = Ψ1,p,G
+and Ψ1,p,G is the inflation to G of
+Ψ1,p,G/⟨z⟩ .
+By hypothesis, Ψ1,p,G/⟨z⟩ is afforded by a projective RG/⟨z⟩-module, which may
+be regarded as (ie inflates to) a projective RG-module.
+Now let x be any non-central p-regular element of G. Then Conjecture A
+holds for CG (x). The class function Ψx,p,G is clearly induced from Ψx,p,CG (x) .
+This last class function is afforded by the projective RCG (x)-module Px,p,CG (x) ,
+arguing as in the paragraph above. Hence Ψx,p,G is a character and is afforded
+by the projective RG-module IndG
+CG (x) (Px,p,CG (x) ). Thus Conjecture A holds for
+G.
+Hence proving Conjecture A has been reduced to proving:
+Conjecture B: The class function Ψ1,p,G which takes value (the number of
+p-elements of CG (x)) on each p-regular x ∈ G, and which vanishes on all psingular elements of G, is a character of G which may be afforded by a projective
+RG-module.
+Corollary 10.2: Conjecture B holds for G = PSL(2, q) for every odd prime
+p, and also holds for p = 2 if q is even.
+Proof: Let H = NG (P ), where P is a Sylow p-subgroup of G. If p is odd, then
+either P is cyclic, or else q is a power of p and P is elementary Abelian. If q is
+even and p = 2, then P is elementary Abelian, and H is strongly (2)-embedded.
+By Theorem 3.2, Ψ1,p,H is a character afforded by a projective RH-module in
+all cases. Hence the result follows by Theorem 9.3 and Theorem 9.5.
+Remark 10.3: It is true that Ψ1,2,G is a character whenever G = PSL(2, q),
+and that the contribution to Ψ1,2,G from non-principal 2-blocks is afforded by
+a projective module, as noted in 7.1 and 7.3.
+We note here the following alternative direct proof that Ψ1,p,G is a generalized character.
+Lemma 10.4: The class function Ψ1,p,G is a generalized character, and is
+afforded by a Z-linear combination of projective RG-modules (in the Green ring
+for RG).
+Proof: We know that Λc,p,G is the character afforded by the projective RGmodule Tc,p,G . We also know that
+X
+Λc,p,G =
+IndG
+CG (y) (Ψ1,p,CG (y)/⟨y⟩ ),
+y∈Gp′ /G
+
+20
+
+so the result follows by induction (by assuming that the result is true for groups
+of order less than |G|, we may suppose that Ψ1,p,CG (y)/⟨y⟩ is a generalized character whenever 1 ̸= y ∈ Gp′ (afforded by a virtual projective). We also know
+that Λc,p,G is a character which may be afforded by a projective RG-module).
+
+11
+
+Local control of the permutation action on
+non-identity p-elements
+
+Let Sp (G) denote the simplicial complex associated to the poset of non-trivial
+p-subgroups of G. As usual, when σ is an element of Sp (G), we denote the
+number of non-trivial p-subgroups in σ by |σ|.
+The first result of this section illustrates that the conjugation action of G
+on its non-identity p-elements is p-locally controlled in a precise sense. This is
+relevant to the study of Ψ1,p,G , because Ψ1,p,G − 1 agrees on p-regular elements
+with the character afforded by the conjugation action of G on its non-identity
+p-elements.
+Theorem 11.1: Let G be a finite group, and R be as before. For H a subgroup
+of G, let Xp,H denote the permutation module of H afforded by the conjugation
+action on its non-identity p-elements. Then in the Green ring of RG, we have
+X
+(−1)|σ| IndG
+Gσ (Xp,Gσ ) = 0.
+σ∈Sp (G)/G
+
+In particular, the virtual character
+X
+(−1)|σ| IndG
+Gσ (Ψ1,p,Gσ − 1)
+σ∈Sp (G)/G
+
+vanishes on all p-regular elements of G.
+Proof: We work instead with the simplicial complex Sp+ (G) associated to the
+poset of ordered pairs (Q, x) whose 1-simplices are ordered pairs (Q, x) with Q
+a non-trivial p-subgroup of G and x a non-identity p-element of G normalizing
+Q. We decree that (Q, x) ≤ (P, y) if and only if x = y and Q ≤ P.
+Then it is clear that the alternating sum of permutation modules in the
+statement of the Theorem is equal to
+X
+(−1)|τ | IndG
+Gτ (R)
+τ ∈Sp+ (G)/G
+
+in the Green ring for RG, where we include the empty chain, and consider it
+to have stabilizer G and length zero. Notice that the empty chain of Sp (G)
+contributes
+X
+IndG
+CG (x) (R)
+1̸=x∈Gp /G
+
+21
+
+to the original alternating sum of modules, and that this is cancelled by the
+contribution from the length one chains in {(⟨x⟩, x) : 1 ̸= x ∈ Gp /G}.
+For the proof, we employ a familiar cancellation argument. For a given pelement x ∈ G# , we may reduce the contribution from chains of elements with
+second component x to that from those chains of elements (Q, x) with [Q, x] = 1.
+If
+τ = (Q1 , x) < (Q2 , x) < . . . (Qn , x)
+is a chain not of this form, choose r minimal such that [Qr , x] ̸= 1 (possibly
+r = 1) and form a chain τ ∗ by inserting CQr (x) between Qr−1 and Qr (or at
+the beginning if r = 1) in case Qr−1 ̸= CQr (x), while if Qr−1 = CQr (x), we
+form τ ∗ by deleting Qr−1 from τ. Then it is easy to check that τ ∗∗ = τ, and
+that Gτ ∗ = Gτ , so that the contributions from τ and τ ∗ cancel.
+Hence we now only need to consider (all) chains of elements (Q, x) ∈ Sp+ (G)
+such that [Q, x] = 1. For each non-identity p-element x, we may delete the contribution from remaining chains with second component x by a similar pairing
+argument to that above, using respectively the monotonic maps
+(Q, x) → (Q⟨x⟩, x)
+and
+(Q⟨x⟩, x) → (⟨x⟩, x).
+To expand: if we take a representative x for a class of non-identity p-elements
+of G, and we consider a chain
+τ = (Q1 , x) < (Q2 , x) < . . . < (Qn , x)
+where each Qi is a subgroup of CG (x) containing x, then we may cancel the
+contribution to our alternating sum from the chain τ whenever Q1 > ⟨x⟩ using
+the chain
+(⟨x⟩, x) < (Q1 , x) < . . . < (Qn , x)
+in the case that Q1 strictly contains x , while if Q1 = ⟨x⟩ and n > 1 we cancel
+using the chain
+(Q2 , x) < . . . < (Qn , x).
+If Q1 = ⟨x⟩ and n = 1 then we cancel the contribution from the singleton chain
+(⟨x⟩, x) using the pair (1, x) as discussed at the beginning of the proof.
+Before our next result, we recall that
+X
+(−1)|σ| IndG
+Gσ (R) = Stp (G),
+σ∈Sp (G)/G
+
+is the Steinberg (virtual) module for G, as defined (up to sign convention) by
+P.J.Webb (see, e.g. [17]). This was proved by Webb to be a virtually projective
+RG-module.
+22
+
+Corollary 11.2 : Let P1,p,G denote the (unique) virtual projective module in
+the Green ring of RG affording the virtual character Ψ1,p,G . Then we have
+X
+(−1)|σ| IndG
+Gσ (P1,p,Gσ − R) = 0
+σ∈Sp (G)/G
+
+in the Green ring for RG. In particular,
+X
+(−1)|σ| IndG
+Gσ (P1,p,Gσ ) = Stp (G).
+σ∈Sp (G)/G
+
+Proof: The virtual module in the statement of the Corollary is a virtual projective RG-module, as each P1,p,Gσ is a virtual projective. Hence to prove that it
+is the zero module, it is sufficient (by the non-singularity of the Cartan matrix)
+to prove that the alternating sum given affords the zero character. However,
+since it is a virtual projective, its virtual character vanishes on all p-singular
+elements. Also, as noted in Theorem 11.1, its virtual character vanishes on all
+p-regular elements, so the proof of the Corollary is complete.
+Theorem 11.3: In the Green ring for RG, the virtual projective module P1,p,G
+is equal to
+X
+IndG
+NG (Q) (P [Stp (NG (Q)/Q))]),
+Q/G
+
+where Q/G is a set of representatives for the G-conjugacy classes of p-subgroups
+of G such that Q = Op (NG (Q)), and where P [M ] indicates that we are taking
+the (well-defined) projective cover of a virtual projective RNG (Q)/Q-module M
+as (virtual) RNG (Q)-module.
+Proof: We work with the complex Np (G), where the simplices consist of chains
+of (strictly increasing) mutually normalizing p-subgroups, which is interchangeable with Sp (G) in all calculations needed here.
+We first note that (in the Green ring for RG), from Corollary 11.2, we may
+write
+
+
+X
+X
+
+
+(−1)|τ | IndG
+P1,p,G − Stp (G) =
+NG (Q)τ (P1,p,NG (Q)τ ) .
+1̸=Q/G
+
+τ ∈Np (NG (Q)/Q)
+
+We note also that by Theorem 3.2 iii), P1,p,NG (Q)τ is the projective cover as
+RNG (Q)τ -module of the projective R(NG (Q)/Q)τ )-module P1,p,(NG (Q)/Q)τ .
+By Corollary 11.2, applied within NG (Q)/Q for each non-trivial p-subgroup
+Q of G (up to conjugacy), we may rewrite this last equation as
+X
+P1,p,G = Stp (G) +
+IndG
+NG (Q) (P [Stp (NG (Q)/Q)]) ,
+1̸=Q/G
+
+as claimed.
+23
+
+Corollary 11.4: In the Green ring of RG, we have
+X
+P1,p,G − R =
+IndG
+NG (Q) (P [Stp (NG (Q)/Q)] − Stp (NG (Q)/Q)) .
+1̸=Q/G
+
+Proof: This follows from the fact that by Webb’s inversion formula for Stp (G),
+(with suitable adjustment for sign conventions), we have
+X
+R=
+IndG
+NG (Q) (Stp (NG (Q)/Q)) .
+Q/G
+
+Remark 11.5: What we have shown is that the virtual projective module
+X
+P1,p,G = Stp (G) +
+IndG
+NG (Q) (P [Stp (NG (Q)/Q)])
+1̸=Q/G
+
+is the unique virtual projective in the Green ring for RG which affords the
+virtual projective character Ψ1,p,G with
+Ψ1,p,G (y) = (the number of p-elements of CG (y)) for each p-regular y ∈ G.
+In particular, P1,p,G affords a virtual character taking value 1 on all p-regular
+elements y with p ̸ ||CG (y)|. It may be instructive to verify this last fact directly.
+This follows from 11.4, after noting that for any non-trivial p-subgroup Q of G,
+the Brauer characters afforded by P [Stp (NG (Q)/Q)] and Stp (NG (Q)/Q) agree
+on p-regular elements of defect zero of NG (Q), since the former Brauer character
+takes value |CQ (y)| times the value of the latter Brauer character at y whenever
+y ∈ NG (Q) is p-regular (by the result of W.F. Reynolds mentioned at the end
+of Section 3).
+We may also give an alternative self-contained proof that
+P1,p,G = Stp (G) ⊗ Stp (G) = St ⊗ St,
+in the case that G has a (split, restricted) BN -pair of characteristic p, where St
+denotes the usual Steinberg module for G in that case. First we need to discuss
+the relationship between Stp (G) and St in that case. It was proved by Curtis
+(in [4]) that the Steinberg character for G is equal to
+X
+(−1)|J| IndG
+PJ (1),
+J⊆I
+
+where I is the set of generating reflections for the Weyl group W of G.
+Letting R denote the trivial module, this was later strengthened by P.J.
+Webb to the statement that in the Green ring for RG, we have
+X
+St =
+(−1)|J| IndG
+PJ (R).
+J⊆I
+
+24
+
+Note that St is a genuine RG-module, not just a virtual module. We also recall,
+that P∅ = B, the Borel subgroup of G. Also, Webb proved that (again in the
+Green ring for RG), we have
+Stp (G) = ±St
+when G has a characteristic p BN -pair. With the sign convention we have
+adopted, we see that we have
+X
+Stp (G) =
+(−1)|I\J| IndG
+PJ (R).
+J⊆I
+
+For the benefit of the reader, we clarify what we mean here by saying that
+G has a BN -pair of characteristic p. We mean that G has a split restricted
+BN -pair, and that whenever i is an element of the indexing set I for the generating reflections of the Weyl group W for G, and Pi is the associated parabolic
+subgroup, then Pi /Op (Pi ) has a split BN -pair of rank one with point stabilizer (Sylow p-normalizer) B/Op (Pi ), where Op (B)/Op (Pi ) acts regularly on
+the other Sylow p-subgroups of Pi /Op (Pi ).
+We now revert to standard notation for parabolic subgroups of G and their
+unipotent radicals. At the character theoretic level, it was proved in Curtis (in
+[4]) that if we denote the Steinberg character of G by χI and the Steinberg
+character of PJ /UJ by χJ , then we have ⟨χI , IndG
+B (1)⟩ = 1 while
+⟨χI , IndG
+PJ (1)⟩ = 0
+for J ̸= ∅. This readily implies ( using induction on |I| and the corresponding
+alternating sum expression for the character χJ afforded by St(PJ /UJ )), that
+we have
+⟨χI , IndG
+PJ (χJ )⟩ = 1
+for all J ⊆ I. Using Webb’s results above to translate to the Green ring, and
+Theorem 3 of Robinson [14], we may conclude that
+ResG
+PJ (StG ) = P [StPJ /UJ ]
+for each J ⊆ I, where the last projective cover is as an RPJ -module (strictly
+speaking, we use the reciprocity provided by Theorem 3 of [14] for projective
+simple FG-modules and projective simple FPJ /UJ -modules, and lift the relevant
+projective modules to modules over R).
+Now we know that Stp (NX (Q)/Q) = 0 whenever Q is a p-subgroup of a
+finite group X with Q ̸= Op (NX (Q)). For G as presently under consideration,
+we know that if Q = Op (NG (Q)), then NG (Q) is conjugate to PJ for some J ⊆ I
+and Stp (NG (Q)/Q) ̸= 0, so we may suppose that Q = UJ since we deal with
+p-subgroups of G up to G-conjugacy.
+Now we can prove:
+
+25
+
+Theorem 11.6: Suppose that G has a BN -pair with characteristic p. Then
+P1,p,G = St ⊗ St,
+where St denotes the Steinberg module for RG.
+Proof: As noted in the preceding discussion, the Steinberg (genuine) module
+St for RG may be expressed in the Green ring for RG as
+X
+(−1)|J| IndG
+St =
+PJ (R),
+J⊆I
+
+where R denotes the trivial module, and I is the set of generating reflections
+for the Weyl group of G. Also, we have
+St = (−1)|I| Stp (G),
+(according to the sign notation we have adopted).
+Whenever PJ is a parabolic subgroup of G, we saw in the discussion preceding the statement of the Theorem that ResG
+PJ (St) is the projective cover as
+RPJ -module of StPJ /UJ .
+Hence, by 11.3 above, together with the discussion preceding the statement
+of the Theorem, we see that in the Green ring of RG, we have
+X
+P1,p,G =
+(−1)|J| IndG
+PJ (P [StPJ /UJ ])
+J⊆I
+
+
+= St ⊗ 
+
+
+X
+
+
+(−1)|J| IndG
+PJ (R)
+
+J⊆I
+
+= St ⊗ St(= Stp (G) ⊗ Stp (G)),
+as required.
+Remark 11.7: This provides an alternative proof of the known fact that when
+G is a finite group with a characteristic p-type BN -pair, the number of pelements of CG (y) is |CG (y)|2p for each p-regular y ∈ G.
+In fact, this approach gives some insight into the (well-known) fact that the
+value taken by the character χI afforded by the Steinberg module St at y is
+±|CG (y)|p for each p-regular y ∈ G, when G has a BN -pair of characteristic
+p-type. We briefly outline the argument. If the p-regular element y is such that
+p||CG (y)|, then y certainly normalizes a non-trivial p-subgroup of G, and then
+some conjugate of y lies in a (proper) parabolic subgroup PJ , so we might as well
+suppose that y ∈ PJ . Now ResG
+PJ (St) is the projective cover of StPJ /UJ as RPJ module. By induction on |I|, we may suppose that the Steinberg character of
+PJ /UJ takes value ±|CPJ /UJ )(yUJ )|p at yUJ . Then the result of W.F. Reynolds
+
+26
+
+quoted at the end of Section 3 (and also used in Section 7) tells us that the value
+of the character afforded by St at y is
+|CUJ (y)| × ±|CPJ /UJ )(yUJ )|p = ±|CPJ (y)|p ,
+(using standard results on coprime action). This argument in fact tells us that
+we have χI (y) = ±pry for some non-negative integer ry , and that pry ||CG (y)|.
+On the other hand, the fact that χI is an irreducible character vanishing on
+(y)
+is an algebraic integer, so we must
+p-singular elements of G tells us that |CχGI(y)|
+p
+have χI (y) = ±|CG (y)|p . Strictly speaking, we have not yet dealt with the case
+that the p-regular element y normalizes no non-trivial p-subgroup of G. But in
+that case, we have χI (y) = ±1 because no conjugate of y lies in any (proper)
+parabolic subgroup PJ .
+Notice that the case |I| = 1 is covered by the above arguments. In the case
+|I| = 1, our assumption is that G is a doubly transitive permutation group of
+degree |U | + 1 where U is a Sylow p-subgroup of G, and the point stabilizer
+B = NG (U ). In this case, χI = IndG
+B (1) − 1 is an irreducible character of degree
+|U | and is afforded by a projective RG-module. If y is a p-regular element of G
+such that no conjugate of y lies in B, then χI (y) = −1. If the p-regular element
+y lies in B, then ResG
+B (χI ) is the character afforded by projective cover of the
+trivial RB-module, and we noted in Section 3 that this gives χI (y) = |CU (y)|.
+
+12
+
+More implications of conjectures for Brauer
+characters
+
+Let Φ denote the ℓ × ℓ matrix whose (i, j) entry is ϕi (yj ), where {ϕi : 1 ≤ i ≤ ℓ}
+are the irreducible Brauer characters of G and {yj : 1 ≤ j ≤ ℓ} is a set of
+representatives for the p-regular conjugacy classes of G. Let C denote the Cartan
+matrix of RG, and let Y denote the diagonal ℓ × ℓ matrix whose i-th entry on
+the main diagonal is |CG (yi )|. Let Θ denote the ℓ × ℓ matrix with (i, j)-entry
+θi (yj ), where θi is the unique (Brauer) character of a projective indecomposable
+RG-module with ⟨θi , ϕj ⟩ = δij for 1 ≤ j ≤ ℓ. Note that if θ is the character
+of a projective RG-module, we may extend its Brauer character to a character
+of G by decreeing that it takes value 0 on all p-singular elements. Also, if ϕ
+is any Brauer character of G, we may consider ϕθ as a character of G for the
+same reason. Finally, each Brauer character of a projective FG-module may be
+regarded as a character of G in the same fashion.
+By Brauer’s orthogonality relations, we have Θ = CΦ and
+t
+
+Φ CΦ = Y.
+Furthermore, we have
+t
+
+C −1 = ΦY −1 Φ .
+27
+
+Now let us consider the truncated conjugation character, which takes value
+|CG (x)| on p-regular elements x and 0 on all p-singular elements. Notice that
+t
+
+t
+
+ΦY = ΦΦ CΦ = ΦΦ Θ.
+On the other hand, we have seen that the truncated conjugation character really
+is the character of a projective RG-module, and may be written as
+ℓ
+X
+
+ϕi θ i .
+
+i=1
+
+In other words, we have ΦY = M Θ for some non-negative integer matrix M .
+Since Θ is an invertible matrix, we may conclude that
+M = ΦΦ
+
+t
+
+t
+
+and that ΦΦ is a matrix with non-negative integer entries.
+Suppose that now Conjecture B holds for CG (y) for all p-regular y ∈ G,
+so that Ψ1,p,CG (y) is a character of CG (y) afforded by a projective RCG (y)module for each p-regular element y of G. Recall that the truncated conjugation
+character for G is equal to
+X
+IndG
+CG (y) (Ψ1,p,CG (y) ).
+y∈Gp′ /G
+
+For each p-regular element y ∈ G, let Dy be the diagonal matrix whose i-th
+entry on the main diagonal is
+IndG
+CG (y) (Ψ1,p,CG (y) )[yi ].
+Note that this is the number of elements of the p′ -section of y which commute
+with yi .
+Since we are presently assuming that
+IndG
+CG (y) (Ψ1,p,CG (y) )
+is a character afforded by a projective RG-module in this case, we know that
+ΦDy = My Θ for some matrix My with non-negative integer entries. Note also
+that the rank of My is the number of non-zero entries on the main diagonal of
+Dy , which is the number of yi such that some conjugate of yi commutes with an
+element of the p′ -section of y. This is simply the number of yi such that CG (yi )
+meets the conjugacy class of y.
+Notice that we have
+X
+
+Dy = Y.
+
+y∈Gp′ /G
+
+28
+
+Now we have
+ΦDy = My CΦ,
+so that
+ΦDy Φ−1 = My C,
+and
+
+t
+
+X
+
+ΦDy Φ−1 = ΦY Φ−1 = ΦΦ CΦΦ−1 = M C.
+
+y∈Gp′ /G
+
+Since C is non-singular, we have
+X
+
+My = M.
+
+y∈Gp′ /G
+
+Hence we see that M is a positive definite symmetric matrix with nonnegative integer entries which may be expressed in the form
+X
+My ,
+y∈Gp′ /G
+
+where each My has non-negative integer entries.
+Let us note that
+ΦΦ
+
+t
+
+has (i, j)-entry
+ℓ
+X
+
+ϕi (yk )ϕj (yk ),
+
+k=1
+
+which is equal to ⟨Λc,p,G ϕi , ϕj ⟩.
+This is equal (by Frobenius reciprocity) to
+ℓ
+X
+
+G
+⟨ResG
+CG (ys ) (ϕi )Ψ1,p,CG (ys ) , ResCG (ys ) (ϕj )⟩,
+
+s=1
+
+which is in turn equal to
+ℓ
+X
+
+G
+∗
+∗
+⟨ResG
+CG (ys ) (ϕi ), ResCG (ys ) (ϕj )⟩.
+
+s=1
+
+Hence, for each s, the matrix Mys has (i, j)-entry
+G
+∗
+∗
+⟨ResG
+CG (ys ) (ϕi ), ResCG (ys ) (ϕj )⟩,
+
+so that Mys is Hermitian and positive semi-definite for each s. As noted earlier,
+the rank of the matrix Mys is the number of i ≤ ℓ such that the conjugacy class
+of yi meets CG (ys ).
+29
+
+Hence we have proved:
+Theorem 12.1: Let G be a finite group such that for each p-regular element
+t
+y ∈ G, the subgroup CG (y) satisfies Conjecture B. Then M = ΦΦ may be
+expressed in the form
+X
+M=
+My ,
+y∈Gp′ /G
+
+where each My is a positive semi-definite symmetric matrix with non-negative
+integer entries, and whose rank is the number of p-regular conjugacy classes
+of G meeting CG (y). Furthermore, the matrices My C are mutually commuting
+and simultaneously diagonalizable with sum M C which is similar to Y . The
+eigenvalues of My C are (counting repetitions) the ℓ values
+IndG
+CG (y) (Ψ1,p,CG (y) )[z]
+as z runs over a set of representatives of the p-regular conjugacy classes of G.
+These values may be respectively rewritten as |SpG′ (y) ∩ CG (z)| in each case.
+Let us continue in a similar spirit in the case that G has a BN -pair in
+characteristic p. Let χs denote the Steinberg character of G, and recall that
+in this case Ψ1,p,G = χs χs . Let {ϕi : 1 ≤ i ≤ ℓ} be the set of irreducible
+Brauer characters of G. As before, we may regard each ϕi χs as the character
+of a projective RG-module by considering it to have value 0 on all p-singular
+elements. Then we may obtain a version of a theorem of G. Lusztig [11]:
+Theorem 12.2: Let G be as above. Then
+{χs ϕi : 1 ≤ i ≤ ℓ}
+is a Z-basis, consisting of characters afforded by projective RG-modules, for the
+Z-module of generalized characters of G vanishing on all p-singular elements.
+Proof: Recall that Ψ1,p,G = χs χs in this case. Now for each i, j, we have
+⟨ϕ∗i , ϕ∗j ⟩ = ⟨Ψ1,p,G ϕi , ϕj ⟩ = ⟨ϕi χs , ϕj χs ⟩.
+Let M1 be the matrix defined as in the proof of the previous theorem, so
+that ΦD1 = M1 Θ and
+M1 C = ΦD1 Φ−1 .
+Now
+Y
+
+det(D1 ) =
+
+|CG (y)|2p = det(C)2 .
+
+y∈Gp′ /G
+
+Hence det(M1 ) = det(C).
+For 1 ≤ i ≤ ℓ, we may write
+χs ϕi =
+
+ℓ
+X
+j=1
+
+30
+
+aij θj
+
+for certain uniquely determined integers aij . Let A denote the ℓ × ℓ matrix [aij ].
+Now notice that we have
+At CA = [⟨ϕ∗i , ϕ∗j ⟩] = M1 ,
+as in the proof of the previous theorem. Thus A is unimodular and the result
+follows.
+
+13
+
+When p = 2 and the Sylow 2-subgroup of G
+is a Klein 4-group
+
+In this case, Ψ1,2,G (x) is the number of square roots of x in G for each x ∈ G,
+so that
+X
+Ψ1,2,G =
+ν(µ)µ,
+µ∈Irr(G)
+
+where ν is the usual Frobenius-Schur indicator. Furthermore, since CG (t) has
+a normal 2-complement for each involution t ∈ G under current hypotheses, we
+see by Theorem 7.3 that Ψ1,2,G is a character of G. Hence ν(µ) = 1 for each
+real-valued irreducible character µ of G.
+We now aim to prove that Ψ1,2,G is afforded by a projective RG-module. By
+(b)
+the results of Section 7, it suffices to prove that Ψ1,2,G is afforded by a projective
+RG-module, where b is the principal block of RG. We have
+[NG (S) : CG (S)] ∈ {1, 3}, where S ∈ Syl2 (G). If NG (S) = CG (S), then G has a
+normal 2-complement, and by Theorem 3.2, Ψ1,2,G is a character afforded by a
+projective RG-module. Suppose then that [NG (S) : CG (S)] = 3.
+In that case, G has a single conjugacy class of involutions, say with representative t. Furthermore, the principal 2-block b of G contains four irreducible
+characters, all of odd degree, and we have ℓ(b) = 3. Let θ1 denote the character
+of the projective cover of the trivial module. Then θ1 is real-valued, and all its
+irreducible constituents lie in the block b.
+Let 1, χ2 , χ3 , χ4 be the set of irreducible characters in b. Then there are
+signs 1, ϵ2 , ϵ3 , ϵ4 such that
+β = 1 + ϵ2 χ2 + ϵ3 χ3 + ϵ4 χ4
+vanishes on all 2-regular elements, and β takes value 4 on all 2-singular elements
+(note that ϵi = χi (t) for 2 ≤ i ≤ 4). Note also that tx has no square root in G
+P4
+whenever x is an element of odd order in CG (t), so that 1 + i=2 ϵi ν(χi ) = 0,
+by Brauer’s Second and Third Main Theorems.
+Suppose first that χ2 is not real-valued. Then
+X
+χ2 (g) = 0.
+g∈G
+
+31
+
+Also, we know that
+X
+
+χ2 (g 2 ) = 0
+
+g∈G
+
+since χ2 has Frobenius-Schur indicator 0. This leads to
+
+|G|
+|G| 
+⟨ResG
+,
+O2′ (CG (t)) (χ2 ), 1⟩ = ϵ2
+4
+4
+which forces ϵ2 to be non-negative, and hence ϵ2 = 1. But in that case, we may
+also assume that χ3 = χ2 and so also ϵ3 = 1. This now forces ϵ4 = −1 and
+ν(χ4 ) = 1.
+(b)
+
+In this case, then, we have Ψ1,2,G = 1 + χ4 .
+Now suppose that χi is real-valued for 2 ≤ i ≤ 4. Then χi has FrobeniusSchur indicator 1 for 1 ≤ i ≤ 4, and we have
+(b)
+
+Ψ1,2,G = 1 + χ2 + χ3 + χ4 .
+By results of Erdmann [5,6] and Landrock [10] (and earlier results of Brauer)
+we know that all decomposition numbers for b are 0 or 1. Also, up to ordering
+of simple b-modules, there are only two possibilities for the Cartan matrix of b.
+These are
+
+
+4 2 2
+ 2 2 1 
+2 1 2
+and
+
+
+
+2
+ 1
+1
+
+1
+2
+1
+
+
+1
+1 .
+2
+
+In the former case, where b is Morita equivalent to the principal 2-block of A5 ,
+the character of the projective cover of the trivial module has norm-squared 4.
+In the second case where b is Morita equivalent to the principal 2-block of A4 ,
+the character of the projective cover of the trivial module has norm squared 2.
+(b)
+
+In all cases, we may conclude that Ψ1,2,G = θ1 , the character afforded by
+the projective cover of the trivial module. For if ⟨θ1 , θ1 ⟩ = 4, and
+(b)
+
+Ψ1,2,G = 1 + χ4 ,
+then we are forced to conclude that χ2 + χ3 vanishes on 2-singular elements
+when χ2 is not real valued. However, χ2 and χ3 agree and do not vanish on
+2-singular elements in that case, a contradiction.
+On the other hand, in the case that χ2 , χ3 , χ4 are all real-valued and
+θ1 = 1 + χ 2 ,
+
+32
+
+(without loss of generality), then we may label so that ϵ2 = −1 = ϵ4 = −ϵ3 ,
+since 1 + ϵ2 + ϵ3 + ϵ4 = 0. But the only characters of projective indecomposable
+RG-modules in b which are consistent with the Cartan matrix for b in this case
+are 1 + χ2 , χ2 + χ3 and χ2 + χ4 , and these do not all vanish at t. Hence we have
+proved:
+Theorem 13.1: Suppose that G is a finite group whose Sylow 2-subgroup is a
+Klein 4-group. Then Ψ1,2,G is a character afforded by a projective RG-module.
+In particular, we have:
+Corollary 13.2: Suppose that G ∼
+= PSL(2, q) with q ̸≡ ±1 (mod 8). Then
+Conjecture B holds for G (for each prime divisor p of |G|).
+Proof: If q = 2, then G has a normal 2-complement and a normal Sylow 3subgroup. If q = 3, then G has a normal 3-complement and a normal Sylow
+2-subgroup. Theorem 3.2 may be applied in these cases.
+If q > 3, then G is a finite simple group. Let p be a prime divisor of |G|. If
+p divides q, then G has a characteristic p type BN-pair and Ψ1,2,p is the square
+of the Steinberg character. Hence we may suppose that q > 3 and p does not
+divide q. If p is odd, then G has a cyclic Sylow p-subgroup, so that Ψ1,p,G is a
+character afforded by a projective RG-module. If p = 2, then G has a Klein 4
+Sylow 2-subgroup and the result follows by 13.1.
+
+14
+
+Conjecture B for G = PSL(2, q) when PSL(2, q)
+has order divisible by 8
+
+Throughout this section, we suppose that G ∼
+= PSL(2, q) with q odd and that
+G has a dihedral Sylow 2-subgroup with at least 8 elements. Notice that G
+has one conjugacy class of involutions in this case, say with representative t.
+Our aim is to prove that Ψ1,2,G is a character of G which may be afforded by
+a projective RG-module. This will complete the proof that Conjecture B holds
+for G for all primes when G ∼
+= PSL(2, q). By the results of Sections 7,9 and
+13, it only remains to deal with the case p = 2 when G has a dihedral Sylow
+2-subgroup of order at least 8, and we need to prove that whenever ϕi is an
+absolutely irreducible Brauer character in the principal 2-block of RG, then
+⟨Ψ1,2,G , ϕ⟩ ≥ 0.
+There are two cases to consider:
+Case 1: q ≡ 1 (mod 8). In this case, CG (t) is a dihedral group with q − 1
+elements, and has a unique cyclic subgroup H of index 2. Write H = K × L
+where K has odd order and L is a 2-group. Then K = O2′ (CG (x)) for each
+non-identity element x ∈ L.
+
+33
+
+The character table of G was known to Frobenius. Combining this with the
+results of Brauer, Erdmann and Landrock mentioned in the previous section, we
+have the following information: G has exactly four irreducible characters of odd
+q+1
+degree (respectively of degree 1, q, q+1
+2 , 2 ), and these all lie in the principal
+2-block b of G (in general, as noted by R. Brauer, any 2-block of defect greater
+than one contains at least 4 irreducible characters of odd degree).
+G has q−1
+4 irreducible characters of degree q − 1, which all lie in 2-blocks of
+defect zero of G.
+|L|
+G has q−5
+4 irreducible characters of degree q + 1, and 2 − 1 of these are
+(all) the height one irreducible characters in the principal 2-block of G.
+
+By the results of Section VII of (Burkhardt, [3]) we know in this case that
+the Brauer character (for the prime 2) of a (complex) irreducible character χ of
+degree q+1
+2 decomposes on reduction (mod J(R) ) as 1 + ϕ where ϕ is a Brauer
+irreducible character of degree q−1
+2 . We claim that
+⟨Ψ1,2,G , ϕ⟩ ≥ 0.
+By Theorem 7.3, we know that
+⟨Ψ1,2,G , χ⟩ ≥ 0,
+so we only need to exclude the possibility that ⟨Ψ1,2,G , χ⟩ = 0, since we know
+that ⟨Ψ1,2,G , 1⟩ = 1.
+The argument at the end of the proof of 7.3 shows that the only way we can
+obtain ⟨Ψ1,2,G , χ⟩ = 0 is if we have
+⟨ResG
+O2′ (CG (x)) (χ), 1⟩ = χ(x)
+for each non-identity 2-element x ∈ G. But in this case, O2′ (CG (t)) is cyclic of
+order at most q−1
+8 for an involution t ∈ G, and χ takes constant value 1 on nonidentity elements of O2′ (CG (t)), (because the Borel subgroup B of PSL(2, q)
+is a Frobenius group of order q(q−1)
+and, (using unimodularity), ResG
+B (χ) de2
+q−1
+composes as 1 + µ, where µ is irreducible of degree 2 and µ vanishes on all
+non-identity elements of the cyclic Frobenius complement). Hence
+⟨ResG
+O2′ (CG (t)) (χ), 1⟩ ≥
+
+8(q + 1)
+> 4,
+2(q − 1)
+
+so we certainly have
+⟨ResG
+O2′ (CG (t)) (χ), 1⟩ > 1 = χ(t)
+and hence ⟨Ψ1,2,G , χ⟩ ≥ 1, as required to prove the claim.
+Since it was known to Brauer that there are three absolutely irreducible
+Brauer characters in the principal 2-block of G in this case, and from [3], we
+34
+
+know that these are the trivial Brauer character and two algebraically conjugate
+irreducible Brauer characters of degree q−1
+2 , we may conclude in this case that
+Ψ1,2,G has non-negative inner product with each Brauer irreducible character
+of G, so that Ψ1,2,G may be afforded by a projective RG-module.
+Case 2 : q ≡ −1 (mod 8).
+In this case, we know from [3] again that there are three absolutely irreducible Brauer characters in the principal 2-block of G, and they again have
+q−1
+respective degrees 1, q−1
+2 , 2 . However, in this case, these are all obtained by
+reduction (mod J(R)) of complex irreducible characters of G (this time, the
+odd degree irreducible characters in the principal 2-block have respective deq−1
+grees 1, q, q−1
+2 , 2 ). By Theorem 7.3, it follows that ⟨Ψ1,2,G , ϕ⟩ ≥ 0 for each
+Brauer irreducible character ϕ, so that we have completed the proof that Ψ1,2,G
+may be afforded by a projective RG-module.
+Theorem 14.1: Suppose that G ∼
+= PSL(2, q) where q is a prime power. Then
+for each prime p, the generalized character Ψ1,p,G is a character which may be
+afforded by a projective RG-module.
+In fact, using Theorem 3.2, we may deduce:
+Corollary 14.2: Suppose that G ∼
+= SL(2, q) where q is a prime power. Then
+for each prime p, the generalized character Ψ1,p,G is a character which may be
+afforded by a projective RG-module.
+Proof: If p is an odd prime divisor of |SL(2, q)|, then Ψ1,p,G contains the central
+involution of SL(2, q) in its kernel, and the result follows by 14.1. If p = 2, then
+by Theorem 3.2 we may deduce that Ψ1,2,G is afforded by the projective cover
+of M as RG-module, where Ψ1,2,G/Z(G) is afforded by the projective RG/Z(G)module M .
+
+15
+
+The truncated conjugation module as a direct summand of copies of the regular module
+
+Theorem 15.1 : The truncated conjugation module Tc,p,G is a direct summand
+of the direct sum of ℓ copies of the regular RG-module, and is not a direct
+summand of the direct sum of r copies of the regular module for any r < ℓ.
+Proof: We know that the projective cover of the trivial module occurs with
+multiplicity ℓ as a summand of Tc,p,G , while it only occurs with multiplicity one
+as a direct summand of the regular module RG. Hence the second assertion is
+clear. To prove the first assertion, it suffices to pove that for 1 ≤ i ≤ ℓ, the
+character θi occurs with multiplicity at most ℓϕi (1) as a summand of Λc,p,G .
+Pℓ
+But this multiplicity is j=1 ϕi (yj ), which is a non-negative integer less than
+or equal to ℓϕi (1).
+35
+
+Corollary 15.2: Whenever P1,p,G is a projective RG-module, then it is a
+direct summand of the regular RG-module.
+Proof: It suffices to prove that for i ≤ ℓ, the multiplicity of θi in Ψ1,p,G is at
+most ϕi (1). This multiplicity is
+ℓ
+X
+ϕi (yj )|Gp ∩ CG (yj )|
+j=1
+
+|CG (yj )|
+
+.
+
+Since the multiplicity of the character θ1 of the projective cover of the trivial
+module in Ψ1,p,G is one, we see easily that the multiplicity of θi is at most ϕi (1),
+and that equality occurs if and only if Op (G) ≤ kerϕi , in other words, equality
+can only occur when i = 1 and ϕi is the trivial Brauer character. Hence we have
+proved that θi occurs with multiplicity at most ϕi (1) − 1 in Ψ1,p,G for i > 1.
+Remark 15.3: In particular, whether or not P1,p,G is a projective RG-module,
+the only character afforded by the projective cover (as RG-module) of a onedimensional simple FG-module which occurs with non-zero multiplicity in Ψ1,p,G
+is the character afforded by the projective cover of the trivial module.
+Acknowledgement: We are grateful to G. Malle for pointing out some typographical errors and other inaccuracies in an earlier version of these notes, as
+well as providing the reference [3].
+References
+[1] Boltje, R., A canonical Brauer induction formula, Astérisque, 181-182,
+(1990), 31-59.
+[2] Brauer, R. and Feit, W., On the number of irreducible characters in a given
+block, Proceedings of the National Academy of Sciences, 45,3,(1959), 361-365.
+[3] Burkhardt, R., Die Zerlegungsmatrizen der Gruppen PSL(2, pf ), Journal of
+Algebra, 40, (1976), 75-96.
+[4] Curtis, C.W., The Steinberg character of a finite group with a (B, N )-pair,
+Journal of Algebra, 4, 3,(1966), 433-441.
+[5] Erdmann, K., Principal blocks of groups with dihedral Sylow 2-subgroups,
+Communications in Algebra,5,(1977), 665-694.
+[6] Erdmann, K., Blocks whose defect groups are Klein 4-groups, Journal of
+Algebra, 59,(1979),452-465.
+[7] Fong, P., Solvable groups and modular representation theory, Transactions of
+the American Mathematical Society, 103,3,(1962),484-494.
+[8] Green, J.A., The characters of the finite general linear group, Transactions
+of the American Mathematical Society, 80,2,(1955),403-447.
+[9] Isaacs, I.M., Characters of π-separable groups, Journal of Algebra, 86,(1984),98128.
+36
+
+[10] Landrock, P., The principal block of finite groups with dihedral Sylow 2subgroups, Journal of Algebra,39,2,(1970),410-428.
+[11] Lusztig, G., Divisibility of projective modules of finite Chevalley groups by
+the Steinberg module, Bulletin of the London Mathematical Society, 8, 2, (1976),
+130-134.
+[12] Murray, J., Projective modules and involutions, Journal of Algebra,299,
+2,(1006), 616-622.
+[13] Reynolds, W.F., Blocks and normal subgroups of finite groups, Nagaoya
+Mathematical Journal, 22, (1963), 15-32.
+[14] Robinson, G.R., On projective summands of induced modules, Journal of
+Algebra, 122, (1989), 106-111.
+[15] Scharf, T., Die Wurzlanzahlfunktion in symmetrichen Gruppen, Journal of
+Algebra, 131,(1991),446-457.
+[16] Solomon, L., On the sum of the elements in the character table of a finite
+group, Proceedings of the American Mathematical Society, 12,(1961),961-963.
+[17] Webb, P.J., Subgroup complexes, in: The Arcata Conference on Representations of Finite Groups (ed. P. Fong), AMS Proceedings of Symposia in Pure
+Mathematics, 47, (1987).
+
+37
+
+

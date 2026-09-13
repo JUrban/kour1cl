@@ -1,0 +1,11 @@
+after adding 1 power relators: enumeration failed (>3M)
+after adding 2 power relators: enumeration failed (>3M)
+after adding 3 power relators: enumeration failed (>3M)
+after adding 4 power relators: enumeration failed (>3M)
+after adding 5 power relators: enumeration failed (>3M)
+after adding 6 power relators: enumeration failed (>3M)
+after adding 7 power relators: enumeration failed (>3M)
+after adding 8 power relators: enumeration failed (>3M)
+after adding 9 power relators: enumeration failed (>3M)
+after adding 10 power relators: enumeration failed (>3M)
+after adding 11 power relators: enumeration failed (>3M)

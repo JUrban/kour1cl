@@ -1,0 +1,40 @@
+Syntax warning: Unbound global variable in search.g:9
+    ns := Filtered(NormalSubgroups(G), N -> Index(G,N) = 12);
+                                                  ^
+Syntax warning: Unbound global variable in search.g:10
+    Ks := Filtered(ns, N -> IsCyclic(G/N));
+                                     ^
+Syntax warning: Unbound global variable in search.g:11
+    Ls := Filtered(ns, N -> IdGroup(G/N) = [12,3]);
+                                    ^
+done order 12
+done order 24
+done order 36
+done order 48
+done order 60
+done order 72
+done order 84
+done order 96
+done order 108
+done order 120
+done order 132
+done order 144
+done order 156
+done order 168
+done order 180
+done order 192
+done order 204
+done order 216
+done order 228
+done order 240
+done order 252
+done order 264
+done order 276
+done order 288
+done order 300
+done order 312
+done order 324
+done order 336
+done order 348
+done order 360
+done order 372

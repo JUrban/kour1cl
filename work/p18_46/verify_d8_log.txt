@@ -1,0 +1,26 @@
+checked order 8
+checked order 16
+checked order 24
+checked order 32
+checked order 40
+checked order 48
+checked order 56
+checked order 64
+checked order 72
+checked order 80
+checked order 88
+checked order 96
+checked order 104
+checked order 112
+checked order 120
+groups of order < 128 containing a D8 of squares: [  ]
+D8 wr C2 (order 128, id 
+[ 128, 928 ]) contains a D8 consisting of squares: true
+order 128 id 134 works
+order 128 id 136 works
+order 128 id 138 works
+order 128 id 139 works
+order 128 id 140 works
+order 128 id 141 works
+order 128 id 144 works
+order 128 id 146 works

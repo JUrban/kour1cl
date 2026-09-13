@@ -5,3 +5,5 @@ FOUND |G|=34440 a=70 b=492 via |H|=14 k=5 |K|=41 l=12 |Omega|=60 trial=0
 FOUND |G|=34440 a=105 b=328 via |H|=21 k=5 |K|=164 l=2 |Omega|=10 trial=1
 FOUND |G|=34440 a=120 b=287 via |H|=60 k=2 |K|=41 l=7 |Omega|=14 trial=0
 FOUND |G|=34440 a=123 b=280 via |H|=41 k=3 |K|=40 l=7 |Omega|=21 trial=0
+NOT FOUND |G|=34440 a=140
+FINISHED

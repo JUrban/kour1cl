@@ -18,6 +18,7 @@
 | 21.26 (Lisi–Sabatini) | verified for all groups of order ≤ 2000 (a few 2-heavy orders excepted) and many larger groups; all inclusion-minimal Sylow intersections found equal O_p(G) | `verifications.md` |
 | 18.117 (Shumyatsky) | verified for 15 sporadic groups (M11 … Fi22) | `18.117_coprime_commutators_sporadic.md` |
 | 21.111 (Revin–Yang) | τ-groups of order ≤ 10⁷ are exactly PSL(2,3ⁿ), n = 2..5; proof that PSL(2,3ⁿ) are τ-groups | `21.111_tau_groups_partial.md` |
+| 19.56 (Monakhov) | every minimal simple group violates the hypothesis (uniform proof: involution and odd-prime-order ⋆-commutators in a dihedral configuration); a counterexample must be a minimal non-soluble group with non-trivial Frattini subgroup; verified for non-soluble groups ≤ 2000 | `19.56_star_commutators.md` |
 | many | exhaustive verifications in bounded ranges (no counterexamples) | `verifications.md` |
 
 Work directories: `work/p<problem>/` (scripts + logs). Progress log: `PROGRESS.md`.

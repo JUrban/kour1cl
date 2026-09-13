@@ -43,3 +43,5 @@
 - 16:50 UTC: 17.1 (Isaacs): no partition of any exponent-3 group of order 3^6 into subgroups of order 27 with a
   non-abelian component (exact cover, all 7 groups). 2.78 lemma verified for p=7,11 (n ≤ 4, r ≤ 2).
   13.19: explicit class-2 construction of order 512 with Q/H ≅ D8 being verified in GAP.
+- 17:30 UTC: **13.19 (Gorchakov) SOLVED (negative)**: explicit Q of order 512 (class 2), n = 3, Q/H ≅ D8;
+  verified via pc presentation (work/p13_19/construct_pc2.g). Report: reports/13.19_subdirect_products_counterexample.md.

@@ -7,7 +7,7 @@
 | 16.60 (MacHale) | Yes: T(G) ≥ |S_α| for every α ∈ Aut G | `16.60_twisted_frobenius_schur.md` |
 | 2.78/3.57 (Trofimov) | Soluble and absolutely simple numbers form finite sets (all k ≥ 86 are realised); 0–6, 8 soluble; 7 absolutely simple | `2.78_group_theoretic_numbers.md` |
 | 18.46 (Klyachko) | Yes, |H| ≤ 2|G|² is sharp (G = D₈ needs |H| = 128) | `18.46_square_roots_sharpness.md` |
-| 13.19 (Gorchakov) | No: Q/H can be D₈ (explicit Q of order 2⁹, n = 3) — *verification in progress* | `13.19_subdirect_products_counterexample.md` |
+| 13.19 (Gorchakov) | No: Q/H can be D₈ (explicit Q of order 2⁹, n = 3; verified in GAP) | `13.19_subdirect_products_counterexample.md` |
 
 ## Partial results
 | Problem | Result | Report |

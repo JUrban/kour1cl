@@ -1,0 +1,7 @@
+/project/work/p17_1/subs_729_122.txt subgroups: 1561 nonabelian: 1053 partition with a nonabelian component: False
+/project/work/p17_1/subs_729_425.txt subgroups: 2533 nonabelian: 972 partition with a nonabelian component: False
+/project/work/p17_1/subs_729_440.txt subgroups: 1561 nonabelian: 1053 partition with a nonabelian component: False
+/project/work/p17_1/subs_729_453.txt subgroups: 1642 nonabelian: 1026 partition with a nonabelian component: False
+/project/work/p17_1/subs_729_469.txt subgroups: 1480 nonabelian: 1080 partition with a nonabelian component: False
+/project/work/p17_1/subs_729_498.txt subgroups: 5449 nonabelian: 729 partition with a nonabelian component: False
+/project/work/p17_1/subs_729_501.txt subgroups: 2290 nonabelian: 810 partition with a nonabelian component: False

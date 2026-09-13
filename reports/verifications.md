@@ -45,3 +45,5 @@ All scripts/logs are in `work/<problem>/`. "Verified for X" means: exhaustive ch
 | 20.55 (Mattarei) | identical character tables, derived lengths 2 and 4 | no pair among soluble groups of order ≤ 432 (running to 1000) | `work/p20_55` |
 | 20.99 (Sun, k=5) | 5 disjoint cosets with all pairwise gcd of indices ≤ 4 | none in groups of order ≤ 31 (running to 120) | `work/p20_99` |
 | 21.111 | see reports/21.111_tau_groups_partial.md | | |
+| 20.86 (Schmid) | (final) | also all perfect groups of order ≤ 2·10⁵: no counterexample | `work/p20_86` |
+| 20.55 (Mattarei) | (final) | no pair of soluble groups of order ≤ 1000 (orders with ≤ 3000 groups) with identical character tables and derived lengths 2 and 4 | `work/p20_55` |

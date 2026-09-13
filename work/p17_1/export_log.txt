@@ -1,0 +1,8 @@
+exponent-3 group [ 729, 122 ] (C3 x C3 x ((C3 x C3) : C3)) : C3
+exponent-3 group [ 729, 425 ] C3 x ((C3 x ((C3 x C3) : C3)) : C3)
+exponent-3 group [ 729, 440 ] (C3 x C3 x ((C3 x C3) : C3)) : C3
+exponent-3 group [ 729, 453 ] ((C3 x C3) : C3) x ((C3 x C3) : C3)
+exponent-3 group [ 729, 469 ] ((C3 x ((C3 x C3) : C3)) : C3) : C3
+exponent-3 group [ 729, 498 ] C3 x C3 x C3 x ((C3 x C3) : C3)
+exponent-3 group [ 729, 501 ] C3 x ((C3 x ((C3 x C3) : C3)) : C3)
+FINISHED

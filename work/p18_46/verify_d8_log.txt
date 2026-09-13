@@ -24,3 +24,11 @@ order 128 id 140 works
 order 128 id 141 works
 order 128 id 144 works
 order 128 id 146 works
+order 128 id 928 works
+order 128 id 929 works
+order 128 id 930 works
+order 128 id 931 works
+order 128 id 932 works
+order 128 id 933 works
+number of groups of order 128 that work: 14
+FINISHED

@@ -12,3 +12,17 @@ done order 2187 tested 9006
 done order 125 tested 2
 done order 625 tested 10
 done order 3125 tested 70
+Error, List Element: <list>[1] must have an assigned value
+*[1] return possible[i];
+   @ /project/gap-4.16.1/lib/ctblgrp.gi:1732
+ [2] D.ClassElement( D, D.classreps[i] ^ -1 )
+   @ /project/gap-4.16.1/lib/ctblgrp.gi:123
+ [3] DxCalcAllPowerMaps( DixonRecord( tbl ) );
+   @ /project/gap-4.16.1/lib/ctblgrp.gi:220
+ [4] ComputeAllPowerMaps( tbl );
+   @ /project/gap-4.16.1/lib/ctblsolv.gi:860
+ [5] Irr( G, 0 )
+   @ /project/gap-4.16.1/lib/ctbl.gi:875
+...  at check.g:17
+type 'quit;' to quit to outer loop
+[1m[34m[0m[31m

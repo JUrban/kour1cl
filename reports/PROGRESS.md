@@ -32,3 +32,6 @@
   Report: reports/2.78_group_theoretic_numbers.md.
 - 21.113: Robinson's own paper (arXiv:2505.03976) proves it only for PSL(2,q); deprioritised.
 - Sweeps for 20.21, 19.20, 18.20, 18.119, 18.77, 17.128, 18.44, 14.44, 13.19 continue with no hits.
+- 14:50 UTC: 2.78 construction verified numerically (f(A5 × M_343) = 30, p-group lemma for p=7, n≤4, r≤1).
+  18.46 (Klyachko): minimal square-root overgroups computed: C2→4, C4→8, V4→16, S3→36, C6→12, C8→16, C4×C2→32;
+  all ≤ |G|² so far (data collection continues).

@@ -5,7 +5,7 @@ VanOrders := function(G) local tbl, irr, cls, i;
 end;
 for S in [AlternatingGroup(5), PSL(2,7), AlternatingGroup(6), PSL(2,8), PSL(2,11), PSL(2,13)] do
   vS := VanOrders(S); n := Size(S);
-  Print(Name(S), " vanishing orders ", vS, "\n");
+  Print(Size(S), ": vanishing orders ", vS, "\n");
   for k in [1..NrSmallGroups(n)] do
     G := SmallGroup(n,k);
     if IsSimple(G) then continue; fi;

@@ -1,8 +1,7 @@
-Error, no method found! For debugging hints type ?Recovery from NoMethodFound
-Error, no 1st choice method found for `Name' on 1 arguments
-*[1] Name( S )
-   @ check.g:8
-<function "unknown">( <arguments> )
- called from read-eval loop at check.g:14
-type 'quit;' to quit to outer loop
-[1m[34m[0m[31m
+60: vanishing orders [ 2, 3, 5 ]
+168: vanishing orders [ 2, 3, 4, 7 ]
+360: vanishing orders [ 2, 3, 4, 5 ]
+504: vanishing orders [ 2, 3, 7, 9 ]
+660: vanishing orders [ 2, 3, 5, 6, 11 ]
+1092: vanishing orders [ 2, 3, 6, 7, 13 ]
+FINISHED

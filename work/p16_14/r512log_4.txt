@@ -372,3 +372,195 @@ H512 [ 512, 10494101 ] F3:
 3 involutions always lift to involutions -> excluded
 H512 [ 512, 10494102 ] F3: 
 3 involutions always lift to involutions -> excluded
+H512 [ 512, 10494103 ] F3: 
+3 involutions always lift to involutions -> excluded
+H512 [ 512, 10494104 ] F3: 
+3 involutions always lift to involutions -> excluded
+H512 [ 512, 10494105 ] F3: 
+3 involutions always lift to involutions -> excluded
+H512 [ 512, 10494106 ] F3: 
+3 involutions always lift to involutions -> excluded
+H512 [ 512, 10494107 ] F3: 
+3 involutions always lift to involutions -> excluded
+H512 [ 512, 10494108 ] F3: 
+3 involutions always lift to involutions -> excluded
+H512 [ 512, 10494109 ] F3: 
+3 involutions always lift to involutions -> excluded
+H512 [ 512, 10494110 ] F3: 
+3 involutions always lift to involutions -> excluded
+H512 [ 512, 10494111 ] F3: 
+3 involutions always lift to involutions -> excluded
+H512 [ 512, 10494112 ] F3: 
+3 involutions always lift to involutions -> excluded
+H512 [ 512, 10494113 ] F3: 
+3 involutions always lift to involutions -> excluded
+H512 [ 512, 10494114 ] F3: 
+3 involutions always lift to involutions -> excluded
+H512 [ 512, 10494115 ] F3: 
+3 involutions always lift to involutions -> excluded
+H512 [ 512, 10494116 ] F3: 
+3 involutions always lift to involutions -> excluded
+H512 [ 512, 10494117 ] F3: 
+3 involutions always lift to involutions -> excluded
+H512 [ 512, 10494118 ] F3: 
+3 involutions always lift to involutions -> excluded
+H512 [ 512, 10494119 ] F3: 
+3 involutions always lift to involutions -> excluded
+H512 [ 512, 10494120 ] F3: 
+3 involutions always lift to involutions -> excluded
+H512 [ 512, 10494121 ] F3: 
+3 involutions always lift to involutions -> excluded
+H512 [ 512, 10494122 ] F3: 
+3 involutions always lift to involutions -> excluded
+H512 [ 512, 10494123 ] F3: 
+3 involutions always lift to involutions -> excluded
+H512 [ 512, 10494124 ] F3: 
+3 involutions always lift to involutions -> excluded
+H512 [ 512, 10494125 ] F3: 
+3 involutions always lift to involutions -> excluded
+H512 [ 512, 10494126 ] F3: 
+3 involutions always lift to involutions -> excluded
+H512 [ 512, 10494127 ] F3: 
+3 involutions always lift to involutions -> excluded
+H512 [ 512, 10494128 ] F3: 
+3 involutions always lift to involutions -> excluded
+H512 [ 512, 10494129 ] F3: 
+3 involutions always lift to involutions -> excluded
+H512 [ 512, 10494130 ] F3: 
+3 involutions always lift to involutions -> excluded
+H512 [ 512, 10494131 ] F3: 
+3 involutions always lift to involutions -> excluded
+H512 [ 512, 10494132 ] F3: 
+3 involutions always lift to involutions -> excluded
+H512 [ 512, 10494133 ] F3: 
+3 involutions always lift to involutions -> excluded
+H512 [ 512, 10494134 ] F3: 
+3 involutions always lift to involutions -> excluded
+H512 [ 512, 10494135 ] F3: 
+3 involutions always lift to involutions -> excluded
+H512 [ 512, 10494136 ] F3: 
+3 involutions always lift to involutions -> excluded
+H512 [ 512, 10494137 ] F3: 
+3 involutions always lift to involutions -> excluded
+H512 [ 512, 10494138 ] F3: 
+3 involutions always lift to involutions -> excluded
+H512 [ 512, 10494139 ] F3: 
+3 involutions always lift to involutions -> excluded
+H512 [ 512, 10494140 ] F3: 
+3 involutions always lift to involutions -> excluded
+H512 [ 512, 10494141 ] F3: 
+3 involutions always lift to involutions -> excluded
+H512 [ 512, 10494142 ] F3: 
+3 involutions always lift to involutions -> excluded
+H512 [ 512, 10494143 ] F3: 
+3 involutions always lift to involutions -> excluded
+H512 [ 512, 10494144 ] F3: 
+3 involutions always lift to involutions -> excluded
+H512 [ 512, 10494145 ] F3: 
+3 involutions always lift to involutions -> excluded
+H512 [ 512, 10494146 ] F3: 
+3 involutions always lift to involutions -> excluded
+H512 [ 512, 10494147 ] F3: 
+3 involutions always lift to involutions -> excluded
+H512 [ 512, 10494148 ] F3: 
+3 involutions always lift to involutions -> excluded
+H512 [ 512, 10494149 ] F3: 
+3 involutions always lift to involutions -> excluded
+H512 [ 512, 10494150 ] F3: 
+3 involutions always lift to involutions -> excluded
+H512 [ 512, 10494151 ] F3: 
+3 involutions always lift to involutions -> excluded
+H512 [ 512, 10494152 ] F3: 
+3 involutions always lift to involutions -> excluded
+H512 [ 512, 10494153 ] F3: 
+3 involutions always lift to involutions -> excluded
+H512 [ 512, 10494154 ] F3: 
+3 involutions always lift to involutions -> excluded
+H512 [ 512, 10494155 ] F3: 
+3 involutions always lift to involutions -> excluded
+H512 [ 512, 10494156 ] F3: 
+3 involutions always lift to involutions -> excluded
+H512 [ 512, 10494157 ] F3: 
+3 involutions always lift to involutions -> excluded
+H512 [ 512, 10494158 ] F3: 
+3 involutions always lift to involutions -> excluded
+H512 [ 512, 10494159 ] F3: 
+3 involutions always lift to involutions -> excluded
+H512 [ 512, 10494160 ] F3: 
+3 involutions always lift to involutions -> excluded
+H512 [ 512, 10494161 ] F3: 
+3 involutions always lift to involutions -> excluded
+H512 [ 512, 10494162 ] F3: 
+3 involutions always lift to involutions -> excluded
+H512 [ 512, 10494163 ] F3: 
+3 involutions always lift to involutions -> excluded
+H512 [ 512, 10494164 ] F3: 
+3 involutions always lift to involutions -> excluded
+H512 [ 512, 10494165 ] F3: 
+3 involutions always lift to involutions -> excluded
+H512 [ 512, 10494166 ] F3: 
+3 involutions always lift to involutions -> excluded
+H512 [ 512, 10494167 ] F3: 
+3 involutions always lift to involutions -> excluded
+H512 [ 512, 10494168 ] F3: 
+3 involutions always lift to involutions -> excluded
+H512 [ 512, 10494169 ] F3: 
+3 involutions always lift to involutions -> excluded
+H512 [ 512, 10494170 ] F3: 
+3 involutions always lift to involutions -> excluded
+H512 [ 512, 10494171 ] F3: 
+3 involutions always lift to involutions -> excluded
+H512 [ 512, 10494172 ] F3: 
+3 involutions always lift to involutions -> excluded
+H512 [ 512, 10494173 ] F3: 
+3 involutions always lift to involutions -> excluded
+H512 [ 512, 10494174 ] F1: 2-rank >= 7 -> excluded
+H512 [ 512, 10494175 ] F1: 2-rank >= 7 -> excluded
+H512 [ 512, 10494176 
+ ] F2: some maximal subgroup has smaller Frattini -> excluded
+H512 [ 512, 10494177 
+ ] F2: some maximal subgroup has smaller Frattini -> excluded
+H512 [ 512, 10494178 
+ ] F2: some maximal subgroup has smaller Frattini -> excluded
+H512 [ 512, 10494179 
+ ] F2: some maximal subgroup has smaller Frattini -> excluded
+H512 [ 512, 10494180 
+ ] F2: some maximal subgroup has smaller Frattini -> excluded
+H512 [ 512, 10494181 ] F1: 2-rank >= 7 -> excluded
+H512 [ 512, 10494182 ] F1: 2-rank >= 7 -> excluded
+H512 [ 512, 10494183 
+ ] F2: some maximal subgroup has smaller Frattini -> excluded
+H512 [ 512, 10494184 
+ ] F2: some maximal subgroup has smaller Frattini -> excluded
+H512 [ 512, 10494185 
+ ] F2: some maximal subgroup has smaller Frattini -> excluded
+H512 [ 512, 10494186 
+ ] F2: some maximal subgroup has smaller Frattini -> excluded
+H512 [ 512, 10494187 
+ ] F2: some maximal subgroup has smaller Frattini -> excluded
+H512 [ 512, 10494188 
+ ] F2: some maximal subgroup has smaller Frattini -> excluded
+H512 [ 512, 10494189 
+ ] F2: some maximal subgroup has smaller Frattini -> excluded
+H512 [ 512, 10494190 
+ ] F2: some maximal subgroup has smaller Frattini -> excluded
+H512 [ 512, 10494191 
+ ] F2: some maximal subgroup has smaller Frattini -> excluded
+H512 [ 512, 10494192 
+ ] F2: some maximal subgroup has smaller Frattini -> excluded
+H512 [ 512, 10494193 
+ ] F2: some maximal subgroup has smaller Frattini -> excluded
+H512 [ 512, 10494194 
+ ] F2: some maximal subgroup has smaller Frattini -> excluded
+H512 [ 512, 10494195 
+ ] F2: some maximal subgroup has smaller Frattini -> excluded
+H512 [ 512, 10494196 
+ ] F2: some maximal subgroup has smaller Frattini -> excluded
+H512 [ 512, 10494197 
+ ] F2: some maximal subgroup has smaller Frattini -> excluded
+H512 [ 512, 10494198 ] F1: 2-rank >= 7 -> excluded
+H512 [ 512, 10494199 
+ ] F2: some maximal subgroup has smaller Frattini -> excluded
+H512 [ 512, 10494200 
+ ] F2: some maximal subgroup has smaller Frattini -> excluded
+FINISHED

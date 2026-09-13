@@ -2,6 +2,7 @@
 # For Z(G)=1 this is also sufficient (H = Q).
 HasQ := function(G)
   local A, I, cands, Q;
+  if IsAbelian(G) then return true; fi;
   A := AutomorphismGroup(G);
   I := InnerAutomorphismsAutomorphismGroup(A);
   # subgroups Q of A containing I with Q' = I  <=> Q/I abelian and Q' = I; enumerate via intermediate subgroups

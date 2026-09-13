@@ -4,3 +4,17 @@ Co3: classes 42, not yet realised as coprime commutators:
 Co3: class of order 2 size 170775 realised: |x|=18 |y|=5
 Co3: class of order 3 size 1416800 realised: |x|=15 |y|=8
 Co2: degree 2300 order 42305421312000
+Co2: classes 60, not yet realised as coprime commutators: 
+[ [ 2, 56925 ], [ 2, 1024650 ], [ 2, 28690200 ], [ 3, 90675200 ] ] (
+300000 random pairs)
+Co2: class of order 2 size 56925 realised: |x|=24 |y|=11
+Co2: class of order 2 size 1024650 realised: |x|=18 |y|=11
+Co2: class of order 2 size 28690200 realised: |x|=20 |y|=11
+Co2: class of order 3 size 90675200 realised: |x|=11 |y|=10
+Suz: degree 1782 order 448345497600
+Suz: classes 43, not yet realised as coprime commutators: 
+[ [ 2, 2779920 ], [ 2, 135135 ], [ 3, 45760 ] ] (300000 random pairs)
+Suz: class of order 2 size 2779920 realised: |x|=15 |y|=13
+Suz: class of order 2 size 135135 realised: |x|=15 |y|=2
+Suz: class of order 3 size 45760 realised: |x|=14 |y|=13
+Fi22: degree 3510 order 64561751654400

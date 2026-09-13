@@ -48,3 +48,7 @@
 - 18:00 UTC: launched 18.56 (core-2 2-groups ≤ 256), 18.120 (factorised p-groups), 21.2 (order-divisibility bijections),
   19.12 (conjugacy-expansive simple groups with ≤ 24 classes, C checker), 15.3, 20.4, 19.33, 17.1 (p=5).
   Stopped low-value sweeps (18.20, 18.119, 14.44, 19.20, 11.18 PSL(2,q) quotients).
+- 18:45 UTC: 18.117 verified for M11, M12, M22, M23, M24, J1, J2, HS, J3, McL, He, Co3, Co2, Suz (all classes are
+  coprime commutators; explicit certificates found). Fi22, ON, Ru, ... running. 19.12 verified for the 34 simple
+  groups with ≤ 24 classes; 20.100 (n=4) verified for all groups of order coprime to 30 up to 300.
+  20.71 (graph cards, k=2,3): exhaustive nauty search over connected graphs with ≤ 9 vertices: no example; n=10,11 running.

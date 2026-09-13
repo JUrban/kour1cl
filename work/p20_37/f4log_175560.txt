@@ -13,3 +13,13 @@ NOT FOUND |G|=175560 a=190
 NOT FOUND |G|=175560 a=209
 NOT FOUND |G|=175560 a=210
 FOUND |G|=175560 a=228 b=770 via |H|=57 k=4 |K|=110 l=7 |Omega|=28 trial=0
+NOT FOUND |G|=175560 a=231
+NOT FOUND |G|=175560 a=264
+FOUND |G|=175560 a=280 b=627 via |H|=56 k=5 |K|=57 l=11 |Omega|=55 trial=0
+FOUND |G|=175560 a=285 b=616 via |H|=57 k=5 |K|=56 l=11 |Omega|=55 trial=0
+NOT FOUND |G|=175560 a=308
+NOT FOUND |G|=175560 a=380
+FOUND |G|=175560 a=385 b=456 via |H|=55 k=7 |K|=114 l=4 |Omega|=28 trial=1
+FOUND |G|=175560 a=399 b=440 via |H|=57 k=7 |K|=110 l=4 |Omega|=28 trial=0
+NOT FOUND |G|=175560 a=418
+FINISHED

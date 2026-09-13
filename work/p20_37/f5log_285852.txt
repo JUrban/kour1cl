@@ -3,3 +3,8 @@ already solved a=164
 already solved a=166
 already solved a=246
 already solved a=249
+NOT FOUND |G|=285852 a=287
+already solved a=332
+already solved a=492
+already solved a=498
+FINISHED

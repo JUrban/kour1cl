@@ -8,3 +8,10 @@ already solved a=156
 already solved a=158
 already solved a=195
 FOUND |G|=246480 a=208 b=1185 via |H|=26 k=8 |K|=237 l=5 |Omega|=40 trial=1734
+NOT FOUND |G|=246480 a=260
+already solved a=312
+already solved a=316
+already solved a=390
+already solved a=395
+already solved a=474
+FINISHED

@@ -19,3 +19,6 @@ already solved a=213
 already solved a=252
 already solved a=280
 already solved a=284
+NOT FOUND |G|=178920 a=315
+already solved a=420
+FINISHED

@@ -1,3 +1,10 @@
 done order 48 (41 dl2, 2 dl4)
 done order 96 (198 dl2, 8 dl4)
 done order 144 (159 dl2, 6 dl4)
+done order 192 (1405 dl2, 50 dl4)
+done order 216 (126 dl2, 3 dl4)
+done order 240 (181 dl2, 4 dl4)
+done order 288 (876 dl2, 32 dl4)
+done order 320 (1621 dl2, 2 dl4)
+done order 336 (202 dl2, 4 dl4)
+done order 432 (566 dl2, 32 dl4)

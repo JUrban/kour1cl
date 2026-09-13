@@ -30,3 +30,18 @@ All scripts/logs are in `work/<problem>/`. "Verified for X" means: exhaustive ch
 | 18.114 (Schmid) | k(VG)=|V|, G irreducible 5′-subgroup of GL(n,5) non-cyclic | for n ≤ 3 only Singer cycles (C4, C24, C124) give equality | `work/p18_114` |
 | 21.111 (Revin–Yang) | τ-groups | among simple groups of order ≤ 10⁷ (3 ∤ Sz(8) excluded): τ-groups are exactly A6=PSL(2,9), PSL(2,27), PSL(2,81), PSL(2,243); all τ-automorphisms found are involutions | `work/p21_111` |
 | 11.18 / 17.80 (Brandl, Macedońska) | G(2,3) = ⟨x,y | x=[x,y,y], y=[y,x,x,x]⟩ | perfect; no proper subgroups of index ≤ 12; no quotient onto any simple group of order ≤ 2·10⁵; coset enumeration fails with 4·10⁸ cosets (ACE) | `work/p11_18` |
+
+### Additional verifications (2026-09-13, 15:40 UTC)
+| Problem | Statement (short) | Verified range | Scripts |
+|---|---|---|---|
+| 20.21 (Verret–Conder) | G with normal K ≅ L of index 12, G/K ≅ C₁₂, G/L ≅ A₄ | no example among all groups of order ≤ 2000 (orders with ≤ 30000 groups; all orders divisible by 12 except 1536); also no candidate K of order ≤ 60 satisfying the local necessary condition | `work/p20_21` |
+| 20.86 (Schmid) | ℓ^p ≥ k^{p−1} (Gheri's inequality f_p^p ≥ s_p^{p−1}) for non-p-soluble groups | all 208 non-soluble groups of order ≤ 2000 (orders with ≤ 5000 groups), all 65 simple groups of order ≤ 3·10⁶; perfect groups running | `work/p20_86` |
+| 20.30 (Neumann–Vaughan-Lee) | perfect centreless G: |G| ≤ n² (n = max class size) | all perfect groups of order < 10⁶ with trivial centre | `work/p20_30` |
+| 19.30 | same order and same set of orders of vanishing elements as S ⇒ G ≅ S | S = A₅, PSL(2,7), A₆, PSL(2,8), PSL(2,11), PSL(2,13): all groups of order |S| | `work/p19_30` |
+| 19.20 (Cameron) | |End(G)| = |PIso(G)| ⇒ G abelian | all groups of order ≤ 120 (running) | `work/p19_20` |
+| 16.45 (Cameron) | b(G) = μ′(G) (b = max size of an irredundant family of subgroups with normal intersection) | all non-cyclic groups of order ≤ 31 (running to 32) | `work/p16_45` |
+| 16.63 / 15.29 | p-groups with |Aut G| = |G| (odd p); 2-groups with Aut G ≅ G | none of order 3⁶; running 3⁷, 5ⁿ, 7ⁿ, 2ⁿ | `work/p16_63` |
+| 16.33 (Glauberman) | abelian B of maximal order normal in ⟨B^G⟩ | all 2-groups of order ≤ 64 (running), 3-groups running | `work/p16_33` |
+| 20.55 (Mattarei) | identical character tables, derived lengths 2 and 4 | no pair among soluble groups of order ≤ 432 (running to 1000) | `work/p20_55` |
+| 20.99 (Sun, k=5) | 5 disjoint cosets with all pairwise gcd of indices ≤ 4 | none in groups of order ≤ 31 (running to 120) | `work/p20_99` |
+| 21.111 | see reports/21.111_tau_groups_partial.md | | |

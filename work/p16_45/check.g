@@ -23,20 +23,19 @@ MuPrime := function(G)
   return best;
 end;
 BOfG := function(G)
+  # max n: subgroups H_1..H_n with N = intersection normal in G and irredundant (dropping any H_i enlarges the intersection)
   local subs, best, rec_;
-  subs := Filtered(Concatenation(List(ConjugacyClassesSubgroups(G), c -> AsList(c))), S -> Size(S) > 1 and Size(S) < Size(G));
+  subs := Filtered(Concatenation(List(ConjugacyClassesSubgroups(G), c -> AsList(c))), S -> Size(S) < Size(G));
   best := 0;
   rec_ := function(chosen, inter, start)
     local i, S, ni, ok, j, I;
-    if Size(inter) = 1 then
-      # irredundancy
+    if IsNormal(G, inter) and Length(chosen) > best then
       ok := true;
       for j in [1..Length(chosen)] do
         I := G; for i in Difference([1..Length(chosen)],[j]) do I := Intersection(I, chosen[i]); od;
-        if Size(I) = 1 then ok := false; break; fi;
+        if Size(I) = Size(inter) then ok := false; break; fi;
       od;
-      if ok and Length(chosen) > best then best := Length(chosen); fi;
-      return;
+      if ok then best := Length(chosen); fi;
     fi;
     for i in [start..Length(subs)] do
       S := subs[i]; ni := Intersection(inter, S);

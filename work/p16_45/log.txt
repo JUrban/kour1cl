@@ -4,7 +4,6 @@ done order 4
 done order 5
 done order 6
 done order 7
-MISMATCH [ 8, 4 ] Q8 b=0 mu'=2
 done order 8
 done order 9
 done order 10
@@ -13,9 +12,6 @@ done order 12
 done order 13
 done order 14
 done order 15
-MISMATCH [ 16, 9 ] Q16 b=0 mu'=2
-MISMATCH [ 16, 12 ] C2 x Q8 b=2 mu'=3
-MISMATCH [ 16, 13 ] (C4 x C2) : C2 b=2 mu'=3
 done order 16
 done order 17
 done order 18
@@ -24,5 +20,11 @@ done order 20
 done order 21
 done order 22
 done order 23
-MISMATCH [ 24, 4 ] C3 : Q8 b=2 mu'=3
-MISMATCH [ 24, 11 ] C3 x Q8 b=2 mu'=3
+done order 24
+done order 25
+done order 26
+done order 27
+done order 28
+done order 29
+done order 30
+done order 31

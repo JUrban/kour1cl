@@ -7,3 +7,4 @@ Syntax warning: Unbound global variable in check.g:17
 done order 8 groups 2
 done order 16 groups 9
 done order 32 groups 44
+done order 64 groups 256

@@ -1,0 +1,27 @@
+PSL(2,8) |G|=504 degree 9 missing (a<=b): [ 12, 21 ] subgroups exported: 5
+PSL(2,13) |G|=1092 degree 14 missing (a<=b): [ 21 ] subgroups exported: 2
+PSL(2,17) |G|=2448 degree 18 missing (a<=b): [ 48 ] subgroups exported: 14
+PSL(2,19) |G|=3420 degree 20 missing (a<=b): 
+[ 36, 38, 45 ] subgroups exported: 9
+PSL(2,23) |G|=6072 degree 24 missing (a<=b): [ 33, 44, 46, 66, 69 
+ ] subgroups exported: 11
+PSL(2,25) |G|=7800 degree 26 missing (a<=b): [ 39 ] subgroups exported: 2
+PSL(2,27) |G|=9828 degree 28 missing (a<=b): 
+[ 18, 21, 36, 42, 52, 54, 63, 78, 91 ] subgroups exported: 12
+PSL(2,29) |G|=12180 degree 30 missing (a<=b): [ 21, 35, 42, 70, 84, 87, 105 
+ ] subgroups exported: 14
+PSL(2,31) |G|=14880 degree 32 missing (a<=b): [ 40, 48, 62, 80, 120 
+ ] subgroups exported: 23
+PSL(3,4) |G|=20160 degree 21 missing (a<=b): 
+[ 35, 70, 140 ] subgroups exported: 14
+PSL(2,37) |G|=25308 degree 38 missing (a<=b): [ 57, 148 ] subgroups exported: 
+6
+Sz(8) |G|=29120 degree 65 missing (a<=b): [ 35, 40, 70, 80, 91, 104, 140, 160 
+ ] subgroups exported: 17
+PSL(2,32) |G|=32736 degree 33 missing (a<=b): 
+[ 12, 24, 44, 48, 88, 93, 96, 176 ] subgroups exported: 18
+PSL(2,41) |G|=34440 degree 42 missing (a<=b): 
+[ 28, 35, 56, 70, 105, 120, 123, 140 ] subgroups exported: 25
+PSL(2,43) |G|=39732 degree 44 missing (a<=b): 
+[ 28, 33, 66, 77, 84, 86, 154, 172 ] subgroups exported: 14
+FINISHED

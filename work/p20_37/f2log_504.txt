@@ -1,0 +1,3 @@
+FOUND |G|=504 a=12 b=42 via |H|=6 k=2 trial=1
+FOUND |G|=504 a=21 b=24 via |H|=7 k=3 trial=0
+FINISHED

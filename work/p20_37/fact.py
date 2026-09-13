@@ -45,7 +45,7 @@ for H in sorted(subs, key=len, reverse=True):
             M = nx.max_weight_matching(Gr, maxcardinality=True)
             if 2*len(M) == m:
                 B = [edges[tuple(sorted(e))] for e in M]
-                A = [mul[x][y] for x in xs for y in H]
+                A = [mul[y][x] for x in xs for y in H]
                 if verify(A, B):
                     print("FOUND a=%d b=%d via |H|=%d k=%d xs=%s" % (a, b, h, k, xs)); print("A =", sorted(A)); print("B =", sorted(B)); found = True; break
         else:
@@ -78,7 +78,7 @@ for H in sorted(subs, key=len, reverse=True):
                 return False
             if solve():
                 B = [edges[options[i]] for i in chosen]
-                A = [mul[x][y] for x in xs for y in H]
+                A = [mul[y][x] for x in xs for y in H]
                 if verify(A, B):
                     print("FOUND a=%d b=%d via |H|=%d k=%d xs=%s" % (a, b, h, k, xs)); print("A =", sorted(A)); print("B =", sorted(B)); found = True; break
     if found: break

@@ -1,0 +1,2 @@
+FOUND |G|=1092 a=21 b=52 via |H|=7 k=3 trial=0
+FINISHED

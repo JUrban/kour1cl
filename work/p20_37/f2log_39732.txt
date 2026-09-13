@@ -1,0 +1,1 @@
+FOUND |G|=39732 a=28 b=1419 via |H|=14 k=2 trial=0

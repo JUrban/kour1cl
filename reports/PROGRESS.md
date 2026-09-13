@@ -40,3 +40,6 @@
   20.30 verified for all centreless perfect groups of order < 10^6.
 - 16:25 UTC: 18.46 verification complete (14 groups of order 128 work; none below). Report finalised.
   Started 17.1 (Isaacs partitions, exponent-3 groups of order 729, exact cover).
+- 16:50 UTC: 17.1 (Isaacs): no partition of any exponent-3 group of order 3^6 into subgroups of order 27 with a
+  non-abelian component (exact cover, all 7 groups). 2.78 lemma verified for p=7,11 (n ≤ 4, r ≤ 2).
+  13.19: explicit class-2 construction of order 512 with Q/H ≅ D8 being verified in GAP.

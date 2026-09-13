@@ -38,3 +38,5 @@
 - 15:00 UTC: **18.46 (Klyachko)**: computation shows the minimal H for G = D8 has order 128 = 2|G|² (SmallGroup(128,134),
   e.g. D8 ≀ C2), so the bound 2|G|² is sharp. Independent verification running (work/p18_46/verify_d8.g).
   20.30 verified for all centreless perfect groups of order < 10^6.
+- 16:25 UTC: 18.46 verification complete (14 groups of order 128 work; none below). Report finalised.
+  Started 17.1 (Isaacs partitions, exponent-3 groups of order 729, exact cover).

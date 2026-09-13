@@ -6,3 +6,6 @@ n=2 q=7: |GL|=2016, matrices with no cyclic AP: 0
 n=3 q=3: |GL|=11232, matrices with no cyclic AP: 0
 n=4 q=2: |GL|=20160, matrices with no cyclic AP: 0
 n=3 q=5: |GL|=1488000, matrices with no cyclic AP: 0
+n=3 q=7: |GL|=33784128, matrices with no cyclic AP: 0
+n=4 q=3: |GL|=24261120, matrices with no cyclic AP: 0
+n=5 q=2: |GL|=9999360, matrices with no cyclic AP: 0

@@ -1,4 +1,4 @@
-Error, Variable: 'IsRegularPGroup' is read only
-not in any function at search.g:14
-type 'quit;' to quit to outer loop
-[1m[34m[0m[31m
+done order 16 found 0
+done order 24 found 0
+done order 32 found 0
+done order 48 found 0

@@ -1,0 +1,2 @@
+G(2,3): searching quotients onto simple groups of order <= 200000 and PSL(2,q)\
+, q <= 199

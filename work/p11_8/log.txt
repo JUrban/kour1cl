@@ -1,1 +1,12 @@
 done order 60 (1 nonsoluble groups) hits 0
+done order 120 (3 nonsoluble groups) hits 0
+done order 168 (1 nonsoluble groups) hits 0
+done order 180 (1 nonsoluble groups) hits 0
+done order 240 (8 nonsoluble groups) hits 0
+done order 300 (1 nonsoluble groups) hits 0
+done order 336 (3 nonsoluble groups) hits 0
+done order 360 (6 nonsoluble groups) hits 0
+done order 420 (1 nonsoluble groups) hits 0
+done order 480 (26 nonsoluble groups) hits 0
+done order 504 (2 nonsoluble groups) hits 0
+done order 540 (2 nonsoluble groups) hits 0

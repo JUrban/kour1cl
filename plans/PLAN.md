@@ -33,3 +33,20 @@ Deadline: 2026-09-15 08:03 UTC.
 
 ## Resource policy
 ≤ 20 GAP processes at a time, each `-o 8g`..`16g`; total ≤ 100 GB.
+
+## Triage results from issues 1–16 (agents, 2026-09-13 ~09:30) — candidates being attacked
+| Problem | Statement (short) | Status |
+|---|---|---|
+| 16.60 MacHale | T(G) ≥ |S_α| for all α ∈ Aut G | **SOLVED (yes)**: reduce to C_G(α²) + twisted FS + T monotone |
+| 21.32 Cameron | decidability of "G ≅ H′" | **SOLVED (yes)**: quasi-polynomial witness bound |
+| 11.18 Brandl | G(2,3)=⟨x,y| x=[x,y,y], y=[y,x,x,x]⟩ finite? | perfect, no low-index subgroups, coset enum fails; quotient search running |
+| 13.19 Gorchakov | subdirect Q, H ⊴ Q subdirect, Q/H p-group ⇒ regular? | class(Q/H) ≤ n−1 proven; searching for nonabelian 2-group examples |
+| 16.95 Thompson | ∃ permutation P with AP cyclic | verified for GL(n,q): (2,2..7),(3,2/3/5),(4,2/3),(5,2) — no counterexample |
+| 11.17(b) Brandl | exp(G) | d(G) (Engel period) for simple G | computing for more simple groups |
+| 11.8(b) Berkovich | same degree multiset, one soluble ⇒ other soluble | sweep ≤ 1200 running |
+| 14.44 / 14.74 | k(AB) ≤ k(A)k(B) coprime; k(G) ≤ Π k(P_i) | sweep ≤ 600 running |
+| 15.2(a) Isaacs | nonvanishing even-order elements of soluble G in F(G)? | sweep ≤ 1000 running |
+| 16.14 Berkovich | 2-groups with Ω1 ≤ Z: d(G) ≤ 2 rank Z(G) | sweep ≤ 256 running |
+| 2.78/3.57 Trofimov | IEn̄-system counts | not started (elementary; maybe later) |
+| 8.44 Mennicke | G_p infinite for almost all p | not started |
+| 15.74 Pálfy p=5 | normal subgroup lattice not embeddable in abelian subgroup lattice | not started |

@@ -77,3 +77,11 @@ done order 716 (4 groups) checked 9870 pairs
 done order 717 (1 groups) checked 9872 pairs
 done order 718 (2 groups) checked 9876 pairs
 done order 719 (1 groups) checked 9877 pairs
+done order 720 (840 groups) checked 12397 pairs
+done order 721 (1 groups) checked 12399 pairs
+done order 722 (5 groups) checked 12409 pairs
+done order 723 (2 groups) checked 12413 pairs
+done order 724 (5 groups) checked 12423 pairs
+done order 725 (2 groups) checked 12427 pairs
+done order 726 (13 groups) checked 12466 pairs
+done order 727 (1 groups) checked 12467 pairs

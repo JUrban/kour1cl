@@ -2,17 +2,18 @@
 # Equivalent: normal subgroups N_i of Q with trivial intersection and H N_i = Q for all i.
 # For p = 2: regular <=> abelian. So search Q, H normal, Q/H nonabelian 2-group, and
 # intersection of all normal N with NH = Q trivial.
-IsRegularPGroup := function(P, p)
-  local x, y, S;
+MyIsRegular := function(P, p)
+  local x, y, S, lhs;
   if IsAbelian(P) then return true; fi;
   if p = 2 then return false; fi;
   for x in P do for y in P do
     S := DerivedSubgroup(Group(x, y));
-    if not (x*y)^p * (x^p * y^p)^-1 in Agemo(S, p, 1) then return false; fi;   # (xy)^p = x^p y^p mod S^p ... approximately
+    lhs := (x*y)^p * (x^p * y^p)^-1;
+    if not (lhs in Agemo(S, p, 1)) then return false; fi;
   od; od;
   return true;
 end;
-Search := function(n)
+Search1319 := function(n)
   local k, Q, nsQ, H, P, p, cands, N, I, found;
   found := 0;
   for k in [1..NrSmallGroups(n)] do
@@ -29,7 +30,7 @@ Search := function(n)
       I := Q;
       for N in cands do I := Intersection(I, N); if Size(I) = 1 then break; fi; od;
       if Size(I) = 1 then
-        if p = 2 or not IsRegularPGroup(P, p) then
+        if p = 2 or not MyIsRegular(P, p) then
           found := found + 1;
           Print("COUNTEREXAMPLE candidate: SmallGroup(", n, ",", k, ") ", StructureDescription(Q), " H of order ", Size(H), " Q/H = ", StructureDescription(P), " (class ", NilpotencyClassOfGroup(P), "), using ", Length(cands), " normal subgroups N\n");
         fi;
@@ -38,5 +39,5 @@ Search := function(n)
   od;
   Print("done order ", n, " found ", found, "\n");
 end;
-for n in [16, 24, 32, 48, 64, 72, 80, 96, 128, 144, 160, 192] do Search(n); od;
+for n in [16, 24, 32, 48, 64, 72, 80, 96, 128, 144, 160, 192] do Search1319(n); od;
 Print("FINISHED\n"); QUIT;

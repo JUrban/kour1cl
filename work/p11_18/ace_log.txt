@@ -1,0 +1,2 @@
+ACE coset enumeration of G(2,3) over trivial subgroup, max 3e8 cosets
+ACE: FAILED (no result)

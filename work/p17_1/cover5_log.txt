@@ -1,0 +1,8 @@
+/project/work/p17_1/subs5_124.txt subgroups: 39806 nonabelian: 16250 partition with a nonabelian component: False
+/project/work/p17_1/subs5_144.txt subgroups: 8556 nonabelian: 3750 partition with a nonabelian component: False
+/project/work/p17_1/subs5_165.txt subgroups: 8556 nonabelian: 3750 partition with a nonabelian component: False
+/project/work/p17_1/subs5_194.txt subgroups: 21056 nonabelian: 625 partition with a nonabelian component: False
+/project/work/p17_1/subs5_207.txt subgroups: 2306 nonabelian: 1250 partition with a nonabelian component: False
+/project/work/p17_1/subs5_220.txt subgroups: 24181 nonabelian: 19375 partition with a nonabelian component: False
+/project/work/p17_1/subs5_240.txt subgroups: 24806 nonabelian: 19250 partition with a nonabelian component: False
+/project/work/p17_1/subs5_258.txt subgroups: 24181 nonabelian: 19375 partition with a nonabelian component: False

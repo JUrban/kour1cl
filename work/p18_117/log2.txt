@@ -18,3 +18,13 @@ Suz: class of order 2 size 2779920 realised: |x|=15 |y|=13
 Suz: class of order 2 size 135135 realised: |x|=15 |y|=2
 Suz: class of order 3 size 45760 realised: |x|=14 |y|=13
 Fi22: degree 3510 order 64561751654400
+Fi22: classes 65, not yet realised as coprime commutators: 
+[ [ 3, 3294720 ], [ 2, 3510 ], [ 6, 415134720 ], [ 2, 1216215 ], 
+  [ 3, 25625600 ], [ 2, 36486450 ] ] (300000 random pairs)
+Fi22: class of order 3 size 3294720 realised: |x|=22 |y|=9
+Fi22: class of order 2 size 3510 realised: |x|=13 |y|=7
+Fi22: class of order 6 size 415134720 realised: |x|=21 |y|=13
+Fi22: class of order 2 size 1216215 realised: |x|=16 |y|=11
+Fi22: class of order 3 size 25625600 realised: |x|=21 |y|=11
+Fi22: class of order 2 size 36486450 realised: |x|=7 |y|=11
+ON: degree 122760 order 460815505920

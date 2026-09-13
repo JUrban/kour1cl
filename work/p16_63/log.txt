@@ -6,3 +6,17 @@ done order 2187 found 0
 done order 125 found 0
 done order 625 found 0
 done order 3125 found 0
+done order 15625 found 0
+done order 343 found 0
+done order 2401 found 0
+done order 16807 found 0
+done order 1331 found 0
+done order 14641 found 0
+done order 2197 found 0
+done order 4913 found 0
+FOUND 2-group Aut(G)~=G: SmallGroup(8,3) D8
+done order 8 found 1
+done order 16 found 0
+done order 32 found 0
+done order 64 found 0
+done order 128 found 0

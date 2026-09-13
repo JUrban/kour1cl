@@ -1,0 +1,5 @@
+already solved a=75
+NOT FOUND |G|=126000 a=112
+NOT FOUND |G|=126000 a=225
+already solved a=336
+FINISHED

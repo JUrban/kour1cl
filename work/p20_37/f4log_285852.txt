@@ -1,0 +1,10 @@
+FOUND |G|=285852 a=123 b=2324 via |H|=41 k=3 |K|=83 l=28 |Omega|=84 trial=0
+FOUND |G|=285852 a=164 b=1743 via |H|=82 k=2 |K|=83 l=21 |Omega|=42 trial=0
+FOUND |G|=285852 a=166 b=1722 via |H|=83 k=2 |K|=82 l=21 |Omega|=42 trial=0
+FOUND |G|=285852 a=246 b=1162 via |H|=82 k=3 |K|=83 l=14 |Omega|=42 trial=0
+FOUND |G|=285852 a=249 b=1148 via |H|=83 k=3 |K|=82 l=14 |Omega|=42 trial=0
+NOT FOUND |G|=285852 a=287
+FOUND |G|=285852 a=332 b=861 via |H|=83 k=4 |K|=41 l=21 |Omega|=84 trial=0
+FOUND |G|=285852 a=492 b=581 via |H|=82 k=6 |K|=83 l=7 |Omega|=42 trial=0
+FOUND |G|=285852 a=498 b=574 via |H|=83 k=6 |K|=82 l=7 |Omega|=42 trial=0
+FINISHED

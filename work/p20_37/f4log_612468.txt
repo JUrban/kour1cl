@@ -1,0 +1,10 @@
+FOUND |G|=612468 a=159 b=3852 via |H|=53 k=3 |K|=107 l=36 |Omega|=108 trial=0
+FOUND |G|=612468 a=212 b=2889 via |H|=106 k=2 |K|=107 l=27 |Omega|=54 trial=0
+FOUND |G|=612468 a=214 b=2862 via |H|=107 k=2 |K|=106 l=27 |Omega|=54 trial=0
+FOUND |G|=612468 a=318 b=1926 via |H|=106 k=3 |K|=107 l=18 |Omega|=54 trial=0
+FOUND |G|=612468 a=321 b=1908 via |H|=107 k=3 |K|=106 l=18 |Omega|=54 trial=0
+FOUND |G|=612468 a=428 b=1431 via |H|=107 k=4 |K|=53 l=27 |Omega|=108 trial=0
+NOT FOUND |G|=612468 a=477
+FOUND |G|=612468 a=636 b=963 via |H|=106 k=6 |K|=107 l=9 |Omega|=54 trial=0
+FOUND |G|=612468 a=642 b=954 via |H|=107 k=6 |K|=106 l=9 |Omega|=54 trial=0
+FINISHED

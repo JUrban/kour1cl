@@ -1,0 +1,5 @@
+already solved a=21
+already solved a=28
+FOUND |G|=456288 a=42 b=10864 via |H|=7 k=6 |K|=1552 l=7 |Omega|=42 trial=1541
+NOT FOUND |G|=456288 a=56
+NOT FOUND |G|=456288 a=84

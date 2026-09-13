@@ -1,0 +1,10 @@
+already solved a=48
+already solved a=52
+FOUND |G|=246480 a=65 b=3792 via |H|=13 k=5 |K|=237 l=16 |Omega|=80 trial=11
+already solved a=104
+already solved a=120
+already solved a=130
+already solved a=156
+already solved a=158
+already solved a=195
+FOUND |G|=246480 a=208 b=1185 via |H|=26 k=8 |K|=237 l=5 |Omega|=40 trial=1734

@@ -1,0 +1,5 @@
+already solved a=123
+already solved a=164
+already solved a=166
+already solved a=246
+already solved a=249

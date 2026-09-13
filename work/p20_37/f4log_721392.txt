@@ -1,0 +1,16 @@
+FOUND |G|=721392 a=21 b=34352 via |H|=7 k=3 |K|=904 l=38 |Omega|=114 trial=0
+NOT FOUND |G|=721392 a=42
+FOUND |G|=721392 a=48 b=15029 via |H|=24 k=2 |K|=791 l=19 |Omega|=38 trial=0
+FOUND |G|=721392 a=76 b=9492 via |H|=19 k=4 |K|=3164 l=3 |Omega|=12 trial=0
+NOT FOUND |G|=721392 a=84
+NOT FOUND |G|=721392 a=133
+FOUND |G|=721392 a=152 b=4746 via |H|=38 k=4 |K|=791 l=6 |Omega|=24 trial=0
+FOUND |G|=721392 a=168 b=4294 via |H|=56 k=3 |K|=113 l=38 |Omega|=114 trial=0
+NOT FOUND |G|=721392 a=266
+NOT FOUND |G|=721392 a=304
+FOUND |G|=721392 a=336 b=2147 via |H|=112 k=3 |K|=113 l=19 |Omega|=57 trial=0
+FOUND |G|=721392 a=339 b=2128 via |H|=113 k=3 |K|=112 l=19 |Omega|=57 trial=0
+FOUND |G|=721392 a=399 b=1808 via |H|=57 k=7 |K|=904 l=2 |Omega|=14 trial=1
+NOT FOUND |G|=721392 a=532
+NOT FOUND |G|=721392 a=678
+FINISHED

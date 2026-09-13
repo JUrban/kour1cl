@@ -1,0 +1,6 @@
+already solved a=33
+already solved a=36
+already solved a=40
+FOUND |G|=352440 a=55 b=6408 via |H|=11 k=5 |K|=356 l=18 |Omega|=90 trial=42
+already solved a=66
+already solved a=72

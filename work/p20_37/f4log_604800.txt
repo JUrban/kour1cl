@@ -1,0 +1,13 @@
+NOT FOUND |G|=604800 a=35
+FOUND |G|=604800 a=70 b=8640 via |H|=14 k=5 |K|=1080 l=8 |Omega|=40 trial=0
+FOUND |G|=604800 a=105 b=5760 via |H|=21 k=5 |K|=1920 l=3 |Omega|=15 trial=0
+NOT FOUND |G|=604800 a=140
+FOUND |G|=604800 a=175 b=3456 via |H|=25 k=7 |K|=1152 l=3 |Omega|=21 trial=3
+NOT FOUND |G|=604800 a=210
+FOUND |G|=604800 a=225 b=2688 via |H|=75 k=3 |K|=384 l=7 |Omega|=21 trial=0
+FOUND |G|=604800 a=350 b=1728 via |H|=50 k=7 |K|=216 l=8 |Omega|=56 trial=2
+NOT FOUND |G|=604800 a=420
+NOT FOUND |G|=604800 a=448
+NOT FOUND |G|=604800 a=450
+NOT FOUND |G|=604800 a=675
+FINISHED

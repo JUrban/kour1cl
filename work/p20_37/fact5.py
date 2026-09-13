@@ -55,10 +55,10 @@ def attempt(a, h, sg, kk, sgk, trials):
         if g in seen: continue
         yreps.append(g)
         for y in Kels: seen.add(mul(g, y))
-    if m <= 60: trials = 3000
-    elif m <= 200: trials = 600
+    if m <= 60: trials = 2000
+    elif m <= 200: trials = 300
     elif m <= 1000: trials = 60
-    lim = nodelimit if m > 200 else 200000
+    lim = nodelimit if m > 200 else 1500000
     for trial in range(trials):
         xs = [els[0]] + random.sample(els[1:], k - 1)
         options = {}
@@ -88,6 +88,7 @@ for a in mset:
             if a // h > maxk or (kk > 1 and b // kk > maxk and a // h > 2): continue
             pairs.append((h * kk, h, sg, kk, sgk))
     pairs.sort(key=lambda t: -t[0])
+    pairs = pairs[:10]
     for hk, h, sg, kk, sgk in pairs:
         res = attempt(a, h, sg, kk, sgk, 5)
         if res is None or res == "tried": continue

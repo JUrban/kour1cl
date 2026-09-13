@@ -1,0 +1,4 @@
+FOUND |G|=976500 a=28 b=34875 via |H|=14 k=2 |K|=3875 l=9 |Omega|=18 trial=0
+NOT FOUND |G|=976500 a=35
+FOUND |G|=976500 a=36 b=27125 via |H|=18 k=2 |K|=3875 l=7 |Omega|=14 trial=0
+NOT FOUND |G|=976500 a=45

@@ -1,2 +1,11 @@
 already solved a=35
 already solved a=40
+NOT FOUND |G|=58800 a=70
+already solved a=75
+already solved a=80
+NOT FOUND |G|=58800 a=105
+FOUND |G|=58800 a=120 b=490 via |H|=60 k=2 |K|=49 l=10 |Omega|=20 trial=0
+NOT FOUND |G|=58800 a=140
+NOT FOUND |G|=58800 a=210
+FOUND |G|=58800 a=240 b=245 via |H|=60 k=4 |K|=49 l=5 |Omega|=20 trial=0
+FINISHED

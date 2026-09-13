@@ -84,6 +84,7 @@ for a in mset:
             if a // h > maxk or (kk > 1 and b // kk > maxk and a // h > 2): continue
             pairs.append((h * kk, h, sg, kk, sgk))
     pairs.sort(key=lambda t: -t[0])
+    pairs = pairs[:10]
     for hk, h, sg, kk, sgk in pairs:
         res = attempt(a, h, sg, kk, sgk, 5)
         if res is None or res == "tried": continue

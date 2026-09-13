@@ -1,0 +1,13 @@
+FOUND |G|=515100 a=68 b=7575 via |H|=34 k=2 |K|=2525 l=3 |Omega|=6 trial=0
+FOUND |G|=515100 a=75 b=6868 via |H|=25 k=3 |K|=202 l=34 |Omega|=102 trial=0
+FOUND |G|=515100 a=85 b=6060 via |H|=17 k=5 |K|=1010 l=6 |Omega|=30 trial=0
+FOUND |G|=515100 a=150 b=3434 via |H|=50 k=3 |K|=101 l=34 |Omega|=102 trial=0
+FOUND |G|=515100 a=170 b=3030 via |H|=34 k=5 |K|=505 l=6 |Omega|=30 trial=0
+FOUND |G|=515100 a=255 b=2020 via |H|=51 k=5 |K|=1010 l=2 |Omega|=10 trial=0
+FOUND |G|=515100 a=300 b=1717 via |H|=100 k=3 |K|=101 l=17 |Omega|=51 trial=0
+FOUND |G|=515100 a=303 b=1700 via |H|=101 k=3 |K|=100 l=17 |Omega|=51 trial=0
+NOT FOUND |G|=515100 a=340
+FOUND |G|=515100 a=404 b=1275 via |H|=202 k=2 |K|=51 l=25 |Omega|=50 trial=0
+NOT FOUND |G|=515100 a=425
+FOUND |G|=515100 a=606 b=850 via |H|=202 k=3 |K|=25 l=34 |Omega|=102 trial=0
+FINISHED

@@ -1,0 +1,22 @@
+FOUND |G|=352440 a=33 b=10680 via |H|=11 k=3 |K|=356 l=30 |Omega|=90 trial=0
+FOUND |G|=352440 a=36 b=9790 via |H|=9 k=4 |K|=1958 l=5 |Omega|=20 trial=0
+FOUND |G|=352440 a=40 b=8811 via |H|=10 k=4 |K|=979 l=9 |Omega|=36 trial=0
+NOT FOUND |G|=352440 a=55
+FOUND |G|=352440 a=66 b=5340 via |H|=22 k=3 |K|=89 l=60 |Omega|=180 trial=0
+FOUND |G|=352440 a=72 b=4895 via |H|=24 k=3 |K|=979 l=5 |Omega|=15 trial=0
+NOT FOUND |G|=352440 a=99
+NOT FOUND |G|=352440 a=110
+FOUND |G|=352440 a=120 b=2937 via |H|=60 k=2 |K|=979 l=3 |Omega|=6 trial=0
+FOUND |G|=352440 a=132 b=2670 via |H|=44 k=3 |K|=89 l=30 |Omega|=90 trial=0
+NOT FOUND |G|=352440 a=165
+NOT FOUND |G|=352440 a=198
+FOUND |G|=352440 a=220 b=1602 via |H|=44 k=5 |K|=89 l=18 |Omega|=90 trial=2
+FOUND |G|=352440 a=264 b=1335 via |H|=88 k=3 |K|=89 l=15 |Omega|=45 trial=0
+FOUND |G|=352440 a=267 b=1320 via |H|=89 k=3 |K|=88 l=15 |Omega|=45 trial=0
+NOT FOUND |G|=352440 a=330
+NOT FOUND |G|=352440 a=396
+FOUND |G|=352440 a=440 b=801 via |H|=88 k=5 |K|=89 l=9 |Omega|=45 trial=0
+FOUND |G|=352440 a=445 b=792 via |H|=89 k=5 |K|=88 l=9 |Omega|=45 trial=0
+NOT FOUND |G|=352440 a=495
+FOUND |G|=352440 a=534 b=660 via |H|=89 k=6 |K|=60 l=11 |Omega|=66 trial=0
+FINISHED

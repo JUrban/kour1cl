@@ -1,0 +1,9 @@
+FOUND |G|=29120 a=35 b=832 via |H|=7 k=5 |K|=64 l=13 |Omega|=65 trial=445
+already solved a=40
+NOT FOUND |G|=29120 a=70
+already solved a=80
+FOUND |G|=29120 a=91 b=320 via |H|=13 k=7 |K|=64 l=5 |Omega|=35 trial=1407
+already solved a=104
+NOT FOUND |G|=29120 a=140
+already solved a=160
+FINISHED

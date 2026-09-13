@@ -1,0 +1,12 @@
+FOUND |G|=647460 a=33 b=19620 via |H|=11 k=3 |K|=1962 l=10 |Omega|=30 trial=0
+FOUND |G|=647460 a=44 b=14715 via |H|=22 k=2 |K|=2943 l=5 |Omega|=10 trial=0
+NOT FOUND |G|=647460 a=45
+FOUND |G|=647460 a=66 b=9810 via |H|=22 k=3 |K|=981 l=10 |Omega|=30 trial=0
+NOT FOUND |G|=647460 a=90
+NOT FOUND |G|=647460 a=99
+FOUND |G|=647460 a=132 b=4905 via |H|=22 k=6 |K|=981 l=5 |Omega|=30 trial=0
+NOT FOUND |G|=647460 a=135
+FOUND |G|=647460 a=165 b=3924 via |H|=55 k=3 |K|=1962 l=2 |Omega|=6 trial=0
+FOUND |G|=647460 a=180 b=3597 via |H|=60 k=3 |K|=109 l=33 |Omega|=99 trial=0
+NOT FOUND |G|=647460 a=198
+NOT FOUND |G|=647460 a=270

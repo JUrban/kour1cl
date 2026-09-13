@@ -1,0 +1,21 @@
+already solved a=21
+already solved a=28
+already solved a=40
+already solved a=42
+already solved a=45
+already solved a=56
+NOT FOUND |G|=178920 a=63
+FOUND |G|=178920 a=84 b=2130 via |H|=14 k=6 |K|=355 l=6 |Omega|=36 trial=9
+already solved a=90
+already solved a=105
+already solved a=120
+FOUND |G|=178920 a=126 b=1420 via |H|=18 k=7 |K|=355 l=4 |Omega|=28 trial=424
+already solved a=140
+already solved a=142
+FOUND |G|=178920 a=168 b=1065 via |H|=24 k=7 |K|=355 l=3 |Omega|=21 trial=33
+already solved a=180
+already solved a=210
+already solved a=213
+already solved a=252
+already solved a=280
+already solved a=284

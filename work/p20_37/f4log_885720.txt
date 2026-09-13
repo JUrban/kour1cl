@@ -1,0 +1,4 @@
+FOUND |G|=885720 a=183 b=4840 via |H|=61 k=3 |K|=2420 l=2 |Omega|=6 trial=0
+FOUND |G|=885720 a=305 b=2904 via |H|=61 k=5 |K|=1452 l=2 |Omega|=10 trial=0
+NOT FOUND |G|=885720 a=915
+FINISHED

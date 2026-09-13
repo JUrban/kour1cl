@@ -1,0 +1,24 @@
+FOUND |G|=178920 a=21 b=8520 via |H|=7 k=3 |K|=355 l=24 |Omega|=72 trial=0
+FOUND |G|=178920 a=28 b=6390 via |H|=14 k=2 |K|=355 l=18 |Omega|=36 trial=0
+FOUND |G|=178920 a=40 b=4473 via |H|=10 k=4 |K|=497 l=9 |Omega|=36 trial=0
+FOUND |G|=178920 a=42 b=4260 via |H|=14 k=3 |K|=355 l=12 |Omega|=36 trial=0
+FOUND |G|=178920 a=45 b=3976 via |H|=9 k=5 |K|=497 l=8 |Omega|=40 trial=3
+FOUND |G|=178920 a=56 b=3195 via |H|=14 k=4 |K|=355 l=9 |Omega|=36 trial=0
+NOT FOUND |G|=178920 a=63
+NOT FOUND |G|=178920 a=84
+FOUND |G|=178920 a=90 b=1988 via |H|=18 k=5 |K|=497 l=4 |Omega|=20 trial=0
+FOUND |G|=178920 a=105 b=1704 via |H|=35 k=3 |K|=71 l=24 |Omega|=72 trial=0
+FOUND |G|=178920 a=120 b=1491 via |H|=60 k=2 |K|=497 l=3 |Omega|=6 trial=0
+NOT FOUND |G|=178920 a=126
+FOUND |G|=178920 a=140 b=1278 via |H|=70 k=2 |K|=71 l=18 |Omega|=36 trial=0
+FOUND |G|=178920 a=142 b=1260 via |H|=71 k=2 |K|=70 l=18 |Omega|=36 trial=0
+NOT FOUND |G|=178920 a=168
+FOUND |G|=178920 a=180 b=994 via |H|=60 k=3 |K|=497 l=2 |Omega|=6 trial=0
+FOUND |G|=178920 a=210 b=852 via |H|=70 k=3 |K|=71 l=12 |Omega|=36 trial=0
+FOUND |G|=178920 a=213 b=840 via |H|=71 k=3 |K|=70 l=12 |Omega|=36 trial=0
+FOUND |G|=178920 a=252 b=710 via |H|=36 k=7 |K|=355 l=2 |Omega|=14 trial=2
+FOUND |G|=178920 a=280 b=639 via |H|=70 k=4 |K|=71 l=9 |Omega|=36 trial=0
+FOUND |G|=178920 a=284 b=630 via |H|=71 k=4 |K|=70 l=9 |Omega|=36 trial=0
+NOT FOUND |G|=178920 a=315
+FOUND |G|=178920 a=420 b=426 via |H|=70 k=6 |K|=71 l=6 |Omega|=36 trial=0
+FINISHED

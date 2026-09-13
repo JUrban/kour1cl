@@ -1,3 +1,9 @@
 already solved a=36
 already solved a=39
 already solved a=78
+NOT FOUND |G|=74412 a=117
+FOUND |G|=74412 a=156 b=477 via |H|=52 k=3 |K|=53 l=9 |Omega|=27 trial=0
+FOUND |G|=74412 a=159 b=468 via |H|=53 k=3 |K|=52 l=9 |Omega|=27 trial=0
+FOUND |G|=74412 a=212 b=351 via |H|=106 k=2 |K|=27 l=13 |Omega|=26 trial=0
+NOT FOUND |G|=74412 a=234
+FINISHED

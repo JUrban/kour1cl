@@ -15,12 +15,12 @@ AnalyseR := function(n, k, r, tag)
   H := SmallGroup(n, k);
   if RankPGroup(H) <> 2*r+1 then return "rank"; fi;
   PhiH := FrattiniSubgroup(H);
-  if HasElAbOfOrder(H, 2^(2*r+1)) then Print(tag, " ", [n,k], " F1: 2-rank >= ", 2*r+1, " -> excluded\n"); return "F1"; fi;
   f2 := ForAll(MaximalSubgroups(H), M -> FrattiniSubgroup(M) = PhiH);
   if not f2 then Print(tag, " ", [n,k], " F2: some maximal subgroup has smaller Frattini -> excluded\n"); return "F2"; fi;
   cd := CocycleData(H);
   nz := Number(cd.rows, x -> IsZero(x));
   if nz > 0 then Print(tag, " ", [n,k], " F3: ", nz, " involutions always lift to involutions -> excluded\n"); return "F3"; fi;
+  if HasElAbOfOrder(H, 2^(2*r+1)) then Print(tag, " ", [n,k], " F1: 2-rank >= ", 2*r+1, " -> excluded\n"); return "F1"; fi;
   W := VectorSpace(GF(2), cd.rows);
   rowsS := Set(cd.rows);
   Print(tag, " ", [n,k], " SURVIVOR: #inv=", Length(cd.inv), " dimZ2=", cd.m, " dimH2=", cd.dimH2, " dim span=", Dimension(W), " distinct=", Length(rowsS), "\n");

@@ -1,98 +1,1647 @@
-H256r2 [ 256, 26973 ] F1: 2-rank >= 5 -> excluded
-H256r2 [ 256, 26974 ] F1: 2-rank >= 5 -> excluded
-H256r2 [ 256, 26975 ] F1: 2-rank >= 5 -> excluded
-H256r2 [ 256, 26976 ] F1: 2-rank >= 5 -> excluded
-H256r2 [ 256, 26977 ] F1: 2-rank >= 5 -> excluded
-H256r2 [ 256, 26978 ] F1: 2-rank >= 5 -> excluded
-H256r2 [ 256, 26979 ] F1: 2-rank >= 5 -> excluded
+H256r2 
+[ 256, 26973 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 26974 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 26975 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 26976 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 26977 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 26978 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 26979 ] F2: some maximal subgroup has smaller Frattini -> excluded
 H256r2 
 [ 256, 26980 ] F2: some maximal subgroup has smaller Frattini -> excluded
 H256r2 
 [ 256, 26981 ] F2: some maximal subgroup has smaller Frattini -> excluded
-H256r2 [ 256, 26982 ] F1: 2-rank >= 5 -> excluded
-H256r2 [ 256, 26983 ] F1: 2-rank >= 5 -> excluded
-H256r2 [ 256, 26984 ] F1: 2-rank >= 5 -> excluded
-H256r2 [ 256, 26985 ] F1: 2-rank >= 5 -> excluded
+H256r2 
+[ 256, 26982 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 26983 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 26984 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 26985 ] F2: some maximal subgroup has smaller Frattini -> excluded
 H256r2 
 [ 256, 26986 ] F2: some maximal subgroup has smaller Frattini -> excluded
 H256r2 
 [ 256, 26987 ] F2: some maximal subgroup has smaller Frattini -> excluded
-H256r2 [ 256, 26988 ] F1: 2-rank >= 5 -> excluded
+H256r2 
+[ 256, 26988 ] F2: some maximal subgroup has smaller Frattini -> excluded
 H256r2 
 [ 256, 26989 ] F2: some maximal subgroup has smaller Frattini -> excluded
 H256r2 
 [ 256, 26990 ] F2: some maximal subgroup has smaller Frattini -> excluded
-H256r2 [ 256, 26991 ] F1: 2-rank >= 5 -> excluded
-H256r2 [ 256, 26992 ] F1: 2-rank >= 5 -> excluded
-H256r2 [ 256, 26993 ] F1: 2-rank >= 5 -> excluded
-H256r2 [ 256, 26994 ] F1: 2-rank >= 5 -> excluded
-H256r2 [ 256, 26995 ] F1: 2-rank >= 5 -> excluded
-H256r2 [ 256, 26996 ] F1: 2-rank >= 5 -> excluded
-H256r2 [ 256, 26997 ] F1: 2-rank >= 5 -> excluded
-H256r2 [ 256, 26998 ] F1: 2-rank >= 5 -> excluded
-H256r2 [ 256, 26999 ] F1: 2-rank >= 5 -> excluded
-H256r2 [ 256, 27000 ] F1: 2-rank >= 5 -> excluded
-H256r2 [ 256, 27001 ] F1: 2-rank >= 5 -> excluded
-H256r2 [ 256, 27002 ] F1: 2-rank >= 5 -> excluded
-H256r2 [ 256, 27003 ] F1: 2-rank >= 5 -> excluded
-H256r2 [ 256, 27004 ] F1: 2-rank >= 5 -> excluded
-H256r2 [ 256, 27005 ] F1: 2-rank >= 5 -> excluded
-H256r2 [ 256, 27006 ] F1: 2-rank >= 5 -> excluded
-H256r2 [ 256, 27007 ] F1: 2-rank >= 5 -> excluded
-H256r2 [ 256, 27008 ] F1: 2-rank >= 5 -> excluded
-H256r2 [ 256, 27009 ] F1: 2-rank >= 5 -> excluded
+H256r2 
+[ 256, 26991 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 26992 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 26993 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 26994 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 26995 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 26996 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 26997 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 26998 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 26999 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27000 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27001 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27002 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27003 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27004 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27005 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27006 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27007 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27008 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27009 ] F2: some maximal subgroup has smaller Frattini -> excluded
 H256r2 
 [ 256, 27010 ] F2: some maximal subgroup has smaller Frattini -> excluded
-H256r2 [ 256, 27011 ] F1: 2-rank >= 5 -> excluded
-H256r2 [ 256, 27012 ] F1: 2-rank >= 5 -> excluded
-H256r2 [ 256, 27013 ] F1: 2-rank >= 5 -> excluded
+H256r2 
+[ 256, 27011 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27012 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27013 ] F2: some maximal subgroup has smaller Frattini -> excluded
 H256r2 
 [ 256, 27014 ] F2: some maximal subgroup has smaller Frattini -> excluded
-H256r2 [ 256, 27015 ] F1: 2-rank >= 5 -> excluded
-H256r2 [ 256, 27016 ] F1: 2-rank >= 5 -> excluded
-H256r2 [ 256, 27017 ] F1: 2-rank >= 5 -> excluded
-H256r2 [ 256, 27018 ] F1: 2-rank >= 5 -> excluded
-H256r2 [ 256, 27019 ] F1: 2-rank >= 5 -> excluded
-H256r2 [ 256, 27020 ] F1: 2-rank >= 5 -> excluded
-H256r2 [ 256, 27021 ] F1: 2-rank >= 5 -> excluded
+H256r2 
+[ 256, 27015 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27016 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27017 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27018 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27019 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27020 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27021 ] F2: some maximal subgroup has smaller Frattini -> excluded
 H256r2 
 [ 256, 27022 ] F2: some maximal subgroup has smaller Frattini -> excluded
 H256r2 
 [ 256, 27023 ] F2: some maximal subgroup has smaller Frattini -> excluded
-H256r2 [ 256, 27024 ] F1: 2-rank >= 5 -> excluded
+H256r2 
+[ 256, 27024 ] F2: some maximal subgroup has smaller Frattini -> excluded
 H256r2 
 [ 256, 27025 ] F2: some maximal subgroup has smaller Frattini -> excluded
 H256r2 
 [ 256, 27026 ] F2: some maximal subgroup has smaller Frattini -> excluded
 H256r2 
 [ 256, 27027 ] F2: some maximal subgroup has smaller Frattini -> excluded
-H256r2 [ 256, 27028 ] F1: 2-rank >= 5 -> excluded
-H256r2 [ 256, 27029 ] F1: 2-rank >= 5 -> excluded
-H256r2 [ 256, 27030 ] F1: 2-rank >= 5 -> excluded
-H256r2 [ 256, 27031 ] F1: 2-rank >= 5 -> excluded
-H256r2 [ 256, 27032 ] F1: 2-rank >= 5 -> excluded
-H256r2 [ 256, 27033 ] F1: 2-rank >= 5 -> excluded
-H256r2 [ 256, 27034 ] F1: 2-rank >= 5 -> excluded
-H256r2 [ 256, 27035 ] F1: 2-rank >= 5 -> excluded
-H256r2 [ 256, 27036 ] F1: 2-rank >= 5 -> excluded
-H256r2 [ 256, 27037 ] F1: 2-rank >= 5 -> excluded
-H256r2 [ 256, 27038 ] F1: 2-rank >= 5 -> excluded
-H256r2 [ 256, 27039 ] F1: 2-rank >= 5 -> excluded
-H256r2 [ 256, 27040 ] F1: 2-rank >= 5 -> excluded
-H256r2 [ 256, 27041 ] F1: 2-rank >= 5 -> excluded
-H256r2 [ 256, 27042 ] F1: 2-rank >= 5 -> excluded
+H256r2 
+[ 256, 27028 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27029 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27030 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27031 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27032 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27033 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27034 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27035 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27036 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27037 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27038 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27039 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27040 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27041 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27042 ] F2: some maximal subgroup has smaller Frattini -> excluded
 H256r2 
 [ 256, 27043 ] F2: some maximal subgroup has smaller Frattini -> excluded
 H256r2 
 [ 256, 27044 ] F2: some maximal subgroup has smaller Frattini -> excluded
-H256r2 [ 256, 27045 ] F1: 2-rank >= 5 -> excluded
-H256r2 [ 256, 27046 ] F1: 2-rank >= 5 -> excluded
+H256r2 
+[ 256, 27045 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27046 ] F2: some maximal subgroup has smaller Frattini -> excluded
 H256r2 
 [ 256, 27047 ] F2: some maximal subgroup has smaller Frattini -> excluded
 H256r2 
 [ 256, 27048 ] F2: some maximal subgroup has smaller Frattini -> excluded
-H256r2 [ 256, 27049 ] F1: 2-rank >= 5 -> excluded
-H256r2 [ 256, 27050 ] F1: 2-rank >= 5 -> excluded
-H256r2 [ 256, 27051 ] F1: 2-rank >= 5 -> excluded
-H256r2 [ 256, 27052 ] F1: 2-rank >= 5 -> excluded
-H256r2 [ 256, 27053 ] F1: 2-rank >= 5 -> excluded
+H256r2 
+[ 256, 27049 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27050 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27051 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27052 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27053 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27054 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27055 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27056 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27057 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27058 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27059 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27060 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27061 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27062 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27063 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27064 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27065 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27066 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27067 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27068 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27069 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27070 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27071 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27072 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27073 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27074 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27075 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27076 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27077 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27078 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27079 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27080 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27081 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27082 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27083 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27084 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27085 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27086 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27087 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27088 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27089 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27090 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27091 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27092 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27093 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27094 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27095 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27096 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27097 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27098 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27099 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27100 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27101 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27102 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27103 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27104 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27105 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27106 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27107 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27108 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27109 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27110 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27111 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27112 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27113 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27114 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27115 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27116 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27117 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27118 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27119 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27120 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27121 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27122 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27123 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27124 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27125 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27126 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27127 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27128 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27129 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27130 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27131 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27132 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27133 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27134 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27135 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27136 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27137 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27138 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27139 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27140 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27141 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27142 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27143 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27144 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27145 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27146 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27147 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27148 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27149 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27150 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27151 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27152 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27153 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27154 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27155 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27156 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27157 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27158 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27159 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27160 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27161 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27162 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27163 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27164 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27165 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27166 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27167 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27168 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27169 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27170 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27171 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27172 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27173 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27174 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27175 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27176 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27177 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27178 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27179 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27180 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27181 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27182 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27183 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27184 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27185 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27186 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27187 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27188 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27189 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27190 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27191 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27192 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27193 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27194 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27195 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27196 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27197 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27198 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27199 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27200 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27201 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27202 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27203 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27204 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27205 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27206 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27207 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27208 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27209 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27210 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27211 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27212 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27213 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27214 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27215 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27216 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27217 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27218 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27219 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27220 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27221 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27222 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27223 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27224 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27225 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27226 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27227 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27228 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27229 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27230 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27231 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27232 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27233 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27234 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27235 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27236 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27237 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27238 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27239 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27240 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27241 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27242 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27243 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27244 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27245 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27246 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27247 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27248 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27249 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27250 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27251 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27252 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27253 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27254 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27255 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27256 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27257 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27258 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27259 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27260 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27261 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27262 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27263 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27264 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27265 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27266 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27267 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27268 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27269 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27270 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27271 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27272 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27273 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27274 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27275 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27276 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27277 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27278 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27279 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27280 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27281 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27282 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27283 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27284 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27285 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27286 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27287 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27288 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27289 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27290 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27291 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27292 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27293 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27294 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27295 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27296 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27297 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27298 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27299 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27300 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27301 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27302 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27303 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27304 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27305 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27306 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27307 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27308 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27309 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27310 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27311 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27312 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27313 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27314 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27315 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27316 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27317 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27318 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27319 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27320 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27321 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27322 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27323 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27324 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27325 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27326 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27327 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27328 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27329 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27330 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27331 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27332 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27333 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27334 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27335 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27336 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27337 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27338 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27339 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27340 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27341 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27342 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27343 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27344 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27345 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27346 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27347 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27348 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27349 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27350 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27351 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27352 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27353 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27354 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27355 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27356 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27357 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27358 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27359 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27360 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27361 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27362 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27363 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27364 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27365 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27366 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27367 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27368 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27369 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27370 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27371 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27372 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27373 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27374 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27375 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27376 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27377 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27378 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27379 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27380 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27381 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27382 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27383 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27384 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27385 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27386 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27387 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27388 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27389 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27390 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27391 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27392 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27393 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27394 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27395 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27396 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27397 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27398 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27399 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27400 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27401 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27402 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27403 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27404 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27405 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27406 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27407 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27408 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27409 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27410 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27411 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27412 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27413 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27414 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27415 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27416 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27417 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27418 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27419 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27420 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27421 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27422 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27423 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27424 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27425 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27426 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27427 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27428 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27429 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27430 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27431 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27432 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27433 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27434 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27435 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27436 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27437 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27438 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27439 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27440 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27441 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27442 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27443 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27444 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27445 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27446 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27447 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27448 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27449 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27450 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27451 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27452 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27453 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27454 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27455 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27456 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27457 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27458 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27459 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27460 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27461 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27462 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27463 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27464 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27465 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27466 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27467 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27468 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27469 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27470 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27471 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27472 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27473 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27474 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27475 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27476 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27477 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27478 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27479 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27480 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27481 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27482 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27483 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27484 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27485 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27486 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27487 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27488 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27489 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27490 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27491 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27492 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27493 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27494 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27495 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27496 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27497 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27498 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27499 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27500 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27501 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27502 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27503 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27504 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27505 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27506 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27507 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27508 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27509 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27510 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27511 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27512 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27513 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27514 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27515 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27516 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27517 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27518 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27519 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27520 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27521 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27522 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27523 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27524 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27525 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27526 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27527 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27528 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27529 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27530 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27531 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27532 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27533 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27534 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27535 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 [ 256, 27536 ] F3: 7 involutions always lift to involutions -> excluded
+H256r2 [ 256, 27537 ] F3: 7 involutions always lift to involutions -> excluded
+H256r2 [ 256, 27538 ] F3: 7 involutions always lift to involutions -> excluded
+H256r2 [ 256, 27539 ] F3: 7 involutions always lift to involutions -> excluded
+H256r2 [ 256, 27540 ] F3: 7 involutions always lift to involutions -> excluded
+H256r2 
+[ 256, 27541 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27542 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27543 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27544 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27545 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27546 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27547 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27548 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27549 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27550 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27551 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 [ 256, 27552 ] F3: 7 involutions always lift to involutions -> excluded
+H256r2 [ 256, 27553 ] F3: 7 involutions always lift to involutions -> excluded
+H256r2 [ 256, 27554 ] F3: 7 involutions always lift to involutions -> excluded
+H256r2 [ 256, 27555 ] F3: 7 involutions always lift to involutions -> excluded
+H256r2 [ 256, 27556 ] F3: 7 involutions always lift to involutions -> excluded
+H256r2 [ 256, 27557 ] F3: 7 involutions always lift to involutions -> excluded
+H256r2 [ 256, 27558 ] F3: 7 involutions always lift to involutions -> excluded
+H256r2 
+[ 256, 27559 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27560 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27561 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27562 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27563 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 [ 256, 27564 ] F3: 7 involutions always lift to involutions -> excluded
+H256r2 [ 256, 27565 ] F3: 7 involutions always lift to involutions -> excluded
+H256r2 [ 256, 27566 ] F3: 7 involutions always lift to involutions -> excluded
+H256r2 
+[ 256, 27567 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 [ 256, 27568 ] F3: 7 involutions always lift to involutions -> excluded
+H256r2 [ 256, 27569 ] F3: 7 involutions always lift to involutions -> excluded
+H256r2 [ 256, 27570 ] F3: 7 involutions always lift to involutions -> excluded
+H256r2 [ 256, 27571 ] F3: 7 involutions always lift to involutions -> excluded
+H256r2 [ 256, 27572 ] F3: 7 involutions always lift to involutions -> excluded
+H256r2 
+[ 256, 27573 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27574 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27575 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 [ 256, 27576 ] F3: 7 involutions always lift to involutions -> excluded
+H256r2 [ 256, 27577 ] F3: 7 involutions always lift to involutions -> excluded
+H256r2 
+[ 256, 27578 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27579 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 [ 256, 27580 ] F3: 7 involutions always lift to involutions -> excluded
+H256r2 
+[ 256, 27581 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27582 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 [ 256, 27583 ] F3: 7 involutions always lift to involutions -> excluded
+H256r2 [ 256, 27584 ] F3: 7 involutions always lift to involutions -> excluded
+H256r2 [ 256, 27585 ] F3: 7 involutions always lift to involutions -> excluded
+H256r2 
+[ 256, 27586 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27587 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27588 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27589 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27590 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 [ 256, 27591 ] F3: 7 involutions always lift to involutions -> excluded
+H256r2 [ 256, 27592 ] F3: 7 involutions always lift to involutions -> excluded
+H256r2 
+[ 256, 27593 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27594 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27595 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27596 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27597 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27598 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27599 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27600 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27601 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27602 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27603 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 [ 256, 27604 ] F3: 7 involutions always lift to involutions -> excluded
+H256r2 [ 256, 27605 ] F3: 3 involutions always lift to involutions -> excluded
+H256r2 [ 256, 27606 ] F3: 7 involutions always lift to involutions -> excluded
+H256r2 [ 256, 27607 ] F3: 7 involutions always lift to involutions -> excluded
+H256r2 
+[ 256, 27608 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 [ 256, 27609 ] F3: 7 involutions always lift to involutions -> excluded
+H256r2 
+[ 256, 27610 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27611 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27612 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 [ 256, 27613 ] F3: 7 involutions always lift to involutions -> excluded
+H256r2 
+[ 256, 27614 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27615 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27616 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 [ 256, 27617 ] F3: 7 involutions always lift to involutions -> excluded
+H256r2 
+[ 256, 27618 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27619 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27620 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27621 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27622 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27623 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27624 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27625 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 [ 256, 27626 ] F3: 7 involutions always lift to involutions -> excluded
+H256r2 [ 256, 27627 ] F3: 7 involutions always lift to involutions -> excluded
+H256r2 [ 256, 27628 ] F3: 7 involutions always lift to involutions -> excluded
+H256r2 
+[ 256, 27629 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27630 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27631 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 [ 256, 27632 ] F3: 7 involutions always lift to involutions -> excluded
+H256r2 
+[ 256, 27633 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27634 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27635 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27636 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27637 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27638 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27639 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27640 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27641 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27642 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27643 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27644 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27645 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27646 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27647 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27648 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27649 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27650 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27651 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27652 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27653 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27654 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27655 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27656 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27657 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27658 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27659 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27660 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27661 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27662 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27663 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27664 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27665 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27666 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27667 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27668 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27669 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27670 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27671 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27672 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27673 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27674 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27675 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27676 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27677 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27678 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27679 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27680 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27681 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27682 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27683 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27684 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27685 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27686 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27687 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27688 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27689 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27690 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27691 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27692 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27693 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27694 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27695 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27696 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27697 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27698 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27699 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27700 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27701 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27702 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27703 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27704 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27705 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27706 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27707 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27708 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27709 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27710 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27711 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27712 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27713 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27714 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27715 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27716 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27717 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27718 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27719 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27720 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27721 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27722 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27723 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27724 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27725 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27726 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27727 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27728 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27729 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27730 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27731 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27732 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27733 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27734 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27735 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 [ 256, 27736 ] F3: 7 involutions always lift to involutions -> excluded
+H256r2 [ 256, 27737 ] F3: 7 involutions always lift to involutions -> excluded
+H256r2 [ 256, 27738 ] F3: 7 involutions always lift to involutions -> excluded
+H256r2 [ 256, 27739 ] F3: 7 involutions always lift to involutions -> excluded
+H256r2 [ 256, 27740 ] F3: 7 involutions always lift to involutions -> excluded
+H256r2 [ 256, 27741 ] F3: 7 involutions always lift to involutions -> excluded
+H256r2 [ 256, 27742 ] F3: 7 involutions always lift to involutions -> excluded
+H256r2 
+[ 256, 27743 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27744 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27745 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27746 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27747 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27748 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27749 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27750 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27751 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27752 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27753 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 [ 256, 27754 ] F3: 7 involutions always lift to involutions -> excluded
+H256r2 [ 256, 27755 ] F3: 7 involutions always lift to involutions -> excluded
+H256r2 
+[ 256, 27756 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 [ 256, 27757 ] F3: 7 involutions always lift to involutions -> excluded
+H256r2 [ 256, 27758 ] F3: 7 involutions always lift to involutions -> excluded
+H256r2 [ 256, 27759 ] F3: 7 involutions always lift to involutions -> excluded
+H256r2 [ 256, 27760 ] F3: 7 involutions always lift to involutions -> excluded
+H256r2 
+[ 256, 27761 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 [ 256, 27762 ] F3: 7 involutions always lift to involutions -> excluded
+H256r2 [ 256, 27763 ] F3: 7 involutions always lift to involutions -> excluded
+H256r2 
+[ 256, 27764 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 [ 256, 27765 ] F3: 3 involutions always lift to involutions -> excluded
+H256r2 [ 256, 27766 ] F3: 7 involutions always lift to involutions -> excluded
+H256r2 [ 256, 27767 ] F3: 7 involutions always lift to involutions -> excluded
+H256r2 [ 256, 27768 ] F3: 7 involutions always lift to involutions -> excluded
+H256r2 
+[ 256, 27769 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 [ 256, 27770 ] F3: 7 involutions always lift to involutions -> excluded
+H256r2 [ 256, 27771 ] F3: 7 involutions always lift to involutions -> excluded
+H256r2 
+[ 256, 27772 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 [ 256, 27773 ] F3: 7 involutions always lift to involutions -> excluded
+H256r2 [ 256, 27774 ] F3: 7 involutions always lift to involutions -> excluded
+H256r2 [ 256, 27775 ] F3: 7 involutions always lift to involutions -> excluded
+H256r2 [ 256, 27776 ] F3: 7 involutions always lift to involutions -> excluded
+H256r2 
+[ 256, 27777 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27778 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 [ 256, 27779 ] F3: 7 involutions always lift to involutions -> excluded
+H256r2 [ 256, 27780 ] F3: 7 involutions always lift to involutions -> excluded
+H256r2 [ 256, 27781 ] F3: 7 involutions always lift to involutions -> excluded
+H256r2 
+[ 256, 27782 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 [ 256, 27783 ] F3: 7 involutions always lift to involutions -> excluded
+H256r2 [ 256, 27784 ] F3: 7 involutions always lift to involutions -> excluded
+H256r2 [ 256, 27785 ] F3: 7 involutions always lift to involutions -> excluded
+H256r2 [ 256, 27786 ] F3: 7 involutions always lift to involutions -> excluded
+H256r2 [ 256, 27787 ] F3: 7 involutions always lift to involutions -> excluded
+H256r2 [ 256, 27788 ] F3: 7 involutions always lift to involutions -> excluded
+H256r2 [ 256, 27789 ] F3: 7 involutions always lift to involutions -> excluded
+H256r2 [ 256, 27790 ] F3: 7 involutions always lift to involutions -> excluded
+H256r2 [ 256, 27791 ] F3: 7 involutions always lift to involutions -> excluded
+H256r2 
+[ 256, 27792 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27793 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 [ 256, 27794 ] F3: 7 involutions always lift to involutions -> excluded
+H256r2 
+[ 256, 27795 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 [ 256, 27796 ] F3: 7 involutions always lift to involutions -> excluded
+H256r2 
+[ 256, 27797 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27798 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 [ 256, 27799 ] F3: 7 involutions always lift to involutions -> excluded
+H256r2 [ 256, 27800 ] F3: 7 involutions always lift to involutions -> excluded
+H256r2 
+[ 256, 27801 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 [ 256, 27802 ] F3: 7 involutions always lift to involutions -> excluded
+H256r2 [ 256, 27803 ] F3: 7 involutions always lift to involutions -> excluded
+H256r2 [ 256, 27804 ] F3: 7 involutions always lift to involutions -> excluded
+H256r2 
+[ 256, 27805 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27806 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27807 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27808 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27809 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27810 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27811 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27812 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27813 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27814 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27815 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27816 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27817 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27818 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27819 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27820 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 [ 256, 27821 ] F3: 7 involutions always lift to involutions -> excluded
+H256r2 [ 256, 27822 ] F3: 7 involutions always lift to involutions -> excluded
+H256r2 [ 256, 27823 ] F3: 7 involutions always lift to involutions -> excluded
+H256r2 [ 256, 27824 ] F3: 7 involutions always lift to involutions -> excluded
+H256r2 [ 256, 27825 ] F3: 7 involutions always lift to involutions -> excluded
+H256r2 [ 256, 27826 ] F3: 7 involutions always lift to involutions -> excluded
+H256r2 [ 256, 27827 ] F3: 7 involutions always lift to involutions -> excluded
+H256r2 [ 256, 27828 ] F3: 7 involutions always lift to involutions -> excluded
+H256r2 
+[ 256, 27829 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 [ 256, 27830 ] F3: 7 involutions always lift to involutions -> excluded
+H256r2 [ 256, 27831 ] F3: 3 involutions always lift to involutions -> excluded
+H256r2 [ 256, 27832 ] F3: 7 involutions always lift to involutions -> excluded
+H256r2 [ 256, 27833 ] F3: 7 involutions always lift to involutions -> excluded
+H256r2 [ 256, 27834 ] F3: 7 involutions always lift to involutions -> excluded
+H256r2 [ 256, 27835 ] F3: 7 involutions always lift to involutions -> excluded
+H256r2 [ 256, 27836 ] F3: 7 involutions always lift to involutions -> excluded
+H256r2 [ 256, 27837 ] F3: 7 involutions always lift to involutions -> excluded
+H256r2 
+[ 256, 27838 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 [ 256, 27839 ] F3: 7 involutions always lift to involutions -> excluded
+H256r2 [ 256, 27840 ] F3: 7 involutions always lift to involutions -> excluded
+H256r2 [ 256, 27841 ] F3: 7 involutions always lift to involutions -> excluded
+H256r2 [ 256, 27842 ] F3: 7 involutions always lift to involutions -> excluded
+H256r2 [ 256, 27843 ] F3: 7 involutions always lift to involutions -> excluded
+H256r2 [ 256, 27844 ] F3: 7 involutions always lift to involutions -> excluded
+H256r2 
+[ 256, 27845 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27846 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 
+[ 256, 27847 ] F2: some maximal subgroup has smaller Frattini -> excluded
+H256r2 [ 256, 27848 ] F3: 7 involutions always lift to involutions -> excluded
+H256r2 [ 256, 27849 ] F3: 7 involutions always lift to involutions -> excluded

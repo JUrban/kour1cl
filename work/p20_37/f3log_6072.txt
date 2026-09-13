@@ -1,0 +1,6 @@
+NOT FOUND |G|=6072 a=33
+FOUND |G|=6072 a=44 b=138 via size=44 |H|=22 k=2 trial=0
+FOUND |G|=6072 a=46 b=132 via size=46 |H|=23 k=2 trial=0
+FOUND |G|=6072 a=66 b=92 via size=66 |H|=22 k=3 trial=0
+FOUND |G|=6072 a=69 b=88 via size=69 |H|=23 k=3 trial=0
+FINISHED

@@ -1,0 +1,6 @@
+FOUND |G|=14880 a=40 b=372 via |H|=10 k=4 |K|=93 l=4 |Omega|=16 trial=0
+FOUND |G|=14880 a=48 b=310 via |H|=24 k=2 |K|=155 l=2 |Omega|=4 trial=0
+FOUND |G|=14880 a=62 b=240 via |H|=31 k=2 |K|=60 l=4 |Omega|=8 trial=0
+FOUND |G|=14880 a=80 b=186 via |H|=16 k=5 |K|=93 l=2 |Omega|=10 trial=0
+FOUND |G|=14880 a=120 b=124 via |H|=60 k=2 |K|=31 l=4 |Omega|=8 trial=0
+FINISHED

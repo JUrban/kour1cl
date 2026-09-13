@@ -1,0 +1,6 @@
+FOUND |G|=6072 a=33 b=184 via |H|=11 k=3 |K|=23 l=8 |Omega|=24 trial=0
+FOUND |G|=6072 a=44 b=138 via |H|=22 k=2 |K|=23 l=6 |Omega|=12 trial=0
+FOUND |G|=6072 a=46 b=132 via |H|=23 k=2 |K|=22 l=6 |Omega|=12 trial=0
+FOUND |G|=6072 a=66 b=92 via |H|=22 k=3 |K|=23 l=4 |Omega|=12 trial=0
+FOUND |G|=6072 a=69 b=88 via |H|=23 k=3 |K|=22 l=4 |Omega|=12 trial=0
+FINISHED

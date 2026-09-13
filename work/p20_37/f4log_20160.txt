@@ -1,0 +1,1 @@
+FOUND |G|=20160 a=35 b=576 via |H|=7 k=5 |K|=192 l=3 |Omega|=15 trial=1

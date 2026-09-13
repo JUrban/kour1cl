@@ -72,3 +72,20 @@
   p-groups of order ≤ 64, 3⁵, 5³. 18.20: all 2063 library tables (≤ 200 classes) — semiproportional irreducibles
   have equal degrees.
 - Stopped low-value sweeps: 17.128, 18.44, 16.33, 16.63, 21.113 (orders 769–1000 reached 959), 2.78 L₂(q) data.
+
+## 2026-09-13 16:15 UTC
+- 16.14: order 2¹² (r = 3) excluded (1139 candidate quotients H of order 512 all fail); unconditional up to 2¹⁰.
+- 20.21: local condition corrected (3-power-order automorphisms), search to 252 clean, 256 running; rigorous proof
+  that abelian K cannot occur.
+- New sweeps (issues 19–20, re-triaged): 20.115 (Wilde, o(x) | |G|/χ(1)): no counterexample among non-soluble
+  groups ≤ 2000 and 2275 library tables; 20.78 (codegree conjecture): none (same range + perfect groups running);
+  19.108 (p-groups, o(x) | |P|/χ(1)²): none up to 3⁷, 5⁵, 7⁴; 20.49 (2-generated subgroup of the same exponent):
+  running; 20.122 (Zenkov, three nilpotent subgroups): sweep over all nilpotent subgroups running (Sylow-only
+  version is trivial by Zenkov's theorem).
+- **20.37 (Hooshmand, G = AB with |A| = a, |B| = b)**: computed the "chain-achievable" factor sizes for all simple
+  groups of order ≤ 10⁶; PSL(2,8) is the first group where the subgroup-chain method fails (12·42, 21·24).
+  Proved Theorem 1: if H ≤ K ≤ G, |K:H| even and K = ⟨H,x⟩, then 2|H| ∈ L(G) (perfect matching in a connected
+  vertex-transitive graph, Gallai–Edmonds). Introduced a two-sided construction A = HX, B = YK (H, K with regular
+  double cosets) reducing the search to tiny exact-cover problems; with it every factor size left open by
+  Theorem 1 has been realised so far (PSL(2,8), PSL(2,13), PSL(2,17), PSL(2,19), PSL(2,23), PSL(2,25),
+  PSL(2,27), PSL(3,4), …); all found A, B are re-verified in GAP. Report: reports/20.37_subset_factorizations.md.

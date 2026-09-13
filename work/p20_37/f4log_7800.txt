@@ -1,0 +1,2 @@
+FOUND |G|=7800 a=39 b=200 via |H|=13 k=3 |K|=100 l=2 |Omega|=6 trial=0
+FINISHED

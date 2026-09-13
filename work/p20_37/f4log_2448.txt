@@ -1,0 +1,2 @@
+FOUND |G|=2448 a=48 b=51 via |H|=24 k=2 |K|=17 l=3 |Omega|=6 trial=0
+FINISHED

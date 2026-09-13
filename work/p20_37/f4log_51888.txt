@@ -1,0 +1,8 @@
+FOUND |G|=51888 a=69 b=752 via |H|=23 k=3 |K|=47 l=16 |Omega|=48 trial=0
+FOUND |G|=51888 a=92 b=564 via |H|=46 k=2 |K|=47 l=12 |Omega|=24 trial=0
+FOUND |G|=51888 a=94 b=552 via |H|=47 k=2 |K|=46 l=12 |Omega|=24 trial=0
+FOUND |G|=51888 a=138 b=376 via |H|=46 k=3 |K|=47 l=8 |Omega|=24 trial=0
+FOUND |G|=51888 a=141 b=368 via |H|=47 k=3 |K|=46 l=8 |Omega|=24 trial=0
+FOUND |G|=51888 a=184 b=282 via |H|=46 k=4 |K|=47 l=6 |Omega|=24 trial=0
+FOUND |G|=51888 a=188 b=276 via |H|=47 k=4 |K|=46 l=6 |Omega|=24 trial=0
+FINISHED

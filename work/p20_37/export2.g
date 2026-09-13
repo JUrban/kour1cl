@@ -15,7 +15,7 @@ ExportCase := function(S, fname)
   WriteLine(out, JoinStringsWithSeparator(mset, " "));
   WriteLine(out, String(Length(GeneratorsOfGroup(G))));
   for gens in GeneratorsOfGroup(G) do WriteLine(out, JoinStringsWithSeparator(PermList0(gens), " ")); od;
-  cls := Filtered(List(ConjugacyClassesSubgroups(G), Representative), H -> Size(H) > 1 and Size(H) < Size(G) and ForAny(mset, a -> a mod Size(H) = 0));
+  cls := Filtered(List(ConjugacyClassesSubgroups(G), Representative), H -> Size(H) > 1 and Size(H) < Size(G) and ForAny(mset, a -> a mod Size(H) = 0 or (Size(G)/a) mod Size(H) = 0));
   WriteLine(out, String(Length(cls)));
   for H in cls do
     WriteLine(out, Concatenation(String(Size(H)), " ", String(Length(GeneratorsOfGroup(H)))));

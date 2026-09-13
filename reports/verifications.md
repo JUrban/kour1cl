@@ -57,3 +57,5 @@ All scripts/logs are in `work/<problem>/`. "Verified for X" means: exhaustive ch
 | 20.71(a),(b) (Lauri/Pannone) | connected graph with k ∈ {2,3} card types and > k automorphism orbits | none among all connected graphs with ≤ 10 vertices (nauty/geng exhaustive; for k = 4 the search finds examples already on 9 vertices, e.g. graph6 `HCpbdgy`, consistent with the 2026 solution of part (c)); n = 11 running | `work/p20_71` |
 | 17.1 (Isaacs) | (p = 5) | no partition of exponent-5 groups of order 5⁶ into 126 subgroups of order 125 with a non-abelian component (in progress over all such groups) | `work/p17_1` |
 | 18.117 (Shumyatsky) | coprime commutators | verified for M11, M12, M22, M23, M24, J1, J2, HS, J3, McL, He, Co3, Co2, Suz, Fi22 (see report) | `work/p18_117` |
+| 15.3 (Isaacs) | soluble G with faithful non-linear irreducibles α, β and αβ irreducible | none among soluble groups of order ≤ 600 (orders with ≤ 3000 groups) | `work/p15_3` |
+| 19.33 (Giannelli) | χ_P with a linear constituent has ≥ p linear constituents (p | χ(1)) | all non-soluble groups of order ≤ 2000 (orders with ≤ 5000 groups) and all simple groups of order ≤ 10⁶ | `work/p19_33` |

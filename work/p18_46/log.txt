@@ -43,3 +43,105 @@ Q8 |G|=8 |G|^2=64 2|G|^2=128 minimal |H| = [ 48, 28, "C2 . S4 = SL(2,3) . C2"
 #I  does not perform well for such groups -- see the documentation.
 #I  The group tested requires many generators. `IsomorphicSubgroups' often
 #I  does not perform well for such groups -- see the documentation.
+#I  The group tested requires many generators. `IsomorphicSubgroups' often
+#I  does not perform well for such groups -- see the documentation.
+#I  The group tested requires many generators. `IsomorphicSubgroups' often
+#I  does not perform well for such groups -- see the documentation.
+#I  The group tested requires many generators. `IsomorphicSubgroups' often
+#I  does not perform well for such groups -- see the documentation.
+#I  The group tested requires many generators. `IsomorphicSubgroups' often
+#I  does not perform well for such groups -- see the documentation.
+#I  The group tested requires many generators. `IsomorphicSubgroups' often
+#I  does not perform well for such groups -- see the documentation.
+#I  The group tested requires many generators. `IsomorphicSubgroups' often
+#I  does not perform well for such groups -- see the documentation.
+#I  The group tested requires many generators. `IsomorphicSubgroups' often
+#I  does not perform well for such groups -- see the documentation.
+#I  The group tested requires many generators. `IsomorphicSubgroups' often
+#I  does not perform well for such groups -- see the documentation.
+#I  The group tested requires many generators. `IsomorphicSubgroups' often
+#I  does not perform well for such groups -- see the documentation.
+#I  The group tested requires many generators. `IsomorphicSubgroups' often
+#I  does not perform well for such groups -- see the documentation.
+#I  The group tested requires many generators. `IsomorphicSubgroups' often
+#I  does not perform well for such groups -- see the documentation.
+#I  The group tested requires many generators. `IsomorphicSubgroups' often
+#I  does not perform well for such groups -- see the documentation.
+#I  The group tested requires many generators. `IsomorphicSubgroups' often
+#I  does not perform well for such groups -- see the documentation.
+#I  The group tested requires many generators. `IsomorphicSubgroups' often
+#I  does not perform well for such groups -- see the documentation.
+#I  The group tested requires many generators. `IsomorphicSubgroups' often
+#I  does not perform well for such groups -- see the documentation.
+#I  The group tested requires many generators. `IsomorphicSubgroups' often
+#I  does not perform well for such groups -- see the documentation.
+#I  The group tested requires many generators. `IsomorphicSubgroups' often
+#I  does not perform well for such groups -- see the documentation.
+#I  The group tested requires many generators. `IsomorphicSubgroups' often
+#I  does not perform well for such groups -- see the documentation.
+#I  The group tested requires many generators. `IsomorphicSubgroups' often
+#I  does not perform well for such groups -- see the documentation.
+#I  The group tested requires many generators. `IsomorphicSubgroups' often
+#I  does not perform well for such groups -- see the documentation.
+#I  The group tested requires many generators. `IsomorphicSubgroups' often
+#I  does not perform well for such groups -- see the documentation.
+#I  The group tested requires many generators. `IsomorphicSubgroups' often
+#I  does not perform well for such groups -- see the documentation.
+#I  The group tested requires many generators. `IsomorphicSubgroups' often
+#I  does not perform well for such groups -- see the documentation.
+#I  The group tested requires many generators. `IsomorphicSubgroups' often
+#I  does not perform well for such groups -- see the documentation.
+#I  The group tested requires many generators. `IsomorphicSubgroups' often
+#I  does not perform well for such groups -- see the documentation.
+#I  The group tested requires many generators. `IsomorphicSubgroups' often
+#I  does not perform well for such groups -- see the documentation.
+#I  The group tested requires many generators. `IsomorphicSubgroups' often
+#I  does not perform well for such groups -- see the documentation.
+#I  The group tested requires many generators. `IsomorphicSubgroups' often
+#I  does not perform well for such groups -- see the documentation.
+#I  The group tested requires many generators. `IsomorphicSubgroups' often
+#I  does not perform well for such groups -- see the documentation.
+#I  The group tested requires many generators. `IsomorphicSubgroups' often
+#I  does not perform well for such groups -- see the documentation.
+#I  The group tested requires many generators. `IsomorphicSubgroups' often
+#I  does not perform well for such groups -- see the documentation.
+#I  The group tested requires many generators. `IsomorphicSubgroups' often
+#I  does not perform well for such groups -- see the documentation.
+#I  The group tested requires many generators. `IsomorphicSubgroups' often
+#I  does not perform well for such groups -- see the documentation.
+#I  The group tested requires many generators. `IsomorphicSubgroups' often
+#I  does not perform well for such groups -- see the documentation.
+#I  The group tested requires many generators. `IsomorphicSubgroups' often
+#I  does not perform well for such groups -- see the documentation.
+#I  The group tested requires many generators. `IsomorphicSubgroups' often
+#I  does not perform well for such groups -- see the documentation.
+#I  The group tested requires many generators. `IsomorphicSubgroups' often
+#I  does not perform well for such groups -- see the documentation.
+#I  The group tested requires many generators. `IsomorphicSubgroups' often
+#I  does not perform well for such groups -- see the documentation.
+#I  The group tested requires many generators. `IsomorphicSubgroups' often
+#I  does not perform well for such groups -- see the documentation.
+#I  The group tested requires many generators. `IsomorphicSubgroups' often
+#I  does not perform well for such groups -- see the documentation.
+#I  The group tested requires many generators. `IsomorphicSubgroups' often
+#I  does not perform well for such groups -- see the documentation.
+#I  The group tested requires many generators. `IsomorphicSubgroups' often
+#I  does not perform well for such groups -- see the documentation.
+#I  The group tested requires many generators. `IsomorphicSubgroups' often
+#I  does not perform well for such groups -- see the documentation.
+#I  The group tested requires many generators. `IsomorphicSubgroups' often
+#I  does not perform well for such groups -- see the documentation.
+#I  The group tested requires many generators. `IsomorphicSubgroups' often
+#I  does not perform well for such groups -- see the documentation.
+#I  The group tested requires many generators. `IsomorphicSubgroups' often
+#I  does not perform well for such groups -- see the documentation.
+#I  The group tested requires many generators. `IsomorphicSubgroups' often
+#I  does not perform well for such groups -- see the documentation.
+#I  The group tested requires many generators. `IsomorphicSubgroups' often
+#I  does not perform well for such groups -- see the documentation.
+#I  The group tested requires many generators. `IsomorphicSubgroups' often
+#I  does not perform well for such groups -- see the documentation.
+C2 x C2 x C2 |G|=8 |G|^2=64 2|G|^2=128 minimal |H| = 
+[ 64, 32, "((C8 : C2) : C2) : C2" ]
+D10 |G|=10 |G|^2=100 2|G|^2=200 minimal |H| = [ 20, 3, "C5 : C4" ]
+A4 |G|=12 |G|^2=144 2|G|^2=288 minimal |H| = [ 24, 12, "S4" ]

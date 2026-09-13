@@ -35,3 +35,6 @@
 - 14:50 UTC: 2.78 construction verified numerically (f(A5 × M_343) = 30, p-group lemma for p=7, n≤4, r≤1).
   18.46 (Klyachko): minimal square-root overgroups computed: C2→4, C4→8, V4→16, S3→36, C6→12, C8→16, C4×C2→32;
   all ≤ |G|² so far (data collection continues).
+- 15:00 UTC: **18.46 (Klyachko)**: computation shows the minimal H for G = D8 has order 128 = 2|G|² (SmallGroup(128,134),
+  e.g. D8 ≀ C2), so the bound 2|G|² is sharp. Independent verification running (work/p18_46/verify_d8.g).
+  20.30 verified for all centreless perfect groups of order < 10^6.

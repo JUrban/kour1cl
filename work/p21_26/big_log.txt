@@ -1,0 +1,16 @@
+S7 |G|=5040 ok=true
+S8 |G|=40320 ok=true
+A8 |G|=20160 ok=true
+M11 |G|=7920 ok=true
+M12 |G|=95040 ok=true
+L3(3) |G|=5616 ok=true
+U3(3) |G|=6048 ok=true
+PGL(2,7) |G|=336 ok=true
+PGL(2,9) |G|=720 ok=true
+PGL(2,11) |G|=1320 ok=true
+L2(16) |G|=4080 ok=true
+L2(17) |G|=2448 ok=true
+L2(19) |G|=3420 ok=true
+L2(23) |G|=6072 ok=true
+L2(25) |G|=7800 ok=true
+L2(27) |G|=9828 ok=true

@@ -24,3 +24,11 @@
 - 21.111: τ-groups among simple groups of order ≤ 10^7 are exactly PSL(2,3^n), n=2..5; all τ-automorphisms are
   involutions (data for (a); nothing for (b) yet).
 - 11.18: G(2,3) resists (perfect, no small quotients, coset enumeration overflow at 4e8) — likely infinite but unproved.
+
+## 2026-09-13 14:15 UTC
+- **2.78/3.57 (Trofimov): main question SOLVED** — the sets of soluble and absolutely simple group-theoretic
+  numbers are finite (every k ≥ 86 is realised by A5 × (M_{p^n} × C_{p^r})); also 0–6 and 8 are soluble, 7 is
+  absolutely simple, f(S) ≥ 9 for simple S ≠ A5. Existence of composite non-soluble numbers left open.
+  Report: reports/2.78_group_theoretic_numbers.md.
+- 21.113: Robinson's own paper (arXiv:2505.03976) proves it only for PSL(2,q); deprioritised.
+- Sweeps for 20.21, 19.20, 18.20, 18.119, 18.77, 17.128, 18.44, 14.44, 13.19 continue with no hits.

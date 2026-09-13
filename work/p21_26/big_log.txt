@@ -14,3 +14,6 @@ L2(19) |G|=3420 ok=true
 L2(23) |G|=6072 ok=true
 L2(25) |G|=7800 ok=true
 L2(27) |G|=9828 ok=true
+L2(29) |G|=12180 ok=true
+L2(31) |G|=14880 ok=true
+L2(32) |G|=32736 ok=true

@@ -1,5 +1,118 @@
-Error, no method found! For debugging hints type ?Recovery from NoMethodFound
-Error, no 1st choice method found for `^' on 2 arguments
-called from read-eval loop at big2.g:2
-type 'quit;' to quit to outer loop
-[1m[34m[0m[31m
+S8 |G|=40320
+   diagnostics: 2:(dc=16,min=3,ords=[ 2, 4 ],|Op|=1,zenkov=false,good=20480/
+40320) 3:(dc=576,min=464,ords=[ 1 ],|Op|=1,zenkov=true,good=37584/40320) 
+5:(dc=1632,min=1608,ords=[ 1 ],|Op|=1,zenkov=true,good=40200/40320) 7:(dc=
+828,min=822,ords=[ 1 ],|Op|=1,zenkov=true,good=40278/40320) 
+S8 |G|=40320 ok=true (random sample 2)
+A8 |G|=20160
+   diagnostics: 2:(dc=24,min=1,ords=[ 1 ],|Op|=1,zenkov=true,good=4096/20160) 
+3:(dc=288,min=232,ords=[ 1 ],|Op|=1,zenkov=true,good=18792/20160) 5:(dc=
+816,min=804,ords=[ 1 ],|Op|=1,zenkov=true,good=20100/20160) 7:(dc=414,min=
+411,ords=[ 1 ],|Op|=1,zenkov=true,good=20139/20160) 
+A8 |G|=20160 ok=true (random sample 1)
+M11 |G|=7920
+   diagnostics: 2:(dc=37,min=27,ords=[ 1 ],|Op|=1,zenkov=true,good=6912/7920) 
+3:(dc=112,min=96,ords=[ 1 ],|Op|=1,zenkov=true,good=7776/7920) 5:(dc=320,min=
+316,ords=[ 1 ],|Op|=1,zenkov=true,good=7900/7920) 11:(dc=70,min=65,ords=
+[ 1 ],|Op|=1,zenkov=true,good=7865/7920) 
+M11 |G|=7920 ok=true (random sample 1)
+M12 |G|=95040
+   diagnostics: 2:(dc=44,min=12,ords=[ 1 ],|Op|=1,zenkov=true,good=49152/
+95040) 3:(dc=152,min=124,ords=[ 1 ],|Op|=1,zenkov=true,good=90396/95040) 
+5:(dc=3808,min=3800,ords=[ 1 ],|Op|=1,zenkov=true,good=95000/95040) 11:(dc=
+790,min=785,ords=[ 1 ],|Op|=1,zenkov=true,good=94985/95040) 
+M12 |G|=95040 ok=true (random sample 2)
+L3(3) |G|=5616
+   diagnostics: 2:(dc=28,min=18,ords=[ 1 ],|Op|=1,zenkov=true,good=4608/5616) 
+3:(dc=24,min=4,ords=[ 1 ],|Op|=1,zenkov=true,good=2916/5616) 13:(dc=36,min=
+33,ords=[ 1 ],|Op|=1,zenkov=true,good=5577/5616) 
+L3(3) |G|=5616 ok=true (random sample 2)
+U3(3) |G|=6048
+   diagnostics: 2:(dc=14,min=3,ords=[ 1 ],|Op|=1,zenkov=true,good=3072/6048) 
+3:(dc=16,min=8,ords=[ 1 ],|Op|=1,zenkov=true,good=5832/6048) 7:(dc=126,min=
+123,ords=[ 1 ],|Op|=1,zenkov=true,good=6027/6048) 
+U3(3) |G|=6048 ok=true (random sample 1)
+PGL(2,7) |G|=336
+   diagnostics: 2:(dc=4,min=2,ords=[ 2 ],|Op|=1,zenkov=false,good=256/336) 
+3:(dc=40,min=36,ords=[ 1 ],|Op|=1,zenkov=true,good=324/336) 7:(dc=12,min=
+6,ords=[ 1 ],|Op|=1,zenkov=true,good=294/336) 
+PGL(2,7) |G|=336 ok=true (random sample 2)
+PGL(2,9) |G|=720
+   diagnostics: 2:(dc=6,min=1,ords=[ 1 ],|Op|=1,zenkov=true,good=256/720) 
+3:(dc=16,min=8,ords=[ 1 ],|Op|=1,zenkov=true,good=648/720) 5:(dc=32,min=
+28,ords=[ 1 ],|Op|=1,zenkov=true,good=700/720) 
+PGL(2,9) |G|=720 ok=true (random sample 2)
+PGL(2,11) |G|=1320
+   diagnostics: 2:(dc=26,min=17,ords=[ 1 ],|Op|=1,zenkov=true,good=1088/1320) 
+3:(dc=152,min=144,ords=[ 1 ],|Op|=1,zenkov=true,good=1296/1320) 5:(dc=56,min=
+52,ords=[ 1 ],|Op|=1,zenkov=true,good=1300/1320) 11:(dc=20,min=10,ords=
+[ 1 ],|Op|=1,zenkov=true,good=1210/1320) 
+PGL(2,11) |G|=1320 ok=true (random sample 2)
+L2(16) |G|=4080
+   diagnostics: 2:(dc=30,min=15,ords=[ 1 ],|Op|=1,zenkov=true,good=3840/4080) 
+3:(dc=460,min=450,ords=[ 1 ],|Op|=1,zenkov=true,good=4050/4080) 5:(dc=168,min=
+162,ords=[ 1 ],|Op|=1,zenkov=true,good=4050/4080) 17:(dc=16,min=14,ords=
+[ 1 ],|Op|=1,zenkov=true,good=4046/4080) 
+L2(16) |G|=4080 ok=true (random sample 1)
+L2(17) |G|=2448
+   diagnostics: 2:(dc=15,min=6,ords=[ 1 ],|Op|=1,zenkov=true,good=1536/2448) 
+3:(dc=32,min=30,ords=[ 1 ],|Op|=1,zenkov=true,good=2430/2448) 17:(dc=16,min=
+8,ords=[ 1 ],|Op|=1,zenkov=true,good=2312/2448) 
+L2(17) |G|=2448 ok=true (random sample 1)
+L2(19) |G|=3420
+   diagnostics: 2:(dc=225,min=204,ords=[ 1 ],|Op|=1,zenkov=true,good=3264/
+3420) 3:(dc=44,min=42,ords=[ 1 ],|Op|=1,zenkov=true,good=3402/3420) 5:(dc=
+140,min=136,ords=[ 1 ],|Op|=1,zenkov=true,good=3400/3420) 19:(dc=18,min=
+9,ords=[ 1 ],|Op|=1,zenkov=true,good=3249/3420) 
+L2(19) |G|=3420 ok=true (random sample 1)
+L2(23) |G|=6072
+   diagnostics: 2:(dc=105,min=87,ords=[ 1 ],|Op|=1,zenkov=true,good=5568/
+6072) 3:(dc=680,min=672,ords=[ 1 ],|Op|=1,zenkov=true,good=6048/6072) 11:(dc=
+52,min=50,ords=[ 1 ],|Op|=1,zenkov=true,good=6050/6072) 23:(dc=22,min=11,ords=
+[ 1 ],|Op|=1,zenkov=true,good=5819/6072) 
+L2(23) |G|=6072 ok=true (random sample 1)
+L2(25) |G|=7800
+   diagnostics: 2:(dc=132,min=114,ords=[ 1 ],|Op|=1,zenkov=true,good=7296/
+7800) 3:(dc=872,min=864,ords=[ 1 ],|Op|=1,zenkov=true,good=7776/7800) 5:(dc=
+24,min=12,ords=[ 1 ],|Op|=1,zenkov=true,good=7500/7800) 13:(dc=48,min=46,ords=
+[ 1 ],|Op|=1,zenkov=true,good=7774/7800) 
+L2(25) |G|=7800 ok=true (random sample 1)
+L2(27) |G|=9828
+   diagnostics: 2:(dc=630,min=600,ords=[ 1 ],|Op|=1,zenkov=true,good=9600/
+9828) 3:(dc=26,min=13,ords=[ 1 ],|Op|=1,zenkov=true,good=9477/9828) 7:(dc=
+204,min=200,ords=[ 1 ],|Op|=1,zenkov=true,good=9800/9828) 13:(dc=60,min=
+58,ords=[ 1 ],|Op|=1,zenkov=true,good=9802/9828) 
+L2(27) |G|=9828 ok=true (random sample 1)
+L2(29) |G|=12180
+   diagnostics: 2:(dc=777,min=747,ords=[ 1 ],|Op|=1,zenkov=true,good=11952/
+12180) 3:(dc=1360,min=1350,ords=[ 1 ],|Op|=1,zenkov=true,good=12150/12180) 
+5:(dc=492,min=486,ords=[ 1 ],|Op|=1,zenkov=true,good=12150/12180) 7:(dc=
+252,min=248,ords=[ 1 ],|Op|=1,zenkov=true,good=12152/12180) 29:(dc=28,min=
+14,ords=[ 1 ],|Op|=1,zenkov=true,good=11774/12180) 
+L2(29) |G|=12180 ok=true (random sample 1)
+L2(31) |G|=14880
+   diagnostics: 2:(dc=24,min=7,ords=[ 1 ],|Op|=1,zenkov=true,good=7168/14880) 
+3:(dc=1660,min=1650,ords=[ 1 ],|Op|=1,zenkov=true,good=14850/14880) 5:(dc=
+600,min=594,ords=[ 1 ],|Op|=1,zenkov=true,good=14850/14880) 31:(dc=30,min=
+15,ords=[ 1 ],|Op|=1,zenkov=true,good=14415/14880) 
+L2(31) |G|=14880 ok=true (random sample 10)
+L2(32) |G|=32736
+   diagnostics: 2:(dc=62,min=31,ords=[ 1 ],|Op|=1,zenkov=true,good=31744/
+32736) 3:(dc=3652,min=3630,ords=[ 1 ],|Op|=1,zenkov=true,good=32670/32736) 
+11:(dc=276,min=270,ords=[ 1 ],|Op|=1,zenkov=true,good=32670/32736) 31:(dc=
+36,min=34,ords=[ 1 ],|Op|=1,zenkov=true,good=32674/32736) 
+L2(32) |G|=32736 ok=true (random sample 1)
+L2(49) |G|=58800
+   diagnostics: 2:(dc=246,min=216,ords=[ 1 ],|Op|=1,zenkov=true,good=55296/
+58800) 3:(dc=6544,min=6528,ords=[ 1 ],|Op|=1,zenkov=true,good=58752/58800) 
+5:(dc=96,min=94,ords=[ 1 ],|Op|=1,zenkov=true,good=58750/58800) 7:(dc=48,min=
+24,ords=[ 1 ],|Op|=1,zenkov=true,good=57624/58800) 
+L2(49) |G|=58800 ok=true (random sample 1)
+L2(64) |G|=262080
+   diagnostics: 2:(dc=126,min=63,ords=[ 1 ],|Op|=1,zenkov=true,good=258048/
+262080) 3:(dc=3248,min=3234,ords=[ 1 ],|Op|=1,zenkov=true,good=261954/262080) 
+5:(dc=10504,min=10478,ords=[ 1 ],|Op|=1,zenkov=true,good=261950/262080) 7:(dc=
+5364,min=5346,ords=[ 1 ],|Op|=1,zenkov=true,good=261954/262080) 13:(dc=
+1560,min=1550,ords=[ 1 ],|Op|=1,zenkov=true,good=261950/262080) 
+L2(64) |G|=262080 ok=true (random sample 1)
+L2(81) |G|=265680

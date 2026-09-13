@@ -1,0 +1,16 @@
+   diagnostics: 2:(dc=14,min=13,ords=[ 32 ],|Op|=32,zenkov=true,good=1664/
+1728) 3:(dc=24,min=20,ords=[ 9 ],|Op|=9,zenkov=true,good=1620/1728) 
+   diagnostics: 2:(dc=14,min=13,ords=[ 32 ],|Op|=32,zenkov=true,good=1664/
+1728) 3:(dc=24,min=20,ords=[ 9 ],|Op|=9,zenkov=true,good=1620/1728) 
+   diagnostics: 2:(dc=14,min=13,ords=[ 32 ],|Op|=32,zenkov=true,good=1664/
+1728) 3:(dc=24,min=20,ords=[ 9 ],|Op|=9,zenkov=true,good=1620/1728) 
+   diagnostics: 2:(dc=14,min=13,ords=[ 32 ],|Op|=32,zenkov=true,good=1664/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=14,min=13,ords=[ 32 ],|Op|=32,zenkov=true,good=1664/
+1728) 3:(dc=24,min=20,ords=[ 9 ],|Op|=9,zenkov=true,good=1620/1728) 
+   diagnostics: 2:(dc=14,min=13,ords=[ 32 ],|Op|=32,zenkov=true,good=1664/
+1728) 3:(dc=24,min=20,ords=[ 9 ],|Op|=9,zenkov=true,good=1620/1728) 
+   diagnostics: 2:(dc=14,min=13,ords=[ 32 ],|Op|=32,zenkov=true,good=1664/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=14,min=13,ords=[ 32 ],|Op|=32,zenkov=true,good=1664/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 

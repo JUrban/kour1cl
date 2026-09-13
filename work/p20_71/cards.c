@@ -28,8 +28,9 @@ int main(int argc, char**argv){
     cnt++;
     densenauty(g, lab, ptn, orbits, &options, &stats, m, n, NULL);
     int no=0; for(int i=0;i<n;i++) if(orbits[i]==i) no++;
-    if(no<=1) continue;
     int k = card_types(g, n, m);
+    if(k==1 && no>1){ printf("INCONSISTENT (k=1 but not transitive) %s", line); }
+    if(no<=1) continue;
     if(no > k && k <= 4){ hits++; printf("HIT k=%d orbits=%d graph6=%s", k, no, line); fflush(stdout); }
   }
   fprintf(stderr, "processed %lld graphs, hits %lld\n", cnt, hits); return 0; }

@@ -52,3 +52,6 @@
   coprime commutators; explicit certificates found). Fi22, ON, Ru, ... running. 19.12 verified for the 34 simple
   groups with ≤ 24 classes; 20.100 (n=4) verified for all groups of order coprime to 30 up to 300.
   20.71 (graph cards, k=2,3): exhaustive nauty search over connected graphs with ≤ 9 vertices: no example; n=10,11 running.
+- 19:30 UTC: **13.19 strengthened**: uniform construction — every finite p-group P is Q/H for a configuration with
+  n = class(P)+1 (Möbius lemma for word maps on nilpotent groups); verified for P = C3 ≀ C3 (|Q| = 3^32). So 13.19
+  fails for every prime p. 21.2 verified for the six smallest simple groups; 20.71(a,b) none up to 10 vertices.

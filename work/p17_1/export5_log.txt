@@ -1,0 +1,1 @@
+exponent-5 group [ 15625, 38 ] C5 x C5 x C5 x ((C5 x C5) : C5)

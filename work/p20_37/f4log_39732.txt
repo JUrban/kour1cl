@@ -1,3 +1,9 @@
 FOUND |G|=39732 a=28 b=1419 via |H|=14 k=2 |K|=129 l=11 |Omega|=22 trial=0
 FOUND |G|=39732 a=33 b=1204 via |H|=11 k=3 |K|=301 l=4 |Omega|=12 trial=0
 FOUND |G|=39732 a=66 b=602 via |H|=22 k=3 |K|=301 l=2 |Omega|=6 trial=0
+NOT FOUND |G|=39732 a=77
+FOUND |G|=39732 a=84 b=473 via |H|=42 k=2 |K|=43 l=11 |Omega|=22 trial=0
+FOUND |G|=39732 a=86 b=462 via |H|=43 k=2 |K|=42 l=11 |Omega|=22 trial=0
+FOUND |G|=39732 a=154 b=258 via |H|=22 k=7 |K|=129 l=2 |Omega|=14 trial=0
+FOUND |G|=39732 a=172 b=231 via |H|=43 k=4 |K|=21 l=11 |Omega|=44 trial=0
+FINISHED

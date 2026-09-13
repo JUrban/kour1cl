@@ -1,0 +1,2 @@
+NOT FOUND |G|=29120 a=35
+FOUND |G|=29120 a=40 b=728 via |H|=20 k=2 |K|=13 l=56 |Omega|=112 trial=0

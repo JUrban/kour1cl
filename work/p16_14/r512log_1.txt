@@ -1,0 +1,70 @@
+H512 [ 512, 10493062 ] F1: 2-rank >= 7 -> excluded
+H512 [ 512, 10493063 ] F1: 2-rank >= 7 -> excluded
+H512 [ 512, 10493064 ] F1: 2-rank >= 7 -> excluded
+H512 [ 512, 10493065 ] F1: 2-rank >= 7 -> excluded
+H512 [ 512, 10493066 ] F1: 2-rank >= 7 -> excluded
+H512 [ 512, 10493067 
+ ] F2: some maximal subgroup has smaller Frattini -> excluded
+H512 [ 512, 10493068 
+ ] F2: some maximal subgroup has smaller Frattini -> excluded
+H512 [ 512, 10493069 ] F1: 2-rank >= 7 -> excluded
+H512 [ 512, 10493070 
+ ] F2: some maximal subgroup has smaller Frattini -> excluded
+H512 [ 512, 10493071 
+ ] F2: some maximal subgroup has smaller Frattini -> excluded
+H512 [ 512, 10493072 
+ ] F2: some maximal subgroup has smaller Frattini -> excluded
+H512 [ 512, 10493073 
+ ] F2: some maximal subgroup has smaller Frattini -> excluded
+H512 [ 512, 10493074 
+ ] F2: some maximal subgroup has smaller Frattini -> excluded
+H512 [ 512, 10493075 
+ ] F2: some maximal subgroup has smaller Frattini -> excluded
+H512 [ 512, 10493076 
+ ] F2: some maximal subgroup has smaller Frattini -> excluded
+H512 [ 512, 10493077 
+ ] F2: some maximal subgroup has smaller Frattini -> excluded
+H512 [ 512, 10493078 
+ ] F2: some maximal subgroup has smaller Frattini -> excluded
+H512 [ 512, 10493079 
+ ] F2: some maximal subgroup has smaller Frattini -> excluded
+H512 [ 512, 10493080 
+ ] F2: some maximal subgroup has smaller Frattini -> excluded
+H512 [ 512, 10493081 
+ ] F2: some maximal subgroup has smaller Frattini -> excluded
+H512 [ 512, 10493082 ] F1: 2-rank >= 7 -> excluded
+H512 [ 512, 10493083 ] F1: 2-rank >= 7 -> excluded
+H512 [ 512, 10493084 ] F1: 2-rank >= 7 -> excluded
+H512 [ 512, 10493085 ] F1: 2-rank >= 7 -> excluded
+H512 [ 512, 10493086 ] F1: 2-rank >= 7 -> excluded
+H512 [ 512, 10493087 ] F1: 2-rank >= 7 -> excluded
+H512 [ 512, 10493088 ] F3: 
+3 involutions always lift to involutions -> excluded
+H512 [ 512, 10493089 ] F1: 2-rank >= 7 -> excluded
+H512 [ 512, 10493090 ] F3: 
+3 involutions always lift to involutions -> excluded
+H512 [ 512, 10493091 ] F1: 2-rank >= 7 -> excluded
+H512 [ 512, 10493092 
+ ] F2: some maximal subgroup has smaller Frattini -> excluded
+H512 [ 512, 10493093 
+ ] F2: some maximal subgroup has smaller Frattini -> excluded
+H512 [ 512, 10493094 ] F3: 
+3 involutions always lift to involutions -> excluded
+H512 [ 512, 10493095 ] F3: 
+3 involutions always lift to involutions -> excluded
+H512 [ 512, 10493096 ] F1: 2-rank >= 7 -> excluded
+H512 [ 512, 10493097 ] F1: 2-rank >= 7 -> excluded
+H512 [ 512, 10493098 ] F1: 2-rank >= 7 -> excluded
+H512 [ 512, 10493099 ] F3: 
+3 involutions always lift to involutions -> excluded
+H512 [ 512, 10493100 ] F3: 
+3 involutions always lift to involutions -> excluded
+H512 [ 512, 10493101 ] F1: 2-rank >= 7 -> excluded
+H512 [ 512, 10493102 
+ ] F2: some maximal subgroup has smaller Frattini -> excluded
+H512 [ 512, 10493103 ] F3: 
+3 involutions always lift to involutions -> excluded
+H512 [ 512, 10493104 ] F3: 
+3 involutions always lift to involutions -> excluded
+H512 [ 512, 10493105 ] F3: 
+3 involutions always lift to involutions -> excluded

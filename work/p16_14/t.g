@@ -1,0 +1,1 @@
+LoadPackage("polycyclic");; H := SmallGroup(16,4); M := GModuleByMats([List(GeneratorsOfGroup(H), g -> IdentityMat(1, GF(2)))][1], GF(2)); coh := TwoCohomology(H, M); Print(RecNames(coh), "\n"); Print(coh, "\n"); QUIT;

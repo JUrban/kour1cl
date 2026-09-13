@@ -1,0 +1,8 @@
+n=2 q=2: |GL|=6, matrices with no cyclic AP: 0
+n=2 q=3: |GL|=48, matrices with no cyclic AP: 0
+n=2 q=5: |GL|=480, matrices with no cyclic AP: 0
+n=3 q=2: |GL|=168, matrices with no cyclic AP: 0
+n=2 q=7: |GL|=2016, matrices with no cyclic AP: 0
+n=3 q=3: |GL|=11232, matrices with no cyclic AP: 0
+n=4 q=2: |GL|=20160, matrices with no cyclic AP: 0
+n=3 q=5: |GL|=1488000, matrices with no cyclic AP: 0

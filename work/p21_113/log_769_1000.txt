@@ -61,3 +61,14 @@ done order 828 (30 groups) checked 5118 pairs
 done order 829 (1 groups) checked 5119 pairs
 done order 830 (4 groups) checked 5131 pairs
 done order 831 (2 groups) checked 5135 pairs
+done order 832 (1630 groups) checked 8395 pairs
+done order 833 (2 groups) checked 8399 pairs
+done order 834 (6 groups) checked 8417 pairs
+done order 835 (1 groups) checked 8419 pairs
+done order 836 (9 groups) checked 8446 pairs
+done order 837 (13 groups) checked 8472 pairs
+done order 838 (2 groups) checked 8476 pairs
+done order 839 (1 groups) checked 8477 pairs
+done order 840 (186 groups) checked 9221 pairs
+done order 841 (2 groups) checked 9223 pairs
+done order 842 (2 groups) checked 9227 pairs

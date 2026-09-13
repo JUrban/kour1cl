@@ -1,0 +1,5 @@
+done order 8 groups with Omega1<=Z: 1
+done order 16 groups with Omega1<=Z: 3
+done order 32 groups with Omega1<=Z: 13
+done order 64 groups with Omega1<=Z: 58
+done order 128 groups with Omega1<=Z: 338

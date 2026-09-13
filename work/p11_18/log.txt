@@ -1,0 +1,10 @@
+G[ 2, 3 ]: abelian invariants [  ]
+  number of subgroups of index <= 12: 1
+  coset enumeration (5M) failed
+G[ 3, 2 ]: abelian invariants [  ]
+  number of subgroups of index <= 12: 1
+  coset enumeration (5M) failed
+G[ 2, 4 ]: abelian invariants [  ]
+  number of subgroups of index <= 12: 1
+  coset enumeration (5M) failed
+G[ 3, 3 ]: abelian invariants [  ]

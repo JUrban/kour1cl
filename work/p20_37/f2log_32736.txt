@@ -1,1 +1,1 @@
-FOUND |G|=32736 a=12 b=2728 via |H|=6 k=2 trial=0
+already solved a=12

@@ -1,1 +1,1 @@
-FOUND |G|=34440 a=28 b=1230 via |H|=14 k=2 trial=0
+already solved a=28

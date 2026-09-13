@@ -27,8 +27,13 @@ def closure(gens, deg):
 fname = sys.argv[1]; seed = int(sys.argv[2]) if len(sys.argv) > 2 else 1; random.seed(seed)
 n, deg, mset, gens, subs = load(fname)
 els, idx = closure(gens, deg); assert len(els) == n
-out = open(fname.replace('case_', 'sol_'), 'w')
-def exact_cover_sat(m, options, limit_s=600):
+solname = fname.replace('case_', 'sol_')
+try:
+    donea = set(int(l.split()[0]) for i, l in enumerate(open(solname)) if i % 3 == 0 and l.strip())
+except FileNotFoundError:
+    donea = set()
+out = open(solname, 'a')
+def exact_cover_sat(m, options, budget=300000):
     # options: list of tuples of vertices; find a subset partitioning range(m)
     byv = [[] for _ in range(m)]
     for i, t in enumerate(options):
@@ -38,11 +43,14 @@ def exact_cover_sat(m, options, limit_s=600):
         if not byv[v]: return None
         s.add_clause(byv[v])
         for x, y in itertools.combinations(byv[v], 2): s.add_clause([-x, -y])
-    if s.solve():
-        model = s.get_model(); return [i - 1 for i in model if i > 0 and i <= len(options)]
-    return None
+    s.conf_budget(budget)
+    r = s.solve_limited()
+    if r:
+        model = s.get_model(); s.delete(); return [i - 1 for i in model if i > 0 and i <= len(options)]
+    s.delete(); return None
 for a in mset:
     b = n // a; done = False
+    if a in donea: print('already solved a=%d' % a, flush=True); continue
     for h, sg in sorted(subs, key=lambda t: -t[0]):
         if a % h: continue
         k = a // h

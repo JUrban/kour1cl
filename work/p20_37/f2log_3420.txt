@@ -1,2 +1,2 @@
-FOUND |G|=3420 a=36 b=95 via |H|=18 k=2 trial=0
-FOUND |G|=3420 a=38 b=90 via |H|=19 k=2 trial=0
+already solved a=36
+already solved a=38

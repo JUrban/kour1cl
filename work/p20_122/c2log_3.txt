@@ -1,0 +1,7 @@
+done order 152 triples checked 397
+done order 153 triples checked 0
+done order 154 triples checked 9
+done order 155 triples checked 1
+done order 156 triples checked 442
+done order 158 triples checked 1
+done order 159 triples checked 0

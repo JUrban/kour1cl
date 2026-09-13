@@ -6,3 +6,5 @@ FOUND |G|=9828 a=52 b=189 via |H|=26 k=2 |K|=27 l=7 |Omega|=14 trial=0
 FOUND |G|=9828 a=54 b=182 via |H|=27 k=2 |K|=26 l=7 |Omega|=14 trial=0
 NOT FOUND |G|=9828 a=63
 FOUND |G|=9828 a=78 b=126 via |H|=26 k=3 |K|=9 l=14 |Omega|=42 trial=0
+NOT FOUND |G|=9828 a=91
+FINISHED

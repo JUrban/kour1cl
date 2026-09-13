@@ -1,0 +1,9 @@
+done order 182 triples checked 9
+done order 183 triples checked 1
+done order 184 triples checked 397
+done order 185 triples checked 0
+done order 186 triples checked 23
+done order 187 triples checked 0
+done order 188 triples checked 11
+done order 189 triples checked 2303
+done order 190 triples checked 9

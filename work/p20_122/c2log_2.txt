@@ -1,0 +1,16 @@
+done order 122 triples checked 1
+done order 123 triples checked 0
+done order 124 triples checked 11
+done order 126 triples checked 555
+done order 129 triples checked 1
+done order 130 triples checked 9
+done order 132 triples checked 191
+done order 133 triples checked 0
+done order 134 triples checked 1
+done order 135 triples checked 0
+done order 136 triples checked 467
+done order 138 triples checked 9
+done order 140 triples checked 217
+done order 141 triples checked 0
+done order 142 triples checked 1
+done order 143 triples checked 0

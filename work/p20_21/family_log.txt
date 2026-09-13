@@ -1,0 +1,1 @@
+C8 x C8: tested 1 semidirect products M = N x| V4 of order 256

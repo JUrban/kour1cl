@@ -13,3 +13,4 @@ done degree 3700 groups-with-regular-suborbit so far: 2610
 done degree 3800 groups-with-regular-suborbit so far: 2982
 done degree 3900 groups-with-regular-suborbit so far: 3157
 done degree 4000 groups-with-regular-suborbit so far: 3286
+FINISHED degrees 2501..4095 groups checked: 3514

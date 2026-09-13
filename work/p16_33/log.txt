@@ -1,0 +1,9 @@
+Syntax warning: Unbound global variable in check.g:11
+    for j in Set(List(abel, Size)) do
+        ^
+Syntax warning: Unbound global variable in check.g:17
+      for j in Set(List(el, Size)) do
+          ^
+done order 8 groups 2
+done order 16 groups 9
+done order 32 groups 44

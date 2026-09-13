@@ -13,10 +13,9 @@ Syntax warning: Unbound global variable in check2.g:25
                                                   ^
 done order 100
 done order 200
-Error, Variable: 'E' is read only
-*[1] Elements( G )
-   @ check2.g:10
-<function "unknown">( <arguments> )
- called from read-eval loop at check2.g:31
-type 'quit;' to quit to outer loop
-[1m[34m[0m[31m
+done order 300
+done order 400
+done order 500
+done order 600
+done order 700
+done order 800

@@ -7,7 +7,7 @@ for n in [24..2000] do
     if DerivedLength(G) < 3 then continue; fi;
     D2 := DerivedSubgroup(DerivedSubgroup(G));
     if IsNilpotent(D2) then continue; fi;
-    E := Elements(G); C := CommSet(E, E); W := CommSet(C, C);   # delta_2-values
+    Els := Elements(G); C := CommSet(Els, Els); W := CommSet(C, C);   # delta_2-values
     V := Subgroup(G, W);
     if Size(V) <> Size(D2) then Print("?? delta2 subgroup mismatch ", [n,k], "\n"); fi;
     for p in PrimeDivisors(Size(V)) do
@@ -18,7 +18,7 @@ for n in [24..2000] do
       fi;
     od;
     # gamma_3 values
-    W3 := CommSet(C, E); V3 := Subgroup(G, W3);
+    W3 := CommSet(C, Els); V3 := Subgroup(G, W3);
     for p in PrimeDivisors(Size(V3)) do
       P := SylowSubgroup(V3, p);
       if IsNormal(V3, P) then continue; fi;

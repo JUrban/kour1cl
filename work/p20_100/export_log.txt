@@ -1,0 +1,6 @@
+Syntax warning: Unbound global variable in export.g:9
+    for x in elts do WriteLine(out, JoinStringsWithSeparator(List(elts, y -> S\
+tring(Position(elts, x*y))), " ")); od;
+                                                                              \
+               ^^^^
+FINISHED

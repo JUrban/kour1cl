@@ -1,0 +1,9 @@
+already solved a=28
+FOUND |G|=34440 a=35 b=984 via |H|=7 k=5 |K|=164 l=6 |Omega|=30 trial=3
+already solved a=56
+already solved a=70
+already solved a=105
+already solved a=120
+already solved a=123
+FOUND |G|=34440 a=140 b=246 via |H|=20 k=7 |K|=41 l=6 |Omega|=42 trial=85
+FINISHED

@@ -1,2 +1,2 @@
-FOUND |G|=95040 a=135 b=704 via |H|=27 k=5 |K|=64 l=11 |Omega|=55 trial=0
-FOUND |G|=95040 a=270 b=352 via |H|=54 k=5 |K|=11 l=32 |Omega|=160 trial=0
+already solved a=135
+already solved a=270

@@ -1,5 +1,2 @@
-FOUND |G|=58800 a=35 b=1680 via |H|=7 k=5 |K|=336 l=5 |Omega|=25 trial=1
-FOUND |G|=58800 a=40 b=1470 via |H|=10 k=4 |K|=147 l=10 |Omega|=40 trial=0
-NOT FOUND |G|=58800 a=70
-FOUND |G|=58800 a=75 b=784 via |H|=25 k=3 |K|=392 l=2 |Omega|=6 trial=0
-FOUND |G|=58800 a=80 b=735 via |H|=16 k=5 |K|=147 l=5 |Omega|=25 trial=0
+already solved a=35
+already solved a=40

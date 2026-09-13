@@ -1,1 +1,1 @@
-FOUND |G|=126000 a=75 b=1680 via |H|=25 k=3 |K|=168 l=10 |Omega|=30 trial=0
+already solved a=75

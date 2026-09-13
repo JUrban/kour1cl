@@ -1,0 +1,24 @@
+# 19.56 (Monakhov): star-commutator = [x,y] with x, y of coprime prime-power orders.
+# Hypothesis H(G): for all star-commutators a, b of coprime orders, |ab| >= |a||b|.  Is G then soluble?
+StarComms := function(G)
+  local cls, reps, S, x, y, cx, cy, ppe;
+  ppe := Filtered(List(ConjugacyClasses(G), Representative), r -> IsPrimePowerInt(Order(r)));
+  S := [];
+  for x in ppe do
+    for cy in ConjugacyClasses(G) do
+      y := Representative(cy);
+      if not IsPrimePowerInt(Order(y)) or Gcd(Order(x), Order(y)) <> 1 then continue; fi;
+      # all commutators [x, y^g]: iterate over the class of y
+      for y in AsList(cy) do AddSet(S, Comm(x, y)); od;
+    od;
+  od;
+  return S;   # closed under conjugation (since x ranges over class reps and y over full classes; [x^g, y^g] = [x,y]^g)
+end;
+Violates := function(G)   # returns a violating pair or fail
+  local S, a, b, o;
+  S := Filtered(StarComms(G), s -> not IsOne(s));
+  for a in S do for b in S do
+    if Gcd(Order(a), Order(b)) = 1 and Order(a*b) < Order(a)*Order(b) then return [a, b]; fi;
+  od; od;
+  return fail;
+end;

@@ -1,0 +1,8 @@
+already solved a=21
+already solved a=35
+already solved a=42
+already solved a=70
+already solved a=84
+already solved a=87
+FOUND |G|=12180 a=105 b=116 via |H|=15 k=7 |K|=58 l=2 |Omega|=14 trial=2
+FINISHED

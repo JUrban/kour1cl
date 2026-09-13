@@ -1,6 +1,2 @@
 NOT FOUND |G|=29120 a=35
-FOUND |G|=29120 a=40 b=728 via |H|=20 k=2 |K|=13 l=56 |Omega|=112 trial=0
-NOT FOUND |G|=29120 a=70
-FOUND |G|=29120 a=80 b=364 via |H|=20 k=4 |K|=13 l=28 |Omega|=112 trial=0
-NOT FOUND |G|=29120 a=91
-FOUND |G|=29120 a=104 b=280 via |H|=52 k=2 |K|=7 l=40 |Omega|=80 trial=0
+already solved a=40

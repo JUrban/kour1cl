@@ -1,3 +1,7 @@
-FOUND |G|=62400 a=26 b=2400 via |H|=13 k=2 |K|=300 l=8 |Omega|=16 trial=0
-FOUND |G|=62400 a=52 b=1200 via |H|=13 k=4 |K|=300 l=4 |Omega|=16 trial=0
-FOUND |G|=62400 a=78 b=800 via |H|=39 k=2 |K|=50 l=16 |Omega|=32 trial=0
+already solved a=26
+already solved a=52
+already solved a=78
+FOUND |G|=62400 a=104 b=600 via |H|=13 k=8 |K|=60 l=10 |Omega|=80 trial=1
+FOUND |G|=62400 a=156 b=400 via |H|=39 k=4 |K|=50 l=8 |Omega|=32 trial=0
+FOUND |G|=62400 a=200 b=312 via |H|=50 k=4 |K|=39 l=8 |Omega|=32 trial=0
+FINISHED

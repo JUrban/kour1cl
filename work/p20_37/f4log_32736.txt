@@ -1,7 +1,7 @@
-FOUND |G|=32736 a=12 b=2728 via |H|=6 k=2 |K|=31 l=88 |Omega|=176 trial=0
-FOUND |G|=32736 a=24 b=1364 via |H|=8 k=3 |K|=31 l=44 |Omega|=132 trial=0
-FOUND |G|=32736 a=44 b=744 via |H|=11 k=4 |K|=62 l=12 |Omega|=48 trial=0
-FOUND |G|=32736 a=48 b=682 via |H|=16 k=3 |K|=31 l=22 |Omega|=66 trial=0
-FOUND |G|=32736 a=88 b=372 via |H|=22 k=4 |K|=31 l=12 |Omega|=48 trial=0
-FOUND |G|=32736 a=93 b=352 via |H|=31 k=3 |K|=32 l=11 |Omega|=33 trial=0
-FOUND |G|=32736 a=96 b=341 via |H|=32 k=3 |K|=31 l=11 |Omega|=33 trial=0
+already solved a=12
+already solved a=24
+already solved a=44
+already solved a=48
+already solved a=88
+already solved a=93
+already solved a=96

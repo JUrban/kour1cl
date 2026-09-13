@@ -1,7 +1,7 @@
 already solved a=28
 already solved a=33
 already solved a=66
-FOUND |G|=39732 a=77 b=516 via |H|=11 k=7 |K|=129 l=4 |Omega|=28 trial=1156
+already solved a=77
 already solved a=84
 already solved a=86
 already solved a=154

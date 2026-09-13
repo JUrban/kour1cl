@@ -1,0 +1,5 @@
+FOUND |G|=150348 a=44 b=3417 via |H|=22 k=2 |K|=201 l=17 |Omega|=34 trial=0
+FOUND |G|=150348 a=51 b=2948 via |H|=17 k=3 |K|=737 l=4 |Omega|=12 trial=0
+FOUND |G|=150348 a=102 b=1474 via |H|=34 k=3 |K|=737 l=2 |Omega|=6 trial=0
+FOUND |G|=150348 a=132 b=1139 via |H|=66 k=2 |K|=67 l=17 |Omega|=34 trial=0
+FOUND |G|=150348 a=134 b=1122 via |H|=67 k=2 |K|=66 l=17 |Omega|=34 trial=0

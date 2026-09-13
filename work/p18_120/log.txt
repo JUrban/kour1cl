@@ -1,3 +1,6 @@
 done order 8
 done order 16
 done order 32
+done order 64
+done order 27
+done order 81

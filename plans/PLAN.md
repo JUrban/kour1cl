@@ -51,7 +51,7 @@ Deadline: 2026-09-15 08:03 UTC.
 | 8.44 Mennicke | G_p infinite for almost all p | not started |
 | 15.74 Pálfy p=5 | normal subgroup lattice not embeddable in abelian subgroup lattice | not started |
 
-## Status 2026-09-13 15:15 UTC
+## Status 2026-09-13 13:53 UTC
 Solved: 21.32 (decidability), 16.60 (T(G) ≥ |S_α|), 2.78 (finiteness of soluble/absolutely simple numbers),
 18.46 (bound 2|G|² sharp, G = D8). Running searches: 13.19 (orders 256, 3-groups), 20.21, 20.86, 20.99,
 20.55, 16.45, 16.63/15.29, 16.33, 18.20, 18.119, 18.77, 17.128, 14.44, 19.20, 11.18 quotients.

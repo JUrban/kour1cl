@@ -31,7 +31,7 @@ All scripts/logs are in `work/<problem>/`. "Verified for X" means: exhaustive ch
 | 21.111 (Revin–Yang) | τ-groups | among simple groups of order ≤ 10⁷ (3 ∤ Sz(8) excluded): τ-groups are exactly A6=PSL(2,9), PSL(2,27), PSL(2,81), PSL(2,243); all τ-automorphisms found are involutions | `work/p21_111` |
 | 11.18 / 17.80 (Brandl, Macedońska) | G(2,3) = ⟨x,y | x=[x,y,y], y=[y,x,x,x]⟩ | perfect; no proper subgroups of index ≤ 12; no quotient onto any simple group of order ≤ 2·10⁵; coset enumeration fails with 4·10⁸ cosets (ACE) | `work/p11_18` |
 
-### Additional verifications (2026-09-13, 15:40 UTC)
+### Additional verifications (2026-09-13, 13:57 UTC)
 | Problem | Statement (short) | Verified range | Scripts |
 |---|---|---|---|
 | 20.21 (Verret–Conder) | G with normal K ≅ L of index 12, G/K ≅ C₁₂, G/L ≅ A₄ | no example among all groups of order ≤ 2000 (orders with ≤ 30000 groups; all orders divisible by 12 except 1536); also no candidate K of order ≤ 60 satisfying the local necessary condition | `work/p20_21` |

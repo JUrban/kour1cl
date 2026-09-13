@@ -1,0 +1,23 @@
+Syntax warning: Unbound global variable in /project/work/p20_37/run3.g:6
+  Print(StructureDescription(S), " |G|=", Size(G), " missing after Thm 1: ", F\
+iltered(m, a -> a*a <= Size(G)), "\n");
+                                                                              \
+                            ^
+A5 |G|=60 missing after Thm 1: [  ]
+PSL(3,2) |G|=168 missing after Thm 1: [  ]
+A6 |G|=360 missing after Thm 1: [  ]
+PSL(2,8) |G|=504 missing after Thm 1: [ 21 ]
+PSL(2,11) |G|=660 missing after Thm 1: [  ]
+PSL(2,13) |G|=1092 missing after Thm 1: [  ]
+PSL(2,17) |G|=2448 missing after Thm 1: [  ]
+A7 |G|=2520 missing after Thm 1: [  ]
+PSL(2,19) |G|=3420 missing after Thm 1: [ 45 ]
+PSL(2,16) |G|=4080 missing after Thm 1: [  ]
+PSL(3,3) |G|=5616 missing after Thm 1: [  ]
+PSU(3,3) |G|=6048 missing after Thm 1: [  ]
+PSL(2,23) |G|=6072 missing after Thm 1: [ 33, 66, 69 ]
+PSL(2,25) |G|=7800 missing after Thm 1: [  ]
+M11 |G|=7920 missing after Thm 1: [  ]
+PSL(2,27) |G|=9828 missing after Thm 1: [ 21, 36, 42, 63, 78, 91 ]
+PSL(2,29) |G|=12180 missing after Thm 1: [ 21, 35, 42, 70, 84, 87 ]
+PSL(2,31) |G|=14880 missing after Thm 1: [ 40 ]

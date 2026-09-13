@@ -1,0 +1,2 @@
+FOUND |G|=246480 a=48 b=5135 via |H|=24 k=2 trial=0
+FOUND |G|=246480 a=52 b=4740 via |H|=26 k=2 trial=0

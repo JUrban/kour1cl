@@ -17,3 +17,7 @@ L2(27) |G|=9828 ok=true
 L2(29) |G|=12180 ok=true
 L2(31) |G|=14880 ok=true
 L2(32) |G|=32736 ok=true
+S9 |G|=362880 ok=true
+L3(4) |G|=20160 ok=true
+U4(2) |G|=25920 ok=true
+S3wrS3 |G|=1296 ok=true

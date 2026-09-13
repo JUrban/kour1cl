@@ -201,3 +201,9 @@ done order 968 (42 groups) checked 96811 pairs
 done order 969 (2 groups) checked 96817 pairs
 done order 970 (4 groups) checked 96829 pairs
 done order 971 (1 groups) checked 96830 pairs
+done order 972 (900 groups) checked 98630 pairs
+done order 973 (1 groups) checked 98632 pairs
+done order 974 (2 groups) checked 98636 pairs
+done order 975 (6 groups) checked 98654 pairs
+done order 976 (51 groups) checked 98756 pairs
+done order 977 (1 groups) checked 98757 pairs

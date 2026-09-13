@@ -1,1 +1,2 @@
-
+FINISHED order 768 ids 200001..
+400000 groups with >=2 non-normal Sylows checked 0

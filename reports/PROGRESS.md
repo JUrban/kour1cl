@@ -45,3 +45,6 @@
   13.19: explicit class-2 construction of order 512 with Q/H ≅ D8 being verified in GAP.
 - 17:30 UTC: **13.19 (Gorchakov) SOLVED (negative)**: explicit Q of order 512 (class 2), n = 3, Q/H ≅ D8;
   verified via pc presentation (work/p13_19/construct_pc2.g). Report: reports/13.19_subdirect_products_counterexample.md.
+- 18:00 UTC: launched 18.56 (core-2 2-groups ≤ 256), 18.120 (factorised p-groups), 21.2 (order-divisibility bijections),
+  19.12 (conjugacy-expansive simple groups with ≤ 24 classes, C checker), 15.3, 20.4, 19.33, 17.1 (p=5).
+  Stopped low-value sweeps (18.20, 18.119, 14.44, 19.20, 11.18 PSL(2,q) quotients).

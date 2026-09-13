@@ -1,2 +1,3 @@
 order 60 done, non-simple groups admitting a bijection: 0
 order 168 done, non-simple groups admitting a bijection: 0
+order 360 done, non-simple groups admitting a bijection: 0

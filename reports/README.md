@@ -1,4 +1,4 @@
-# Results index (Kourovka Notebook, 21st ed.) — status 2026-09-13 15:35 UTC
+# Results index (Kourovka Notebook, 21st ed.) — status 2026-09-13 16:30 UTC
 
 ## Solved (complete answers with proofs / verified computations)
 | Problem | Answer | Report |
@@ -13,7 +13,8 @@
 | Problem | Result | Report |
 |---|---|---|
 | 16.14 (Berkovich) | true for class-2 groups with G² ≤ Z(G) (Chevalley–Warning); a minimal counterexample has d = 2r+1 and rigid structure (Theorem B); no counterexample of order ≤ 2¹⁰, none of order 2¹¹ with r ≥ 3 (cohomological search over G/Ω₁(G)) | `16.14_notes.md` |
-| 20.21 (Verret–Conder) | structural restrictions; no example of order ≤ 2000; local condition fails for |K| ≤ 252 | `20.21_notes.md` |
+| 20.21 (Verret–Conder) | structural restrictions; no example of order ≤ 2000; local condition (L) fails for |K| ≤ 252 (search to 256 running); Lemma T2: (L) is impossible unless K = I·φ(I) | `20.21_notes.md` |
+| 20.37 (Hooshmand) | chain-achievable factor sizes for all simple groups ≤ 10⁶ (PSL(2,8) is the first where subgroup chains fail); Theorem 1 (2|H| ∈ L(G) via perfect matchings in vertex-transitive graphs); two-sided coset construction realising the remaining sizes computationally (running, all found factorisations verified in GAP) | `20.37_subset_factorizations.md` |
 | 21.26 (Lisi–Sabatini) | verified for all groups of order ≤ 2000 (a few 2-heavy orders excepted) and many larger groups; all inclusion-minimal Sylow intersections found equal O_p(G) | `verifications.md` |
 | 18.117 (Shumyatsky) | verified for 15 sporadic groups (M11 … Fi22) | `18.117_coprime_commutators_sporadic.md` |
 | 21.111 (Revin–Yang) | τ-groups of order ≤ 10⁷ are exactly PSL(2,3ⁿ), n = 2..5; proof that PSL(2,3ⁿ) are τ-groups | `21.111_tau_groups_partial.md` |

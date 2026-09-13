@@ -4274,3 +4274,57 @@ done order 1343 total groups with >=2 non-normal Sylows checked 1930
 1344) 3:(dc=192,min=128,ords=[ 1 ],|Op|=1,zenkov=true,good=1152/1344) 
    diagnostics: 2:(dc=12,min=9,ords=[ 32 ],|Op|=32,zenkov=true,good=1152/
 1344) 3:(dc=192,min=128,ords=[ 1 ],|Op|=1,zenkov=true,good=1152/1344) 
+   diagnostics: 2:(dc=12,min=9,ords=[ 32 ],|Op|=32,zenkov=true,good=1152/
+1344) 3:(dc=192,min=128,ords=[ 1 ],|Op|=1,zenkov=true,good=1152/1344) 
+   diagnostics: 2:(dc=12,min=9,ords=[ 32 ],|Op|=32,zenkov=true,good=1152/
+1344) 3:(dc=192,min=128,ords=[ 1 ],|Op|=1,zenkov=true,good=1152/1344) 
+   diagnostics: 2:(dc=12,min=9,ords=[ 32 ],|Op|=32,zenkov=true,good=1152/
+1344) 3:(dc=192,min=128,ords=[ 1 ],|Op|=1,zenkov=true,good=1152/1344) 
+   diagnostics: 2:(dc=12,min=9,ords=[ 32 ],|Op|=32,zenkov=true,good=1152/
+1344) 3:(dc=192,min=128,ords=[ 1 ],|Op|=1,zenkov=true,good=1152/1344) 
+   diagnostics: 2:(dc=12,min=9,ords=[ 32 ],|Op|=32,zenkov=true,good=1152/
+1344) 3:(dc=192,min=128,ords=[ 1 ],|Op|=1,zenkov=true,good=1152/1344) 
+   diagnostics: 2:(dc=12,min=9,ords=[ 32 ],|Op|=32,zenkov=true,good=1152/
+1344) 3:(dc=192,min=128,ords=[ 1 ],|Op|=1,zenkov=true,good=1152/1344) 
+   diagnostics: 2:(dc=12,min=9,ords=[ 32 ],|Op|=32,zenkov=true,good=1152/
+1344) 3:(dc=192,min=128,ords=[ 1 ],|Op|=1,zenkov=true,good=1152/1344) 
+   diagnostics: 2:(dc=12,min=9,ords=[ 32 ],|Op|=32,zenkov=true,good=1152/
+1344) 3:(dc=192,min=128,ords=[ 1 ],|Op|=1,zenkov=true,good=1152/1344) 
+   diagnostics: 2:(dc=12,min=9,ords=[ 32 ],|Op|=32,zenkov=true,good=1152/
+1344) 3:(dc=192,min=128,ords=[ 1 ],|Op|=1,zenkov=true,good=1152/1344) 
+   diagnostics: 2:(dc=12,min=9,ords=[ 32 ],|Op|=32,zenkov=true,good=1152/
+1344) 3:(dc=192,min=128,ords=[ 1 ],|Op|=1,zenkov=true,good=1152/1344) 
+   diagnostics: 2:(dc=12,min=9,ords=[ 32 ],|Op|=32,zenkov=true,good=1152/
+1344) 3:(dc=192,min=128,ords=[ 1 ],|Op|=1,zenkov=true,good=1152/1344) 
+   diagnostics: 2:(dc=12,min=9,ords=[ 32 ],|Op|=32,zenkov=true,good=1152/
+1344) 3:(dc=192,min=128,ords=[ 1 ],|Op|=1,zenkov=true,good=1152/1344) 
+   diagnostics: 2:(dc=12,min=9,ords=[ 32 ],|Op|=32,zenkov=true,good=1152/
+1344) 3:(dc=192,min=128,ords=[ 1 ],|Op|=1,zenkov=true,good=1152/1344) 
+   diagnostics: 2:(dc=12,min=9,ords=[ 32 ],|Op|=32,zenkov=true,good=1152/
+1344) 3:(dc=192,min=128,ords=[ 1 ],|Op|=1,zenkov=true,good=1152/1344) 
+   diagnostics: 2:(dc=12,min=9,ords=[ 32 ],|Op|=32,zenkov=true,good=1152/
+1344) 3:(dc=192,min=128,ords=[ 1 ],|Op|=1,zenkov=true,good=1152/1344) 
+   diagnostics: 2:(dc=12,min=9,ords=[ 32 ],|Op|=32,zenkov=true,good=1152/
+1344) 3:(dc=192,min=128,ords=[ 1 ],|Op|=1,zenkov=true,good=1152/1344) 
+   diagnostics: 2:(dc=12,min=9,ords=[ 32 ],|Op|=32,zenkov=true,good=1152/
+1344) 3:(dc=192,min=128,ords=[ 1 ],|Op|=1,zenkov=true,good=1152/1344) 
+   diagnostics: 2:(dc=12,min=9,ords=[ 32 ],|Op|=32,zenkov=true,good=1152/
+1344) 3:(dc=192,min=128,ords=[ 1 ],|Op|=1,zenkov=true,good=1152/1344) 
+   diagnostics: 2:(dc=12,min=9,ords=[ 32 ],|Op|=32,zenkov=true,good=1152/
+1344) 3:(dc=192,min=128,ords=[ 1 ],|Op|=1,zenkov=true,good=1152/1344) 
+   diagnostics: 2:(dc=12,min=9,ords=[ 32 ],|Op|=32,zenkov=true,good=1152/
+1344) 3:(dc=192,min=128,ords=[ 1 ],|Op|=1,zenkov=true,good=1152/1344) 
+   diagnostics: 2:(dc=12,min=9,ords=[ 32 ],|Op|=32,zenkov=true,good=1152/
+1344) 3:(dc=192,min=128,ords=[ 1 ],|Op|=1,zenkov=true,good=1152/1344) 
+   diagnostics: 2:(dc=12,min=9,ords=[ 32 ],|Op|=32,zenkov=true,good=1152/
+1344) 3:(dc=192,min=128,ords=[ 1 ],|Op|=1,zenkov=true,good=1152/1344) 
+   diagnostics: 2:(dc=12,min=9,ords=[ 32 ],|Op|=32,zenkov=true,good=1152/
+1344) 3:(dc=192,min=128,ords=[ 1 ],|Op|=1,zenkov=true,good=1152/1344) 
+   diagnostics: 2:(dc=12,min=9,ords=[ 32 ],|Op|=32,zenkov=true,good=1152/
+1344) 3:(dc=192,min=128,ords=[ 1 ],|Op|=1,zenkov=true,good=1152/1344) 
+   diagnostics: 2:(dc=12,min=9,ords=[ 32 ],|Op|=32,zenkov=true,good=1152/
+1344) 3:(dc=192,min=128,ords=[ 1 ],|Op|=1,zenkov=true,good=1152/1344) 
+   diagnostics: 2:(dc=12,min=9,ords=[ 32 ],|Op|=32,zenkov=true,good=1152/
+1344) 3:(dc=192,min=128,ords=[ 1 ],|Op|=1,zenkov=true,good=1152/1344) 
+   diagnostics: 2:(dc=12,min=9,ords=[ 32 ],|Op|=32,zenkov=true,good=1152/
+1344) 3:(dc=192,min=128,ords=[ 1 ],|Op|=1,zenkov=true,good=1152/1344) 

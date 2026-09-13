@@ -1,4 +1,4 @@
-# Results index (Kourovka Notebook, 21st ed.) — status 2026-09-13 17:10 UTC
+# Results index (Kourovka Notebook, 21st ed.) — status 2026-09-13 14:19 UTC
 
 ## Solved (complete answers with proofs / verified computations)
 | Problem | Answer | Report |

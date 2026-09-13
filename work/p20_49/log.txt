@@ -11,3 +11,10 @@ done order 1000 nonsoluble groups so far 101
 done order 1100 nonsoluble groups so far 123
 done order 1200 nonsoluble groups so far 144
 done order 1300 nonsoluble groups so far 146
+done order 1400 nonsoluble groups so far 155
+done order 1500 nonsoluble groups so far 157
+done order 1700 nonsoluble groups so far 193
+done order 1800 nonsoluble groups so far 204
+done order 1900 nonsoluble groups so far 206
+done order 2000 nonsoluble groups so far 208
+FINISHED

@@ -1,0 +1,242 @@
+S SL(2,5) |G|=120 violated by |a|=4 |b|=3 |ab|=5
+S SL(2,7) |G|=336 violated by |a|=8 |b|=3 |ab|=8
+S SL(2,9) |G|=720 violated by |a|=4 |b|=5 |ab|=6
+S PSL(2,8) |G|=504 violated by |a|=7 |b|=2 |ab|=7
+S PSL(2,11) |G|=660 violated by |a|=5 |b|=11 |ab|=5
+S SL(2,11) |G|=1320 violated by |a|=4 |b|=5 |ab|=10
+S Sz(8) |G|=29120 violated by |a|=7 |b|=13 |ab|=13
+S PSL(3,3) |G|=5616 violated by |a|=2 |b|=3 |ab|=2
+S PSL(2,27) |G|=9828 violated by |a|=13 |b|=3 |ab|=13
+S PSL(2,16) |G|=4080 violated by |a|=3 |b|=2 |ab|=3
+S PSL(2,32) |G|=32736 violated by |a|=31 |b|=2 |ab|=31
+S PSL(2,13) |G|=1092 violated by |a|=3 |b|=13 |ab|=3
+S SL(2,13) |G|=2184 violated by |a|=4 |b|=7 |ab|=26
+S PSL(2,17) |G|=2448 violated by |a|=2 |b|=17 |ab|=2
+S PSL(2,19) |G|=3420 violated by |a|=9 |b|=19 |ab|=9
+S SL(2,19) |G|=6840 violated by |a|=4 |b|=9 |ab|=9
+S PSL(2,23) |G|=6072 violated by |a|=11 |b|=23 |ab|=11
+S PSL(2,25) |G|=7800 violated by |a|=3 |b|=5 |ab|=3
+S PSL(2,64) |G|=262080 violated by |a|=3 |b|=2 |ab|=3
+order 60 A5 |G|=60 violated by |a|=3 |b|=2 |ab|=3
+order 120 SL(2,5) |G|=120 violated by |a|=5 |b|=4 |ab|=4
+order 120 S5 |G|=120 violated by |a|=3 |b|=2 |ab|=3
+order 120 C2 x A5 |G|=120 violated by |a|=3 |b|=2 |ab|=3
+order 168 PSL(3,2) |G|=168 violated by |a|=2 |b|=3 |ab|=3
+order 180 GL(2,4) |G|=180 violated by |a|=3 |b|=2 |ab|=3
+done 200
+order 240 C2 . S5 = SL(2,5) . C2 |G|=240 violated by |a|=5 |b|=4 |ab|=4
+order 240 SL(2,5) : C2 |G|=240 violated by |a|=3 |b|=5 |ab|=4
+order 240 A5 : C4 |G|=240 violated by |a|=3 |b|=2 |ab|=3
+order 240 C4 x A5 |G|=240 violated by |a|=3 |b|=2 |ab|=3
+order 240 SL(2,5) : C2 |G|=240 violated by |a|=5 |b|=3 |ab|=4
+order 240 C2 x SL(2,5) |G|=240 violated by |a|=5 |b|=4 |ab|=4
+order 240 C2 x S5 |G|=240 violated by |a|=3 |b|=2 |ab|=3
+order 240 C2 x C2 x A5 |G|=240 violated by |a|=3 |b|=2 |ab|=3
+order 300 C5 x A5 |G|=300 violated by |a|=3 |b|=2 |ab|=3
+order 336 SL(2,7) |G|=336 violated by |a|=3 |b|=7 |ab|=3
+order 336 PSL(3,2) : C2 |G|=336 violated by |a|=3 |b|=7 |ab|=3
+order 336 C2 x PSL(3,2) |G|=336 violated by |a|=2 |b|=3 |ab|=3
+order 360 C3 x SL(2,5) |G|=360 violated by |a|=5 |b|=4 |ab|=4
+order 360 A6 |G|=360 violated by |a|=3 |b|=2 |ab|=3
+order 360 C3 x S5 |G|=360 violated by |a|=3 |b|=2 |ab|=3
+order 360 A5 : S3 |G|=360 violated by |a|=3 |b|=2 |ab|=3
+order 360 A5 x S3 |G|=360 violated by |a|=3 |b|=2 |ab|=3
+order 360 C6 x A5 |G|=360 violated by |a|=3 |b|=2 |ab|=3
+done 400
+order 420 C7 x A5 |G|=420 violated by |a|=3 |b|=2 |ab|=3
+order 480 A5 : C8 |G|=480 violated by |a|=3 |b|=2 |ab|=3
+order 480 GL(2,5) |G|=480 violated by |a|=5 |b|=3 |ab|=5
+order 480 SL(2,5) : C4 |G|=480 violated by |a|=3 |b|=5 |ab|=4
+order 480 C8 x A5 |G|=480 violated by |a|=3 |b|=2 |ab|=3
+order 480 C8 . A5 = SL(2,5) . C4 |G|=480 violated by |a|=5 |b|=6 |ab|=10
+order 480 C4 x SL(2,5) |G|=480 violated by |a|=5 |b|=4 |ab|=4
+order 480 C4 x S5 |G|=480 violated by |a|=3 |b|=2 |ab|=3
+order 480 C4 : S5 |G|=480 violated by |a|=3 |b|=2 |ab|=3
+order 480 A5 : Q8 |G|=480 violated by |a|=3 |b|=2 |ab|=3
+order 480 (C2 . S5 = SL(2,5) . C2) : C2 |G|=480 violated by |a|=5 |b|=4 |ab|=4
+order 480 (C2 . S5 = SL(2,5) . C2) : C2 |G|=480 violated by |a|=5 |b|=4 |ab|=4
+order 480 SL(2,5) : (C2 x C2) |G|=480 violated by |a|=3 |b|=4 |ab|=4
+order 480 C2 x (C2 . S5 = SL(2,5) . C2) |G|=480 violated by |a|=5 |b|=4 |ab|=4
+order 480 C2 x (SL(2,5) : C2) |G|=480 violated by |a|=3 |b|=5 |ab|=4
+order 480 (C2 x C2) : S5 |G|=480 violated by |a|=3 |b|=2 |ab|=3
+order 480 C2 x (A5 : C4) |G|=480 violated by |a|=3 |b|=2 |ab|=3
+order 480 (SL(2,5) : C2) : C2 |G|=480 violated by |a|=5 |b|=6 |ab|=3
+order 480 C2 x C4 x A5 |G|=480 violated by |a|=3 |b|=2 |ab|=3
+order 480 C2 x (SL(2,5) : C2) |G|=480 violated by |a|=5 |b|=3 |ab|=4
+order 480 A5 x D8 |G|=480 violated by |a|=3 |b|=2 |ab|=3
+order 480 (C2 x SL(2,5)) : C2 |G|=480 violated by |a|=5 |b|=3 |ab|=6
+order 480 Q8 x A5 |G|=480 violated by |a|=3 |b|=2 |ab|=3
+order 480 SL(2,5) : (C2 x C2) |G|=480 violated by |a|=5 |b|=3 |ab|=6
+order 480 C2 x C2 x SL(2,5) |G|=480 violated by |a|=5 |b|=4 |ab|=4
+order 480 C2 x C2 x S5 |G|=480 violated by |a|=3 |b|=2 |ab|=3
+order 480 C2 x C2 x C2 x A5 |G|=480 violated by |a|=3 |b|=2 |ab|=3
+order 504 PSL(2,8) |G|=504 violated by |a|=7 |b|=2 |ab|=7
+order 504 C3 x PSL(3,2) |G|=504 violated by |a|=2 |b|=3 |ab|=3
+order 540 C9 x A5 |G|=540 violated by |a|=3 |b|=2 |ab|=2
+order 540 C3 x C3 x A5 |G|=540 violated by |a|=3 |b|=2 |ab|=2
+order 600 C5 x SL(2,5) |G|=600 violated by |a|=5 |b|=4 |ab|=4
+order 600 C5 x S5 |G|=600 violated by |a|=3 |b|=2 |ab|=3
+order 600 C5 : S5 |G|=600 violated by |a|=3 |b|=2 |ab|=3
+order 600 A5 x D10 |G|=600 violated by |a|=3 |b|=2 |ab|=2
+order 600 C10 x A5 |G|=600 violated by |a|=3 |b|=2 |ab|=2
+done 600
+order 660 PSL(2,11) |G|=660 violated by |a|=3 |b|=2 |ab|=3
+order 660 C11 x A5 |G|=660 violated by |a|=3 |b|=2 |ab|=2
+order 672 PSL(3,2) : C4 |G|=672 violated by |a|=3 |b|=7 |ab|=3
+order 672 SL(2,7) : C2 |G|=672 violated by |a|=3 |b|=7 |ab|=3
+order 672 C2 . (PSL(3,2) : C2) = SL(2,7) . C2 |G|=672 violated by |a|=3 |b|=
+7 |ab|=3
+order 672 C4 x PSL(3,2) |G|=672 violated by |a|=2 |b|=3 |ab|=2
+order 672 SL(2,7) : C2 |G|=672 violated by |a|=3 |b|=7 |ab|=3
+order 672 C2 x SL(2,7) |G|=672 violated by |a|=3 |b|=7 |ab|=3
+order 672 C2 x (PSL(3,2) : C2) |G|=672 violated by |a|=3 |b|=7 |ab|=3
+order 672 C2 x C2 x PSL(3,2) |G|=672 violated by |a|=2 |b|=3 |ab|=2
+order 720 SL(2,9) |G|=720 violated by |a|=3 |b|=4 |ab|=3
+order 720 C3 x (C2 . S5 = SL(2,5) . C2) |G|=720 violated by |a|=5 |b|=4 |ab|=4
+order 720 C3 x (SL(2,5) : C2) |G|=720 violated by |a|=3 |b|=5 |ab|=4
+order 720 C3 x (A5 : C4) |G|=720 violated by |a|=3 |b|=2 |ab|=3
+order 720 C3 : (A5 : C4) |G|=720 violated by |a|=3 |b|=2 |ab|=3
+order 720 C3 : (C2 . S5 = SL(2,5) . C2) |G|=720 violated by |a|=5 |b|=6 |ab|=3
+order 720 C3 : (SL(2,5) : C2) |G|=720 violated by |a|=3 |b|=4 |ab|=4
+order 720 A5 x (C3 : C4) |G|=720 violated by |a|=3 |b|=2 |ab|=2
+order 720 SL(2,5) x S3 |G|=720 violated by |a|=5 |b|=4 |ab|=4
+order 720 C3 : (SL(2,5) : C2) |G|=720 violated by |a|=5 |b|=6 |ab|=4
+order 720 C12 x A5 |G|=720 violated by |a|=3 |b|=2 |ab|=2
+order 720 C3 x (SL(2,5) : C2) |G|=720 violated by |a|=5 |b|=3 |ab|=4
+order 720 C6 x SL(2,5) |G|=720 violated by |a|=5 |b|=4 |ab|=4
+order 720 S6 |G|=720 violated by |a|=3 |b|=2 |ab|=3
+order 720 A6 : C2 |G|=720 violated by |a|=4 |b|=3 |ab|=4
+order 720 A6 . C2 |G|=720 violated by |a|=2 |b|=3 |ab|=2
+order 720 C2 x A6 |G|=720 violated by |a|=3 |b|=2 |ab|=3
+order 720 S5 x S3 |G|=720 violated by |a|=3 |b|=2 |ab|=3
+order 720 A5 x A4 |G|=720 violated by |a|=3 |b|=2 |ab|=2
+order 720 C6 x S5 |G|=720 violated by |a|=3 |b|=2 |ab|=3
+order 720 C2 x (A5 : S3) |G|=720 violated by |a|=3 |b|=2 |ab|=3
+order 720 C2 x A5 x S3 |G|=720 violated by |a|=3 |b|=2 |ab|=2
+order 720 C2 x C6 x A5 |G|=720 violated by |a|=3 |b|=2 |ab|=2
+order 780 C13 x A5 |G|=780 violated by |a|=3 |b|=2 |ab|=2
+done 800
+order 840 C7 x SL(2,5) |G|=840 violated by |a|=5 |b|=4 |ab|=4
+order 840 C5 x PSL(3,2) |G|=840 violated by |a|=2 |b|=3 |ab|=3
+order 840 C7 x S5 |G|=840 violated by |a|=3 |b|=2 |ab|=3
+order 840 C7 : S5 |G|=840 violated by |a|=3 |b|=2 |ab|=3
+order 840 A5 x D14 |G|=840 violated by |a|=3 |b|=2 |ab|=2
+order 840 C14 x A5 |G|=840 violated by |a|=3 |b|=2 |ab|=2
+order 900 C15 x A5 |G|=900 violated by |a|=3 |b|=2 |ab|=2
+done 1000
+order 1008 C3 x SL(2,7) |G|=1008 violated by |a|=3 |b|=7 |ab|=3
+order 1008 C2 x PSL(2,8) |G|=1008 violated by |a|=7 |b|=2 |ab|=7
+order 1008 PSL(3,2) : S3 |G|=1008 violated by |a|=3 |b|=7 |ab|=3
+order 1008 C3 x (PSL(3,2) : C2) |G|=1008 violated by |a|=3 |b|=7 |ab|=3
+order 1008 S3 x PSL(3,2) |G|=1008 violated by |a|=2 |b|=3 |ab|=2
+order 1008 C6 x PSL(3,2) |G|=1008 violated by |a|=2 |b|=3 |ab|=2
+order 1020 C17 x A5 |G|=1020 violated by |a|=3 |b|=2 |ab|=2
+order 1080 C9 x SL(2,5) |G|=1080 violated by |a|=5 |b|=6 |ab|=4
+order 1080 C3 . A6 |G|=1080 violated by |a|=2 |b|=3 |ab|=3
+order 1080 C9 x S5 |G|=1080 violated by |a|=3 |b|=2 |ab|=3
+order 1080 C9 : S5 |G|=1080 violated by |a|=3 |b|=2 |ab|=3
+order 1080 A5 x D18 |G|=1080 violated by |a|=3 |b|=2 |ab|=2
+order 1080 C18 x A5 |G|=1080 violated by |a|=3 |b|=2 |ab|=2
+order 1080 C3 x C3 x SL(2,5) |G|=1080 violated by |a|=5 |b|=6 |ab|=4
+order 1080 C3 x A6 |G|=1080 violated by |a|=3 |b|=2 |ab|=3
+order 1080 A5 : ((C3 x C3) : C2) |G|=1080 violated by |a|=3 |b|=2 |ab|=3
+order 1080 C3 x (A5 : S3) |G|=1080 violated by |a|=3 |b|=2 |ab|=3
+order 1080 C3 x C3 x S5 |G|=1080 violated by |a|=3 |b|=2 |ab|=3
+order 1080 ((C3 x C3) : C2) x A5 |G|=1080 violated by |a|=3 |b|=2 |ab|=2
+order 1080 C3 x A5 x S3 |G|=1080 violated by |a|=3 |b|=2 |ab|=2
+order 1080 C3 x C6 x A5 |G|=1080 violated by |a|=3 |b|=2 |ab|=2
+order 1092 PSL(2,13) |G|=1092 violated by |a|=3 |b|=13 |ab|=3
+order 1140 C19 x A5 |G|=1140 violated by |a|=3 |b|=2 |ab|=2
+order 1176 C7 x PSL(3,2) |G|=1176 violated by |a|=2 |b|=3 |ab|=2
+order 1200 C5 x (A5 : C4) |G|=1200 violated by |a|=3 |b|=2 |ab|=3
+order 1200 C5 x (C2 . S5 = SL(2,5) . C2) |G|=1200 violated by |a|=5 |b|=
+3 |ab|=10
+order 1200 C5 x (SL(2,5) : C2) |G|=1200 violated by |a|=3 |b|=5 |ab|=5
+order 1200 C5 : (A5 : C4) |G|=1200 violated by |a|=3 |b|=2 |ab|=3
+order 1200 SL(2,5) : D10 |G|=1200 violated by |a|=3 |b|=4 |ab|=4
+order 1200 C5 : (C2 . S5 = SL(2,5) . C2) |G|=1200 violated by |a|=5 |b|=
+6 |ab|=4
+order 1200 (C5 : C4) x A5 |G|=1200 violated by |a|=3 |b|=2 |ab|=2
+order 1200 D10 x SL(2,5) |G|=1200 violated by |a|=5 |b|=6 |ab|=4
+order 1200 SL(2,5) : D10 |G|=1200 violated by |a|=5 |b|=3 |ab|=5
+order 1200 C20 x A5 |G|=1200 violated by |a|=3 |b|=2 |ab|=2
+order 1200 C5 x (SL(2,5) : C2) |G|=1200 violated by |a|=5 |b|=6 |ab|=5
+order 1200 C10 x SL(2,5) |G|=1200 violated by |a|=5 |b|=4 |ab|=5
+order 1200 A5 : (C5 : C4) |G|=1200 violated by |a|=3 |b|=2 |ab|=3
+order 1200 (C5 : C4) x A5 |G|=1200 violated by |a|=3 |b|=2 |ab|=2
+order 1200 D10 x S5 |G|=1200 violated by |a|=3 |b|=2 |ab|=3
+order 1200 C2 x (C5 : S5) |G|=1200 violated by |a|=3 |b|=2 |ab|=3
+order 1200 C10 x S5 |G|=1200 violated by |a|=3 |b|=2 |ab|=3
+order 1200 C2 x A5 x D10 |G|=1200 violated by |a|=3 |b|=2 |ab|=2
+order 1200 C2 x C10 x A5 |G|=1200 violated by |a|=3 |b|=2 |ab|=2
+done 1200
+order 1260 (C7 : C3) x A5 |G|=1260 violated by |a|=3 |b|=2 |ab|=2
+order 1260 C21 x A5 |G|=1260 violated by |a|=3 |b|=2 |ab|=2
+order 1320 SL(2,11) |G|=1320 violated by |a|=5 |b|=11 |ab|=5
+order 1320 C11 x SL(2,5) |G|=1320 violated by |a|=5 |b|=3 |ab|=4
+order 1320 PSL(2,11) : C2 |G|=1320 violated by |a|=5 |b|=11 |ab|=5
+order 1320 C2 x PSL(2,11) |G|=1320 violated by |a|=3 |b|=2 |ab|=3
+order 1320 C11 x S5 |G|=1320 violated by |a|=3 |b|=2 |ab|=3
+order 1320 C11 : S5 |G|=1320 violated by |a|=3 |b|=2 |ab|=3
+order 1320 D22 x A5 |G|=1320 violated by |a|=3 |b|=2 |ab|=2
+order 1320 C22 x A5 |G|=1320 violated by |a|=3 |b|=2 |ab|=2
+order 1380 C23 x A5 |G|=1380 violated by |a|=3 |b|=2 |ab|=2
+done 1400
+order 1500 C25 x A5 |G|=1500 violated by |a|=3 |b|=2 |ab|=2
+order 1500 C5 x C5 x A5 |G|=1500 violated by |a|=3 |b|=2 |ab|=2
+order 1512 C9 x PSL(3,2) |G|=1512 violated by |a|=2 |b|=3 |ab|=3
+order 1512 PSL(2,8) : C3 |G|=1512 violated by |a|=7 |b|=2 |ab|=7
+order 1512 C3 x PSL(2,8) |G|=1512 violated by |a|=7 |b|=2 |ab|=7
+order 1512 C3 x C3 x PSL(3,2) |G|=1512 violated by |a|=2 |b|=3 |ab|=3
+order 1560 C13 x SL(2,5) |G|=1560 violated by |a|=5 |b|=4 |ab|=4
+order 1560 C13 : S5 |G|=1560 violated by |a|=3 |b|=2 |ab|=3
+order 1560 C13 x S5 |G|=1560 violated by |a|=3 |b|=2 |ab|=3
+order 1560 A5 x D26 |G|=1560 violated by |a|=3 |b|=2 |ab|=2
+order 1560 C26 x A5 |G|=1560 violated by |a|=3 |b|=2 |ab|=2
+order 1620 C27 x A5 |G|=1620 violated by |a|=3 |b|=2 |ab|=2
+order 1620 C3 x C9 x A5 |G|=1620 violated by |a|=3 |b|=2 |ab|=2
+order 1620 ((C3 x C3) : C3) x A5 |G|=1620 violated by |a|=3 |b|=2 |ab|=2
+order 1620 (C9 : C3) x A5 |G|=1620 violated by |a|=3 |b|=2 |ab|=2
+order 1620 C3 x C3 x C3 x A5 |G|=1620 violated by |a|=3 |b|=2 |ab|=2
+order 1680 C5 x SL(2,7) |G|=1680 violated by |a|=3 |b|=7 |ab|=3
+order 1680 C7 x (A5 : C4) |G|=1680 violated by |a|=3 |b|=2 |ab|=3
+order 1680 C7 x (C2 . S5 = SL(2,5) . C2) |G|=1680 violated by |a|=5 |b|=
+3 |ab|=10
+order 1680 C7 x (SL(2,5) : C2) |G|=1680 violated by |a|=5 |b|=4 |ab|=6
+order 1680 C7 : (A5 : C4) |G|=1680 violated by |a|=3 |b|=2 |ab|=3
+order 1680 C7 : (C2 . S5 = SL(2,5) . C2) |G|=1680 violated by |a|=5 |b|=
+4 |ab|=3
+order 1680 C7 : (SL(2,5) : C2) |G|=1680 violated by |a|=3 |b|=4 |ab|=4
+order 1680 (C7 : C4) x A5 |G|=1680 violated by |a|=3 |b|=2 |ab|=2
+order 1680 D14 x SL(2,5) |G|=1680 violated by |a|=5 |b|=4 |ab|=5
+order 1680 C7 : (SL(2,5) : C2) |G|=1680 violated by |a|=5 |b|=4 |ab|=4
+order 1680 C28 x A5 |G|=1680 violated by |a|=3 |b|=2 |ab|=2
+order 1680 C7 x (SL(2,5) : C2) |G|=1680 violated by |a|=5 |b|=4 |ab|=6
+order 1680 C14 x SL(2,5) |G|=1680 violated by |a|=5 |b|=4 |ab|=3
+order 1680 C5 : (PSL(3,2) : C2) |G|=1680 violated by |a|=3 |b|=7 |ab|=3
+order 1680 C5 x (PSL(3,2) : C2) |G|=1680 violated by |a|=3 |b|=7 |ab|=3
+order 1680 D10 x PSL(3,2) |G|=1680 violated by |a|=2 |b|=3 |ab|=3
+order 1680 S5 x D14 |G|=1680 violated by |a|=3 |b|=2 |ab|=3
+order 1680 C10 x PSL(3,2) |G|=1680 violated by |a|=2 |b|=3 |ab|=3
+order 1680 C2 x (C7 : S5) |G|=1680 violated by |a|=3 |b|=2 |ab|=3
+order 1680 C14 x S5 |G|=1680 violated by |a|=3 |b|=2 |ab|=3
+order 1680 C2 x A5 x D14 |G|=1680 violated by |a|=3 |b|=2 |ab|=2
+order 1680 C2 x C14 x A5 |G|=1680 violated by |a|=3 |b|=2 |ab|=2
+order 1740 C29 x A5 |G|=1740 violated by |a|=3 |b|=2 |ab|=2
+order 1800 C15 x SL(2,5) |G|=1800 violated by |a|=5 |b|=4 |ab|=3
+order 1800 C5 x A6 |G|=1800 violated by |a|=3 |b|=2 |ab|=3
+order 1800 C5 x (A5 : S3) |G|=1800 violated by |a|=3 |b|=2 |ab|=3
+order 1800 C3 x (C5 : S5) |G|=1800 violated by |a|=3 |b|=2 |ab|=3
+order 1800 A5 : D30 |G|=1800 violated by |a|=3 |b|=2 |ab|=3
+order 1800 C15 x S5 |G|=1800 violated by |a|=3 |b|=2 |ab|=3
+order 1800 C5 x S3 x A5 |G|=1800 violated by |a|=3 |b|=2 |ab|=2
+order 1800 C3 x D10 x A5 |G|=1800 violated by |a|=3 |b|=2 |ab|=2
+order 1800 D30 x A5 |G|=1800 violated by |a|=3 |b|=2 |ab|=2
+order 1800 C30 x A5 |G|=1800 violated by |a|=3 |b|=2 |ab|=2
+done 1800
+order 1848 C11 x PSL(3,2) |G|=1848 violated by |a|=2 |b|=3 |ab|=2
+order 1860 C31 x A5 |G|=1860 violated by |a|=3 |b|=2 |ab|=2
+order 1980 C3 x PSL(2,11) |G|=1980 violated by |a|=3 |b|=2 |ab|=3
+order 1980 C33 x A5 |G|=1980 violated by |a|=3 |b|=2 |ab|=2
+done 2000
+FINISHED

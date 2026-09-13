@@ -1,0 +1,22 @@
+Syntax warning: Unbound global variable in check2.g:16
+      if Size(Subgroup(V, Filtered(W, w -> w in P))) <> Size(P) then
+                                                ^
+Syntax warning: Unbound global variable in check2.g:17
+        Print("COUNTEREXAMPLE delta2: SmallGroup(", n, ",", k, ") ", Structure\
+Description(G), " p=", p, " |P|=", Size(P), " gen by values: ", Size(Subgroup(\
+V, Filtered(W, w -> w in P))), "\n");
+                                                                              \
+                                                                              \
+                         ^
+Syntax warning: Unbound global variable in check2.g:25
+      if Size(Subgroup(V3, Filtered(W3, w -> w in P))) <> Size(P) then
+                                                  ^
+done order 100
+done order 200
+Error, Variable: 'E' is read only
+*[1] Elements( G )
+   @ check2.g:10
+<function "unknown">( <arguments> )
+ called from read-eval loop at check2.g:31
+type 'quit;' to quit to outer loop
+[1m[34m[0m[31m

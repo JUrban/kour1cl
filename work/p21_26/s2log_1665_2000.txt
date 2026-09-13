@@ -2616,3 +2616,1559 @@ done order 1870 total groups with >=2 non-normal Sylows checked 1136
 3:(dc=80,min=64,ords=[ 3 ],|Op|=3,zenkov=true,good=1728/1872) 
    diagnostics: 2:(dc=42,min=18,ords=[ 4 ],|Op|=4,zenkov=true,good=1152/1872) 
 3:(dc=80,min=64,ords=[ 3 ],|Op|=3,zenkov=true,good=1728/1872) 
+   diagnostics: 2:(dc=42,min=18,ords=[ 4 ],|Op|=4,zenkov=true,good=1152/1872) 
+3:(dc=80,min=64,ords=[ 3 ],|Op|=3,zenkov=true,good=1728/1872) 
+   diagnostics: 2:(dc=42,min=18,ords=[ 4 ],|Op|=4,zenkov=true,good=1152/1872) 
+3:(dc=80,min=64,ords=[ 3 ],|Op|=3,zenkov=true,good=1728/1872) 
+   diagnostics: 2:(dc=42,min=18,ords=[ 4 ],|Op|=4,zenkov=true,good=1152/1872) 
+3:(dc=80,min=64,ords=[ 3 ],|Op|=3,zenkov=true,good=1728/1872) 
+   diagnostics: 2:(dc=42,min=18,ords=[ 4 ],|Op|=4,zenkov=true,good=1152/1872) 
+3:(dc=80,min=64,ords=[ 3 ],|Op|=3,zenkov=true,good=1728/1872) 
+   diagnostics: 2:(dc=42,min=18,ords=[ 4 ],|Op|=4,zenkov=true,good=1152/1872) 
+3:(dc=80,min=64,ords=[ 3 ],|Op|=3,zenkov=true,good=1728/1872) 
+   diagnostics: 2:(dc=42,min=18,ords=[ 4 ],|Op|=4,zenkov=true,good=1152/1872) 
+3:(dc=80,min=64,ords=[ 3 ],|Op|=3,zenkov=true,good=1728/1872) 
+   diagnostics: 2:(dc=42,min=18,ords=[ 4 ],|Op|=4,zenkov=true,good=1152/1872) 
+3:(dc=80,min=64,ords=[ 3 ],|Op|=3,zenkov=true,good=1728/1872) 
+   diagnostics: 2:(dc=42,min=18,ords=[ 4 ],|Op|=4,zenkov=true,good=1152/1872) 
+3:(dc=80,min=64,ords=[ 3 ],|Op|=3,zenkov=true,good=1728/1872) 
+   diagnostics: 2:(dc=42,min=18,ords=[ 4 ],|Op|=4,zenkov=true,good=1152/1872) 
+3:(dc=80,min=64,ords=[ 3 ],|Op|=3,zenkov=true,good=1728/1872) 
+   diagnostics: 2:(dc=42,min=18,ords=[ 4 ],|Op|=4,zenkov=true,good=1152/1872) 
+3:(dc=80,min=64,ords=[ 3 ],|Op|=3,zenkov=true,good=1728/1872) 
+   diagnostics: 2:(dc=42,min=18,ords=[ 4 ],|Op|=4,zenkov=true,good=1152/1872) 
+3:(dc=80,min=64,ords=[ 3 ],|Op|=3,zenkov=true,good=1728/1872) 
+   diagnostics: 2:(dc=42,min=18,ords=[ 4 ],|Op|=4,zenkov=true,good=1152/1872) 
+3:(dc=80,min=64,ords=[ 3 ],|Op|=3,zenkov=true,good=1728/1872) 
+   diagnostics: 2:(dc=42,min=18,ords=[ 4 ],|Op|=4,zenkov=true,good=1152/1872) 
+3:(dc=80,min=64,ords=[ 3 ],|Op|=3,zenkov=true,good=1728/1872) 
+   diagnostics: 2:(dc=63,min=54,ords=[ 8 ],|Op|=8,zenkov=true,good=1728/1872) 
+3:(dc=80,min=64,ords=[ 3 ],|Op|=3,zenkov=true,good=1728/1872) 
+   diagnostics: 2:(dc=63,min=54,ords=[ 8 ],|Op|=8,zenkov=true,good=1728/1872) 
+3:(dc=80,min=64,ords=[ 3 ],|Op|=3,zenkov=true,good=1728/1872) 
+   diagnostics: 2:(dc=63,min=54,ords=[ 8 ],|Op|=8,zenkov=true,good=1728/1872) 
+3:(dc=80,min=64,ords=[ 3 ],|Op|=3,zenkov=true,good=1728/1872) 
+   diagnostics: 2:(dc=63,min=54,ords=[ 8 ],|Op|=8,zenkov=true,good=1728/1872) 
+3:(dc=80,min=64,ords=[ 3 ],|Op|=3,zenkov=true,good=1728/1872) 
+   diagnostics: 2:(dc=63,min=54,ords=[ 8 ],|Op|=8,zenkov=true,good=1728/1872) 
+3:(dc=80,min=64,ords=[ 3 ],|Op|=3,zenkov=true,good=1728/1872) 
+   diagnostics: 2:(dc=63,min=54,ords=[ 8 ],|Op|=8,zenkov=true,good=1728/1872) 
+3:(dc=80,min=64,ords=[ 3 ],|Op|=3,zenkov=true,good=1728/1872) 
+   diagnostics: 2:(dc=63,min=54,ords=[ 8 ],|Op|=8,zenkov=true,good=1728/1872) 
+3:(dc=80,min=64,ords=[ 3 ],|Op|=3,zenkov=true,good=1728/1872) 
+   diagnostics: 2:(dc=63,min=54,ords=[ 8 ],|Op|=8,zenkov=true,good=1728/1872) 
+3:(dc=80,min=64,ords=[ 3 ],|Op|=3,zenkov=true,good=1728/1872) 
+   diagnostics: 2:(dc=63,min=54,ords=[ 8 ],|Op|=8,zenkov=true,good=1728/1872) 
+3:(dc=80,min=64,ords=[ 3 ],|Op|=3,zenkov=true,good=1728/1872) 
+   diagnostics: 2:(dc=63,min=54,ords=[ 8 ],|Op|=8,zenkov=true,good=1728/1872) 
+3:(dc=80,min=64,ords=[ 3 ],|Op|=3,zenkov=true,good=1728/1872) 
+   diagnostics: 2:(dc=63,min=54,ords=[ 8 ],|Op|=8,zenkov=true,good=1728/1872) 
+3:(dc=80,min=64,ords=[ 3 ],|Op|=3,zenkov=true,good=1728/1872) 
+   diagnostics: 2:(dc=63,min=54,ords=[ 8 ],|Op|=8,zenkov=true,good=1728/1872) 
+3:(dc=80,min=64,ords=[ 3 ],|Op|=3,zenkov=true,good=1728/1872) 
+   diagnostics: 2:(dc=63,min=54,ords=[ 8 ],|Op|=8,zenkov=true,good=1728/1872) 
+3:(dc=80,min=64,ords=[ 3 ],|Op|=3,zenkov=true,good=1728/1872) 
+   diagnostics: 2:(dc=63,min=54,ords=[ 8 ],|Op|=8,zenkov=true,good=1728/1872) 
+3:(dc=80,min=64,ords=[ 3 ],|Op|=3,zenkov=true,good=1728/1872) 
+   diagnostics: 2:(dc=63,min=54,ords=[ 8 ],|Op|=8,zenkov=true,good=1728/1872) 
+3:(dc=80,min=64,ords=[ 3 ],|Op|=3,zenkov=true,good=1728/1872) 
+   diagnostics: 2:(dc=63,min=54,ords=[ 8 ],|Op|=8,zenkov=true,good=1728/1872) 
+3:(dc=80,min=64,ords=[ 3 ],|Op|=3,zenkov=true,good=1728/1872) 
+   diagnostics: 2:(dc=78,min=39,ords=[ 8 ],|Op|=8,zenkov=true,good=1248/1872) 
+3:(dc=80,min=64,ords=[ 3 ],|Op|=3,zenkov=true,good=1728/1872) 
+   diagnostics: 2:(dc=78,min=39,ords=[ 8 ],|Op|=8,zenkov=true,good=1248/1872) 
+3:(dc=80,min=64,ords=[ 3 ],|Op|=3,zenkov=true,good=1728/1872) 
+   diagnostics: 2:(dc=78,min=39,ords=[ 8 ],|Op|=8,zenkov=true,good=1248/1872) 
+3:(dc=80,min=64,ords=[ 3 ],|Op|=3,zenkov=true,good=1728/1872) 
+   diagnostics: 2:(dc=78,min=39,ords=[ 8 ],|Op|=8,zenkov=true,good=1248/1872) 
+3:(dc=80,min=64,ords=[ 3 ],|Op|=3,zenkov=true,good=1728/1872) 
+   diagnostics: 2:(dc=78,min=39,ords=[ 8 ],|Op|=8,zenkov=true,good=1248/1872) 
+3:(dc=80,min=64,ords=[ 3 ],|Op|=3,zenkov=true,good=1728/1872) 
+   diagnostics: 2:(dc=78,min=39,ords=[ 8 ],|Op|=8,zenkov=true,good=1248/1872) 
+3:(dc=80,min=64,ords=[ 3 ],|Op|=3,zenkov=true,good=1728/1872) 
+   diagnostics: 2:(dc=78,min=39,ords=[ 8 ],|Op|=8,zenkov=true,good=1248/1872) 
+3:(dc=80,min=64,ords=[ 3 ],|Op|=3,zenkov=true,good=1728/1872) 
+   diagnostics: 2:(dc=78,min=39,ords=[ 8 ],|Op|=8,zenkov=true,good=1248/1872) 
+3:(dc=80,min=64,ords=[ 3 ],|Op|=3,zenkov=true,good=1728/1872) 
+   diagnostics: 2:(dc=78,min=39,ords=[ 8 ],|Op|=8,zenkov=true,good=1248/1872) 
+3:(dc=80,min=64,ords=[ 3 ],|Op|=3,zenkov=true,good=1728/1872) 
+   diagnostics: 2:(dc=78,min=39,ords=[ 8 ],|Op|=8,zenkov=true,good=1248/1872) 
+3:(dc=80,min=64,ords=[ 3 ],|Op|=3,zenkov=true,good=1728/1872) 
+   diagnostics: 2:(dc=78,min=39,ords=[ 8 ],|Op|=8,zenkov=true,good=1248/1872) 
+3:(dc=80,min=64,ords=[ 3 ],|Op|=3,zenkov=true,good=1728/1872) 
+   diagnostics: 2:(dc=78,min=39,ords=[ 8 ],|Op|=8,zenkov=true,good=1248/1872) 
+3:(dc=80,min=64,ords=[ 3 ],|Op|=3,zenkov=true,good=1728/1872) 
+   diagnostics: 2:(dc=78,min=39,ords=[ 8 ],|Op|=8,zenkov=true,good=1248/1872) 
+3:(dc=80,min=64,ords=[ 3 ],|Op|=3,zenkov=true,good=1728/1872) 
+   diagnostics: 2:(dc=78,min=39,ords=[ 8 ],|Op|=8,zenkov=true,good=1248/1872) 
+3:(dc=80,min=64,ords=[ 3 ],|Op|=3,zenkov=true,good=1728/1872) 
+   diagnostics: 2:(dc=78,min=39,ords=[ 8 ],|Op|=8,zenkov=true,good=1248/1872) 
+3:(dc=80,min=64,ords=[ 3 ],|Op|=3,zenkov=true,good=1728/1872) 
+   diagnostics: 2:(dc=78,min=39,ords=[ 8 ],|Op|=8,zenkov=true,good=1248/1872) 
+3:(dc=80,min=64,ords=[ 3 ],|Op|=3,zenkov=true,good=1728/1872) 
+   diagnostics: 2:(dc=60,min=57,ords=[ 8 ],|Op|=8,zenkov=true,good=1824/1872) 
+3:(dc=80,min=64,ords=[ 3 ],|Op|=3,zenkov=true,good=1728/1872) 
+   diagnostics: 2:(dc=60,min=57,ords=[ 8 ],|Op|=8,zenkov=true,good=1824/1872) 
+3:(dc=80,min=64,ords=[ 3 ],|Op|=3,zenkov=true,good=1728/1872) 
+   diagnostics: 2:(dc=60,min=57,ords=[ 8 ],|Op|=8,zenkov=true,good=1824/1872) 
+3:(dc=80,min=64,ords=[ 3 ],|Op|=3,zenkov=true,good=1728/1872) 
+   diagnostics: 2:(dc=60,min=57,ords=[ 8 ],|Op|=8,zenkov=true,good=1824/1872) 
+3:(dc=80,min=64,ords=[ 3 ],|Op|=3,zenkov=true,good=1728/1872) 
+   diagnostics: 2:(dc=60,min=57,ords=[ 8 ],|Op|=8,zenkov=true,good=1824/1872) 
+3:(dc=80,min=64,ords=[ 3 ],|Op|=3,zenkov=true,good=1728/1872) 
+   diagnostics: 2:(dc=60,min=57,ords=[ 8 ],|Op|=8,zenkov=true,good=1824/1872) 
+3:(dc=80,min=64,ords=[ 3 ],|Op|=3,zenkov=true,good=1728/1872) 
+   diagnostics: 2:(dc=60,min=57,ords=[ 8 ],|Op|=8,zenkov=true,good=1824/1872) 
+3:(dc=80,min=64,ords=[ 3 ],|Op|=3,zenkov=true,good=1728/1872) 
+   diagnostics: 2:(dc=60,min=57,ords=[ 8 ],|Op|=8,zenkov=true,good=1824/1872) 
+3:(dc=80,min=64,ords=[ 3 ],|Op|=3,zenkov=true,good=1728/1872) 
+   diagnostics: 2:(dc=60,min=57,ords=[ 8 ],|Op|=8,zenkov=true,good=1824/1872) 
+3:(dc=80,min=64,ords=[ 3 ],|Op|=3,zenkov=true,good=1728/1872) 
+   diagnostics: 2:(dc=60,min=57,ords=[ 8 ],|Op|=8,zenkov=true,good=1824/1872) 
+3:(dc=80,min=64,ords=[ 3 ],|Op|=3,zenkov=true,good=1728/1872) 
+   diagnostics: 2:(dc=60,min=57,ords=[ 8 ],|Op|=8,zenkov=true,good=1824/1872) 
+3:(dc=80,min=64,ords=[ 3 ],|Op|=3,zenkov=true,good=1728/1872) 
+   diagnostics: 2:(dc=60,min=57,ords=[ 8 ],|Op|=8,zenkov=true,good=1824/1872) 
+3:(dc=80,min=64,ords=[ 3 ],|Op|=3,zenkov=true,good=1728/1872) 
+   diagnostics: 2:(dc=60,min=57,ords=[ 8 ],|Op|=8,zenkov=true,good=1824/1872) 
+3:(dc=80,min=64,ords=[ 3 ],|Op|=3,zenkov=true,good=1728/1872) 
+   diagnostics: 2:(dc=60,min=57,ords=[ 8 ],|Op|=8,zenkov=true,good=1824/1872) 
+3:(dc=80,min=64,ords=[ 3 ],|Op|=3,zenkov=true,good=1728/1872) 
+   diagnostics: 2:(dc=60,min=57,ords=[ 8 ],|Op|=8,zenkov=true,good=1824/1872) 
+3:(dc=80,min=64,ords=[ 3 ],|Op|=3,zenkov=true,good=1728/1872) 
+   diagnostics: 2:(dc=60,min=57,ords=[ 8 ],|Op|=8,zenkov=true,good=1824/1872) 
+3:(dc=80,min=64,ords=[ 3 ],|Op|=3,zenkov=true,good=1728/1872) 
+   diagnostics: 2:(dc=32,min=27,ords=[ 4 ],|Op|=4,zenkov=true,good=1728/1872) 
+3:(dc=104,min=52,ords=[ 3 ],|Op|=3,zenkov=true,good=1404/1872) 
+   diagnostics: 2:(dc=36,min=27,ords=[ 4 ],|Op|=4,zenkov=true,good=1728/1872) 
+3:(dc=80,min=64,ords=[ 3 ],|Op|=3,zenkov=true,good=1728/1872) 
+   diagnostics: 2:(dc=36,min=27,ords=[ 4 ],|Op|=4,zenkov=true,good=1728/1872) 
+3:(dc=104,min=52,ords=[ 3 ],|Op|=3,zenkov=true,good=1404/1872) 
+   diagnostics: 2:(dc=36,min=27,ords=[ 4 ],|Op|=4,zenkov=true,good=1728/1872) 
+3:(dc=72,min=68,ords=[ 3 ],|Op|=3,zenkov=true,good=1836/1872) 
+   diagnostics: 2:(dc=35,min=24,ords=[ 4 ],|Op|=4,zenkov=true,good=1536/1872) 
+3:(dc=104,min=52,ords=[ 3 ],|Op|=3,zenkov=true,good=1404/1872) 
+   diagnostics: 2:(dc=65,min=52,ords=[ 8 ],|Op|=8,zenkov=true,good=1664/1872) 
+3:(dc=104,min=52,ords=[ 3 ],|Op|=3,zenkov=true,good=1404/1872) 
+   diagnostics: 2:(dc=59,min=58,ords=[ 8 ],|Op|=8,zenkov=true,good=1856/1872) 
+3:(dc=104,min=52,ords=[ 3 ],|Op|=3,zenkov=true,good=1404/1872) 
+   diagnostics: 2:(dc=63,min=54,ords=[ 8 ],|Op|=8,zenkov=true,good=1728/1872) 
+3:(dc=80,min=64,ords=[ 3 ],|Op|=3,zenkov=true,good=1728/1872) 
+   diagnostics: 2:(dc=63,min=54,ords=[ 8 ],|Op|=8,zenkov=true,good=1728/1872) 
+3:(dc=104,min=52,ords=[ 3 ],|Op|=3,zenkov=true,good=1404/1872) 
+   diagnostics: 2:(dc=63,min=54,ords=[ 8 ],|Op|=8,zenkov=true,good=1728/1872) 
+3:(dc=72,min=68,ords=[ 3 ],|Op|=3,zenkov=true,good=1836/1872) 
+   diagnostics: 2:(dc=24,min=9,ords=[ 2 ],|Op|=2,zenkov=true,good=1152/1872) 
+3:(dc=80,min=64,ords=[ 3 ],|Op|=3,zenkov=true,good=1728/1872) 
+   diagnostics: 2:(dc=24,min=9,ords=[ 2 ],|Op|=2,zenkov=true,good=1152/1872) 
+3:(dc=80,min=64,ords=[ 3 ],|Op|=3,zenkov=true,good=1728/1872) 
+   diagnostics: 2:(dc=24,min=9,ords=[ 2 ],|Op|=2,zenkov=true,good=1152/1872) 
+3:(dc=80,min=64,ords=[ 3 ],|Op|=3,zenkov=true,good=1728/1872) 
+   diagnostics: 2:(dc=24,min=9,ords=[ 2 ],|Op|=2,zenkov=true,good=1152/1872) 
+3:(dc=80,min=64,ords=[ 3 ],|Op|=3,zenkov=true,good=1728/1872) 
+   diagnostics: 2:(dc=24,min=9,ords=[ 2 ],|Op|=2,zenkov=true,good=1152/1872) 
+3:(dc=80,min=64,ords=[ 3 ],|Op|=3,zenkov=true,good=1728/1872) 
+   diagnostics: 2:(dc=24,min=9,ords=[ 2 ],|Op|=2,zenkov=true,good=1152/1872) 
+3:(dc=80,min=64,ords=[ 3 ],|Op|=3,zenkov=true,good=1728/1872) 
+   diagnostics: 2:(dc=24,min=9,ords=[ 2 ],|Op|=2,zenkov=true,good=1152/1872) 
+3:(dc=80,min=64,ords=[ 3 ],|Op|=3,zenkov=true,good=1728/1872) 
+   diagnostics: 2:(dc=78,min=39,ords=[ 8 ],|Op|=8,zenkov=true,good=1248/1872) 
+3:(dc=40,min=16,ords=[ 1 ],|Op|=1,zenkov=true,good=1296/1872) 
+   diagnostics: 2:(dc=78,min=39,ords=[ 8 ],|Op|=8,zenkov=true,good=1248/1872) 
+3:(dc=40,min=16,ords=[ 1 ],|Op|=1,zenkov=true,good=1296/1872) 
+   diagnostics: 2:(dc=78,min=39,ords=[ 8 ],|Op|=8,zenkov=true,good=1248/1872) 
+3:(dc=40,min=16,ords=[ 1 ],|Op|=1,zenkov=true,good=1296/1872) 
+   diagnostics: 2:(dc=60,min=57,ords=[ 8 ],|Op|=8,zenkov=true,good=1824/1872) 
+3:(dc=40,min=16,ords=[ 1 ],|Op|=1,zenkov=true,good=1296/1872) 
+   diagnostics: 2:(dc=60,min=57,ords=[ 8 ],|Op|=8,zenkov=true,good=1824/1872) 
+3:(dc=40,min=16,ords=[ 1 ],|Op|=1,zenkov=true,good=1296/1872) 
+   diagnostics: 2:(dc=60,min=57,ords=[ 8 ],|Op|=8,zenkov=true,good=1824/1872) 
+3:(dc=40,min=16,ords=[ 1 ],|Op|=1,zenkov=true,good=1296/1872) 
+   diagnostics: 2:(dc=63,min=54,ords=[ 8 ],|Op|=8,zenkov=true,good=1728/1872) 
+3:(dc=40,min=16,ords=[ 1 ],|Op|=1,zenkov=true,good=1296/1872) 
+   diagnostics: 2:(dc=63,min=54,ords=[ 8 ],|Op|=8,zenkov=true,good=1728/1872) 
+3:(dc=40,min=16,ords=[ 1 ],|Op|=1,zenkov=true,good=1296/1872) 
+   diagnostics: 2:(dc=63,min=54,ords=[ 8 ],|Op|=8,zenkov=true,good=1728/1872) 
+3:(dc=40,min=16,ords=[ 1 ],|Op|=1,zenkov=true,good=1296/1872) 
+   diagnostics: 2:(dc=36,min=27,ords=[ 4 ],|Op|=4,zenkov=true,good=1728/1872) 
+3:(dc=80,min=64,ords=[ 3 ],|Op|=3,zenkov=true,good=1728/1872) 
+   diagnostics: 2:(dc=36,min=27,ords=[ 4 ],|Op|=4,zenkov=true,good=1728/1872) 
+3:(dc=80,min=64,ords=[ 3 ],|Op|=3,zenkov=true,good=1728/1872) 
+   diagnostics: 2:(dc=36,min=27,ords=[ 4 ],|Op|=4,zenkov=true,good=1728/1872) 
+3:(dc=80,min=64,ords=[ 3 ],|Op|=3,zenkov=true,good=1728/1872) 
+   diagnostics: 2:(dc=36,min=27,ords=[ 4 ],|Op|=4,zenkov=true,good=1728/1872) 
+3:(dc=80,min=64,ords=[ 3 ],|Op|=3,zenkov=true,good=1728/1872) 
+   diagnostics: 2:(dc=36,min=27,ords=[ 4 ],|Op|=4,zenkov=true,good=1728/1872) 
+3:(dc=80,min=64,ords=[ 3 ],|Op|=3,zenkov=true,good=1728/1872) 
+   diagnostics: 2:(dc=36,min=27,ords=[ 4 ],|Op|=4,zenkov=true,good=1728/1872) 
+3:(dc=80,min=64,ords=[ 3 ],|Op|=3,zenkov=true,good=1728/1872) 
+   diagnostics: 2:(dc=36,min=27,ords=[ 4 ],|Op|=4,zenkov=true,good=1728/1872) 
+3:(dc=80,min=64,ords=[ 3 ],|Op|=3,zenkov=true,good=1728/1872) 
+   diagnostics: 2:(dc=33,min=27,ords=[ 4 ],|Op|=4,zenkov=true,good=1728/1872) 
+3:(dc=80,min=64,ords=[ 3 ],|Op|=3,zenkov=true,good=1728/1872) 
+   diagnostics: 2:(dc=33,min=27,ords=[ 4 ],|Op|=4,zenkov=true,good=1728/1872) 
+3:(dc=80,min=64,ords=[ 3 ],|Op|=3,zenkov=true,good=1728/1872) 
+   diagnostics: 2:(dc=33,min=27,ords=[ 4 ],|Op|=4,zenkov=true,good=1728/1872) 
+3:(dc=80,min=64,ords=[ 3 ],|Op|=3,zenkov=true,good=1728/1872) 
+   diagnostics: 2:(dc=33,min=27,ords=[ 4 ],|Op|=4,zenkov=true,good=1728/1872) 
+3:(dc=80,min=64,ords=[ 3 ],|Op|=3,zenkov=true,good=1728/1872) 
+   diagnostics: 2:(dc=33,min=27,ords=[ 4 ],|Op|=4,zenkov=true,good=1728/1872) 
+3:(dc=80,min=64,ords=[ 3 ],|Op|=3,zenkov=true,good=1728/1872) 
+   diagnostics: 2:(dc=33,min=27,ords=[ 4 ],|Op|=4,zenkov=true,good=1728/1872) 
+3:(dc=80,min=64,ords=[ 3 ],|Op|=3,zenkov=true,good=1728/1872) 
+   diagnostics: 2:(dc=33,min=27,ords=[ 4 ],|Op|=4,zenkov=true,good=1728/1872) 
+3:(dc=80,min=64,ords=[ 3 ],|Op|=3,zenkov=true,good=1728/1872) 
+   diagnostics: 2:(dc=42,min=18,ords=[ 4 ],|Op|=4,zenkov=true,good=1152/1872) 
+3:(dc=80,min=64,ords=[ 3 ],|Op|=3,zenkov=true,good=1728/1872) 
+   diagnostics: 2:(dc=42,min=18,ords=[ 4 ],|Op|=4,zenkov=true,good=1152/1872) 
+3:(dc=80,min=64,ords=[ 3 ],|Op|=3,zenkov=true,good=1728/1872) 
+   diagnostics: 2:(dc=42,min=18,ords=[ 4 ],|Op|=4,zenkov=true,good=1152/1872) 
+3:(dc=80,min=64,ords=[ 3 ],|Op|=3,zenkov=true,good=1728/1872) 
+   diagnostics: 2:(dc=42,min=18,ords=[ 4 ],|Op|=4,zenkov=true,good=1152/1872) 
+3:(dc=80,min=64,ords=[ 3 ],|Op|=3,zenkov=true,good=1728/1872) 
+   diagnostics: 2:(dc=42,min=18,ords=[ 4 ],|Op|=4,zenkov=true,good=1152/1872) 
+3:(dc=80,min=64,ords=[ 3 ],|Op|=3,zenkov=true,good=1728/1872) 
+   diagnostics: 2:(dc=42,min=18,ords=[ 4 ],|Op|=4,zenkov=true,good=1152/1872) 
+3:(dc=80,min=64,ords=[ 3 ],|Op|=3,zenkov=true,good=1728/1872) 
+   diagnostics: 2:(dc=42,min=18,ords=[ 4 ],|Op|=4,zenkov=true,good=1152/1872) 
+3:(dc=80,min=64,ords=[ 3 ],|Op|=3,zenkov=true,good=1728/1872) 
+   diagnostics: 2:(dc=42,min=18,ords=[ 4 ],|Op|=4,zenkov=true,good=1152/1872) 
+3:(dc=80,min=64,ords=[ 3 ],|Op|=3,zenkov=true,good=1728/1872) 
+   diagnostics: 2:(dc=42,min=18,ords=[ 4 ],|Op|=4,zenkov=true,good=1152/1872) 
+3:(dc=80,min=64,ords=[ 3 ],|Op|=3,zenkov=true,good=1728/1872) 
+   diagnostics: 2:(dc=42,min=18,ords=[ 4 ],|Op|=4,zenkov=true,good=1152/1872) 
+3:(dc=80,min=64,ords=[ 3 ],|Op|=3,zenkov=true,good=1728/1872) 
+   diagnostics: 2:(dc=42,min=18,ords=[ 4 ],|Op|=4,zenkov=true,good=1152/1872) 
+3:(dc=80,min=64,ords=[ 3 ],|Op|=3,zenkov=true,good=1728/1872) 
+   diagnostics: 2:(dc=42,min=18,ords=[ 4 ],|Op|=4,zenkov=true,good=1152/1872) 
+3:(dc=80,min=64,ords=[ 3 ],|Op|=3,zenkov=true,good=1728/1872) 
+   diagnostics: 2:(dc=42,min=18,ords=[ 4 ],|Op|=4,zenkov=true,good=1152/1872) 
+3:(dc=80,min=64,ords=[ 3 ],|Op|=3,zenkov=true,good=1728/1872) 
+   diagnostics: 2:(dc=42,min=18,ords=[ 4 ],|Op|=4,zenkov=true,good=1152/1872) 
+3:(dc=80,min=64,ords=[ 3 ],|Op|=3,zenkov=true,good=1728/1872) 
+   diagnostics: 2:(dc=42,min=18,ords=[ 4 ],|Op|=4,zenkov=true,good=1152/1872) 
+3:(dc=80,min=64,ords=[ 3 ],|Op|=3,zenkov=true,good=1728/1872) 
+   diagnostics: 2:(dc=42,min=18,ords=[ 4 ],|Op|=4,zenkov=true,good=1152/1872) 
+3:(dc=80,min=64,ords=[ 3 ],|Op|=3,zenkov=true,good=1728/1872) 
+   diagnostics: 2:(dc=42,min=18,ords=[ 4 ],|Op|=4,zenkov=true,good=1152/1872) 
+3:(dc=80,min=64,ords=[ 3 ],|Op|=3,zenkov=true,good=1728/1872) 
+   diagnostics: 2:(dc=42,min=18,ords=[ 4 ],|Op|=4,zenkov=true,good=1152/1872) 
+3:(dc=80,min=64,ords=[ 3 ],|Op|=3,zenkov=true,good=1728/1872) 
+   diagnostics: 2:(dc=42,min=18,ords=[ 4 ],|Op|=4,zenkov=true,good=1152/1872) 
+3:(dc=80,min=64,ords=[ 3 ],|Op|=3,zenkov=true,good=1728/1872) 
+   diagnostics: 2:(dc=42,min=18,ords=[ 4 ],|Op|=4,zenkov=true,good=1152/1872) 
+3:(dc=80,min=64,ords=[ 3 ],|Op|=3,zenkov=true,good=1728/1872) 
+   diagnostics: 2:(dc=42,min=18,ords=[ 4 ],|Op|=4,zenkov=true,good=1152/1872) 
+3:(dc=80,min=64,ords=[ 3 ],|Op|=3,zenkov=true,good=1728/1872) 
+   diagnostics: 2:(dc=42,min=18,ords=[ 4 ],|Op|=4,zenkov=true,good=1152/1872) 
+3:(dc=80,min=64,ords=[ 3 ],|Op|=3,zenkov=true,good=1728/1872) 
+   diagnostics: 2:(dc=42,min=18,ords=[ 4 ],|Op|=4,zenkov=true,good=1152/1872) 
+3:(dc=80,min=64,ords=[ 3 ],|Op|=3,zenkov=true,good=1728/1872) 
+   diagnostics: 2:(dc=42,min=18,ords=[ 4 ],|Op|=4,zenkov=true,good=1152/1872) 
+3:(dc=80,min=64,ords=[ 3 ],|Op|=3,zenkov=true,good=1728/1872) 
+   diagnostics: 2:(dc=42,min=18,ords=[ 4 ],|Op|=4,zenkov=true,good=1152/1872) 
+3:(dc=80,min=64,ords=[ 3 ],|Op|=3,zenkov=true,good=1728/1872) 
+   diagnostics: 2:(dc=42,min=18,ords=[ 4 ],|Op|=4,zenkov=true,good=1152/1872) 
+3:(dc=80,min=64,ords=[ 3 ],|Op|=3,zenkov=true,good=1728/1872) 
+   diagnostics: 2:(dc=42,min=18,ords=[ 4 ],|Op|=4,zenkov=true,good=1152/1872) 
+3:(dc=80,min=64,ords=[ 3 ],|Op|=3,zenkov=true,good=1728/1872) 
+   diagnostics: 2:(dc=78,min=39,ords=[ 8 ],|Op|=8,zenkov=true,good=1248/1872) 
+3:(dc=104,min=52,ords=[ 3 ],|Op|=3,zenkov=true,good=1404/1872) 
+   diagnostics: 2:(dc=78,min=39,ords=[ 8 ],|Op|=8,zenkov=true,good=1248/1872) 
+3:(dc=104,min=52,ords=[ 3 ],|Op|=3,zenkov=true,good=1404/1872) 
+   diagnostics: 2:(dc=78,min=39,ords=[ 8 ],|Op|=8,zenkov=true,good=1248/1872) 
+3:(dc=104,min=52,ords=[ 3 ],|Op|=3,zenkov=true,good=1404/1872) 
+   diagnostics: 2:(dc=60,min=57,ords=[ 8 ],|Op|=8,zenkov=true,good=1824/1872) 
+3:(dc=104,min=52,ords=[ 3 ],|Op|=3,zenkov=true,good=1404/1872) 
+   diagnostics: 2:(dc=60,min=57,ords=[ 8 ],|Op|=8,zenkov=true,good=1824/1872) 
+3:(dc=104,min=52,ords=[ 3 ],|Op|=3,zenkov=true,good=1404/1872) 
+   diagnostics: 2:(dc=60,min=57,ords=[ 8 ],|Op|=8,zenkov=true,good=1824/1872) 
+3:(dc=104,min=52,ords=[ 3 ],|Op|=3,zenkov=true,good=1404/1872) 
+   diagnostics: 2:(dc=65,min=52,ords=[ 8 ],|Op|=8,zenkov=true,good=1664/1872) 
+3:(dc=104,min=52,ords=[ 3 ],|Op|=3,zenkov=true,good=1404/1872) 
+   diagnostics: 2:(dc=65,min=52,ords=[ 8 ],|Op|=8,zenkov=true,good=1664/1872) 
+3:(dc=104,min=52,ords=[ 3 ],|Op|=3,zenkov=true,good=1404/1872) 
+   diagnostics: 2:(dc=65,min=52,ords=[ 8 ],|Op|=8,zenkov=true,good=1664/1872) 
+3:(dc=104,min=52,ords=[ 3 ],|Op|=3,zenkov=true,good=1404/1872) 
+   diagnostics: 2:(dc=59,min=58,ords=[ 8 ],|Op|=8,zenkov=true,good=1856/1872) 
+3:(dc=104,min=52,ords=[ 3 ],|Op|=3,zenkov=true,good=1404/1872) 
+   diagnostics: 2:(dc=59,min=58,ords=[ 8 ],|Op|=8,zenkov=true,good=1856/1872) 
+3:(dc=104,min=52,ords=[ 3 ],|Op|=3,zenkov=true,good=1404/1872) 
+   diagnostics: 2:(dc=59,min=58,ords=[ 8 ],|Op|=8,zenkov=true,good=1856/1872) 
+3:(dc=104,min=52,ords=[ 3 ],|Op|=3,zenkov=true,good=1404/1872) 
+   diagnostics: 2:(dc=63,min=54,ords=[ 8 ],|Op|=8,zenkov=true,good=1728/1872) 
+3:(dc=80,min=64,ords=[ 3 ],|Op|=3,zenkov=true,good=1728/1872) 
+   diagnostics: 2:(dc=63,min=54,ords=[ 8 ],|Op|=8,zenkov=true,good=1728/1872) 
+3:(dc=80,min=64,ords=[ 3 ],|Op|=3,zenkov=true,good=1728/1872) 
+   diagnostics: 2:(dc=63,min=54,ords=[ 8 ],|Op|=8,zenkov=true,good=1728/1872) 
+3:(dc=80,min=64,ords=[ 3 ],|Op|=3,zenkov=true,good=1728/1872) 
+   diagnostics: 2:(dc=63,min=54,ords=[ 8 ],|Op|=8,zenkov=true,good=1728/1872) 
+3:(dc=80,min=64,ords=[ 3 ],|Op|=3,zenkov=true,good=1728/1872) 
+   diagnostics: 2:(dc=63,min=54,ords=[ 8 ],|Op|=8,zenkov=true,good=1728/1872) 
+3:(dc=80,min=64,ords=[ 3 ],|Op|=3,zenkov=true,good=1728/1872) 
+   diagnostics: 2:(dc=63,min=54,ords=[ 8 ],|Op|=8,zenkov=true,good=1728/1872) 
+3:(dc=80,min=64,ords=[ 3 ],|Op|=3,zenkov=true,good=1728/1872) 
+   diagnostics: 2:(dc=63,min=54,ords=[ 8 ],|Op|=8,zenkov=true,good=1728/1872) 
+3:(dc=80,min=64,ords=[ 3 ],|Op|=3,zenkov=true,good=1728/1872) 
+   diagnostics: 2:(dc=63,min=54,ords=[ 8 ],|Op|=8,zenkov=true,good=1728/1872) 
+3:(dc=80,min=64,ords=[ 3 ],|Op|=3,zenkov=true,good=1728/1872) 
+   diagnostics: 2:(dc=63,min=54,ords=[ 8 ],|Op|=8,zenkov=true,good=1728/1872) 
+3:(dc=80,min=64,ords=[ 3 ],|Op|=3,zenkov=true,good=1728/1872) 
+   diagnostics: 2:(dc=63,min=54,ords=[ 8 ],|Op|=8,zenkov=true,good=1728/1872) 
+3:(dc=80,min=64,ords=[ 3 ],|Op|=3,zenkov=true,good=1728/1872) 
+   diagnostics: 2:(dc=78,min=39,ords=[ 8 ],|Op|=8,zenkov=true,good=1248/1872) 
+3:(dc=80,min=64,ords=[ 3 ],|Op|=3,zenkov=true,good=1728/1872) 
+   diagnostics: 2:(dc=78,min=39,ords=[ 8 ],|Op|=8,zenkov=true,good=1248/1872) 
+3:(dc=80,min=64,ords=[ 3 ],|Op|=3,zenkov=true,good=1728/1872) 
+   diagnostics: 2:(dc=78,min=39,ords=[ 8 ],|Op|=8,zenkov=true,good=1248/1872) 
+3:(dc=80,min=64,ords=[ 3 ],|Op|=3,zenkov=true,good=1728/1872) 
+   diagnostics: 2:(dc=78,min=39,ords=[ 8 ],|Op|=8,zenkov=true,good=1248/1872) 
+3:(dc=80,min=64,ords=[ 3 ],|Op|=3,zenkov=true,good=1728/1872) 
+   diagnostics: 2:(dc=78,min=39,ords=[ 8 ],|Op|=8,zenkov=true,good=1248/1872) 
+3:(dc=80,min=64,ords=[ 3 ],|Op|=3,zenkov=true,good=1728/1872) 
+   diagnostics: 2:(dc=78,min=39,ords=[ 8 ],|Op|=8,zenkov=true,good=1248/1872) 
+3:(dc=80,min=64,ords=[ 3 ],|Op|=3,zenkov=true,good=1728/1872) 
+   diagnostics: 2:(dc=78,min=39,ords=[ 8 ],|Op|=8,zenkov=true,good=1248/1872) 
+3:(dc=80,min=64,ords=[ 3 ],|Op|=3,zenkov=true,good=1728/1872) 
+   diagnostics: 2:(dc=78,min=39,ords=[ 8 ],|Op|=8,zenkov=true,good=1248/1872) 
+3:(dc=80,min=64,ords=[ 3 ],|Op|=3,zenkov=true,good=1728/1872) 
+   diagnostics: 2:(dc=78,min=39,ords=[ 8 ],|Op|=8,zenkov=true,good=1248/1872) 
+3:(dc=80,min=64,ords=[ 3 ],|Op|=3,zenkov=true,good=1728/1872) 
+   diagnostics: 2:(dc=78,min=39,ords=[ 8 ],|Op|=8,zenkov=true,good=1248/1872) 
+3:(dc=80,min=64,ords=[ 3 ],|Op|=3,zenkov=true,good=1728/1872) 
+   diagnostics: 2:(dc=60,min=57,ords=[ 8 ],|Op|=8,zenkov=true,good=1824/1872) 
+3:(dc=80,min=64,ords=[ 3 ],|Op|=3,zenkov=true,good=1728/1872) 
+   diagnostics: 2:(dc=60,min=57,ords=[ 8 ],|Op|=8,zenkov=true,good=1824/1872) 
+3:(dc=80,min=64,ords=[ 3 ],|Op|=3,zenkov=true,good=1728/1872) 
+   diagnostics: 2:(dc=60,min=57,ords=[ 8 ],|Op|=8,zenkov=true,good=1824/1872) 
+3:(dc=80,min=64,ords=[ 3 ],|Op|=3,zenkov=true,good=1728/1872) 
+   diagnostics: 2:(dc=60,min=57,ords=[ 8 ],|Op|=8,zenkov=true,good=1824/1872) 
+3:(dc=80,min=64,ords=[ 3 ],|Op|=3,zenkov=true,good=1728/1872) 
+   diagnostics: 2:(dc=60,min=57,ords=[ 8 ],|Op|=8,zenkov=true,good=1824/1872) 
+3:(dc=80,min=64,ords=[ 3 ],|Op|=3,zenkov=true,good=1728/1872) 
+   diagnostics: 2:(dc=60,min=57,ords=[ 8 ],|Op|=8,zenkov=true,good=1824/1872) 
+3:(dc=80,min=64,ords=[ 3 ],|Op|=3,zenkov=true,good=1728/1872) 
+   diagnostics: 2:(dc=60,min=57,ords=[ 8 ],|Op|=8,zenkov=true,good=1824/1872) 
+3:(dc=80,min=64,ords=[ 3 ],|Op|=3,zenkov=true,good=1728/1872) 
+   diagnostics: 2:(dc=60,min=57,ords=[ 8 ],|Op|=8,zenkov=true,good=1824/1872) 
+3:(dc=80,min=64,ords=[ 3 ],|Op|=3,zenkov=true,good=1728/1872) 
+   diagnostics: 2:(dc=60,min=57,ords=[ 8 ],|Op|=8,zenkov=true,good=1824/1872) 
+3:(dc=80,min=64,ords=[ 3 ],|Op|=3,zenkov=true,good=1728/1872) 
+   diagnostics: 2:(dc=60,min=57,ords=[ 8 ],|Op|=8,zenkov=true,good=1824/1872) 
+3:(dc=80,min=64,ords=[ 3 ],|Op|=3,zenkov=true,good=1728/1872) 
+   diagnostics: 2:(dc=63,min=54,ords=[ 8 ],|Op|=8,zenkov=true,good=1728/1872) 
+3:(dc=104,min=52,ords=[ 3 ],|Op|=3,zenkov=true,good=1404/1872) 
+   diagnostics: 2:(dc=63,min=54,ords=[ 8 ],|Op|=8,zenkov=true,good=1728/1872) 
+3:(dc=104,min=52,ords=[ 3 ],|Op|=3,zenkov=true,good=1404/1872) 
+   diagnostics: 2:(dc=63,min=54,ords=[ 8 ],|Op|=8,zenkov=true,good=1728/1872) 
+3:(dc=104,min=52,ords=[ 3 ],|Op|=3,zenkov=true,good=1404/1872) 
+   diagnostics: 2:(dc=63,min=54,ords=[ 8 ],|Op|=8,zenkov=true,good=1728/1872) 
+3:(dc=72,min=68,ords=[ 3 ],|Op|=3,zenkov=true,good=1836/1872) 
+   diagnostics: 2:(dc=63,min=54,ords=[ 8 ],|Op|=8,zenkov=true,good=1728/1872) 
+3:(dc=72,min=68,ords=[ 3 ],|Op|=3,zenkov=true,good=1836/1872) 
+   diagnostics: 2:(dc=63,min=54,ords=[ 8 ],|Op|=8,zenkov=true,good=1728/1872) 
+3:(dc=72,min=68,ords=[ 3 ],|Op|=3,zenkov=true,good=1836/1872) 
+   diagnostics: 2:(dc=78,min=39,ords=[ 8 ],|Op|=8,zenkov=true,good=1248/1872) 
+3:(dc=104,min=52,ords=[ 3 ],|Op|=3,zenkov=true,good=1404/1872) 
+   diagnostics: 2:(dc=78,min=39,ords=[ 8 ],|Op|=8,zenkov=true,good=1248/1872) 
+3:(dc=104,min=52,ords=[ 3 ],|Op|=3,zenkov=true,good=1404/1872) 
+   diagnostics: 2:(dc=78,min=39,ords=[ 8 ],|Op|=8,zenkov=true,good=1248/1872) 
+3:(dc=104,min=52,ords=[ 3 ],|Op|=3,zenkov=true,good=1404/1872) 
+   diagnostics: 2:(dc=60,min=57,ords=[ 8 ],|Op|=8,zenkov=true,good=1824/1872) 
+3:(dc=104,min=52,ords=[ 3 ],|Op|=3,zenkov=true,good=1404/1872) 
+   diagnostics: 2:(dc=60,min=57,ords=[ 8 ],|Op|=8,zenkov=true,good=1824/1872) 
+3:(dc=104,min=52,ords=[ 3 ],|Op|=3,zenkov=true,good=1404/1872) 
+   diagnostics: 2:(dc=60,min=57,ords=[ 8 ],|Op|=8,zenkov=true,good=1824/1872) 
+3:(dc=104,min=52,ords=[ 3 ],|Op|=3,zenkov=true,good=1404/1872) 
+   diagnostics: 2:(dc=78,min=39,ords=[ 8 ],|Op|=8,zenkov=true,good=1248/1872) 
+3:(dc=72,min=68,ords=[ 3 ],|Op|=3,zenkov=true,good=1836/1872) 
+   diagnostics: 2:(dc=78,min=39,ords=[ 8 ],|Op|=8,zenkov=true,good=1248/1872) 
+3:(dc=72,min=68,ords=[ 3 ],|Op|=3,zenkov=true,good=1836/1872) 
+   diagnostics: 2:(dc=78,min=39,ords=[ 8 ],|Op|=8,zenkov=true,good=1248/1872) 
+3:(dc=72,min=68,ords=[ 3 ],|Op|=3,zenkov=true,good=1836/1872) 
+   diagnostics: 2:(dc=60,min=57,ords=[ 8 ],|Op|=8,zenkov=true,good=1824/1872) 
+3:(dc=72,min=68,ords=[ 3 ],|Op|=3,zenkov=true,good=1836/1872) 
+   diagnostics: 2:(dc=60,min=57,ords=[ 8 ],|Op|=8,zenkov=true,good=1824/1872) 
+3:(dc=72,min=68,ords=[ 3 ],|Op|=3,zenkov=true,good=1836/1872) 
+   diagnostics: 2:(dc=60,min=57,ords=[ 8 ],|Op|=8,zenkov=true,good=1824/1872) 
+3:(dc=72,min=68,ords=[ 3 ],|Op|=3,zenkov=true,good=1836/1872) 
+   diagnostics: 2:(dc=33,min=27,ords=[ 4 ],|Op|=4,zenkov=true,good=1728/1872) 
+3:(dc=40,min=16,ords=[ 1 ],|Op|=1,zenkov=true,good=1296/1872) 
+   diagnostics: 2:(dc=36,min=27,ords=[ 4 ],|Op|=4,zenkov=true,good=1728/1872) 
+3:(dc=40,min=16,ords=[ 1 ],|Op|=1,zenkov=true,good=1296/1872) 
+   diagnostics: 2:(dc=42,min=18,ords=[ 4 ],|Op|=4,zenkov=true,good=1152/1872) 
+3:(dc=40,min=16,ords=[ 1 ],|Op|=1,zenkov=true,good=1296/1872) 
+   diagnostics: 2:(dc=24,min=9,ords=[ 2 ],|Op|=2,zenkov=true,good=1152/1872) 
+3:(dc=80,min=64,ords=[ 3 ],|Op|=3,zenkov=true,good=1728/1872) 
+   diagnostics: 2:(dc=78,min=39,ords=[ 8 ],|Op|=8,zenkov=true,good=1248/1872) 
+3:(dc=40,min=16,ords=[ 1 ],|Op|=1,zenkov=true,good=1296/1872) 
+   diagnostics: 2:(dc=60,min=57,ords=[ 8 ],|Op|=8,zenkov=true,good=1824/1872) 
+3:(dc=40,min=16,ords=[ 1 ],|Op|=1,zenkov=true,good=1296/1872) 
+   diagnostics: 2:(dc=63,min=54,ords=[ 8 ],|Op|=8,zenkov=true,good=1728/1872) 
+3:(dc=40,min=16,ords=[ 1 ],|Op|=1,zenkov=true,good=1296/1872) 
+   diagnostics: 2:(dc=33,min=27,ords=[ 4 ],|Op|=4,zenkov=true,good=1728/1872) 
+3:(dc=104,min=52,ords=[ 3 ],|Op|=3,zenkov=true,good=1404/1872) 
+   diagnostics: 2:(dc=32,min=27,ords=[ 4 ],|Op|=4,zenkov=true,good=1728/1872) 
+3:(dc=104,min=52,ords=[ 3 ],|Op|=3,zenkov=true,good=1404/1872) 
+   diagnostics: 2:(dc=36,min=27,ords=[ 4 ],|Op|=4,zenkov=true,good=1728/1872) 
+3:(dc=80,min=64,ords=[ 3 ],|Op|=3,zenkov=true,good=1728/1872) 
+   diagnostics: 2:(dc=33,min=27,ords=[ 4 ],|Op|=4,zenkov=true,good=1728/1872) 
+3:(dc=80,min=64,ords=[ 3 ],|Op|=3,zenkov=true,good=1728/1872) 
+   diagnostics: 2:(dc=36,min=27,ords=[ 4 ],|Op|=4,zenkov=true,good=1728/1872) 
+3:(dc=104,min=52,ords=[ 3 ],|Op|=3,zenkov=true,good=1404/1872) 
+   diagnostics: 2:(dc=36,min=27,ords=[ 4 ],|Op|=4,zenkov=true,good=1728/1872) 
+3:(dc=72,min=68,ords=[ 3 ],|Op|=3,zenkov=true,good=1836/1872) 
+   diagnostics: 2:(dc=33,min=27,ords=[ 4 ],|Op|=4,zenkov=true,good=1728/1872) 
+3:(dc=104,min=52,ords=[ 3 ],|Op|=3,zenkov=true,good=1404/1872) 
+   diagnostics: 2:(dc=33,min=27,ords=[ 4 ],|Op|=4,zenkov=true,good=1728/1872) 
+3:(dc=72,min=68,ords=[ 3 ],|Op|=3,zenkov=true,good=1836/1872) 
+   diagnostics: 2:(dc=42,min=18,ords=[ 4 ],|Op|=4,zenkov=true,good=1152/1872) 
+3:(dc=104,min=52,ords=[ 3 ],|Op|=3,zenkov=true,good=1404/1872) 
+   diagnostics: 2:(dc=35,min=24,ords=[ 4 ],|Op|=4,zenkov=true,good=1536/1872) 
+3:(dc=104,min=52,ords=[ 3 ],|Op|=3,zenkov=true,good=1404/1872) 
+   diagnostics: 2:(dc=52,min=13,ords=[ 4 ],|Op|=4,zenkov=true,good=832/1872) 
+3:(dc=104,min=52,ords=[ 3 ],|Op|=3,zenkov=true,good=1404/1872) 
+   diagnostics: 2:(dc=40,min=19,ords=[ 4 ],|Op|=4,zenkov=true,good=1216/1872) 
+3:(dc=104,min=52,ords=[ 3 ],|Op|=3,zenkov=true,good=1404/1872) 
+   diagnostics: 2:(dc=40,min=19,ords=[ 4 ],|Op|=4,zenkov=true,good=1216/1872) 
+3:(dc=104,min=52,ords=[ 3 ],|Op|=3,zenkov=true,good=1404/1872) 
+   diagnostics: 2:(dc=34,min=25,ords=[ 4 ],|Op|=4,zenkov=true,good=1600/1872) 
+3:(dc=104,min=52,ords=[ 3 ],|Op|=3,zenkov=true,good=1404/1872) 
+   diagnostics: 2:(dc=42,min=18,ords=[ 4 ],|Op|=4,zenkov=true,good=1152/1872) 
+3:(dc=80,min=64,ords=[ 3 ],|Op|=3,zenkov=true,good=1728/1872) 
+   diagnostics: 2:(dc=42,min=18,ords=[ 4 ],|Op|=4,zenkov=true,good=1152/1872) 
+3:(dc=104,min=52,ords=[ 3 ],|Op|=3,zenkov=true,good=1404/1872) 
+   diagnostics: 2:(dc=42,min=18,ords=[ 4 ],|Op|=4,zenkov=true,good=1152/1872) 
+3:(dc=72,min=68,ords=[ 3 ],|Op|=3,zenkov=true,good=1836/1872) 
+   diagnostics: 2:(dc=78,min=39,ords=[ 8 ],|Op|=8,zenkov=true,good=1248/1872) 
+3:(dc=104,min=52,ords=[ 3 ],|Op|=3,zenkov=true,good=1404/1872) 
+   diagnostics: 2:(dc=60,min=57,ords=[ 8 ],|Op|=8,zenkov=true,good=1824/1872) 
+3:(dc=104,min=52,ords=[ 3 ],|Op|=3,zenkov=true,good=1404/1872) 
+   diagnostics: 2:(dc=65,min=52,ords=[ 8 ],|Op|=8,zenkov=true,good=1664/1872) 
+3:(dc=104,min=52,ords=[ 3 ],|Op|=3,zenkov=true,good=1404/1872) 
+   diagnostics: 2:(dc=59,min=58,ords=[ 8 ],|Op|=8,zenkov=true,good=1856/1872) 
+3:(dc=104,min=52,ords=[ 3 ],|Op|=3,zenkov=true,good=1404/1872) 
+   diagnostics: 2:(dc=63,min=54,ords=[ 8 ],|Op|=8,zenkov=true,good=1728/1872) 
+3:(dc=80,min=64,ords=[ 3 ],|Op|=3,zenkov=true,good=1728/1872) 
+   diagnostics: 2:(dc=78,min=39,ords=[ 8 ],|Op|=8,zenkov=true,good=1248/1872) 
+3:(dc=80,min=64,ords=[ 3 ],|Op|=3,zenkov=true,good=1728/1872) 
+   diagnostics: 2:(dc=60,min=57,ords=[ 8 ],|Op|=8,zenkov=true,good=1824/1872) 
+3:(dc=80,min=64,ords=[ 3 ],|Op|=3,zenkov=true,good=1728/1872) 
+   diagnostics: 2:(dc=63,min=54,ords=[ 8 ],|Op|=8,zenkov=true,good=1728/1872) 
+3:(dc=104,min=52,ords=[ 3 ],|Op|=3,zenkov=true,good=1404/1872) 
+   diagnostics: 2:(dc=63,min=54,ords=[ 8 ],|Op|=8,zenkov=true,good=1728/1872) 
+3:(dc=72,min=68,ords=[ 3 ],|Op|=3,zenkov=true,good=1836/1872) 
+   diagnostics: 2:(dc=78,min=39,ords=[ 8 ],|Op|=8,zenkov=true,good=1248/1872) 
+3:(dc=104,min=52,ords=[ 3 ],|Op|=3,zenkov=true,good=1404/1872) 
+   diagnostics: 2:(dc=60,min=57,ords=[ 8 ],|Op|=8,zenkov=true,good=1824/1872) 
+3:(dc=104,min=52,ords=[ 3 ],|Op|=3,zenkov=true,good=1404/1872) 
+   diagnostics: 2:(dc=78,min=39,ords=[ 8 ],|Op|=8,zenkov=true,good=1248/1872) 
+3:(dc=72,min=68,ords=[ 3 ],|Op|=3,zenkov=true,good=1836/1872) 
+   diagnostics: 2:(dc=60,min=57,ords=[ 8 ],|Op|=8,zenkov=true,good=1824/1872) 
+3:(dc=72,min=68,ords=[ 3 ],|Op|=3,zenkov=true,good=1836/1872) 
+done order 1872 total groups with >=2 non-normal Sylows checked 1425
+done order 1874 total groups with >=2 non-normal Sylows checked 1425
+done order 1875 total groups with >=2 non-normal Sylows checked 1425
+done order 1876 total groups with >=2 non-normal Sylows checked 1425
+   diagnostics: 2:(dc=471,min=468,ords=[ 1 ],|Op|=1,zenkov=true,good=1872/
+1878) 3:(dc=210,min=208,ords=[ 1 ],|Op|=1,zenkov=true,good=1872/1878) 
+done order 1878 total groups with >=2 non-normal Sylows checked 1426
+done order 1880 total groups with >=2 non-normal Sylows checked 1426
+done order 1881 total groups with >=2 non-normal Sylows checked 1426
+done order 1882 total groups with >=2 non-normal Sylows checked 1426
+done order 1883 total groups with >=2 non-normal Sylows checked 1426
+   diagnostics: 2:(dc=237,min=234,ords=[ 2 ],|Op|=2,zenkov=true,good=1872/
+1884) 3:(dc=212,min=208,ords=[ 1 ],|Op|=1,zenkov=true,good=1872/1884) 
+   diagnostics: 2:(dc=120,min=117,ords=[ 1 ],|Op|=1,zenkov=true,good=1872/
+1884) 3:(dc=212,min=208,ords=[ 1 ],|Op|=1,zenkov=true,good=1872/1884) 
+   diagnostics: 2:(dc=237,min=234,ords=[ 2 ],|Op|=2,zenkov=true,good=1872/
+1884) 3:(dc=212,min=208,ords=[ 1 ],|Op|=1,zenkov=true,good=1872/1884) 
+done order 1884 total groups with >=2 non-normal Sylows checked 1429
+done order 1885 total groups with >=2 non-normal Sylows checked 1429
+done order 1886 total groups with >=2 non-normal Sylows checked 1429
+done order 1887 total groups with >=2 non-normal Sylows checked 1429
+done order 1888 total groups with >=2 non-normal Sylows checked 1429
+   diagnostics: 2:(dc=540,min=405,ords=[ 1 ],|Op|=1,zenkov=true,good=1620/
+1890) 3:(dc=30,min=20,ords=[ 9 ],|Op|=9,zenkov=true,good=1620/1890) 
+   diagnostics: 2:(dc=567,min=378,ords=[ 1 ],|Op|=1,zenkov=true,good=1512/
+1890) 3:(dc=30,min=20,ords=[ 9 ],|Op|=9,zenkov=true,good=1620/1890) 
+   diagnostics: 2:(dc=486,min=459,ords=[ 1 ],|Op|=1,zenkov=true,good=1836/
+1890) 3:(dc=30,min=20,ords=[ 9 ],|Op|=9,zenkov=true,good=1620/1890) 
+   diagnostics: 2:(dc=540,min=405,ords=[ 1 ],|Op|=1,zenkov=true,good=1620/
+1890) 3:(dc=30,min=20,ords=[ 9 ],|Op|=9,zenkov=true,good=1620/1890) 
+   diagnostics: 2:(dc=540,min=405,ords=[ 1 ],|Op|=1,zenkov=true,good=1620/
+1890) 3:(dc=30,min=20,ords=[ 9 ],|Op|=9,zenkov=true,good=1620/1890) 
+   diagnostics: 2:(dc=540,min=405,ords=[ 1 ],|Op|=1,zenkov=true,good=1620/
+1890) 3:(dc=30,min=20,ords=[ 9 ],|Op|=9,zenkov=true,good=1620/1890) 
+   diagnostics: 2:(dc=540,min=405,ords=[ 1 ],|Op|=1,zenkov=true,good=1620/
+1890) 3:(dc=30,min=20,ords=[ 9 ],|Op|=9,zenkov=true,good=1620/1890) 
+   diagnostics: 2:(dc=540,min=405,ords=[ 1 ],|Op|=1,zenkov=true,good=1620/
+1890) 3:(dc=30,min=20,ords=[ 9 ],|Op|=9,zenkov=true,good=1620/1890) 
+   diagnostics: 2:(dc=540,min=405,ords=[ 1 ],|Op|=1,zenkov=true,good=1620/
+1890) 3:(dc=30,min=20,ords=[ 9 ],|Op|=9,zenkov=true,good=1620/1890) 
+   diagnostics: 2:(dc=567,min=378,ords=[ 1 ],|Op|=1,zenkov=true,good=1512/
+1890) 3:(dc=30,min=20,ords=[ 9 ],|Op|=9,zenkov=true,good=1620/1890) 
+   diagnostics: 2:(dc=567,min=378,ords=[ 1 ],|Op|=1,zenkov=true,good=1512/
+1890) 3:(dc=30,min=20,ords=[ 9 ],|Op|=9,zenkov=true,good=1620/1890) 
+   diagnostics: 2:(dc=567,min=378,ords=[ 1 ],|Op|=1,zenkov=true,good=1512/
+1890) 3:(dc=30,min=20,ords=[ 9 ],|Op|=9,zenkov=true,good=1620/1890) 
+   diagnostics: 2:(dc=567,min=378,ords=[ 1 ],|Op|=1,zenkov=true,good=1512/
+1890) 3:(dc=30,min=20,ords=[ 9 ],|Op|=9,zenkov=true,good=1620/1890) 
+   diagnostics: 2:(dc=567,min=378,ords=[ 1 ],|Op|=1,zenkov=true,good=1512/
+1890) 3:(dc=30,min=20,ords=[ 9 ],|Op|=9,zenkov=true,good=1620/1890) 
+   diagnostics: 2:(dc=567,min=378,ords=[ 1 ],|Op|=1,zenkov=true,good=1512/
+1890) 3:(dc=30,min=20,ords=[ 9 ],|Op|=9,zenkov=true,good=1620/1890) 
+   diagnostics: 2:(dc=486,min=459,ords=[ 1 ],|Op|=1,zenkov=true,good=1836/
+1890) 3:(dc=30,min=20,ords=[ 9 ],|Op|=9,zenkov=true,good=1620/1890) 
+   diagnostics: 2:(dc=486,min=459,ords=[ 1 ],|Op|=1,zenkov=true,good=1836/
+1890) 3:(dc=30,min=20,ords=[ 9 ],|Op|=9,zenkov=true,good=1620/1890) 
+   diagnostics: 2:(dc=486,min=459,ords=[ 1 ],|Op|=1,zenkov=true,good=1836/
+1890) 3:(dc=30,min=20,ords=[ 9 ],|Op|=9,zenkov=true,good=1620/1890) 
+   diagnostics: 2:(dc=486,min=459,ords=[ 1 ],|Op|=1,zenkov=true,good=1836/
+1890) 3:(dc=30,min=20,ords=[ 9 ],|Op|=9,zenkov=true,good=1620/1890) 
+   diagnostics: 2:(dc=486,min=459,ords=[ 1 ],|Op|=1,zenkov=true,good=1836/
+1890) 3:(dc=30,min=20,ords=[ 9 ],|Op|=9,zenkov=true,good=1620/1890) 
+   diagnostics: 2:(dc=486,min=459,ords=[ 1 ],|Op|=1,zenkov=true,good=1836/
+1890) 3:(dc=30,min=20,ords=[ 9 ],|Op|=9,zenkov=true,good=1620/1890) 
+   diagnostics: 2:(dc=525,min=420,ords=[ 1 ],|Op|=1,zenkov=true,good=1680/
+1890) 3:(dc=30,min=20,ords=[ 9 ],|Op|=9,zenkov=true,good=1620/1890) 
+   diagnostics: 2:(dc=525,min=420,ords=[ 1 ],|Op|=1,zenkov=true,good=1680/
+1890) 3:(dc=30,min=20,ords=[ 9 ],|Op|=9,zenkov=true,good=1620/1890) 
+   diagnostics: 2:(dc=525,min=420,ords=[ 1 ],|Op|=1,zenkov=true,good=1680/
+1890) 3:(dc=30,min=20,ords=[ 9 ],|Op|=9,zenkov=true,good=1620/1890) 
+   diagnostics: 2:(dc=630,min=315,ords=[ 1 ],|Op|=1,zenkov=true,good=1260/
+1890) 3:(dc=30,min=20,ords=[ 9 ],|Op|=9,zenkov=true,good=1620/1890) 
+   diagnostics: 2:(dc=525,min=420,ords=[ 1 ],|Op|=1,zenkov=true,good=1680/
+1890) 3:(dc=30,min=20,ords=[ 9 ],|Op|=9,zenkov=true,good=1620/1890) 
+   diagnostics: 2:(dc=480,min=465,ords=[ 1 ],|Op|=1,zenkov=true,good=1860/
+1890) 3:(dc=30,min=20,ords=[ 9 ],|Op|=9,zenkov=true,good=1620/1890) 
+   diagnostics: 2:(dc=480,min=465,ords=[ 1 ],|Op|=1,zenkov=true,good=1860/
+1890) 3:(dc=30,min=20,ords=[ 9 ],|Op|=9,zenkov=true,good=1620/1890) 
+   diagnostics: 2:(dc=480,min=465,ords=[ 1 ],|Op|=1,zenkov=true,good=1860/
+1890) 3:(dc=30,min=20,ords=[ 9 ],|Op|=9,zenkov=true,good=1620/1890) 
+   diagnostics: 2:(dc=495,min=450,ords=[ 1 ],|Op|=1,zenkov=true,good=1800/
+1890) 3:(dc=30,min=20,ords=[ 9 ],|Op|=9,zenkov=true,good=1620/1890) 
+   diagnostics: 2:(dc=480,min=465,ords=[ 1 ],|Op|=1,zenkov=true,good=1860/
+1890) 3:(dc=30,min=20,ords=[ 9 ],|Op|=9,zenkov=true,good=1620/1890) 
+   diagnostics: 2:(dc=483,min=462,ords=[ 1 ],|Op|=1,zenkov=true,good=1848/
+1890) 3:(dc=30,min=20,ords=[ 9 ],|Op|=9,zenkov=true,good=1620/1890) 
+   diagnostics: 2:(dc=483,min=462,ords=[ 1 ],|Op|=1,zenkov=true,good=1848/
+1890) 3:(dc=30,min=20,ords=[ 9 ],|Op|=9,zenkov=true,good=1620/1890) 
+   diagnostics: 2:(dc=483,min=462,ords=[ 1 ],|Op|=1,zenkov=true,good=1848/
+1890) 3:(dc=30,min=20,ords=[ 9 ],|Op|=9,zenkov=true,good=1620/1890) 
+   diagnostics: 2:(dc=504,min=441,ords=[ 1 ],|Op|=1,zenkov=true,good=1764/
+1890) 3:(dc=30,min=20,ords=[ 9 ],|Op|=9,zenkov=true,good=1620/1890) 
+   diagnostics: 2:(dc=483,min=462,ords=[ 1 ],|Op|=1,zenkov=true,good=1848/
+1890) 3:(dc=30,min=20,ords=[ 9 ],|Op|=9,zenkov=true,good=1620/1890) 
+   diagnostics: 2:(dc=474,min=471,ords=[ 1 ],|Op|=1,zenkov=true,good=1884/
+1890) 3:(dc=30,min=20,ords=[ 9 ],|Op|=9,zenkov=true,good=1620/1890) 
+   diagnostics: 2:(dc=474,min=471,ords=[ 1 ],|Op|=1,zenkov=true,good=1884/
+1890) 3:(dc=30,min=20,ords=[ 9 ],|Op|=9,zenkov=true,good=1620/1890) 
+   diagnostics: 2:(dc=474,min=471,ords=[ 1 ],|Op|=1,zenkov=true,good=1884/
+1890) 3:(dc=30,min=20,ords=[ 9 ],|Op|=9,zenkov=true,good=1620/1890) 
+   diagnostics: 2:(dc=477,min=468,ords=[ 1 ],|Op|=1,zenkov=true,good=1872/
+1890) 3:(dc=30,min=20,ords=[ 9 ],|Op|=9,zenkov=true,good=1620/1890) 
+   diagnostics: 2:(dc=474,min=471,ords=[ 1 ],|Op|=1,zenkov=true,good=1884/
+1890) 3:(dc=30,min=20,ords=[ 9 ],|Op|=9,zenkov=true,good=1620/1890) 
+   diagnostics: 2:(dc=540,min=405,ords=[ 1 ],|Op|=1,zenkov=true,good=1620/
+1890) 3:(dc=30,min=20,ords=[ 9 ],|Op|=9,zenkov=true,good=1620/1890) 
+   diagnostics: 2:(dc=567,min=378,ords=[ 1 ],|Op|=1,zenkov=true,good=1512/
+1890) 3:(dc=30,min=20,ords=[ 9 ],|Op|=9,zenkov=true,good=1620/1890) 
+   diagnostics: 2:(dc=486,min=459,ords=[ 1 ],|Op|=1,zenkov=true,good=1836/
+1890) 3:(dc=30,min=20,ords=[ 9 ],|Op|=9,zenkov=true,good=1620/1890) 
+   diagnostics: 2:(dc=630,min=315,ords=[ 1 ],|Op|=1,zenkov=true,good=1260/
+1890) 3:(dc=30,min=20,ords=[ 9 ],|Op|=9,zenkov=true,good=1620/1890) 
+   diagnostics: 2:(dc=495,min=450,ords=[ 1 ],|Op|=1,zenkov=true,good=1800/
+1890) 3:(dc=30,min=20,ords=[ 9 ],|Op|=9,zenkov=true,good=1620/1890) 
+   diagnostics: 2:(dc=504,min=441,ords=[ 1 ],|Op|=1,zenkov=true,good=1764/
+1890) 3:(dc=30,min=20,ords=[ 9 ],|Op|=9,zenkov=true,good=1620/1890) 
+   diagnostics: 2:(dc=477,min=468,ords=[ 1 ],|Op|=1,zenkov=true,good=1872/
+1890) 3:(dc=30,min=20,ords=[ 9 ],|Op|=9,zenkov=true,good=1620/1890) 
+   diagnostics: 2:(dc=525,min=420,ords=[ 1 ],|Op|=1,zenkov=true,good=1680/
+1890) 3:(dc=30,min=20,ords=[ 9 ],|Op|=9,zenkov=true,good=1620/1890) 
+   diagnostics: 2:(dc=480,min=465,ords=[ 1 ],|Op|=1,zenkov=true,good=1860/
+1890) 3:(dc=30,min=20,ords=[ 9 ],|Op|=9,zenkov=true,good=1620/1890) 
+   diagnostics: 2:(dc=483,min=462,ords=[ 1 ],|Op|=1,zenkov=true,good=1848/
+1890) 3:(dc=30,min=20,ords=[ 9 ],|Op|=9,zenkov=true,good=1620/1890) 
+   diagnostics: 2:(dc=474,min=471,ords=[ 1 ],|Op|=1,zenkov=true,good=1884/
+1890) 3:(dc=30,min=20,ords=[ 9 ],|Op|=9,zenkov=true,good=1620/1890) 
+done order 1890 total groups with >=2 non-normal Sylows checked 1481
+done order 1891 total groups with >=2 non-normal Sylows checked 1481
+done order 1892 total groups with >=2 non-normal Sylows checked 1481
+done order 1893 total groups with >=2 non-normal Sylows checked 1481
+done order 1894 total groups with >=2 non-normal Sylows checked 1481
+done order 1895 total groups with >=2 non-normal Sylows checked 1481
+   diagnostics: 2:(dc=120,min=117,ords=[ 4 ],|Op|=4,zenkov=true,good=1872/
+1896) 3:(dc=216,min=208,ords=[ 1 ],|Op|=1,zenkov=true,good=1872/1896) 
+   diagnostics: 2:(dc=120,min=117,ords=[ 4 ],|Op|=4,zenkov=true,good=1872/
+1896) 3:(dc=216,min=208,ords=[ 1 ],|Op|=1,zenkov=true,good=1872/1896) 
+   diagnostics: 2:(dc=120,min=117,ords=[ 4 ],|Op|=4,zenkov=true,good=1872/
+1896) 3:(dc=216,min=208,ords=[ 1 ],|Op|=1,zenkov=true,good=1872/1896) 
+   diagnostics: 2:(dc=120,min=117,ords=[ 4 ],|Op|=4,zenkov=true,good=1872/
+1896) 3:(dc=216,min=208,ords=[ 1 ],|Op|=1,zenkov=true,good=1872/1896) 
+   diagnostics: 2:(dc=120,min=117,ords=[ 4 ],|Op|=4,zenkov=true,good=1872/
+1896) 3:(dc=216,min=208,ords=[ 1 ],|Op|=1,zenkov=true,good=1872/1896) 
+   diagnostics: 2:(dc=120,min=117,ords=[ 4 ],|Op|=4,zenkov=true,good=1872/
+1896) 3:(dc=216,min=208,ords=[ 1 ],|Op|=1,zenkov=true,good=1872/1896) 
+   diagnostics: 2:(dc=158,min=79,ords=[ 4 ],|Op|=4,zenkov=true,good=1264/
+1896) 3:(dc=316,min=158,ords=[ 1 ],|Op|=1,zenkov=true,good=1422/1896) 
+   diagnostics: 2:(dc=119,min=118,ords=[ 4 ],|Op|=4,zenkov=true,good=1888/
+1896) 3:(dc=316,min=158,ords=[ 1 ],|Op|=1,zenkov=true,good=1422/1896) 
+   diagnostics: 2:(dc=120,min=117,ords=[ 4 ],|Op|=4,zenkov=true,good=1872/
+1896) 3:(dc=216,min=208,ords=[ 1 ],|Op|=1,zenkov=true,good=1872/1896) 
+   diagnostics: 2:(dc=120,min=117,ords=[ 4 ],|Op|=4,zenkov=true,good=1872/
+1896) 3:(dc=316,min=158,ords=[ 1 ],|Op|=1,zenkov=true,good=1422/1896) 
+   diagnostics: 2:(dc=120,min=117,ords=[ 4 ],|Op|=4,zenkov=true,good=1872/
+1896) 3:(dc=212,min=210,ords=[ 1 ],|Op|=1,zenkov=true,good=1890/1896) 
+done order 1896 total groups with >=2 non-normal Sylows checked 1492
+done order 1897 total groups with >=2 non-normal Sylows checked 1492
+done order 1898 total groups with >=2 non-normal Sylows checked 1492
+done order 1899 total groups with >=2 non-normal Sylows checked 1492
+done order 1900 total groups with >=2 non-normal Sylows checked 1492
+done order 1902 total groups with >=2 non-normal Sylows checked 1492
+done order 1903 total groups with >=2 non-normal Sylows checked 1492
+   diagnostics: 2:(dc=63,min=56,ords=[ 8 ],|Op|=8,zenkov=true,good=1792/1904) 
+7:(dc=68,min=34,ords=[ 1 ],|Op|=1,zenkov=true,good=1666/1904) 
+done order 1904 total groups with >=2 non-normal Sylows checked 1493
+done order 1905 total groups with >=2 non-normal Sylows checked 1493
+done order 1906 total groups with >=2 non-normal Sylows checked 1493
+done order 1908 total groups with >=2 non-normal Sylows checked 1493
+done order 1909 total groups with >=2 non-normal Sylows checked 1493
+   diagnostics: 2:(dc=480,min=475,ords=[ 1 ],|Op|=1,zenkov=true,good=1900/
+1910) 5:(dc=78,min=76,ords=[ 1 ],|Op|=1,zenkov=true,good=1900/1910) 
+done order 1910 total groups with >=2 non-normal Sylows checked 1494
+done order 1911 total groups with >=2 non-normal Sylows checked 1494
+done order 1912 total groups with >=2 non-normal Sylows checked 1494
+done order 1914 total groups with >=2 non-normal Sylows checked 1494
+done order 1915 total groups with >=2 non-normal Sylows checked 1494
+done order 1916 total groups with >=2 non-normal Sylows checked 1494
+done order 1917 total groups with >=2 non-normal Sylows checked 1494
+done order 1918 total groups with >=2 non-normal Sylows checked 1494
+done order 1919 total groups with >=2 non-normal Sylows checked 1494
+done order 1921 total groups with >=2 non-normal Sylows checked 1494
+done order 1922 total groups with >=2 non-normal Sylows checked 1494
+done order 1923 total groups with >=2 non-normal Sylows checked 1494
+done order 1924 total groups with >=2 non-normal Sylows checked 1494
+done order 1925 total groups with >=2 non-normal Sylows checked 1494
+done order 1926 total groups with >=2 non-normal Sylows checked 1494
+done order 1927 total groups with >=2 non-normal Sylows checked 1494
+done order 1928 total groups with >=2 non-normal Sylows checked 1494
+done order 1929 total groups with >=2 non-normal Sylows checked 1494
+done order 1930 total groups with >=2 non-normal Sylows checked 1494
+   diagnostics: 2:(dc=252,min=231,ords=[ 2 ],|Op|=2,zenkov=true,good=1848/
+1932) 3:(dc=276,min=184,ords=[ 1 ],|Op|=1,zenkov=true,good=1656/1932) 
+   diagnostics: 2:(dc=276,min=207,ords=[ 2 ],|Op|=2,zenkov=true,good=1656/
+1932) 3:(dc=276,min=184,ords=[ 1 ],|Op|=1,zenkov=true,good=1656/1932) 
+   diagnostics: 2:(dc=243,min=240,ords=[ 2 ],|Op|=2,zenkov=true,good=1920/
+1932) 3:(dc=276,min=184,ords=[ 1 ],|Op|=1,zenkov=true,good=1656/1932) 
+   diagnostics: 2:(dc=144,min=99,ords=[ 1 ],|Op|=1,zenkov=true,good=1584/
+1932) 3:(dc=276,min=184,ords=[ 1 ],|Op|=1,zenkov=true,good=1656/1932) 
+   diagnostics: 2:(dc=252,min=231,ords=[ 2 ],|Op|=2,zenkov=true,good=1848/
+1932) 3:(dc=276,min=184,ords=[ 1 ],|Op|=1,zenkov=true,good=1656/1932) 
+   diagnostics: 2:(dc=276,min=207,ords=[ 2 ],|Op|=2,zenkov=true,good=1656/
+1932) 3:(dc=276,min=184,ords=[ 1 ],|Op|=1,zenkov=true,good=1656/1932) 
+   diagnostics: 2:(dc=243,min=240,ords=[ 2 ],|Op|=2,zenkov=true,good=1920/
+1932) 3:(dc=276,min=184,ords=[ 1 ],|Op|=1,zenkov=true,good=1656/1932) 
+done order 1932 total groups with >=2 non-normal Sylows checked 1501
+done order 1934 total groups with >=2 non-normal Sylows checked 1501
+done order 1935 total groups with >=2 non-normal Sylows checked 1501
+done order 1936 total groups with >=2 non-normal Sylows checked 1501
+done order 1937 total groups with >=2 non-normal Sylows checked 1501
+   diagnostics: 2:(dc=510,min=459,ords=[ 1 ],|Op|=1,zenkov=true,good=1836/
+1938) 3:(dc=238,min=204,ords=[ 1 ],|Op|=1,zenkov=true,good=1836/1938) 
+   diagnostics: 2:(dc=513,min=456,ords=[ 1 ],|Op|=1,zenkov=true,good=1824/
+1938) 3:(dc=238,min=204,ords=[ 1 ],|Op|=1,zenkov=true,good=1836/1938) 
+   diagnostics: 2:(dc=486,min=483,ords=[ 1 ],|Op|=1,zenkov=true,good=1932/
+1938) 3:(dc=238,min=204,ords=[ 1 ],|Op|=1,zenkov=true,good=1836/1938) 
+done order 1938 total groups with >=2 non-normal Sylows checked 1504
+done order 1939 total groups with >=2 non-normal Sylows checked 1504
+done order 1940 total groups with >=2 non-normal Sylows checked 1504
+done order 1941 total groups with >=2 non-normal Sylows checked 1504
+done order 1942 total groups with >=2 non-normal Sylows checked 1504
+done order 1943 total groups with >=2 non-normal Sylows checked 1504
+   diagnostics: 2:(dc=122,min=121,ords=[ 4 ],|Op|=4,zenkov=true,good=1936/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=162,min=81,ords=[ 4 ],|Op|=4,zenkov=true,good=1296/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=126,min=117,ords=[ 4 ],|Op|=4,zenkov=true,good=1872/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=126,min=117,ords=[ 4 ],|Op|=4,zenkov=true,good=1872/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=126,min=117,ords=[ 4 ],|Op|=4,zenkov=true,good=1872/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=126,min=117,ords=[ 4 ],|Op|=4,zenkov=true,good=1872/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=126,min=117,ords=[ 4 ],|Op|=4,zenkov=true,good=1872/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=126,min=117,ords=[ 4 ],|Op|=4,zenkov=true,good=1872/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=126,min=117,ords=[ 4 ],|Op|=4,zenkov=true,good=1872/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=126,min=117,ords=[ 4 ],|Op|=4,zenkov=true,good=1872/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=126,min=117,ords=[ 4 ],|Op|=4,zenkov=true,good=1872/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=126,min=117,ords=[ 4 ],|Op|=4,zenkov=true,good=1872/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=126,min=117,ords=[ 4 ],|Op|=4,zenkov=true,good=1872/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=126,min=117,ords=[ 4 ],|Op|=4,zenkov=true,good=1872/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=126,min=117,ords=[ 4 ],|Op|=4,zenkov=true,good=1872/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=126,min=117,ords=[ 4 ],|Op|=4,zenkov=true,good=1872/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=126,min=117,ords=[ 4 ],|Op|=4,zenkov=true,good=1872/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=126,min=117,ords=[ 4 ],|Op|=4,zenkov=true,good=1872/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=126,min=117,ords=[ 4 ],|Op|=4,zenkov=true,good=1872/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=123,min=120,ords=[ 4 ],|Op|=4,zenkov=true,good=1920/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=123,min=120,ords=[ 4 ],|Op|=4,zenkov=true,good=1920/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=135,min=108,ords=[ 4 ],|Op|=4,zenkov=true,good=1728/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=135,min=108,ords=[ 4 ],|Op|=4,zenkov=true,good=1728/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=135,min=108,ords=[ 4 ],|Op|=4,zenkov=true,good=1728/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=135,min=108,ords=[ 4 ],|Op|=4,zenkov=true,good=1728/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=135,min=108,ords=[ 4 ],|Op|=4,zenkov=true,good=1728/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=123,min=120,ords=[ 4 ],|Op|=4,zenkov=true,good=1920/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=123,min=120,ords=[ 4 ],|Op|=4,zenkov=true,good=1920/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=126,min=117,ords=[ 4 ],|Op|=4,zenkov=true,good=1872/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=126,min=117,ords=[ 4 ],|Op|=4,zenkov=true,good=1872/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=123,min=120,ords=[ 4 ],|Op|=4,zenkov=true,good=1920/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=126,min=117,ords=[ 4 ],|Op|=4,zenkov=true,good=1872/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=135,min=108,ords=[ 4 ],|Op|=4,zenkov=true,good=1728/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=126,min=117,ords=[ 4 ],|Op|=4,zenkov=true,good=1872/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=126,min=117,ords=[ 4 ],|Op|=4,zenkov=true,good=1872/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=123,min=120,ords=[ 4 ],|Op|=4,zenkov=true,good=1920/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=126,min=117,ords=[ 4 ],|Op|=4,zenkov=true,good=1872/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=123,min=120,ords=[ 4 ],|Op|=4,zenkov=true,good=1920/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=123,min=120,ords=[ 4 ],|Op|=4,zenkov=true,good=1920/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=126,min=117,ords=[ 4 ],|Op|=4,zenkov=true,good=1872/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=122,min=121,ords=[ 4 ],|Op|=4,zenkov=true,good=1936/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=126,min=117,ords=[ 4 ],|Op|=4,zenkov=true,good=1872/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=122,min=121,ords=[ 4 ],|Op|=4,zenkov=true,good=1936/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=123,min=120,ords=[ 4 ],|Op|=4,zenkov=true,good=1920/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=123,min=120,ords=[ 4 ],|Op|=4,zenkov=true,good=1920/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=123,min=120,ords=[ 4 ],|Op|=4,zenkov=true,good=1920/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=123,min=120,ords=[ 4 ],|Op|=4,zenkov=true,good=1920/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=123,min=120,ords=[ 4 ],|Op|=4,zenkov=true,good=1920/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=123,min=120,ords=[ 4 ],|Op|=4,zenkov=true,good=1920/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=123,min=120,ords=[ 4 ],|Op|=4,zenkov=true,good=1920/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=123,min=120,ords=[ 4 ],|Op|=4,zenkov=true,good=1920/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=123,min=120,ords=[ 4 ],|Op|=4,zenkov=true,good=1920/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=123,min=120,ords=[ 4 ],|Op|=4,zenkov=true,good=1920/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=123,min=120,ords=[ 4 ],|Op|=4,zenkov=true,good=1920/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=123,min=120,ords=[ 4 ],|Op|=4,zenkov=true,good=1920/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=123,min=120,ords=[ 4 ],|Op|=4,zenkov=true,good=1920/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=123,min=120,ords=[ 4 ],|Op|=4,zenkov=true,good=1920/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=123,min=120,ords=[ 4 ],|Op|=4,zenkov=true,good=1920/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=123,min=120,ords=[ 4 ],|Op|=4,zenkov=true,good=1920/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=123,min=120,ords=[ 4 ],|Op|=4,zenkov=true,good=1920/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=123,min=120,ords=[ 4 ],|Op|=4,zenkov=true,good=1920/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=122,min=121,ords=[ 4 ],|Op|=4,zenkov=true,good=1936/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=122,min=121,ords=[ 4 ],|Op|=4,zenkov=true,good=1936/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=123,min=120,ords=[ 4 ],|Op|=4,zenkov=true,good=1920/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=123,min=120,ords=[ 4 ],|Op|=4,zenkov=true,good=1920/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=123,min=120,ords=[ 4 ],|Op|=4,zenkov=true,good=1920/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=123,min=120,ords=[ 4 ],|Op|=4,zenkov=true,good=1920/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=123,min=120,ords=[ 4 ],|Op|=4,zenkov=true,good=1920/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=123,min=120,ords=[ 4 ],|Op|=4,zenkov=true,good=1920/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=126,min=117,ords=[ 4 ],|Op|=4,zenkov=true,good=1872/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=123,min=120,ords=[ 4 ],|Op|=4,zenkov=true,good=1920/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=123,min=120,ords=[ 4 ],|Op|=4,zenkov=true,good=1920/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=123,min=120,ords=[ 4 ],|Op|=4,zenkov=true,good=1920/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=123,min=120,ords=[ 4 ],|Op|=4,zenkov=true,good=1920/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=123,min=120,ords=[ 4 ],|Op|=4,zenkov=true,good=1920/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=123,min=120,ords=[ 4 ],|Op|=4,zenkov=true,good=1920/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=123,min=120,ords=[ 4 ],|Op|=4,zenkov=true,good=1920/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=123,min=120,ords=[ 4 ],|Op|=4,zenkov=true,good=1920/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=123,min=120,ords=[ 4 ],|Op|=4,zenkov=true,good=1920/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=123,min=120,ords=[ 4 ],|Op|=4,zenkov=true,good=1920/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=123,min=120,ords=[ 4 ],|Op|=4,zenkov=true,good=1920/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=123,min=120,ords=[ 4 ],|Op|=4,zenkov=true,good=1920/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=123,min=120,ords=[ 4 ],|Op|=4,zenkov=true,good=1920/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=123,min=120,ords=[ 4 ],|Op|=4,zenkov=true,good=1920/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=123,min=120,ords=[ 4 ],|Op|=4,zenkov=true,good=1920/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=123,min=120,ords=[ 4 ],|Op|=4,zenkov=true,good=1920/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=123,min=120,ords=[ 4 ],|Op|=4,zenkov=true,good=1920/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=123,min=120,ords=[ 4 ],|Op|=4,zenkov=true,good=1920/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=123,min=120,ords=[ 4 ],|Op|=4,zenkov=true,good=1920/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=123,min=120,ords=[ 4 ],|Op|=4,zenkov=true,good=1920/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=135,min=108,ords=[ 4 ],|Op|=4,zenkov=true,good=1728/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=135,min=108,ords=[ 4 ],|Op|=4,zenkov=true,good=1728/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=123,min=120,ords=[ 4 ],|Op|=4,zenkov=true,good=1920/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=123,min=120,ords=[ 4 ],|Op|=4,zenkov=true,good=1920/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=126,min=117,ords=[ 4 ],|Op|=4,zenkov=true,good=1872/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=126,min=117,ords=[ 4 ],|Op|=4,zenkov=true,good=1872/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=126,min=117,ords=[ 4 ],|Op|=4,zenkov=true,good=1872/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=126,min=117,ords=[ 4 ],|Op|=4,zenkov=true,good=1872/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=126,min=117,ords=[ 4 ],|Op|=4,zenkov=true,good=1872/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=126,min=117,ords=[ 4 ],|Op|=4,zenkov=true,good=1872/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=126,min=117,ords=[ 4 ],|Op|=4,zenkov=true,good=1872/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=126,min=117,ords=[ 4 ],|Op|=4,zenkov=true,good=1872/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=126,min=117,ords=[ 4 ],|Op|=4,zenkov=true,good=1872/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=162,min=81,ords=[ 4 ],|Op|=4,zenkov=true,good=1296/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=126,min=117,ords=[ 4 ],|Op|=4,zenkov=true,good=1872/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=126,min=117,ords=[ 4 ],|Op|=4,zenkov=true,good=1872/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=123,min=120,ords=[ 4 ],|Op|=4,zenkov=true,good=1920/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=123,min=120,ords=[ 4 ],|Op|=4,zenkov=true,good=1920/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=123,min=120,ords=[ 4 ],|Op|=4,zenkov=true,good=1920/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=126,min=117,ords=[ 4 ],|Op|=4,zenkov=true,good=1872/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=126,min=117,ords=[ 4 ],|Op|=4,zenkov=true,good=1872/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=126,min=117,ords=[ 4 ],|Op|=4,zenkov=true,good=1872/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=126,min=117,ords=[ 4 ],|Op|=4,zenkov=true,good=1872/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=126,min=117,ords=[ 4 ],|Op|=4,zenkov=true,good=1872/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=126,min=117,ords=[ 4 ],|Op|=4,zenkov=true,good=1872/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=126,min=117,ords=[ 4 ],|Op|=4,zenkov=true,good=1872/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=126,min=117,ords=[ 4 ],|Op|=4,zenkov=true,good=1872/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=135,min=108,ords=[ 4 ],|Op|=4,zenkov=true,good=1728/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=126,min=117,ords=[ 4 ],|Op|=4,zenkov=true,good=1872/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=123,min=120,ords=[ 4 ],|Op|=4,zenkov=true,good=1920/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=126,min=117,ords=[ 4 ],|Op|=4,zenkov=true,good=1872/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=126,min=117,ords=[ 4 ],|Op|=4,zenkov=true,good=1872/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=135,min=108,ords=[ 4 ],|Op|=4,zenkov=true,good=1728/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=126,min=117,ords=[ 4 ],|Op|=4,zenkov=true,good=1872/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=135,min=108,ords=[ 4 ],|Op|=4,zenkov=true,good=1728/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=135,min=108,ords=[ 4 ],|Op|=4,zenkov=true,good=1728/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=126,min=117,ords=[ 4 ],|Op|=4,zenkov=true,good=1872/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=33,min=30,ords=[ 1 ],|Op|=1,zenkov=true,good=1920/1944) 
+3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=33,min=30,ords=[ 1 ],|Op|=1,zenkov=true,good=1920/1944) 
+3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=54,min=27,ords=[ 1 ],|Op|=1,zenkov=true,good=1728/1944) 
+3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=54,min=27,ords=[ 1 ],|Op|=1,zenkov=true,good=1728/1944) 
+3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=54,min=27,ords=[ 1 ],|Op|=1,zenkov=true,good=1728/1944) 
+3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=54,min=27,ords=[ 1 ],|Op|=1,zenkov=true,good=1728/1944) 
+3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=33,min=30,ords=[ 1 ],|Op|=1,zenkov=true,good=1920/1944) 
+3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=162,min=81,ords=[ 4 ],|Op|=4,zenkov=true,good=1296/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=162,min=81,ords=[ 4 ],|Op|=4,zenkov=true,good=1296/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=162,min=81,ords=[ 4 ],|Op|=4,zenkov=true,good=1296/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=162,min=81,ords=[ 4 ],|Op|=4,zenkov=true,good=1296/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=162,min=81,ords=[ 4 ],|Op|=4,zenkov=true,good=1296/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=162,min=81,ords=[ 4 ],|Op|=4,zenkov=true,good=1296/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=162,min=81,ords=[ 4 ],|Op|=4,zenkov=true,good=1296/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=162,min=81,ords=[ 4 ],|Op|=4,zenkov=true,good=1296/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=162,min=81,ords=[ 4 ],|Op|=4,zenkov=true,good=1296/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=126,min=117,ords=[ 4 ],|Op|=4,zenkov=true,good=1872/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=126,min=117,ords=[ 4 ],|Op|=4,zenkov=true,good=1872/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=135,min=108,ords=[ 4 ],|Op|=4,zenkov=true,good=1728/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=135,min=108,ords=[ 4 ],|Op|=4,zenkov=true,good=1728/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=135,min=108,ords=[ 4 ],|Op|=4,zenkov=true,good=1728/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=135,min=108,ords=[ 4 ],|Op|=4,zenkov=true,good=1728/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=135,min=108,ords=[ 4 ],|Op|=4,zenkov=true,good=1728/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=135,min=108,ords=[ 4 ],|Op|=4,zenkov=true,good=1728/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=135,min=108,ords=[ 4 ],|Op|=4,zenkov=true,good=1728/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=135,min=108,ords=[ 4 ],|Op|=4,zenkov=true,good=1728/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=135,min=108,ords=[ 4 ],|Op|=4,zenkov=true,good=1728/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=135,min=108,ords=[ 4 ],|Op|=4,zenkov=true,good=1728/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=126,min=117,ords=[ 4 ],|Op|=4,zenkov=true,good=1872/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=126,min=117,ords=[ 4 ],|Op|=4,zenkov=true,good=1872/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=126,min=117,ords=[ 4 ],|Op|=4,zenkov=true,good=1872/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=126,min=117,ords=[ 4 ],|Op|=4,zenkov=true,good=1872/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=135,min=108,ords=[ 4 ],|Op|=4,zenkov=true,good=1728/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=135,min=108,ords=[ 4 ],|Op|=4,zenkov=true,good=1728/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=126,min=117,ords=[ 4 ],|Op|=4,zenkov=true,good=1872/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=126,min=117,ords=[ 4 ],|Op|=4,zenkov=true,good=1872/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=135,min=108,ords=[ 4 ],|Op|=4,zenkov=true,good=1728/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=135,min=108,ords=[ 4 ],|Op|=4,zenkov=true,good=1728/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=135,min=108,ords=[ 4 ],|Op|=4,zenkov=true,good=1728/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=135,min=108,ords=[ 4 ],|Op|=4,zenkov=true,good=1728/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=135,min=108,ords=[ 4 ],|Op|=4,zenkov=true,good=1728/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=135,min=108,ords=[ 4 ],|Op|=4,zenkov=true,good=1728/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=135,min=108,ords=[ 4 ],|Op|=4,zenkov=true,good=1728/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=135,min=108,ords=[ 4 ],|Op|=4,zenkov=true,good=1728/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=135,min=108,ords=[ 4 ],|Op|=4,zenkov=true,good=1728/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=126,min=117,ords=[ 4 ],|Op|=4,zenkov=true,good=1872/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=126,min=117,ords=[ 4 ],|Op|=4,zenkov=true,good=1872/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=135,min=108,ords=[ 4 ],|Op|=4,zenkov=true,good=1728/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=126,min=117,ords=[ 4 ],|Op|=4,zenkov=true,good=1872/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=126,min=117,ords=[ 4 ],|Op|=4,zenkov=true,good=1872/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=126,min=117,ords=[ 4 ],|Op|=4,zenkov=true,good=1872/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=126,min=117,ords=[ 4 ],|Op|=4,zenkov=true,good=1872/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=126,min=117,ords=[ 4 ],|Op|=4,zenkov=true,good=1872/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=126,min=117,ords=[ 4 ],|Op|=4,zenkov=true,good=1872/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=126,min=117,ords=[ 4 ],|Op|=4,zenkov=true,good=1872/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=126,min=117,ords=[ 4 ],|Op|=4,zenkov=true,good=1872/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=126,min=117,ords=[ 4 ],|Op|=4,zenkov=true,good=1872/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=123,min=120,ords=[ 4 ],|Op|=4,zenkov=true,good=1920/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=123,min=120,ords=[ 4 ],|Op|=4,zenkov=true,good=1920/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=123,min=120,ords=[ 4 ],|Op|=4,zenkov=true,good=1920/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=123,min=120,ords=[ 4 ],|Op|=4,zenkov=true,good=1920/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=123,min=120,ords=[ 4 ],|Op|=4,zenkov=true,good=1920/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=123,min=120,ords=[ 4 ],|Op|=4,zenkov=true,good=1920/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=123,min=120,ords=[ 4 ],|Op|=4,zenkov=true,good=1920/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=123,min=120,ords=[ 4 ],|Op|=4,zenkov=true,good=1920/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=126,min=117,ords=[ 4 ],|Op|=4,zenkov=true,good=1872/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=126,min=117,ords=[ 4 ],|Op|=4,zenkov=true,good=1872/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=123,min=120,ords=[ 4 ],|Op|=4,zenkov=true,good=1920/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=123,min=120,ords=[ 4 ],|Op|=4,zenkov=true,good=1920/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=126,min=117,ords=[ 4 ],|Op|=4,zenkov=true,good=1872/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=126,min=117,ords=[ 4 ],|Op|=4,zenkov=true,good=1872/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=126,min=117,ords=[ 4 ],|Op|=4,zenkov=true,good=1872/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=126,min=117,ords=[ 4 ],|Op|=4,zenkov=true,good=1872/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=126,min=117,ords=[ 4 ],|Op|=4,zenkov=true,good=1872/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=135,min=108,ords=[ 4 ],|Op|=4,zenkov=true,good=1728/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=135,min=108,ords=[ 4 ],|Op|=4,zenkov=true,good=1728/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=123,min=120,ords=[ 4 ],|Op|=4,zenkov=true,good=1920/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=123,min=120,ords=[ 4 ],|Op|=4,zenkov=true,good=1920/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=123,min=120,ords=[ 4 ],|Op|=4,zenkov=true,good=1920/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=123,min=120,ords=[ 4 ],|Op|=4,zenkov=true,good=1920/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=123,min=120,ords=[ 4 ],|Op|=4,zenkov=true,good=1920/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=126,min=117,ords=[ 4 ],|Op|=4,zenkov=true,good=1872/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=123,min=120,ords=[ 4 ],|Op|=4,zenkov=true,good=1920/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=123,min=120,ords=[ 4 ],|Op|=4,zenkov=true,good=1920/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=126,min=117,ords=[ 4 ],|Op|=4,zenkov=true,good=1872/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=123,min=120,ords=[ 4 ],|Op|=4,zenkov=true,good=1920/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=123,min=120,ords=[ 4 ],|Op|=4,zenkov=true,good=1920/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=126,min=117,ords=[ 4 ],|Op|=4,zenkov=true,good=1872/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=123,min=120,ords=[ 4 ],|Op|=4,zenkov=true,good=1920/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=123,min=120,ords=[ 4 ],|Op|=4,zenkov=true,good=1920/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=123,min=120,ords=[ 4 ],|Op|=4,zenkov=true,good=1920/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=126,min=117,ords=[ 4 ],|Op|=4,zenkov=true,good=1872/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=126,min=117,ords=[ 4 ],|Op|=4,zenkov=true,good=1872/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=126,min=117,ords=[ 4 ],|Op|=4,zenkov=true,good=1872/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=126,min=117,ords=[ 4 ],|Op|=4,zenkov=true,good=1872/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=126,min=117,ords=[ 4 ],|Op|=4,zenkov=true,good=1872/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=126,min=117,ords=[ 4 ],|Op|=4,zenkov=true,good=1872/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=126,min=117,ords=[ 4 ],|Op|=4,zenkov=true,good=1872/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=123,min=120,ords=[ 4 ],|Op|=4,zenkov=true,good=1920/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=123,min=120,ords=[ 4 ],|Op|=4,zenkov=true,good=1920/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=123,min=120,ords=[ 4 ],|Op|=4,zenkov=true,good=1920/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=126,min=117,ords=[ 4 ],|Op|=4,zenkov=true,good=1872/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=126,min=117,ords=[ 4 ],|Op|=4,zenkov=true,good=1872/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=135,min=108,ords=[ 4 ],|Op|=4,zenkov=true,good=1728/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=126,min=117,ords=[ 4 ],|Op|=4,zenkov=true,good=1872/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=126,min=117,ords=[ 4 ],|Op|=4,zenkov=true,good=1872/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=126,min=117,ords=[ 4 ],|Op|=4,zenkov=true,good=1872/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=126,min=117,ords=[ 4 ],|Op|=4,zenkov=true,good=1872/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=123,min=120,ords=[ 4 ],|Op|=4,zenkov=true,good=1920/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=126,min=117,ords=[ 4 ],|Op|=4,zenkov=true,good=1872/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=126,min=117,ords=[ 4 ],|Op|=4,zenkov=true,good=1872/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=126,min=117,ords=[ 4 ],|Op|=4,zenkov=true,good=1872/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=126,min=117,ords=[ 4 ],|Op|=4,zenkov=true,good=1872/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=126,min=117,ords=[ 4 ],|Op|=4,zenkov=true,good=1872/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=126,min=117,ords=[ 4 ],|Op|=4,zenkov=true,good=1872/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=123,min=120,ords=[ 4 ],|Op|=4,zenkov=true,good=1920/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=123,min=120,ords=[ 4 ],|Op|=4,zenkov=true,good=1920/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=123,min=120,ords=[ 4 ],|Op|=4,zenkov=true,good=1920/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=123,min=120,ords=[ 4 ],|Op|=4,zenkov=true,good=1920/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=123,min=120,ords=[ 4 ],|Op|=4,zenkov=true,good=1920/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=126,min=117,ords=[ 4 ],|Op|=4,zenkov=true,good=1872/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=126,min=117,ords=[ 4 ],|Op|=4,zenkov=true,good=1872/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=126,min=117,ords=[ 4 ],|Op|=4,zenkov=true,good=1872/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=123,min=120,ords=[ 4 ],|Op|=4,zenkov=true,good=1920/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=123,min=120,ords=[ 4 ],|Op|=4,zenkov=true,good=1920/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=126,min=117,ords=[ 4 ],|Op|=4,zenkov=true,good=1872/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=126,min=117,ords=[ 4 ],|Op|=4,zenkov=true,good=1872/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=126,min=117,ords=[ 4 ],|Op|=4,zenkov=true,good=1872/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=126,min=117,ords=[ 4 ],|Op|=4,zenkov=true,good=1872/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=126,min=117,ords=[ 4 ],|Op|=4,zenkov=true,good=1872/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=126,min=117,ords=[ 4 ],|Op|=4,zenkov=true,good=1872/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=126,min=117,ords=[ 4 ],|Op|=4,zenkov=true,good=1872/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=126,min=117,ords=[ 4 ],|Op|=4,zenkov=true,good=1872/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=126,min=117,ords=[ 4 ],|Op|=4,zenkov=true,good=1872/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=123,min=120,ords=[ 4 ],|Op|=4,zenkov=true,good=1920/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=123,min=120,ords=[ 4 ],|Op|=4,zenkov=true,good=1920/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=123,min=120,ords=[ 4 ],|Op|=4,zenkov=true,good=1920/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=123,min=120,ords=[ 4 ],|Op|=4,zenkov=true,good=1920/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=126,min=117,ords=[ 4 ],|Op|=4,zenkov=true,good=1872/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=126,min=117,ords=[ 4 ],|Op|=4,zenkov=true,good=1872/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=123,min=120,ords=[ 4 ],|Op|=4,zenkov=true,good=1920/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=123,min=120,ords=[ 4 ],|Op|=4,zenkov=true,good=1920/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=123,min=120,ords=[ 4 ],|Op|=4,zenkov=true,good=1920/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=126,min=117,ords=[ 4 ],|Op|=4,zenkov=true,good=1872/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=126,min=117,ords=[ 4 ],|Op|=4,zenkov=true,good=1872/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=126,min=117,ords=[ 4 ],|Op|=4,zenkov=true,good=1872/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=123,min=120,ords=[ 4 ],|Op|=4,zenkov=true,good=1920/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=126,min=117,ords=[ 4 ],|Op|=4,zenkov=true,good=1872/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=126,min=117,ords=[ 4 ],|Op|=4,zenkov=true,good=1872/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=122,min=121,ords=[ 4 ],|Op|=4,zenkov=true,good=1936/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=123,min=120,ords=[ 4 ],|Op|=4,zenkov=true,good=1920/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=123,min=120,ords=[ 4 ],|Op|=4,zenkov=true,good=1920/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=122,min=121,ords=[ 4 ],|Op|=4,zenkov=true,good=1936/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=123,min=120,ords=[ 4 ],|Op|=4,zenkov=true,good=1920/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=123,min=120,ords=[ 4 ],|Op|=4,zenkov=true,good=1920/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=123,min=120,ords=[ 4 ],|Op|=4,zenkov=true,good=1920/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=123,min=120,ords=[ 4 ],|Op|=4,zenkov=true,good=1920/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=123,min=120,ords=[ 4 ],|Op|=4,zenkov=true,good=1920/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=123,min=120,ords=[ 4 ],|Op|=4,zenkov=true,good=1920/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=123,min=120,ords=[ 4 ],|Op|=4,zenkov=true,good=1920/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=123,min=120,ords=[ 4 ],|Op|=4,zenkov=true,good=1920/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=122,min=121,ords=[ 4 ],|Op|=4,zenkov=true,good=1936/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=123,min=120,ords=[ 4 ],|Op|=4,zenkov=true,good=1920/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=123,min=120,ords=[ 4 ],|Op|=4,zenkov=true,good=1920/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=123,min=120,ords=[ 4 ],|Op|=4,zenkov=true,good=1920/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=123,min=120,ords=[ 4 ],|Op|=4,zenkov=true,good=1920/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=122,min=121,ords=[ 4 ],|Op|=4,zenkov=true,good=1936/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=123,min=120,ords=[ 4 ],|Op|=4,zenkov=true,good=1920/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=123,min=120,ords=[ 4 ],|Op|=4,zenkov=true,good=1920/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=123,min=120,ords=[ 4 ],|Op|=4,zenkov=true,good=1920/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=123,min=120,ords=[ 4 ],|Op|=4,zenkov=true,good=1920/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=123,min=120,ords=[ 4 ],|Op|=4,zenkov=true,good=1920/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=126,min=117,ords=[ 4 ],|Op|=4,zenkov=true,good=1872/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=123,min=120,ords=[ 4 ],|Op|=4,zenkov=true,good=1920/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=123,min=120,ords=[ 4 ],|Op|=4,zenkov=true,good=1920/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=123,min=120,ords=[ 4 ],|Op|=4,zenkov=true,good=1920/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=123,min=120,ords=[ 4 ],|Op|=4,zenkov=true,good=1920/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=123,min=120,ords=[ 4 ],|Op|=4,zenkov=true,good=1920/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=123,min=120,ords=[ 4 ],|Op|=4,zenkov=true,good=1920/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=123,min=120,ords=[ 4 ],|Op|=4,zenkov=true,good=1920/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=126,min=117,ords=[ 4 ],|Op|=4,zenkov=true,good=1872/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=135,min=108,ords=[ 4 ],|Op|=4,zenkov=true,good=1728/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=135,min=108,ords=[ 4 ],|Op|=4,zenkov=true,good=1728/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=135,min=108,ords=[ 4 ],|Op|=4,zenkov=true,good=1728/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=135,min=108,ords=[ 4 ],|Op|=4,zenkov=true,good=1728/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=135,min=108,ords=[ 4 ],|Op|=4,zenkov=true,good=1728/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=135,min=108,ords=[ 4 ],|Op|=4,zenkov=true,good=1728/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=135,min=108,ords=[ 4 ],|Op|=4,zenkov=true,good=1728/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=135,min=108,ords=[ 4 ],|Op|=4,zenkov=true,good=1728/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=135,min=108,ords=[ 4 ],|Op|=4,zenkov=true,good=1728/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=126,min=117,ords=[ 4 ],|Op|=4,zenkov=true,good=1872/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=126,min=117,ords=[ 4 ],|Op|=4,zenkov=true,good=1872/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=135,min=108,ords=[ 4 ],|Op|=4,zenkov=true,good=1728/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=135,min=108,ords=[ 4 ],|Op|=4,zenkov=true,good=1728/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=135,min=108,ords=[ 4 ],|Op|=4,zenkov=true,good=1728/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=135,min=108,ords=[ 4 ],|Op|=4,zenkov=true,good=1728/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=135,min=108,ords=[ 4 ],|Op|=4,zenkov=true,good=1728/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=126,min=117,ords=[ 4 ],|Op|=4,zenkov=true,good=1872/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=126,min=117,ords=[ 4 ],|Op|=4,zenkov=true,good=1872/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=162,min=81,ords=[ 4 ],|Op|=4,zenkov=true,good=1296/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=162,min=81,ords=[ 4 ],|Op|=4,zenkov=true,good=1296/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=126,min=117,ords=[ 4 ],|Op|=4,zenkov=true,good=1872/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=135,min=108,ords=[ 4 ],|Op|=4,zenkov=true,good=1728/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=135,min=108,ords=[ 4 ],|Op|=4,zenkov=true,good=1728/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=135,min=108,ords=[ 4 ],|Op|=4,zenkov=true,good=1728/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=135,min=108,ords=[ 4 ],|Op|=4,zenkov=true,good=1728/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=126,min=117,ords=[ 4 ],|Op|=4,zenkov=true,good=1872/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=126,min=117,ords=[ 4 ],|Op|=4,zenkov=true,good=1872/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=135,min=108,ords=[ 4 ],|Op|=4,zenkov=true,good=1728/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=135,min=108,ords=[ 4 ],|Op|=4,zenkov=true,good=1728/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=135,min=108,ords=[ 4 ],|Op|=4,zenkov=true,good=1728/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=135,min=108,ords=[ 4 ],|Op|=4,zenkov=true,good=1728/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=126,min=117,ords=[ 4 ],|Op|=4,zenkov=true,good=1872/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=126,min=117,ords=[ 4 ],|Op|=4,zenkov=true,good=1872/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=135,min=108,ords=[ 4 ],|Op|=4,zenkov=true,good=1728/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=135,min=108,ords=[ 4 ],|Op|=4,zenkov=true,good=1728/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=135,min=108,ords=[ 4 ],|Op|=4,zenkov=true,good=1728/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=135,min=108,ords=[ 4 ],|Op|=4,zenkov=true,good=1728/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=126,min=117,ords=[ 4 ],|Op|=4,zenkov=true,good=1872/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=126,min=117,ords=[ 4 ],|Op|=4,zenkov=true,good=1872/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=162,min=81,ords=[ 4 ],|Op|=4,zenkov=true,good=1296/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=162,min=81,ords=[ 4 ],|Op|=4,zenkov=true,good=1296/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=135,min=108,ords=[ 4 ],|Op|=4,zenkov=true,good=1728/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=135,min=108,ords=[ 4 ],|Op|=4,zenkov=true,good=1728/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=135,min=108,ords=[ 4 ],|Op|=4,zenkov=true,good=1728/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=135,min=108,ords=[ 4 ],|Op|=4,zenkov=true,good=1728/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=126,min=117,ords=[ 4 ],|Op|=4,zenkov=true,good=1872/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=126,min=117,ords=[ 4 ],|Op|=4,zenkov=true,good=1872/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=162,min=81,ords=[ 4 ],|Op|=4,zenkov=true,good=1296/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=162,min=81,ords=[ 4 ],|Op|=4,zenkov=true,good=1296/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=162,min=81,ords=[ 4 ],|Op|=4,zenkov=true,good=1296/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=162,min=81,ords=[ 4 ],|Op|=4,zenkov=true,good=1296/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=162,min=81,ords=[ 4 ],|Op|=4,zenkov=true,good=1296/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=162,min=81,ords=[ 4 ],|Op|=4,zenkov=true,good=1296/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=135,min=108,ords=[ 4 ],|Op|=4,zenkov=true,good=1728/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=135,min=108,ords=[ 4 ],|Op|=4,zenkov=true,good=1728/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=135,min=108,ords=[ 4 ],|Op|=4,zenkov=true,good=1728/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=135,min=108,ords=[ 4 ],|Op|=4,zenkov=true,good=1728/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=126,min=117,ords=[ 4 ],|Op|=4,zenkov=true,good=1872/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=162,min=81,ords=[ 4 ],|Op|=4,zenkov=true,good=1296/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=135,min=108,ords=[ 4 ],|Op|=4,zenkov=true,good=1728/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=135,min=108,ords=[ 4 ],|Op|=4,zenkov=true,good=1728/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=135,min=108,ords=[ 4 ],|Op|=4,zenkov=true,good=1728/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=135,min=108,ords=[ 4 ],|Op|=4,zenkov=true,good=1728/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=135,min=108,ords=[ 4 ],|Op|=4,zenkov=true,good=1728/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=135,min=108,ords=[ 4 ],|Op|=4,zenkov=true,good=1728/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=126,min=117,ords=[ 4 ],|Op|=4,zenkov=true,good=1872/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=162,min=81,ords=[ 4 ],|Op|=4,zenkov=true,good=1296/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=162,min=81,ords=[ 4 ],|Op|=4,zenkov=true,good=1296/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=135,min=108,ords=[ 4 ],|Op|=4,zenkov=true,good=1728/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=135,min=108,ords=[ 4 ],|Op|=4,zenkov=true,good=1728/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=135,min=108,ords=[ 4 ],|Op|=4,zenkov=true,good=1728/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=126,min=117,ords=[ 4 ],|Op|=4,zenkov=true,good=1872/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=162,min=81,ords=[ 4 ],|Op|=4,zenkov=true,good=1296/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=135,min=108,ords=[ 4 ],|Op|=4,zenkov=true,good=1728/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=135,min=108,ords=[ 4 ],|Op|=4,zenkov=true,good=1728/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=135,min=108,ords=[ 4 ],|Op|=4,zenkov=true,good=1728/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=126,min=117,ords=[ 4 ],|Op|=4,zenkov=true,good=1872/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=126,min=117,ords=[ 4 ],|Op|=4,zenkov=true,good=1872/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=162,min=81,ords=[ 4 ],|Op|=4,zenkov=true,good=1296/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=162,min=81,ords=[ 4 ],|Op|=4,zenkov=true,good=1296/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=135,min=108,ords=[ 4 ],|Op|=4,zenkov=true,good=1728/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=126,min=117,ords=[ 4 ],|Op|=4,zenkov=true,good=1872/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=162,min=81,ords=[ 4 ],|Op|=4,zenkov=true,good=1296/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=135,min=108,ords=[ 4 ],|Op|=4,zenkov=true,good=1728/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=135,min=108,ords=[ 4 ],|Op|=4,zenkov=true,good=1728/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=135,min=108,ords=[ 4 ],|Op|=4,zenkov=true,good=1728/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=135,min=108,ords=[ 4 ],|Op|=4,zenkov=true,good=1728/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=126,min=117,ords=[ 4 ],|Op|=4,zenkov=true,good=1872/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=162,min=81,ords=[ 4 ],|Op|=4,zenkov=true,good=1296/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=162,min=81,ords=[ 4 ],|Op|=4,zenkov=true,good=1296/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=135,min=108,ords=[ 4 ],|Op|=4,zenkov=true,good=1728/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=123,min=120,ords=[ 4 ],|Op|=4,zenkov=true,good=1920/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=123,min=120,ords=[ 4 ],|Op|=4,zenkov=true,good=1920/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=123,min=120,ords=[ 4 ],|Op|=4,zenkov=true,good=1920/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=123,min=120,ords=[ 4 ],|Op|=4,zenkov=true,good=1920/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=123,min=120,ords=[ 4 ],|Op|=4,zenkov=true,good=1920/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=123,min=120,ords=[ 4 ],|Op|=4,zenkov=true,good=1920/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=123,min=120,ords=[ 4 ],|Op|=4,zenkov=true,good=1920/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=123,min=120,ords=[ 4 ],|Op|=4,zenkov=true,good=1920/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=126,min=117,ords=[ 4 ],|Op|=4,zenkov=true,good=1872/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=126,min=117,ords=[ 4 ],|Op|=4,zenkov=true,good=1872/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=126,min=117,ords=[ 4 ],|Op|=4,zenkov=true,good=1872/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=126,min=117,ords=[ 4 ],|Op|=4,zenkov=true,good=1872/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=126,min=117,ords=[ 4 ],|Op|=4,zenkov=true,good=1872/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=126,min=117,ords=[ 4 ],|Op|=4,zenkov=true,good=1872/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=126,min=117,ords=[ 4 ],|Op|=4,zenkov=true,good=1872/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=123,min=120,ords=[ 4 ],|Op|=4,zenkov=true,good=1920/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=123,min=120,ords=[ 4 ],|Op|=4,zenkov=true,good=1920/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=123,min=120,ords=[ 4 ],|Op|=4,zenkov=true,good=1920/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=126,min=117,ords=[ 4 ],|Op|=4,zenkov=true,good=1872/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=126,min=117,ords=[ 4 ],|Op|=4,zenkov=true,good=1872/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=126,min=117,ords=[ 4 ],|Op|=4,zenkov=true,good=1872/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=126,min=117,ords=[ 4 ],|Op|=4,zenkov=true,good=1872/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=126,min=117,ords=[ 4 ],|Op|=4,zenkov=true,good=1872/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=126,min=117,ords=[ 4 ],|Op|=4,zenkov=true,good=1872/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=126,min=117,ords=[ 4 ],|Op|=4,zenkov=true,good=1872/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=126,min=117,ords=[ 4 ],|Op|=4,zenkov=true,good=1872/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=135,min=108,ords=[ 4 ],|Op|=4,zenkov=true,good=1728/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=126,min=117,ords=[ 4 ],|Op|=4,zenkov=true,good=1872/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=126,min=117,ords=[ 4 ],|Op|=4,zenkov=true,good=1872/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=126,min=117,ords=[ 4 ],|Op|=4,zenkov=true,good=1872/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=123,min=120,ords=[ 4 ],|Op|=4,zenkov=true,good=1920/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=123,min=120,ords=[ 4 ],|Op|=4,zenkov=true,good=1920/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=123,min=120,ords=[ 4 ],|Op|=4,zenkov=true,good=1920/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=123,min=120,ords=[ 4 ],|Op|=4,zenkov=true,good=1920/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=123,min=120,ords=[ 4 ],|Op|=4,zenkov=true,good=1920/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=123,min=120,ords=[ 4 ],|Op|=4,zenkov=true,good=1920/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=123,min=120,ords=[ 4 ],|Op|=4,zenkov=true,good=1920/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=126,min=117,ords=[ 4 ],|Op|=4,zenkov=true,good=1872/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=126,min=117,ords=[ 4 ],|Op|=4,zenkov=true,good=1872/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=126,min=117,ords=[ 4 ],|Op|=4,zenkov=true,good=1872/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=135,min=108,ords=[ 4 ],|Op|=4,zenkov=true,good=1728/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=126,min=117,ords=[ 4 ],|Op|=4,zenkov=true,good=1872/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=126,min=117,ords=[ 4 ],|Op|=4,zenkov=true,good=1872/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 
+   diagnostics: 2:(dc=135,min=108,ords=[ 4 ],|Op|=4,zenkov=true,good=1728/
+1944) 3:(dc=4,min=2,ords=[ 81 ],|Op|=81,zenkov=true,good=1458/1944) 

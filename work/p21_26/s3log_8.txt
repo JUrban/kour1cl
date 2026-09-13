@@ -364,3 +364,2171 @@
 1728) 3:(dc=24,min=20,ords=[ 9 ],|Op|=9,zenkov=true,good=1620/1728) 
    diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
 1728) 3:(dc=24,min=20,ords=[ 9 ],|Op|=9,zenkov=true,good=1620/1728) 
+   diagnostics: 2:(dc=14,min=13,ords=[ 32 ],|Op|=32,zenkov=true,good=1664/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=14,min=13,ords=[ 32 ],|Op|=32,zenkov=true,good=1664/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=14,min=13,ords=[ 32 ],|Op|=32,zenkov=true,good=1664/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=14,min=13,ords=[ 32 ],|Op|=32,zenkov=true,good=1664/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=14,min=13,ords=[ 32 ],|Op|=32,zenkov=true,good=1664/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=14,min=13,ords=[ 32 ],|Op|=32,zenkov=true,good=1664/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=14,min=13,ords=[ 32 ],|Op|=32,zenkov=true,good=1664/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=14,min=13,ords=[ 32 ],|Op|=32,zenkov=true,good=1664/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=14,min=13,ords=[ 32 ],|Op|=32,zenkov=true,good=1664/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=14,min=13,ords=[ 32 ],|Op|=32,zenkov=true,good=1664/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=14,min=13,ords=[ 32 ],|Op|=32,zenkov=true,good=1664/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=14,min=13,ords=[ 32 ],|Op|=32,zenkov=true,good=1664/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=14,min=13,ords=[ 32 ],|Op|=32,zenkov=true,good=1664/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=14,min=13,ords=[ 32 ],|Op|=32,zenkov=true,good=1664/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=14,min=13,ords=[ 32 ],|Op|=32,zenkov=true,good=1664/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=14,min=13,ords=[ 32 ],|Op|=32,zenkov=true,good=1664/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=14,min=13,ords=[ 32 ],|Op|=32,zenkov=true,good=1664/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=14,min=13,ords=[ 32 ],|Op|=32,zenkov=true,good=1664/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=14,min=13,ords=[ 32 ],|Op|=32,zenkov=true,good=1664/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=14,min=13,ords=[ 32 ],|Op|=32,zenkov=true,good=1664/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=14,min=13,ords=[ 32 ],|Op|=32,zenkov=true,good=1664/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=14,min=13,ords=[ 32 ],|Op|=32,zenkov=true,good=1664/
+1728) 3:(dc=24,min=20,ords=[ 9 ],|Op|=9,zenkov=true,good=1620/1728) 
+   diagnostics: 2:(dc=14,min=13,ords=[ 32 ],|Op|=32,zenkov=true,good=1664/
+1728) 3:(dc=24,min=20,ords=[ 9 ],|Op|=9,zenkov=true,good=1620/1728) 
+   diagnostics: 2:(dc=14,min=13,ords=[ 32 ],|Op|=32,zenkov=true,good=1664/
+1728) 3:(dc=24,min=20,ords=[ 9 ],|Op|=9,zenkov=true,good=1620/1728) 
+   diagnostics: 2:(dc=14,min=13,ords=[ 32 ],|Op|=32,zenkov=true,good=1664/
+1728) 3:(dc=24,min=20,ords=[ 9 ],|Op|=9,zenkov=true,good=1620/1728) 
+   diagnostics: 2:(dc=14,min=13,ords=[ 32 ],|Op|=32,zenkov=true,good=1664/
+1728) 3:(dc=24,min=20,ords=[ 9 ],|Op|=9,zenkov=true,good=1620/1728) 
+   diagnostics: 2:(dc=14,min=13,ords=[ 32 ],|Op|=32,zenkov=true,good=1664/
+1728) 3:(dc=24,min=20,ords=[ 9 ],|Op|=9,zenkov=true,good=1620/1728) 
+   diagnostics: 2:(dc=14,min=13,ords=[ 32 ],|Op|=32,zenkov=true,good=1664/
+1728) 3:(dc=24,min=20,ords=[ 9 ],|Op|=9,zenkov=true,good=1620/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=24,min=20,ords=[ 9 ],|Op|=9,zenkov=true,good=1620/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=24,min=20,ords=[ 9 ],|Op|=9,zenkov=true,good=1620/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=24,min=20,ords=[ 9 ],|Op|=9,zenkov=true,good=1620/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=24,min=20,ords=[ 9 ],|Op|=9,zenkov=true,good=1620/1728) 
+   diagnostics: 2:(dc=9,min=5,ords=[ 16 ],|Op|=16,zenkov=true,good=1280/1728) 
+3:(dc=24,min=20,ords=[ 9 ],|Op|=9,zenkov=true,good=1620/1728) 
+   diagnostics: 2:(dc=9,min=5,ords=[ 16 ],|Op|=16,zenkov=true,good=1280/1728) 
+3:(dc=24,min=20,ords=[ 9 ],|Op|=9,zenkov=true,good=1620/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=24,min=20,ords=[ 9 ],|Op|=9,zenkov=true,good=1620/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=9,min=5,ords=[ 16 ],|Op|=16,zenkov=true,good=1280/1728) 
+3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=9,min=5,ords=[ 16 ],|Op|=16,zenkov=true,good=1280/1728) 
+3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=9,min=5,ords=[ 16 ],|Op|=16,zenkov=true,good=1280/1728) 
+3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=9,min=5,ords=[ 16 ],|Op|=16,zenkov=true,good=1280/1728) 
+3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=9,min=5,ords=[ 16 ],|Op|=16,zenkov=true,good=1280/1728) 
+3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=9,min=5,ords=[ 16 ],|Op|=16,zenkov=true,good=1280/1728) 
+3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=9,min=5,ords=[ 16 ],|Op|=16,zenkov=true,good=1280/1728) 
+3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=9,min=5,ords=[ 16 ],|Op|=16,zenkov=true,good=1280/1728) 
+3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=9,min=5,ords=[ 16 ],|Op|=16,zenkov=true,good=1280/1728) 
+3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=9,min=5,ords=[ 16 ],|Op|=16,zenkov=true,good=1280/1728) 
+3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=9,min=5,ords=[ 16 ],|Op|=16,zenkov=true,good=1280/1728) 
+3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=9,min=5,ords=[ 16 ],|Op|=16,zenkov=true,good=1280/1728) 
+3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=9,min=5,ords=[ 16 ],|Op|=16,zenkov=true,good=1280/1728) 
+3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=9,min=5,ords=[ 16 ],|Op|=16,zenkov=true,good=1280/1728) 
+3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=9,min=5,ords=[ 16 ],|Op|=16,zenkov=true,good=1280/1728) 
+3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=9,min=5,ords=[ 16 ],|Op|=16,zenkov=true,good=1280/1728) 
+3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=9,min=5,ords=[ 16 ],|Op|=16,zenkov=true,good=1280/1728) 
+3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=9,min=5,ords=[ 16 ],|Op|=16,zenkov=true,good=1280/1728) 
+3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=9,min=5,ords=[ 16 ],|Op|=16,zenkov=true,good=1280/1728) 
+3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=9,min=5,ords=[ 16 ],|Op|=16,zenkov=true,good=1280/1728) 
+3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=9,min=5,ords=[ 16 ],|Op|=16,zenkov=true,good=1280/1728) 
+3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=9,min=5,ords=[ 16 ],|Op|=16,zenkov=true,good=1280/1728) 
+3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=9,min=5,ords=[ 16 ],|Op|=16,zenkov=true,good=1280/1728) 
+3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=9,min=5,ords=[ 16 ],|Op|=16,zenkov=true,good=1280/1728) 
+3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=9,min=5,ords=[ 16 ],|Op|=16,zenkov=true,good=1280/1728) 
+3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=9,min=5,ords=[ 16 ],|Op|=16,zenkov=true,good=1280/1728) 
+3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=9,min=5,ords=[ 16 ],|Op|=16,zenkov=true,good=1280/1728) 
+3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=9,min=5,ords=[ 16 ],|Op|=16,zenkov=true,good=1280/1728) 
+3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=9,min=5,ords=[ 16 ],|Op|=16,zenkov=true,good=1280/1728) 
+3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=9,min=5,ords=[ 16 ],|Op|=16,zenkov=true,good=1280/1728) 
+3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=9,min=5,ords=[ 16 ],|Op|=16,zenkov=true,good=1280/1728) 
+3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=9,min=5,ords=[ 16 ],|Op|=16,zenkov=true,good=1280/1728) 
+3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=9,min=5,ords=[ 16 ],|Op|=16,zenkov=true,good=1280/1728) 
+3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=9,min=5,ords=[ 16 ],|Op|=16,zenkov=true,good=1280/1728) 
+3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=9,min=5,ords=[ 16 ],|Op|=16,zenkov=true,good=1280/1728) 
+3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=9,min=5,ords=[ 16 ],|Op|=16,zenkov=true,good=1280/1728) 
+3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=9,min=5,ords=[ 16 ],|Op|=16,zenkov=true,good=1280/1728) 
+3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=9,min=5,ords=[ 16 ],|Op|=16,zenkov=true,good=1280/1728) 
+3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=9,min=5,ords=[ 16 ],|Op|=16,zenkov=true,good=1280/1728) 
+3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=9,min=5,ords=[ 16 ],|Op|=16,zenkov=true,good=1280/1728) 
+3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=9,min=5,ords=[ 16 ],|Op|=16,zenkov=true,good=1280/1728) 
+3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=9,min=5,ords=[ 16 ],|Op|=16,zenkov=true,good=1280/1728) 
+3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=9,min=5,ords=[ 16 ],|Op|=16,zenkov=true,good=1280/1728) 
+3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=9,min=5,ords=[ 16 ],|Op|=16,zenkov=true,good=1280/1728) 
+3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=9,min=5,ords=[ 16 ],|Op|=16,zenkov=true,good=1280/1728) 
+3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=9,min=5,ords=[ 16 ],|Op|=16,zenkov=true,good=1280/1728) 
+3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=9,min=5,ords=[ 16 ],|Op|=16,zenkov=true,good=1280/1728) 
+3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=9,min=5,ords=[ 16 ],|Op|=16,zenkov=true,good=1280/1728) 
+3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=9,min=5,ords=[ 16 ],|Op|=16,zenkov=true,good=1280/1728) 
+3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=9,min=5,ords=[ 16 ],|Op|=16,zenkov=true,good=1280/1728) 
+3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=9,min=5,ords=[ 16 ],|Op|=16,zenkov=true,good=1280/1728) 
+3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=9,min=5,ords=[ 16 ],|Op|=16,zenkov=true,good=1280/1728) 
+3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=9,min=5,ords=[ 16 ],|Op|=16,zenkov=true,good=1280/1728) 
+3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=9,min=5,ords=[ 16 ],|Op|=16,zenkov=true,good=1280/1728) 
+3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=9,min=5,ords=[ 16 ],|Op|=16,zenkov=true,good=1280/1728) 
+3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=9,min=5,ords=[ 16 ],|Op|=16,zenkov=true,good=1280/1728) 
+3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=9,min=5,ords=[ 16 ],|Op|=16,zenkov=true,good=1280/1728) 
+3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=9,min=5,ords=[ 16 ],|Op|=16,zenkov=true,good=1280/1728) 
+3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=9,min=5,ords=[ 16 ],|Op|=16,zenkov=true,good=1280/1728) 
+3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=9,min=5,ords=[ 16 ],|Op|=16,zenkov=true,good=1280/1728) 
+3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=9,min=5,ords=[ 16 ],|Op|=16,zenkov=true,good=1280/1728) 
+3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=9,min=5,ords=[ 16 ],|Op|=16,zenkov=true,good=1280/1728) 
+3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=9,min=5,ords=[ 16 ],|Op|=16,zenkov=true,good=1280/1728) 
+3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=9,min=5,ords=[ 16 ],|Op|=16,zenkov=true,good=1280/1728) 
+3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=9,min=5,ords=[ 16 ],|Op|=16,zenkov=true,good=1280/1728) 
+3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=9,min=5,ords=[ 16 ],|Op|=16,zenkov=true,good=1280/1728) 
+3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=9,min=5,ords=[ 16 ],|Op|=16,zenkov=true,good=1280/1728) 
+3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=9,min=5,ords=[ 16 ],|Op|=16,zenkov=true,good=1280/1728) 
+3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=9,min=5,ords=[ 16 ],|Op|=16,zenkov=true,good=1280/1728) 
+3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=9,min=5,ords=[ 16 ],|Op|=16,zenkov=true,good=1280/1728) 
+3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=9,min=5,ords=[ 16 ],|Op|=16,zenkov=true,good=1280/1728) 
+3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=24,min=20,ords=[ 9 ],|Op|=9,zenkov=true,good=1620/1728) 
+   diagnostics: 2:(dc=9,min=5,ords=[ 16 ],|Op|=16,zenkov=true,good=1280/1728) 
+3:(dc=24,min=20,ords=[ 9 ],|Op|=9,zenkov=true,good=1620/1728) 
+   diagnostics: 2:(dc=18,min=9,ords=[ 32 ],|Op|=32,zenkov=true,good=1152/
+1728) 3:(dc=24,min=20,ords=[ 9 ],|Op|=9,zenkov=true,good=1620/1728) 
+   diagnostics: 2:(dc=18,min=9,ords=[ 32 ],|Op|=32,zenkov=true,good=1152/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=18,min=9,ords=[ 32 ],|Op|=32,zenkov=true,good=1152/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=18,min=9,ords=[ 32 ],|Op|=32,zenkov=true,good=1152/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=18,min=9,ords=[ 32 ],|Op|=32,zenkov=true,good=1152/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=18,min=9,ords=[ 32 ],|Op|=32,zenkov=true,good=1152/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=18,min=9,ords=[ 32 ],|Op|=32,zenkov=true,good=1152/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=18,min=9,ords=[ 32 ],|Op|=32,zenkov=true,good=1152/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=18,min=9,ords=[ 32 ],|Op|=32,zenkov=true,good=1152/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=18,min=9,ords=[ 32 ],|Op|=32,zenkov=true,good=1152/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=18,min=9,ords=[ 32 ],|Op|=32,zenkov=true,good=1152/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=18,min=9,ords=[ 32 ],|Op|=32,zenkov=true,good=1152/
+1728) 3:(dc=24,min=20,ords=[ 9 ],|Op|=9,zenkov=true,good=1620/1728) 
+   diagnostics: 2:(dc=18,min=9,ords=[ 32 ],|Op|=32,zenkov=true,good=1152/
+1728) 3:(dc=24,min=20,ords=[ 9 ],|Op|=9,zenkov=true,good=1620/1728) 
+   diagnostics: 2:(dc=18,min=9,ords=[ 32 ],|Op|=32,zenkov=true,good=1152/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=18,min=9,ords=[ 32 ],|Op|=32,zenkov=true,good=1152/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=18,min=9,ords=[ 32 ],|Op|=32,zenkov=true,good=1152/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=18,min=9,ords=[ 32 ],|Op|=32,zenkov=true,good=1152/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=18,min=9,ords=[ 32 ],|Op|=32,zenkov=true,good=1152/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=18,min=9,ords=[ 32 ],|Op|=32,zenkov=true,good=1152/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=18,min=9,ords=[ 32 ],|Op|=32,zenkov=true,good=1152/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=18,min=9,ords=[ 32 ],|Op|=32,zenkov=true,good=1152/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=18,min=9,ords=[ 32 ],|Op|=32,zenkov=true,good=1152/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=18,min=9,ords=[ 32 ],|Op|=32,zenkov=true,good=1152/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=18,min=9,ords=[ 32 ],|Op|=32,zenkov=true,good=1152/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=18,min=9,ords=[ 32 ],|Op|=32,zenkov=true,good=1152/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=18,min=9,ords=[ 32 ],|Op|=32,zenkov=true,good=1152/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=18,min=9,ords=[ 32 ],|Op|=32,zenkov=true,good=1152/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=18,min=9,ords=[ 32 ],|Op|=32,zenkov=true,good=1152/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=18,min=9,ords=[ 32 ],|Op|=32,zenkov=true,good=1152/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=18,min=9,ords=[ 32 ],|Op|=32,zenkov=true,good=1152/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=18,min=9,ords=[ 32 ],|Op|=32,zenkov=true,good=1152/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=18,min=9,ords=[ 32 ],|Op|=32,zenkov=true,good=1152/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=18,min=9,ords=[ 32 ],|Op|=32,zenkov=true,good=1152/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=18,min=9,ords=[ 32 ],|Op|=32,zenkov=true,good=1152/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=18,min=9,ords=[ 32 ],|Op|=32,zenkov=true,good=1152/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=18,min=9,ords=[ 32 ],|Op|=32,zenkov=true,good=1152/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=18,min=9,ords=[ 32 ],|Op|=32,zenkov=true,good=1152/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=18,min=9,ords=[ 32 ],|Op|=32,zenkov=true,good=1152/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=18,min=9,ords=[ 32 ],|Op|=32,zenkov=true,good=1152/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=18,min=9,ords=[ 32 ],|Op|=32,zenkov=true,good=1152/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=18,min=9,ords=[ 32 ],|Op|=32,zenkov=true,good=1152/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=18,min=9,ords=[ 32 ],|Op|=32,zenkov=true,good=1152/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=18,min=9,ords=[ 32 ],|Op|=32,zenkov=true,good=1152/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=18,min=9,ords=[ 32 ],|Op|=32,zenkov=true,good=1152/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=18,min=9,ords=[ 32 ],|Op|=32,zenkov=true,good=1152/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=18,min=9,ords=[ 32 ],|Op|=32,zenkov=true,good=1152/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=18,min=9,ords=[ 32 ],|Op|=32,zenkov=true,good=1152/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=24,min=20,ords=[ 9 ],|Op|=9,zenkov=true,good=1620/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=24,min=20,ords=[ 9 ],|Op|=9,zenkov=true,good=1620/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=24,min=20,ords=[ 9 ],|Op|=9,zenkov=true,good=1620/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=24,min=20,ords=[ 9 ],|Op|=9,zenkov=true,good=1620/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=24,min=20,ords=[ 9 ],|Op|=9,zenkov=true,good=1620/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=24,min=20,ords=[ 9 ],|Op|=9,zenkov=true,good=1620/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=24,min=20,ords=[ 9 ],|Op|=9,zenkov=true,good=1620/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=24,min=20,ords=[ 9 ],|Op|=9,zenkov=true,good=1620/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=24,min=20,ords=[ 9 ],|Op|=9,zenkov=true,good=1620/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=18,min=9,ords=[ 32 ],|Op|=32,zenkov=true,good=1152/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=14,min=13,ords=[ 32 ],|Op|=32,zenkov=true,good=1664/
+1728) 3:(dc=24,min=20,ords=[ 9 ],|Op|=9,zenkov=true,good=1620/1728) 
+   diagnostics: 2:(dc=14,min=13,ords=[ 32 ],|Op|=32,zenkov=true,good=1664/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=14,min=13,ords=[ 32 ],|Op|=32,zenkov=true,good=1664/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=14,min=13,ords=[ 32 ],|Op|=32,zenkov=true,good=1664/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=14,min=13,ords=[ 32 ],|Op|=32,zenkov=true,good=1664/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=14,min=13,ords=[ 32 ],|Op|=32,zenkov=true,good=1664/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=14,min=13,ords=[ 32 ],|Op|=32,zenkov=true,good=1664/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=14,min=13,ords=[ 32 ],|Op|=32,zenkov=true,good=1664/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=14,min=13,ords=[ 32 ],|Op|=32,zenkov=true,good=1664/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=14,min=13,ords=[ 32 ],|Op|=32,zenkov=true,good=1664/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=14,min=13,ords=[ 32 ],|Op|=32,zenkov=true,good=1664/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=14,min=13,ords=[ 32 ],|Op|=32,zenkov=true,good=1664/
+1728) 3:(dc=24,min=20,ords=[ 9 ],|Op|=9,zenkov=true,good=1620/1728) 
+   diagnostics: 2:(dc=14,min=13,ords=[ 32 ],|Op|=32,zenkov=true,good=1664/
+1728) 3:(dc=24,min=20,ords=[ 9 ],|Op|=9,zenkov=true,good=1620/1728) 
+   diagnostics: 2:(dc=14,min=13,ords=[ 32 ],|Op|=32,zenkov=true,good=1664/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=14,min=13,ords=[ 32 ],|Op|=32,zenkov=true,good=1664/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=14,min=13,ords=[ 32 ],|Op|=32,zenkov=true,good=1664/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=14,min=13,ords=[ 32 ],|Op|=32,zenkov=true,good=1664/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=14,min=13,ords=[ 32 ],|Op|=32,zenkov=true,good=1664/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=14,min=13,ords=[ 32 ],|Op|=32,zenkov=true,good=1664/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=14,min=13,ords=[ 32 ],|Op|=32,zenkov=true,good=1664/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=14,min=13,ords=[ 32 ],|Op|=32,zenkov=true,good=1664/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=14,min=13,ords=[ 32 ],|Op|=32,zenkov=true,good=1664/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=14,min=13,ords=[ 32 ],|Op|=32,zenkov=true,good=1664/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=14,min=13,ords=[ 32 ],|Op|=32,zenkov=true,good=1664/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=14,min=13,ords=[ 32 ],|Op|=32,zenkov=true,good=1664/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=14,min=13,ords=[ 32 ],|Op|=32,zenkov=true,good=1664/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=14,min=13,ords=[ 32 ],|Op|=32,zenkov=true,good=1664/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=14,min=13,ords=[ 32 ],|Op|=32,zenkov=true,good=1664/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=14,min=13,ords=[ 32 ],|Op|=32,zenkov=true,good=1664/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=14,min=13,ords=[ 32 ],|Op|=32,zenkov=true,good=1664/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=14,min=13,ords=[ 32 ],|Op|=32,zenkov=true,good=1664/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=14,min=13,ords=[ 32 ],|Op|=32,zenkov=true,good=1664/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=14,min=13,ords=[ 32 ],|Op|=32,zenkov=true,good=1664/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=14,min=13,ords=[ 32 ],|Op|=32,zenkov=true,good=1664/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=14,min=13,ords=[ 32 ],|Op|=32,zenkov=true,good=1664/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=14,min=13,ords=[ 32 ],|Op|=32,zenkov=true,good=1664/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=14,min=13,ords=[ 32 ],|Op|=32,zenkov=true,good=1664/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=14,min=13,ords=[ 32 ],|Op|=32,zenkov=true,good=1664/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=14,min=13,ords=[ 32 ],|Op|=32,zenkov=true,good=1664/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=14,min=13,ords=[ 32 ],|Op|=32,zenkov=true,good=1664/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=14,min=13,ords=[ 32 ],|Op|=32,zenkov=true,good=1664/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=14,min=13,ords=[ 32 ],|Op|=32,zenkov=true,good=1664/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=14,min=13,ords=[ 32 ],|Op|=32,zenkov=true,good=1664/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=14,min=13,ords=[ 32 ],|Op|=32,zenkov=true,good=1664/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=14,min=13,ords=[ 32 ],|Op|=32,zenkov=true,good=1664/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=14,min=13,ords=[ 32 ],|Op|=32,zenkov=true,good=1664/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=14,min=13,ords=[ 32 ],|Op|=32,zenkov=true,good=1664/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=14,min=13,ords=[ 32 ],|Op|=32,zenkov=true,good=1664/
+1728) 3:(dc=24,min=20,ords=[ 9 ],|Op|=9,zenkov=true,good=1620/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=24,min=20,ords=[ 9 ],|Op|=9,zenkov=true,good=1620/1728) 
+   diagnostics: 2:(dc=14,min=13,ords=[ 32 ],|Op|=32,zenkov=true,good=1664/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=14,min=13,ords=[ 32 ],|Op|=32,zenkov=true,good=1664/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=14,min=13,ords=[ 32 ],|Op|=32,zenkov=true,good=1664/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=14,min=13,ords=[ 32 ],|Op|=32,zenkov=true,good=1664/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=14,min=13,ords=[ 32 ],|Op|=32,zenkov=true,good=1664/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=14,min=13,ords=[ 32 ],|Op|=32,zenkov=true,good=1664/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=14,min=13,ords=[ 32 ],|Op|=32,zenkov=true,good=1664/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=14,min=13,ords=[ 32 ],|Op|=32,zenkov=true,good=1664/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=14,min=13,ords=[ 32 ],|Op|=32,zenkov=true,good=1664/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=14,min=13,ords=[ 32 ],|Op|=32,zenkov=true,good=1664/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=14,min=13,ords=[ 32 ],|Op|=32,zenkov=true,good=1664/
+1728) 3:(dc=24,min=20,ords=[ 9 ],|Op|=9,zenkov=true,good=1620/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=24,min=20,ords=[ 9 ],|Op|=9,zenkov=true,good=1620/1728) 
+   diagnostics: 2:(dc=14,min=13,ords=[ 32 ],|Op|=32,zenkov=true,good=1664/
+1728) 3:(dc=24,min=20,ords=[ 9 ],|Op|=9,zenkov=true,good=1620/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=24,min=20,ords=[ 9 ],|Op|=9,zenkov=true,good=1620/1728) 
+   diagnostics: 2:(dc=14,min=13,ords=[ 32 ],|Op|=32,zenkov=true,good=1664/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=14,min=13,ords=[ 32 ],|Op|=32,zenkov=true,good=1664/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=14,min=13,ords=[ 32 ],|Op|=32,zenkov=true,good=1664/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=14,min=13,ords=[ 32 ],|Op|=32,zenkov=true,good=1664/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=14,min=13,ords=[ 32 ],|Op|=32,zenkov=true,good=1664/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=14,min=13,ords=[ 32 ],|Op|=32,zenkov=true,good=1664/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=14,min=13,ords=[ 32 ],|Op|=32,zenkov=true,good=1664/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=14,min=13,ords=[ 32 ],|Op|=32,zenkov=true,good=1664/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=14,min=13,ords=[ 32 ],|Op|=32,zenkov=true,good=1664/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=14,min=13,ords=[ 32 ],|Op|=32,zenkov=true,good=1664/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=14,min=13,ords=[ 32 ],|Op|=32,zenkov=true,good=1664/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=14,min=13,ords=[ 32 ],|Op|=32,zenkov=true,good=1664/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=14,min=13,ords=[ 32 ],|Op|=32,zenkov=true,good=1664/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=14,min=13,ords=[ 32 ],|Op|=32,zenkov=true,good=1664/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=14,min=13,ords=[ 32 ],|Op|=32,zenkov=true,good=1664/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=14,min=13,ords=[ 32 ],|Op|=32,zenkov=true,good=1664/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=14,min=13,ords=[ 32 ],|Op|=32,zenkov=true,good=1664/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=14,min=13,ords=[ 32 ],|Op|=32,zenkov=true,good=1664/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=14,min=13,ords=[ 32 ],|Op|=32,zenkov=true,good=1664/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=14,min=13,ords=[ 32 ],|Op|=32,zenkov=true,good=1664/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=14,min=13,ords=[ 32 ],|Op|=32,zenkov=true,good=1664/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=14,min=13,ords=[ 32 ],|Op|=32,zenkov=true,good=1664/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=14,min=13,ords=[ 32 ],|Op|=32,zenkov=true,good=1664/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=14,min=13,ords=[ 32 ],|Op|=32,zenkov=true,good=1664/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=14,min=13,ords=[ 32 ],|Op|=32,zenkov=true,good=1664/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=14,min=13,ords=[ 32 ],|Op|=32,zenkov=true,good=1664/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=14,min=13,ords=[ 32 ],|Op|=32,zenkov=true,good=1664/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=14,min=13,ords=[ 32 ],|Op|=32,zenkov=true,good=1664/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=14,min=13,ords=[ 32 ],|Op|=32,zenkov=true,good=1664/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=14,min=13,ords=[ 32 ],|Op|=32,zenkov=true,good=1664/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=14,min=13,ords=[ 32 ],|Op|=32,zenkov=true,good=1664/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=14,min=13,ords=[ 32 ],|Op|=32,zenkov=true,good=1664/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=14,min=13,ords=[ 32 ],|Op|=32,zenkov=true,good=1664/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=14,min=13,ords=[ 32 ],|Op|=32,zenkov=true,good=1664/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=14,min=13,ords=[ 32 ],|Op|=32,zenkov=true,good=1664/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=14,min=13,ords=[ 32 ],|Op|=32,zenkov=true,good=1664/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=24,min=20,ords=[ 9 ],|Op|=9,zenkov=true,good=1620/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=24,min=20,ords=[ 9 ],|Op|=9,zenkov=true,good=1620/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=24,min=20,ords=[ 9 ],|Op|=9,zenkov=true,good=1620/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=24,min=20,ords=[ 9 ],|Op|=9,zenkov=true,good=1620/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=24,min=20,ords=[ 9 ],|Op|=9,zenkov=true,good=1620/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=24,min=20,ords=[ 9 ],|Op|=9,zenkov=true,good=1620/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=24,min=20,ords=[ 9 ],|Op|=9,zenkov=true,good=1620/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=24,min=20,ords=[ 9 ],|Op|=9,zenkov=true,good=1620/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=24,min=20,ords=[ 9 ],|Op|=9,zenkov=true,good=1620/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=24,min=20,ords=[ 9 ],|Op|=9,zenkov=true,good=1620/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=24,min=20,ords=[ 9 ],|Op|=9,zenkov=true,good=1620/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=24,min=20,ords=[ 9 ],|Op|=9,zenkov=true,good=1620/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=24,min=20,ords=[ 9 ],|Op|=9,zenkov=true,good=1620/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=24,min=20,ords=[ 9 ],|Op|=9,zenkov=true,good=1620/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=24,min=20,ords=[ 9 ],|Op|=9,zenkov=true,good=1620/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=24,min=20,ords=[ 9 ],|Op|=9,zenkov=true,good=1620/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=24,min=20,ords=[ 9 ],|Op|=9,zenkov=true,good=1620/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=24,min=20,ords=[ 9 ],|Op|=9,zenkov=true,good=1620/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=24,min=20,ords=[ 9 ],|Op|=9,zenkov=true,good=1620/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=24,min=20,ords=[ 9 ],|Op|=9,zenkov=true,good=1620/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=24,min=20,ords=[ 9 ],|Op|=9,zenkov=true,good=1620/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=18,min=9,ords=[ 32 ],|Op|=32,zenkov=true,good=1152/
+1728) 3:(dc=24,min=20,ords=[ 9 ],|Op|=9,zenkov=true,good=1620/1728) 
+   diagnostics: 2:(dc=18,min=9,ords=[ 32 ],|Op|=32,zenkov=true,good=1152/
+1728) 3:(dc=24,min=20,ords=[ 9 ],|Op|=9,zenkov=true,good=1620/1728) 
+   diagnostics: 2:(dc=18,min=9,ords=[ 32 ],|Op|=32,zenkov=true,good=1152/
+1728) 3:(dc=24,min=20,ords=[ 9 ],|Op|=9,zenkov=true,good=1620/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=24,min=20,ords=[ 9 ],|Op|=9,zenkov=true,good=1620/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=24,min=20,ords=[ 9 ],|Op|=9,zenkov=true,good=1620/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=24,min=20,ords=[ 9 ],|Op|=9,zenkov=true,good=1620/1728) 
+   diagnostics: 2:(dc=18,min=9,ords=[ 32 ],|Op|=32,zenkov=true,good=1152/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=18,min=9,ords=[ 32 ],|Op|=32,zenkov=true,good=1152/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=18,min=9,ords=[ 32 ],|Op|=32,zenkov=true,good=1152/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=18,min=9,ords=[ 32 ],|Op|=32,zenkov=true,good=1152/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=18,min=9,ords=[ 32 ],|Op|=32,zenkov=true,good=1152/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=18,min=9,ords=[ 32 ],|Op|=32,zenkov=true,good=1152/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=18,min=9,ords=[ 32 ],|Op|=32,zenkov=true,good=1152/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=18,min=9,ords=[ 32 ],|Op|=32,zenkov=true,good=1152/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=18,min=9,ords=[ 32 ],|Op|=32,zenkov=true,good=1152/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=18,min=9,ords=[ 32 ],|Op|=32,zenkov=true,good=1152/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=18,min=9,ords=[ 32 ],|Op|=32,zenkov=true,good=1152/
+1728) 3:(dc=24,min=20,ords=[ 9 ],|Op|=9,zenkov=true,good=1620/1728) 
+   diagnostics: 2:(dc=18,min=9,ords=[ 32 ],|Op|=32,zenkov=true,good=1152/
+1728) 3:(dc=24,min=20,ords=[ 9 ],|Op|=9,zenkov=true,good=1620/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=24,min=20,ords=[ 9 ],|Op|=9,zenkov=true,good=1620/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=24,min=20,ords=[ 9 ],|Op|=9,zenkov=true,good=1620/1728) 
+   diagnostics: 2:(dc=18,min=9,ords=[ 32 ],|Op|=32,zenkov=true,good=1152/
+1728) 3:(dc=24,min=20,ords=[ 9 ],|Op|=9,zenkov=true,good=1620/1728) 
+   diagnostics: 2:(dc=18,min=9,ords=[ 32 ],|Op|=32,zenkov=true,good=1152/
+1728) 3:(dc=24,min=20,ords=[ 9 ],|Op|=9,zenkov=true,good=1620/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=24,min=20,ords=[ 9 ],|Op|=9,zenkov=true,good=1620/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=24,min=20,ords=[ 9 ],|Op|=9,zenkov=true,good=1620/1728) 
+   diagnostics: 2:(dc=18,min=9,ords=[ 32 ],|Op|=32,zenkov=true,good=1152/
+1728) 3:(dc=24,min=20,ords=[ 9 ],|Op|=9,zenkov=true,good=1620/1728) 
+   diagnostics: 2:(dc=18,min=9,ords=[ 32 ],|Op|=32,zenkov=true,good=1152/
+1728) 3:(dc=24,min=20,ords=[ 9 ],|Op|=9,zenkov=true,good=1620/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=24,min=20,ords=[ 9 ],|Op|=9,zenkov=true,good=1620/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=24,min=20,ords=[ 9 ],|Op|=9,zenkov=true,good=1620/1728) 
+   diagnostics: 2:(dc=18,min=9,ords=[ 32 ],|Op|=32,zenkov=true,good=1152/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=18,min=9,ords=[ 32 ],|Op|=32,zenkov=true,good=1152/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=18,min=9,ords=[ 32 ],|Op|=32,zenkov=true,good=1152/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=18,min=9,ords=[ 32 ],|Op|=32,zenkov=true,good=1152/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=18,min=9,ords=[ 32 ],|Op|=32,zenkov=true,good=1152/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=18,min=9,ords=[ 32 ],|Op|=32,zenkov=true,good=1152/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=18,min=9,ords=[ 32 ],|Op|=32,zenkov=true,good=1152/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=18,min=9,ords=[ 32 ],|Op|=32,zenkov=true,good=1152/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=18,min=9,ords=[ 32 ],|Op|=32,zenkov=true,good=1152/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=18,min=9,ords=[ 32 ],|Op|=32,zenkov=true,good=1152/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=24,min=20,ords=[ 9 ],|Op|=9,zenkov=true,good=1620/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=24,min=20,ords=[ 9 ],|Op|=9,zenkov=true,good=1620/1728) 
+   diagnostics: 2:(dc=18,min=9,ords=[ 32 ],|Op|=32,zenkov=true,good=1152/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=18,min=9,ords=[ 32 ],|Op|=32,zenkov=true,good=1152/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=18,min=9,ords=[ 32 ],|Op|=32,zenkov=true,good=1152/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=18,min=9,ords=[ 32 ],|Op|=32,zenkov=true,good=1152/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=18,min=9,ords=[ 32 ],|Op|=32,zenkov=true,good=1152/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=18,min=9,ords=[ 32 ],|Op|=32,zenkov=true,good=1152/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=18,min=9,ords=[ 32 ],|Op|=32,zenkov=true,good=1152/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=18,min=9,ords=[ 32 ],|Op|=32,zenkov=true,good=1152/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=18,min=9,ords=[ 32 ],|Op|=32,zenkov=true,good=1152/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=18,min=9,ords=[ 32 ],|Op|=32,zenkov=true,good=1152/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=18,min=9,ords=[ 32 ],|Op|=32,zenkov=true,good=1152/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=18,min=9,ords=[ 32 ],|Op|=32,zenkov=true,good=1152/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=18,min=9,ords=[ 32 ],|Op|=32,zenkov=true,good=1152/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=18,min=9,ords=[ 32 ],|Op|=32,zenkov=true,good=1152/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=18,min=9,ords=[ 32 ],|Op|=32,zenkov=true,good=1152/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=18,min=9,ords=[ 32 ],|Op|=32,zenkov=true,good=1152/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=18,min=9,ords=[ 32 ],|Op|=32,zenkov=true,good=1152/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=18,min=9,ords=[ 32 ],|Op|=32,zenkov=true,good=1152/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=18,min=9,ords=[ 32 ],|Op|=32,zenkov=true,good=1152/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=18,min=9,ords=[ 32 ],|Op|=32,zenkov=true,good=1152/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=18,min=9,ords=[ 32 ],|Op|=32,zenkov=true,good=1152/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=18,min=9,ords=[ 32 ],|Op|=32,zenkov=true,good=1152/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=18,min=9,ords=[ 32 ],|Op|=32,zenkov=true,good=1152/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=18,min=9,ords=[ 32 ],|Op|=32,zenkov=true,good=1152/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=18,min=9,ords=[ 32 ],|Op|=32,zenkov=true,good=1152/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=18,min=9,ords=[ 32 ],|Op|=32,zenkov=true,good=1152/
+1728) 3:(dc=24,min=20,ords=[ 9 ],|Op|=9,zenkov=true,good=1620/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=24,min=20,ords=[ 9 ],|Op|=9,zenkov=true,good=1620/1728) 
+   diagnostics: 2:(dc=14,min=13,ords=[ 32 ],|Op|=32,zenkov=true,good=1664/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=14,min=13,ords=[ 32 ],|Op|=32,zenkov=true,good=1664/
+1728) 3:(dc=24,min=20,ords=[ 9 ],|Op|=9,zenkov=true,good=1620/1728) 
+   diagnostics: 2:(dc=6,min=3,ords=[ 8 ],|Op|=8,zenkov=true,good=1536/1728) 
+3:(dc=24,min=20,ords=[ 9 ],|Op|=9,zenkov=true,good=1620/1728) 
+   diagnostics: 2:(dc=18,min=9,ords=[ 32 ],|Op|=32,zenkov=true,good=1152/
+1728) 3:(dc=24,min=20,ords=[ 9 ],|Op|=9,zenkov=true,good=1620/1728) 
+   diagnostics: 2:(dc=18,min=9,ords=[ 32 ],|Op|=32,zenkov=true,good=1152/
+1728) 3:(dc=24,min=20,ords=[ 9 ],|Op|=9,zenkov=true,good=1620/1728) 
+   diagnostics: 2:(dc=18,min=9,ords=[ 32 ],|Op|=32,zenkov=true,good=1152/
+1728) 3:(dc=24,min=20,ords=[ 9 ],|Op|=9,zenkov=true,good=1620/1728) 
+   diagnostics: 2:(dc=18,min=9,ords=[ 32 ],|Op|=32,zenkov=true,good=1152/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=18,min=9,ords=[ 32 ],|Op|=32,zenkov=true,good=1152/
+1728) 3:(dc=24,min=20,ords=[ 9 ],|Op|=9,zenkov=true,good=1620/1728) 
+   diagnostics: 2:(dc=18,min=9,ords=[ 32 ],|Op|=32,zenkov=true,good=1152/
+1728) 3:(dc=24,min=20,ords=[ 9 ],|Op|=9,zenkov=true,good=1620/1728) 
+   diagnostics: 2:(dc=18,min=9,ords=[ 32 ],|Op|=32,zenkov=true,good=1152/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=18,min=9,ords=[ 32 ],|Op|=32,zenkov=true,good=1152/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=24,min=20,ords=[ 9 ],|Op|=9,zenkov=true,good=1620/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=24,min=20,ords=[ 9 ],|Op|=9,zenkov=true,good=1620/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=24,min=20,ords=[ 9 ],|Op|=9,zenkov=true,good=1620/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=24,min=20,ords=[ 9 ],|Op|=9,zenkov=true,good=1620/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=24,min=20,ords=[ 9 ],|Op|=9,zenkov=true,good=1620/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=14,min=13,ords=[ 32 ],|Op|=32,zenkov=true,good=1664/
+1728) 3:(dc=24,min=20,ords=[ 9 ],|Op|=9,zenkov=true,good=1620/1728) 
+   diagnostics: 2:(dc=14,min=13,ords=[ 32 ],|Op|=32,zenkov=true,good=1664/
+1728) 3:(dc=24,min=20,ords=[ 9 ],|Op|=9,zenkov=true,good=1620/1728) 
+   diagnostics: 2:(dc=14,min=13,ords=[ 32 ],|Op|=32,zenkov=true,good=1664/
+1728) 3:(dc=24,min=20,ords=[ 9 ],|Op|=9,zenkov=true,good=1620/1728) 
+   diagnostics: 2:(dc=14,min=13,ords=[ 32 ],|Op|=32,zenkov=true,good=1664/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=14,min=13,ords=[ 32 ],|Op|=32,zenkov=true,good=1664/
+1728) 3:(dc=24,min=20,ords=[ 9 ],|Op|=9,zenkov=true,good=1620/1728) 
+   diagnostics: 2:(dc=14,min=13,ords=[ 32 ],|Op|=32,zenkov=true,good=1664/
+1728) 3:(dc=24,min=20,ords=[ 9 ],|Op|=9,zenkov=true,good=1620/1728) 
+   diagnostics: 2:(dc=14,min=13,ords=[ 32 ],|Op|=32,zenkov=true,good=1664/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=14,min=13,ords=[ 32 ],|Op|=32,zenkov=true,good=1664/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=18,min=9,ords=[ 32 ],|Op|=32,zenkov=true,good=1152/
+1728) 3:(dc=24,min=20,ords=[ 9 ],|Op|=9,zenkov=true,good=1620/1728) 
+   diagnostics: 2:(dc=18,min=9,ords=[ 32 ],|Op|=32,zenkov=true,good=1152/
+1728) 3:(dc=24,min=20,ords=[ 9 ],|Op|=9,zenkov=true,good=1620/1728) 
+   diagnostics: 2:(dc=18,min=9,ords=[ 32 ],|Op|=32,zenkov=true,good=1152/
+1728) 3:(dc=24,min=20,ords=[ 9 ],|Op|=9,zenkov=true,good=1620/1728) 
+   diagnostics: 2:(dc=18,min=9,ords=[ 32 ],|Op|=32,zenkov=true,good=1152/
+1728) 3:(dc=24,min=20,ords=[ 9 ],|Op|=9,zenkov=true,good=1620/1728) 
+   diagnostics: 2:(dc=18,min=9,ords=[ 32 ],|Op|=32,zenkov=true,good=1152/
+1728) 3:(dc=24,min=20,ords=[ 9 ],|Op|=9,zenkov=true,good=1620/1728) 
+   diagnostics: 2:(dc=18,min=9,ords=[ 32 ],|Op|=32,zenkov=true,good=1152/
+1728) 3:(dc=24,min=20,ords=[ 9 ],|Op|=9,zenkov=true,good=1620/1728) 
+   diagnostics: 2:(dc=18,min=9,ords=[ 32 ],|Op|=32,zenkov=true,good=1152/
+1728) 3:(dc=24,min=20,ords=[ 9 ],|Op|=9,zenkov=true,good=1620/1728) 
+   diagnostics: 2:(dc=18,min=9,ords=[ 32 ],|Op|=32,zenkov=true,good=1152/
+1728) 3:(dc=24,min=20,ords=[ 9 ],|Op|=9,zenkov=true,good=1620/1728) 
+   diagnostics: 2:(dc=18,min=9,ords=[ 32 ],|Op|=32,zenkov=true,good=1152/
+1728) 3:(dc=24,min=20,ords=[ 9 ],|Op|=9,zenkov=true,good=1620/1728) 
+   diagnostics: 2:(dc=18,min=9,ords=[ 32 ],|Op|=32,zenkov=true,good=1152/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=18,min=9,ords=[ 32 ],|Op|=32,zenkov=true,good=1152/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=18,min=9,ords=[ 32 ],|Op|=32,zenkov=true,good=1152/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=18,min=9,ords=[ 32 ],|Op|=32,zenkov=true,good=1152/
+1728) 3:(dc=24,min=20,ords=[ 9 ],|Op|=9,zenkov=true,good=1620/1728) 
+   diagnostics: 2:(dc=18,min=9,ords=[ 32 ],|Op|=32,zenkov=true,good=1152/
+1728) 3:(dc=24,min=20,ords=[ 9 ],|Op|=9,zenkov=true,good=1620/1728) 
+   diagnostics: 2:(dc=18,min=9,ords=[ 32 ],|Op|=32,zenkov=true,good=1152/
+1728) 3:(dc=24,min=20,ords=[ 9 ],|Op|=9,zenkov=true,good=1620/1728) 
+   diagnostics: 2:(dc=18,min=9,ords=[ 32 ],|Op|=32,zenkov=true,good=1152/
+1728) 3:(dc=24,min=20,ords=[ 9 ],|Op|=9,zenkov=true,good=1620/1728) 
+   diagnostics: 2:(dc=18,min=9,ords=[ 32 ],|Op|=32,zenkov=true,good=1152/
+1728) 3:(dc=24,min=20,ords=[ 9 ],|Op|=9,zenkov=true,good=1620/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=24,min=20,ords=[ 9 ],|Op|=9,zenkov=true,good=1620/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=24,min=20,ords=[ 9 ],|Op|=9,zenkov=true,good=1620/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=24,min=20,ords=[ 9 ],|Op|=9,zenkov=true,good=1620/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=24,min=20,ords=[ 9 ],|Op|=9,zenkov=true,good=1620/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=24,min=20,ords=[ 9 ],|Op|=9,zenkov=true,good=1620/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=24,min=20,ords=[ 9 ],|Op|=9,zenkov=true,good=1620/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=24,min=20,ords=[ 9 ],|Op|=9,zenkov=true,good=1620/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=24,min=20,ords=[ 9 ],|Op|=9,zenkov=true,good=1620/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=24,min=20,ords=[ 9 ],|Op|=9,zenkov=true,good=1620/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=24,min=20,ords=[ 9 ],|Op|=9,zenkov=true,good=1620/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=24,min=20,ords=[ 9 ],|Op|=9,zenkov=true,good=1620/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=24,min=20,ords=[ 9 ],|Op|=9,zenkov=true,good=1620/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=24,min=20,ords=[ 9 ],|Op|=9,zenkov=true,good=1620/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=24,min=20,ords=[ 9 ],|Op|=9,zenkov=true,good=1620/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=16,min=4,ords=[ 3 ],|Op|=3,zenkov=true,good=972/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=16,min=4,ords=[ 3 ],|Op|=3,zenkov=true,good=972/1728) 
+   diagnostics: 2:(dc=18,min=9,ords=[ 32 ],|Op|=32,zenkov=true,good=1152/
+1728) 3:(dc=16,min=4,ords=[ 3 ],|Op|=3,zenkov=true,good=972/1728) 
+   diagnostics: 2:(dc=18,min=9,ords=[ 32 ],|Op|=32,zenkov=true,good=1152/
+1728) 3:(dc=16,min=4,ords=[ 3 ],|Op|=3,zenkov=true,good=972/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=16,min=4,ords=[ 3 ],|Op|=3,zenkov=true,good=972/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=16,min=4,ords=[ 3 ],|Op|=3,zenkov=true,good=972/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=16,min=4,ords=[ 3 ],|Op|=3,zenkov=true,good=972/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=16,min=4,ords=[ 3 ],|Op|=3,zenkov=true,good=972/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=16,min=4,ords=[ 3 ],|Op|=3,zenkov=true,good=972/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=16,min=4,ords=[ 3 ],|Op|=3,zenkov=true,good=972/1728) 
+   diagnostics: 2:(dc=18,min=9,ords=[ 32 ],|Op|=32,zenkov=true,good=1152/
+1728) 3:(dc=16,min=4,ords=[ 3 ],|Op|=3,zenkov=true,good=972/1728) 
+   diagnostics: 2:(dc=18,min=9,ords=[ 32 ],|Op|=32,zenkov=true,good=1152/
+1728) 3:(dc=16,min=4,ords=[ 3 ],|Op|=3,zenkov=true,good=972/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=16,min=4,ords=[ 3 ],|Op|=3,zenkov=true,good=972/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=16,min=4,ords=[ 3 ],|Op|=3,zenkov=true,good=972/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=16,min=4,ords=[ 3 ],|Op|=3,zenkov=true,good=972/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=16,min=4,ords=[ 3 ],|Op|=3,zenkov=true,good=972/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=16,min=4,ords=[ 3 ],|Op|=3,zenkov=true,good=972/1728) 
+   diagnostics: 2:(dc=18,min=9,ords=[ 32 ],|Op|=32,zenkov=true,good=1152/
+1728) 3:(dc=16,min=4,ords=[ 3 ],|Op|=3,zenkov=true,good=972/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=16,min=4,ords=[ 3 ],|Op|=3,zenkov=true,good=972/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=16,min=4,ords=[ 3 ],|Op|=3,zenkov=true,good=972/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=16,min=4,ords=[ 3 ],|Op|=3,zenkov=true,good=972/1728) 
+   diagnostics: 2:(dc=18,min=9,ords=[ 32 ],|Op|=32,zenkov=true,good=1152/
+1728) 3:(dc=16,min=4,ords=[ 3 ],|Op|=3,zenkov=true,good=972/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=16,min=4,ords=[ 3 ],|Op|=3,zenkov=true,good=972/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=16,min=4,ords=[ 3 ],|Op|=3,zenkov=true,good=972/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=16,min=4,ords=[ 3 ],|Op|=3,zenkov=true,good=972/1728) 
+   diagnostics: 2:(dc=18,min=9,ords=[ 32 ],|Op|=32,zenkov=true,good=1152/
+1728) 3:(dc=16,min=4,ords=[ 3 ],|Op|=3,zenkov=true,good=972/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=16,min=4,ords=[ 3 ],|Op|=3,zenkov=true,good=972/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=16,min=4,ords=[ 3 ],|Op|=3,zenkov=true,good=972/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=16,min=4,ords=[ 3 ],|Op|=3,zenkov=true,good=972/1728) 
+   diagnostics: 2:(dc=18,min=9,ords=[ 32 ],|Op|=32,zenkov=true,good=1152/
+1728) 3:(dc=16,min=4,ords=[ 3 ],|Op|=3,zenkov=true,good=972/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=16,min=4,ords=[ 3 ],|Op|=3,zenkov=true,good=972/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=16,min=4,ords=[ 3 ],|Op|=3,zenkov=true,good=972/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=16,min=4,ords=[ 3 ],|Op|=3,zenkov=true,good=972/1728) 
+   diagnostics: 2:(dc=18,min=9,ords=[ 32 ],|Op|=32,zenkov=true,good=1152/
+1728) 3:(dc=16,min=4,ords=[ 3 ],|Op|=3,zenkov=true,good=972/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=16,min=4,ords=[ 3 ],|Op|=3,zenkov=true,good=972/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=16,min=4,ords=[ 3 ],|Op|=3,zenkov=true,good=972/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=16,min=4,ords=[ 3 ],|Op|=3,zenkov=true,good=972/1728) 
+   diagnostics: 2:(dc=18,min=9,ords=[ 32 ],|Op|=32,zenkov=true,good=1152/
+1728) 3:(dc=16,min=4,ords=[ 3 ],|Op|=3,zenkov=true,good=972/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=16,min=4,ords=[ 3 ],|Op|=3,zenkov=true,good=972/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=16,min=4,ords=[ 3 ],|Op|=3,zenkov=true,good=972/1728) 
+   diagnostics: 2:(dc=14,min=13,ords=[ 32 ],|Op|=32,zenkov=true,good=1664/
+1728) 3:(dc=16,min=4,ords=[ 3 ],|Op|=3,zenkov=true,good=972/1728) 
+   diagnostics: 2:(dc=14,min=13,ords=[ 32 ],|Op|=32,zenkov=true,good=1664/
+1728) 3:(dc=16,min=4,ords=[ 3 ],|Op|=3,zenkov=true,good=972/1728) 
+   diagnostics: 2:(dc=14,min=13,ords=[ 32 ],|Op|=32,zenkov=true,good=1664/
+1728) 3:(dc=16,min=4,ords=[ 3 ],|Op|=3,zenkov=true,good=972/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=16,min=4,ords=[ 3 ],|Op|=3,zenkov=true,good=972/1728) 
+   diagnostics: 2:(dc=14,min=13,ords=[ 32 ],|Op|=32,zenkov=true,good=1664/
+1728) 3:(dc=16,min=4,ords=[ 3 ],|Op|=3,zenkov=true,good=972/1728) 
+   diagnostics: 2:(dc=14,min=13,ords=[ 32 ],|Op|=32,zenkov=true,good=1664/
+1728) 3:(dc=16,min=4,ords=[ 3 ],|Op|=3,zenkov=true,good=972/1728) 
+   diagnostics: 2:(dc=14,min=13,ords=[ 32 ],|Op|=32,zenkov=true,good=1664/
+1728) 3:(dc=16,min=4,ords=[ 3 ],|Op|=3,zenkov=true,good=972/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=16,min=4,ords=[ 3 ],|Op|=3,zenkov=true,good=972/1728) 
+   diagnostics: 2:(dc=14,min=13,ords=[ 32 ],|Op|=32,zenkov=true,good=1664/
+1728) 3:(dc=16,min=4,ords=[ 3 ],|Op|=3,zenkov=true,good=972/1728) 
+   diagnostics: 2:(dc=14,min=13,ords=[ 32 ],|Op|=32,zenkov=true,good=1664/
+1728) 3:(dc=16,min=4,ords=[ 3 ],|Op|=3,zenkov=true,good=972/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=16,min=4,ords=[ 3 ],|Op|=3,zenkov=true,good=972/1728) 
+   diagnostics: 2:(dc=14,min=13,ords=[ 32 ],|Op|=32,zenkov=true,good=1664/
+1728) 3:(dc=16,min=4,ords=[ 3 ],|Op|=3,zenkov=true,good=972/1728) 
+   diagnostics: 2:(dc=14,min=13,ords=[ 32 ],|Op|=32,zenkov=true,good=1664/
+1728) 3:(dc=16,min=4,ords=[ 3 ],|Op|=3,zenkov=true,good=972/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=16,min=4,ords=[ 3 ],|Op|=3,zenkov=true,good=972/1728) 
+   diagnostics: 2:(dc=14,min=13,ords=[ 32 ],|Op|=32,zenkov=true,good=1664/
+1728) 3:(dc=16,min=4,ords=[ 3 ],|Op|=3,zenkov=true,good=972/1728) 
+   diagnostics: 2:(dc=14,min=13,ords=[ 32 ],|Op|=32,zenkov=true,good=1664/
+1728) 3:(dc=16,min=4,ords=[ 3 ],|Op|=3,zenkov=true,good=972/1728) 
+   diagnostics: 2:(dc=15,min=12,ords=[ 32 ],|Op|=32,zenkov=true,good=1536/
+1728) 3:(dc=16,min=4,ords=[ 3 ],|Op|=3,zenkov=true,good=972/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=9,min=5,ords=[ 16 ],|Op|=16,zenkov=true,good=1280/1728) 
+3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=9,min=5,ords=[ 16 ],|Op|=16,zenkov=true,good=1280/1728) 
+3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=9,min=5,ords=[ 16 ],|Op|=16,zenkov=true,good=1280/1728) 
+3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=9,min=5,ords=[ 16 ],|Op|=16,zenkov=true,good=1280/1728) 
+3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=9,min=5,ords=[ 16 ],|Op|=16,zenkov=true,good=1280/1728) 
+3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=9,min=5,ords=[ 16 ],|Op|=16,zenkov=true,good=1280/1728) 
+3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=9,min=5,ords=[ 16 ],|Op|=16,zenkov=true,good=1280/1728) 
+3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=9,min=5,ords=[ 16 ],|Op|=16,zenkov=true,good=1280/1728) 
+3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=9,min=5,ords=[ 16 ],|Op|=16,zenkov=true,good=1280/1728) 
+3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=9,min=5,ords=[ 16 ],|Op|=16,zenkov=true,good=1280/1728) 
+3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=9,min=5,ords=[ 16 ],|Op|=16,zenkov=true,good=1280/1728) 
+3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=9,min=5,ords=[ 16 ],|Op|=16,zenkov=true,good=1280/1728) 
+3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=9,min=5,ords=[ 16 ],|Op|=16,zenkov=true,good=1280/1728) 
+3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=9,min=5,ords=[ 16 ],|Op|=16,zenkov=true,good=1280/1728) 
+3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=9,min=5,ords=[ 16 ],|Op|=16,zenkov=true,good=1280/1728) 
+3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=9,min=5,ords=[ 16 ],|Op|=16,zenkov=true,good=1280/1728) 
+3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=9,min=5,ords=[ 16 ],|Op|=16,zenkov=true,good=1280/1728) 
+3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=9,min=5,ords=[ 16 ],|Op|=16,zenkov=true,good=1280/1728) 
+3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=9,min=5,ords=[ 16 ],|Op|=16,zenkov=true,good=1280/1728) 
+3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=9,min=5,ords=[ 16 ],|Op|=16,zenkov=true,good=1280/1728) 
+3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=9,min=5,ords=[ 16 ],|Op|=16,zenkov=true,good=1280/1728) 
+3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=9,min=5,ords=[ 16 ],|Op|=16,zenkov=true,good=1280/1728) 
+3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=9,min=5,ords=[ 16 ],|Op|=16,zenkov=true,good=1280/1728) 
+3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=9,min=5,ords=[ 16 ],|Op|=16,zenkov=true,good=1280/1728) 
+3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=9,min=5,ords=[ 16 ],|Op|=16,zenkov=true,good=1280/1728) 
+3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=9,min=5,ords=[ 16 ],|Op|=16,zenkov=true,good=1280/1728) 
+3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=9,min=5,ords=[ 16 ],|Op|=16,zenkov=true,good=1280/1728) 
+3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=9,min=5,ords=[ 16 ],|Op|=16,zenkov=true,good=1280/1728) 
+3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=9,min=5,ords=[ 16 ],|Op|=16,zenkov=true,good=1280/1728) 
+3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=9,min=5,ords=[ 16 ],|Op|=16,zenkov=true,good=1280/1728) 
+3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=9,min=5,ords=[ 16 ],|Op|=16,zenkov=true,good=1280/1728) 
+3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=9,min=5,ords=[ 16 ],|Op|=16,zenkov=true,good=1280/1728) 
+3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=9,min=5,ords=[ 16 ],|Op|=16,zenkov=true,good=1280/1728) 
+3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=9,min=5,ords=[ 16 ],|Op|=16,zenkov=true,good=1280/1728) 
+3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=9,min=5,ords=[ 16 ],|Op|=16,zenkov=true,good=1280/1728) 
+3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=9,min=5,ords=[ 16 ],|Op|=16,zenkov=true,good=1280/1728) 
+3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=9,min=5,ords=[ 16 ],|Op|=16,zenkov=true,good=1280/1728) 
+3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=9,min=5,ords=[ 16 ],|Op|=16,zenkov=true,good=1280/1728) 
+3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=9,min=5,ords=[ 16 ],|Op|=16,zenkov=true,good=1280/1728) 
+3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=9,min=5,ords=[ 16 ],|Op|=16,zenkov=true,good=1280/1728) 
+3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=9,min=5,ords=[ 16 ],|Op|=16,zenkov=true,good=1280/1728) 
+3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=9,min=5,ords=[ 16 ],|Op|=16,zenkov=true,good=1280/1728) 
+3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=10,min=4,ords=[ 16 ],|Op|=16,zenkov=true,good=1024/
+1728) 3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=9,min=5,ords=[ 16 ],|Op|=16,zenkov=true,good=1280/1728) 
+3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=9,min=5,ords=[ 16 ],|Op|=16,zenkov=true,good=1280/1728) 
+3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=9,min=5,ords=[ 16 ],|Op|=16,zenkov=true,good=1280/1728) 
+3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=9,min=5,ords=[ 16 ],|Op|=16,zenkov=true,good=1280/1728) 
+3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 
+   diagnostics: 2:(dc=9,min=5,ords=[ 16 ],|Op|=16,zenkov=true,good=1280/1728) 
+3:(dc=32,min=16,ords=[ 9 ],|Op|=9,zenkov=true,good=1296/1728) 

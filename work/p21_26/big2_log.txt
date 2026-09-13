@@ -144,3 +144,32 @@ M10 |G|=720
 28,ords=[ 1 ],|Op|=1,zenkov=true,good=700/720) 
 M10 |G|=720 ok=true (random sample 5)
 S9 |G|=362880
+   diagnostics: 2:(dc=51,min=11,ords=[ 1 ],|Op|=1,zenkov=true,good=180224/
+362880) 3:(dc=88,min=44,ords=[ 1 ],|Op|=1,zenkov=true,good=288684/362880) 
+5:(dc=14592,min=14496,ords=[ 1 ],|Op|=1,zenkov=true,good=362400/362880) 7:(dc=
+7416,min=7404,ords=[ 1 ],|Op|=1,zenkov=true,good=362796/362880) 
+S9 |G|=362880 ok=true (random sample 2)
+L3(4) |G|=20160
+   diagnostics: 2:(dc=18,min=3,ords=[ 1 ],|Op|=1,zenkov=true,good=12288/
+20160) 3:(dc=256,min=248,ords=[ 1 ],|Op|=1,zenkov=true,good=20088/20160) 
+5:(dc=808,min=806,ords=[ 1 ],|Op|=1,zenkov=true,good=20150/20160) 7:(dc=
+414,min=411,ords=[ 1 ],|Op|=1,zenkov=true,good=20139/20160) 
+L3(4) |G|=20160 ok=true (random sample 2)
+U4(2) |G|=25920
+   diagnostics: 2:(dc=24,min=3,ords=[ 1 ],|Op|=1,zenkov=true,good=12288/
+25920) 3:(dc=16,min=2,ords=[ 1 ],|Op|=1,zenkov=true,good=13122/25920) 5:(dc=
+1040,min=1036,ords=[ 1 ],|Op|=1,zenkov=true,good=25900/25920) 
+U4(2) |G|=25920 ok=true (random sample 16)
+U3(4) |G|=62400
+   diagnostics: 2:(dc=30,min=15,ords=[ 1 ],|Op|=1,zenkov=true,good=61440/
+62400) 3:(dc=6940,min=6930,ords=[ 1 ],|Op|=1,zenkov=true,good=62370/62400) 
+5:(dc=120,min=96,ords=[ 1 ],|Op|=1,zenkov=true,good=60000/62400) 13:(dc=
+372,min=369,ords=[ 1 ],|Op|=1,zenkov=true,good=62361/62400) 
+U3(4) |G|=62400 ok=true (random sample 1)
+U3(5) |G|=126000
+   diagnostics: 2:(dc=517,min=471,ords=[ 1 ],|Op|=1,zenkov=true,good=120576/
+126000) 3:(dc=1584,min=1544,ords=[ 1 ],|Op|=1,zenkov=true,good=125064/126000) 
+5:(dc=16,min=8,ords=[ 1 ],|Op|=1,zenkov=true,good=125000/126000) 7:(dc=
+2574,min=2571,ords=[ 1 ],|Op|=1,zenkov=true,good=125979/126000) 
+U3(5) |G|=126000 ok=true (random sample 1)
+L3(5) |G|=372000

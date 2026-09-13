@@ -1,0 +1,16 @@
+Syntax warning: Unbound global variable in check.g:11
+    if not ForAll(ConjugacyClasses(G), c -> IsNormal(G, Subgroup(G, [Represent\
+ative(c)^2]))) then continue; fi;
+                                                     ^
+Syntax warning: Unbound global variable in check.g:11
+    if not ForAll(ConjugacyClasses(G), c -> IsNormal(G, Subgroup(G, [Represent\
+ative(c)^2]))) then continue; fi;
+                                                                 ^
+Syntax warning: Unbound global variable in check.g:14
+    hasAb := ForAny(ConjugacyClassesSubgroups(G), c -> Index(G, Representative\
+(c)) <= 4 and IsAbelian(Representative(c)));
+                                                             ^
+done order 4 core-2 groups: 0
+done order 8 core-2 groups: 2
+done order 16 core-2 groups: 9
+done order 32 core-2 groups: 38

@@ -1,3 +1,7 @@
 exponent-5 group [ 15625, 38 ] C5 x C5 x C5 x ((C5 x C5) : C5)
 exponent-5 group [ 15625, 65 ] C5 x C5 x (((C5 x C5) : C5) : C5)
 exponent-5 group [ 15625, 92 ] C5 x ((C5 x ((C5 x C5) : C5)) : C5)
+exponent-5 group [ 15625, 124 ] C5 x ((C5 x ((C5 x C5) : C5)) : C5)
+exponent-5 group [ 15625, 144 ] C5 x ((C5 x ((C5 x C5) : C5)) : C5)
+exponent-5 group [ 15625, 165 ] C5 x ((C5 x ((C5 x C5) : C5)) : C5)
+exponent-5 group [ 15625, 194 ] C5 x (((C5 x C5 x C5) : C5) : C5)

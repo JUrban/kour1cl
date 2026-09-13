@@ -47,3 +47,7 @@ All scripts/logs are in `work/<problem>/`. "Verified for X" means: exhaustive ch
 | 21.111 | see reports/21.111_tau_groups_partial.md | | |
 | 20.86 (Schmid) | (final) | also all perfect groups of order ≤ 2·10⁵: no counterexample | `work/p20_86` |
 | 20.55 (Mattarei) | (final) | no pair of soluble groups of order ≤ 1000 (orders with ≤ 3000 groups) with identical character tables and derived lengths 2 and 4 | `work/p20_55` |
+| 16.45 (Cameron) | (final) | b(G) = μ′(G) for all non-cyclic groups of order ≤ 32 | `work/p16_45` |
+| 17.1 (Isaacs) | partition by equal-order subgroups with a non-abelian component | none for exponent-3 groups of order 3⁶ (exact cover over all subgroups of order 27) | `work/p17_1` |
+| 21.2 (Amiri) | order-divisibility bijection onto a simple group forces simplicity | no non-simple group of order 60, 168 (more running) admits such a bijection (Hall condition on order statistics) | `work/p21_2` |
+| 18.20 / 18.119 / 14.44 / 19.20 | (stopped) | verified for orders ≤ 250 / ≤ 240 / ≤ 382 / ≤ 127 respectively | |

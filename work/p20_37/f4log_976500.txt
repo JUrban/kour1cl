@@ -1,1 +1,4 @@
 already solved a=28
+NOT FOUND |G|=976500 a=35
+already solved a=36
+NOT FOUND |G|=976500 a=45

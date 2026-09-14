@@ -4,3 +4,7 @@ already solved a=36
 already solved a=42
 already solved a=52
 already solved a=54
+NOT FOUND |G|=9828 a=63
+already solved a=78
+already solved a=91
+FINISHED

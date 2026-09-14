@@ -1,0 +1,24 @@
+done order 284 (4 groups) candidates 0
+done order 316 (4 groups) candidates 0
+done order 348 (12 groups) candidates 0
+done order 380 (11 groups) candidates 0
+done order 412 (4 groups) candidates 0
+done order 444 (18 groups) candidates 0
+done order 476 (11 groups) candidates 0
+done order 508 (4 groups) candidates 0
+done order 544 (246 groups) candidates 0
+done order 576 (8681 groups) candidates 0
+done order 608 (195 groups) candidates 0
+done order 640 (21541 groups) candidates 0
+done order 672 (1280 groups) candidates 0
+done order 704 (1387 groups) candidates 0
+done order 736 (195 groups) candidates 0
+done order 772 (5 groups) candidates 0
+done order 804 (15 groups) candidates 0
+done order 836 (9 groups) candidates 0
+done order 868 (9 groups) candidates 0
+done order 900 (150 groups) candidates 0
+done order 932 (5 groups) candidates 0
+done order 964 (5 groups) candidates 0
+done order 996 (10 groups) candidates 0
+FINISHED

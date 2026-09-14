@@ -16,3 +16,5 @@ already solved a=436
 FOUND |G|=647460 a=495 b=1308 via |H|=55 k=9 |K|=654 l=2 |Omega|=18 trial=49
 already solved a=540
 already solved a=545
+NOT FOUND |G|=647460 a=594
+FINISHED

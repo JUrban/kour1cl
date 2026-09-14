@@ -8,3 +8,4 @@ already solved a=84
 NOT FOUND |G|=976500 a=90
 FOUND |G|=976500 a=93 b=10500 via |H|=31 k=3 |K|=250 l=42 |Omega|=126 trial=0
 FOUND |G|=976500 a=100 b=9765 via |H|=50 k=2 |K|=63 l=155 |Omega|=310 trial=0
+NOT FOUND |G|=976500 a=105

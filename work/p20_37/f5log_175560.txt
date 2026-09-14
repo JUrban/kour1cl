@@ -14,3 +14,12 @@ NOT FOUND |G|=175560 a=209
 NOT FOUND |G|=175560 a=210
 already solved a=228
 NOT FOUND |G|=175560 a=231
+NOT FOUND |G|=175560 a=264
+already solved a=280
+already solved a=285
+NOT FOUND |G|=175560 a=308
+NOT FOUND |G|=175560 a=380
+already solved a=385
+already solved a=399
+NOT FOUND |G|=175560 a=418
+FINISHED

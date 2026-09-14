@@ -1,0 +1,5 @@
+already solved a=44
+already solved a=51
+already solved a=102
+already solved a=132
+already solved a=134

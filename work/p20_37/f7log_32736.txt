@@ -5,3 +5,5 @@ already solved a=48
 already solved a=88
 already solved a=93
 already solved a=96
+FOUND |G|=32736 a=176 b=186 via |H|=22 k=8 |K|=31 l=6 |Omega|=48 trial=3274
+FINISHED

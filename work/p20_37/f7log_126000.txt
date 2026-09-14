@@ -1,1 +1,5 @@
 already solved a=75
+FOUND |G|=126000 a=112 b=1125 via |H|=16 k=7 |K|=125 l=9 |Omega|=63 trial=90299
+NOT FOUND |G|=126000 a=225
+already solved a=336
+FINISHED

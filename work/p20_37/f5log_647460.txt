@@ -1,0 +1,18 @@
+already solved a=33
+already solved a=44
+NOT FOUND |G|=647460 a=45
+already solved a=66
+NOT FOUND |G|=647460 a=90
+NOT FOUND |G|=647460 a=99
+already solved a=132
+FOUND |G|=647460 a=135 b=4796 via |H|=27 k=5 |K|=218 l=22 |Omega|=110 trial=152
+already solved a=165
+already solved a=180
+NOT FOUND |G|=647460 a=198
+FOUND |G|=647460 a=270 b=2398 via |H|=54 k=5 |K|=109 l=22 |Omega|=110 trial=2
+NOT FOUND |G|=647460 a=297
+NOT FOUND |G|=647460 a=396
+already solved a=436
+FOUND |G|=647460 a=495 b=1308 via |H|=55 k=9 |K|=654 l=2 |Omega|=18 trial=49
+already solved a=540
+already solved a=545

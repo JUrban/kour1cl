@@ -1,0 +1,4 @@
+already solved a=183
+already solved a=305
+NOT FOUND |G|=885720 a=915
+FINISHED

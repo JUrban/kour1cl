@@ -1,0 +1,16 @@
+already solved a=21
+NOT FOUND |G|=721392 a=42
+already solved a=48
+already solved a=76
+NOT FOUND |G|=721392 a=84
+NOT FOUND |G|=721392 a=133
+already solved a=152
+already solved a=168
+NOT FOUND |G|=721392 a=266
+FOUND |G|=721392 a=304 b=2373 via |H|=38 k=8 |K|=791 l=3 |Omega|=24 trial=313
+already solved a=336
+already solved a=339
+already solved a=399
+NOT FOUND |G|=721392 a=532
+FOUND |G|=721392 a=678 b=1064 via |H|=113 k=6 |K|=56 l=19 |Omega|=114 trial=290
+FINISHED

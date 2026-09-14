@@ -14,3 +14,9 @@ already solved a=220
 already solved a=264
 already solved a=267
 NOT FOUND |G|=352440 a=330
+NOT FOUND |G|=352440 a=396
+already solved a=440
+already solved a=445
+FOUND |G|=352440 a=495 b=712 via |H|=45 k=11 |K|=178 l=4 |Omega|=44 trial=137
+already solved a=534
+FINISHED

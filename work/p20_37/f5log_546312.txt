@@ -10,3 +10,5 @@ already solved a=408
 already solved a=412
 NOT FOUND |G|=546312 a=442
 already solved a=618
+NOT FOUND |G|=546312 a=663
+FINISHED

@@ -6,3 +6,11 @@ already solved a=88
 already solved a=95
 NOT FOUND |G|=175560 a=105
 already solved a=133
+NOT FOUND |G|=175560 a=140
+already solved a=152
+NOT FOUND |G|=175560 a=154
+NOT FOUND |G|=175560 a=190
+NOT FOUND |G|=175560 a=209
+NOT FOUND |G|=175560 a=210
+already solved a=228
+NOT FOUND |G|=175560 a=231

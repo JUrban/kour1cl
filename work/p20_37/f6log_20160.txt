@@ -1,0 +1,4 @@
+already solved a=35
+NOT FOUND |G|=20160 a=70
+NOT FOUND |G|=20160 a=140
+FINISHED

@@ -1,0 +1,13 @@
+already solved a=68
+already solved a=75
+already solved a=85
+already solved a=150
+already solved a=170
+already solved a=255
+already solved a=300
+already solved a=303
+NOT FOUND |G|=515100 a=340
+already solved a=404
+NOT FOUND |G|=515100 a=425
+already solved a=606
+FINISHED

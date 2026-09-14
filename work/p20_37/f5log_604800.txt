@@ -1,0 +1,13 @@
+already solved a=35
+already solved a=70
+already solved a=105
+NOT FOUND |G|=604800 a=140
+already solved a=175
+NOT FOUND |G|=604800 a=210
+already solved a=225
+already solved a=350
+NOT FOUND |G|=604800 a=420
+NOT FOUND |G|=604800 a=448
+NOT FOUND |G|=604800 a=450
+NOT FOUND |G|=604800 a=675
+FINISHED

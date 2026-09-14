@@ -1,0 +1,12 @@
+already solved a=39
+already solved a=68
+already solved a=78
+already solved a=136
+already solved a=156
+already solved a=204
+already solved a=206
+NOT FOUND |G|=546312 a=221
+already solved a=408
+already solved a=412
+NOT FOUND |G|=546312 a=442
+already solved a=618

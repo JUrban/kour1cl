@@ -1,0 +1,12 @@
+already solved a=21
+already solved a=28
+already solved a=42
+NOT FOUND |G|=456288 a=56
+NOT FOUND |G|=456288 a=84
+NOT FOUND |G|=456288 a=112
+already solved a=147
+NOT FOUND |G|=456288 a=168
+already solved a=224
+NOT FOUND |G|=456288 a=336
+already solved a=672
+FINISHED

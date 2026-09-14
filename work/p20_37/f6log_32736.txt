@@ -1,0 +1,7 @@
+already solved a=12
+already solved a=24
+already solved a=44
+already solved a=48
+already solved a=88
+already solved a=93
+already solved a=96

@@ -4,3 +4,6 @@ NOT FOUND |G|=29120 a=70
 already solved a=80
 already solved a=91
 already solved a=104
+NOT FOUND |G|=29120 a=140
+already solved a=160
+FINISHED

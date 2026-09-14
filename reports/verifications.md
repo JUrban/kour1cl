@@ -19,7 +19,7 @@ All scripts/logs are in `work/<problem>/`. "Verified for X" means: exhaustive ch
 | 11.17(b) (Brandl) | exp(G) divides the Engel period d(G) for simple G | PSL(3,3), PSU(3,3), M11, PSL(3,4), PSU(4,2), Sz(8), PSU(3,4), M12, PSL(3,5), PSU(3,5), J1: all true | `work/p11_17` |
 | 14.44 / 14.74 | k(AB) ≤ k(A)k(B) for coprime factorisations; k(G) ≤ Π k(P_i) | all groups of order ≤ 382 (running to 600) | `work/p14_44` |
 | 15.2(a) (Isaacs) | non-vanishing even-order elements of soluble G lie in F(G) | all soluble groups of even order ≤ 1000 (except 512, 768) | `work/p15_2` |
-| 16.14 (Berkovich) | 2-groups with Ω₁(G) ≤ Z(G): d(G) ≤ 2·rank Z(G) | all 2-groups of order ≤ 256 (see also the class-2 proof via Chevalley–Warning in `reports/16.14_notes.md`) | `work/p16_14` |
+| 16.14 (Berkovich) | 2-groups with Ω₁(G) ≤ Z(G): d(G) ≤ 2·rank Z(G) | all 2-groups of order ≤ 2¹¹ (direct sweep ≤ 2⁸; orders 2⁹–2¹¹ via the structure theorem for a minimal counterexample and the analysis of all candidate quotients G/Ω₁(G) in the SmallGroups library, 7.1·10⁶ groups of order 512); also order 2¹² when rank Z(G) ≥ 3 | `work/p16_14`, `reports/16.14_notes.md` |
 | 16.60 (MacHale) | T(G) ≥ |S_α| | (theorem proved in `reports/16.60_...md`); numerically checked for all groups of order ≤ 200 | `work/p16_60` |
 | 13.19 (Gorchakov) | Q/H regular | class(Q/H) ≤ n−1 proved; no counterexample (Q/H nonabelian 2-group) among all groups Q of order ≤ 192, order 256 running; none with Q ≤ D8³, Q8³ | `work/p13_19` |
 | 18.20 (Belonogov) | semiproportional irreducibles have equal degree | all groups of order ≤ 200 (running), then all library tables | `work/p18_20` |

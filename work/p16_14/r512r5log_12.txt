@@ -1,1 +1,156 @@
-
+progress 6020000 rec(
+  BAD := 0,
+  F2 := 0,
+  F3 := 11574,
+  S := 0,
+  rank := 0 )
+progress 6040000 rec(
+  BAD := 0,
+  F2 := 0,
+  F3 := 31574,
+  S := 0,
+  rank := 0 )
+progress 6060000 rec(
+  BAD := 0,
+  F2 := 0,
+  F3 := 51574,
+  S := 0,
+  rank := 0 )
+progress 6080000 rec(
+  BAD := 0,
+  F2 := 0,
+  F3 := 71574,
+  S := 0,
+  rank := 0 )
+progress 6100000 rec(
+  BAD := 0,
+  F2 := 0,
+  F3 := 91574,
+  S := 0,
+  rank := 0 )
+progress 6120000 rec(
+  BAD := 0,
+  F2 := 0,
+  F3 := 111574,
+  S := 0,
+  rank := 0 )
+progress 6140000 rec(
+  BAD := 0,
+  F2 := 0,
+  F3 := 131574,
+  S := 0,
+  rank := 0 )
+progress 6160000 rec(
+  BAD := 0,
+  F2 := 0,
+  F3 := 151574,
+  S := 0,
+  rank := 0 )
+progress 6180000 rec(
+  BAD := 0,
+  F2 := 0,
+  F3 := 171574,
+  S := 0,
+  rank := 0 )
+progress 6200000 rec(
+  BAD := 0,
+  F2 := 0,
+  F3 := 191574,
+  S := 0,
+  rank := 0 )
+progress 6220000 rec(
+  BAD := 0,
+  F2 := 0,
+  F3 := 211574,
+  S := 0,
+  rank := 0 )
+progress 6240000 rec(
+  BAD := 0,
+  F2 := 0,
+  F3 := 231574,
+  S := 0,
+  rank := 0 )
+progress 6260000 rec(
+  BAD := 0,
+  F2 := 14,
+  F3 := 251560,
+  S := 0,
+  rank := 0 )
+progress 6280000 rec(
+  BAD := 0,
+  F2 := 92,
+  F3 := 271482,
+  S := 0,
+  rank := 0 )
+progress 6300000 rec(
+  BAD := 0,
+  F2 := 126,
+  F3 := 291448,
+  S := 0,
+  rank := 0 )
+progress 6320000 rec(
+  BAD := 0,
+  F2 := 127,
+  F3 := 311447,
+  S := 0,
+  rank := 0 )
+progress 6340000 rec(
+  BAD := 0,
+  F2 := 146,
+  F3 := 331428,
+  S := 0,
+  rank := 0 )
+progress 6360000 rec(
+  BAD := 0,
+  F2 := 168,
+  F3 := 351406,
+  S := 0,
+  rank := 0 )
+progress 6380000 rec(
+  BAD := 0,
+  F2 := 179,
+  F3 := 371395,
+  S := 0,
+  rank := 0 )
+progress 6400000 rec(
+  BAD := 0,
+  F2 := 179,
+  F3 := 391395,
+  S := 0,
+  rank := 0 )
+progress 6420000 rec(
+  BAD := 0,
+  F2 := 179,
+  F3 := 411395,
+  S := 0,
+  rank := 0 )
+progress 6440000 rec(
+  BAD := 0,
+  F2 := 179,
+  F3 := 431395,
+  S := 0,
+  rank := 0 )
+progress 6460000 rec(
+  BAD := 0,
+  F2 := 179,
+  F3 := 451395,
+  S := 0,
+  rank := 0 )
+progress 6480000 rec(
+  BAD := 0,
+  F2 := 179,
+  F3 := 471395,
+  S := 0,
+  rank := 0 )
+progress 6500000 rec(
+  BAD := 0,
+  F2 := 186,
+  F3 := 491388,
+  S := 0,
+  rank := 0 )
+FINISHED ids 6008427..6516418 rec(
+  BAD := 0,
+  F2 := 186,
+  F3 := 507806,
+  S := 0,
+  rank := 0 )

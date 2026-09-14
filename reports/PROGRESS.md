@@ -89,3 +89,12 @@
   double cosets) reducing the search to tiny exact-cover problems; with it every factor size left open by
   Theorem 1 has been realised so far (PSL(2,8), PSL(2,13), PSL(2,17), PSL(2,19), PSL(2,23), PSL(2,25),
   PSL(2,27), PSL(3,4), …); all found A, B are re-verified in GAP. Report: reports/20.37_subset_factorizations.md.
+
+## 2026-09-14 02:10 UTC
+- 16.14: the order-2¹¹ case is now closed unconditionally: all 7 111 878 groups H of order 512 with d(H) = 5 fail the
+  2-covering-group test (F3′: some involution of H lifts to an involution of P*(H)) or the Frattini test (F2).
+  Theorem C: no counterexample of order ≤ 2¹¹; none of order 2¹² with rank Z(G) ≥ 3.
+- 20.21: local condition (L) excluded for all |K| ≤ 256 and for rank-3 groups of order 512; rank 4 running.
+- 20.37: 253 of the 400 non-chain-achievable factor sizes (simple groups ≤ 10⁶) realised and GAP-verified; queues
+  still running for the rest.
+- 19.56: theorem for minimal simple groups; all perfect groups ≤ 10⁵ violate the hypothesis.

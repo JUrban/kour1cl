@@ -4,3 +4,5 @@ already solved a=76
 NOT FOUND |G|=175560 a=77
 already solved a=88
 already solved a=95
+NOT FOUND |G|=175560 a=105
+already solved a=133

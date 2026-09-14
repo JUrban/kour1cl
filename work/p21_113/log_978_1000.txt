@@ -1,1 +1,23 @@
-
+done order 978 (6 groups) checked 18 pairs
+done order 979 (2 groups) checked 22 pairs
+done order 980 (34 groups) checked 124 pairs
+done order 981 (5 groups) checked 134 pairs
+done order 982 (2 groups) checked 138 pairs
+done order 983 (1 groups) checked 139 pairs
+done order 984 (46 groups) checked 277 pairs
+done order 985 (1 groups) checked 279 pairs
+done order 986 (4 groups) checked 291 pairs
+done order 987 (2 groups) checked 297 pairs
+done order 988 (11 groups) checked 330 pairs
+done order 989 (1 groups) checked 332 pairs
+done order 990 (30 groups) checked 452 pairs
+done order 991 (1 groups) checked 453 pairs
+done order 992 (196 groups) checked 845 pairs
+done order 993 (2 groups) checked 849 pairs
+done order 994 (6 groups) checked 867 pairs
+done order 995 (1 groups) checked 869 pairs
+done order 996 (10 groups) checked 899 pairs
+done order 997 (1 groups) checked 900 pairs
+done order 998 (2 groups) checked 904 pairs
+done order 999 (15 groups) checked 934 pairs
+done order 1000 (199 groups) checked 1332 pairs

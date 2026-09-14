@@ -34,7 +34,7 @@ All scripts/logs are in `work/<problem>/`. "Verified for X" means: exhaustive ch
 ### Additional verifications (2026-09-13, 13:57 UTC)
 | Problem | Statement (short) | Verified range | Scripts |
 |---|---|---|---|
-| 20.21 (Verret–Conder) | G with normal K ≅ L of index 12, G/K ≅ C₁₂, G/L ≅ A₄ | no example among all groups of order ≤ 2000 (orders with ≤ 30000 groups; all orders divisible by 12 except 1536); also no candidate K of order ≤ 256 satisfying the local necessary condition (L) (corrected version) | `work/p20_21` |
+| 20.21 (Verret–Conder) | G with normal K ≅ L of index 12, G/K ≅ C₁₂, G/L ≅ A₄ | no example among all groups of order ≤ 2000 (orders with ≤ 30000 groups; all orders divisible by 12 except 1536); also no candidate K of order ≤ 256, nor of order 512 and rank ≤ 4, satisfying the local necessary condition (L) | `work/p20_21` |
 | 20.86 (Schmid) | ℓ^p ≥ k^{p−1} (Gheri's inequality f_p^p ≥ s_p^{p−1}) for non-p-soluble groups | all 208 non-soluble groups of order ≤ 2000 (orders with ≤ 5000 groups), all 65 simple groups of order ≤ 3·10⁶; perfect groups running | `work/p20_86` |
 | 20.30 (Neumann–Vaughan-Lee) | perfect centreless G: |G| ≤ n² (n = max class size) | all perfect groups of order < 10⁶ with trivial centre | `work/p20_30` |
 | 19.30 | same order and same set of orders of vanishing elements as S ⇒ G ≅ S | S = A₅, PSL(2,7), A₆, PSL(2,8), PSL(2,11), PSL(2,13): all groups of order |S| | `work/p19_30` |

@@ -98,3 +98,11 @@
 - 20.37: 253 of the 400 non-chain-achievable factor sizes (simple groups ≤ 10⁶) realised and GAP-verified; queues
   still running for the rest.
 - 19.56: theorem for minimal simple groups; all perfect groups ≤ 10⁵ violate the hypothesis.
+
+## 2026-09-14 12:30 UTC
+- 20.21: the local condition (L) is now excluded for |K| ≤ 256, |K| = 512 of rank ≤ 4 (all 420 514 such groups),
+  and all orders 260–1000 divisible by 4 except 512 (rank ≥ 5) and 768; rank ≥ 5 at 512 is out of reach
+  (≈ 2 s per group). No candidate anywhere.
+- 20.37: 261/400 sizes realised (280 GAP-verified factorisations); searches for the hard leftovers continue.
+- 21.113: orders 960–1000 finished (sweep complete to 1000). 20.78 and 18.56 long runs stopped (partial ranges recorded).
+- Review pass over all reports (21.32, 16.60, 2.78, 18.46, 13.19, 16.14, 20.21, 21.111, 18.117): small text fixes only.

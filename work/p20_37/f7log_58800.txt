@@ -3,3 +3,9 @@ already solved a=40
 NOT FOUND |G|=58800 a=70
 already solved a=75
 already solved a=80
+NOT FOUND |G|=58800 a=105
+already solved a=120
+NOT FOUND |G|=58800 a=140
+NOT FOUND |G|=58800 a=210
+already solved a=240
+FINISHED

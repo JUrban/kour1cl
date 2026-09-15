@@ -5,3 +5,5 @@ NOT FOUND |G|=74412 a=117
 already solved a=156
 already solved a=159
 already solved a=212
+NOT FOUND |G|=74412 a=234
+FINISHED

@@ -1,0 +1,9 @@
+already solved a=44
+already solved a=51
+already solved a=102
+already solved a=132
+already solved a=134
+NOT FOUND |G|=150348 a=187
+already solved a=268
+FOUND |G|=150348 a=374 b=402 via |H|=34 k=11 |K|=201 l=2 |Omega|=22 trial=1349
+FINISHED

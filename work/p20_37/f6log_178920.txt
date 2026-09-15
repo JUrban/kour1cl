@@ -1,0 +1,6 @@
+already solved a=21
+already solved a=28
+already solved a=40
+already solved a=42
+already solved a=45
+already solved a=56

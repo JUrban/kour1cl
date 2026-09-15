@@ -5,3 +5,6 @@ __pycache__/
 work/**/*.out
 work/**/*.tmp
 venv/
+paper/bin/
+paper/main.txt
+paper/build.log

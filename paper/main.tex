@@ -1,0 +1,95 @@
+\documentclass[11pt]{article}
+\usepackage[a4paper,margin=2.5cm]{geometry}
+\usepackage{amsmath,amssymb,amsthm}
+\usepackage{booktabs,longtable,array}
+\usepackage{url}
+\usepackage[colorlinks=true,linkcolor=blue!50!black,citecolor=blue!50!black,urlcolor=blue!50!black]{hyperref}
+\usepackage{xcolor}
+\usepackage{enumitem}
+\setlist{itemsep=1pt,topsep=2pt}
+\setlength{\emergencystretch}{3em}
+\tolerance=2000
+
+\newtheorem{theorem}{Theorem}[section]
+\newtheorem{proposition}[theorem]{Proposition}
+\newtheorem{lemma}[theorem]{Lemma}
+\newtheorem{corollary}[theorem]{Corollary}
+\theoremstyle{definition}
+\newtheorem{problem}{Problem}
+\newtheorem{remark}[theorem]{Remark}
+\newtheorem{definition}[theorem]{Definition}
+
+\newcommand{\Aut}{\operatorname{Aut}}
+\newcommand{\Inn}{\operatorname{Inn}}
+\newcommand{\Out}{\operatorname{Out}}
+\newcommand{\Irr}{\operatorname{Irr}}
+\newcommand{\PSL}{\mathrm{PSL}}
+\newcommand{\PGL}{\mathrm{PGL}}
+\newcommand{\SL}{\mathrm{SL}}
+\newcommand{\PSU}{\mathrm{PSU}}
+\newcommand{\Sz}{\mathrm{Sz}}
+\newcommand{\Sym}{\mathrm{S}}
+\newcommand{\Alt}{\mathrm{A}}
+\newcommand{\GL}{\mathrm{GL}}
+\newcommand{\Ord}{\operatorname{Ord}}
+\newcommand{\F}{\mathbb{F}}
+\newcommand{\Z}{\mathbb{Z}}
+\newcommand{\Fitt}{F}
+\newcommand{\Frat}{\Phi}
+\newcommand{\Cent}{C}
+\newcommand{\Norm}{N}
+\newcommand{\rk}{\operatorname{rank}}
+\newcommand{\dd}{d}
+\newcommand{\gen}[1]{\langle #1\rangle}
+\newcommand{\code}[1]{\texttt{#1}}
+
+\title{Forty-eight hours of an AI agent on the Kourovka Notebook:\\
+five solved problems, several partial results,\\ and a record of the process}
+\author{Claude Fable 5.1 (Anthropic)\thanks{The mathematics, the computations and this text were produced by the
+AI system Claude Fable 5.1 run inside the Claude Code agent harness; see Section~\ref{sec:setting}. The human
+experimenter designed the task, set the constraints and supervised the run.}
+\and Josef Urban\thanks{Experiment design and supervision. Authorship and attribution conventions for AI-produced
+mathematics are unsettled; the reader should regard the AI system as the author of the content and the human as the
+experimenter.}}
+\date{September 2026}
+
+\begin{document}
+\maketitle
+
+\begin{abstract}
+We report on a 48-hour experiment in which a general-purpose AI agent (Claude Fable 5.1 in the Claude Code
+harness, with GAP~4.16.1 and a 20-core budget) was asked to solve as many unsolved problems as possible from the
+21st edition of the Kourovka Notebook and to document its work rigorously. The agent triaged the roughly 2300 open
+problems, launched about 190 GAP computations, and combined computer searches with short proofs. It produced
+complete answers to five problems (21.32: the property ``$G\cong H'$ for some finite $H$'' is decidable, with a
+quasi-polynomial witness bound; 16.60: $T(G)\ge |S_\alpha|$ for every automorphism $\alpha$; 2.78/3.57: the sets of
+soluble and of absolutely simple group-theoretic numbers are finite; 18.46: Klyachko's bound $|H|\le 2|G|^2$ for
+square-root overgroups is sharp; 13.19: Gorchakov's question on subdirect products has a negative answer for
+every prime), substantial partial results on seven further problems (16.14, 20.37, 20.21, 19.56, 21.26, 21.111,
+18.117), and bounded-range verifications for about thirty more. All proofs are self-contained and all
+computations are reproducible from a git repository. We describe the setting, the workflow, the mistakes made
+along the way, and what the experience suggests about using such agents for research mathematics. The status of
+the results with respect to the literature was not independently checked by the agent; some of the arguments may
+reproduce or vary known results.
+\end{abstract}
+
+\tableofcontents
+
+\input{sections/intro}
+\input{sections/setting}
+\input{sections/process}
+\input{sections/solved}
+\input{sections/partial}
+\input{sections/verifications}
+\input{sections/discussion}
+
+\bibliographystyle{plain}
+\input{sections/bib}
+
+\appendix
+\input{sections/app_proofs}
+\input{sections/app_partial}
+\input{sections/app_timeline}
+\input{sections/app_repo}
+
+\end{document}

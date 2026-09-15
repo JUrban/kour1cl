@@ -1,0 +1,506 @@
+             Problems from the 20th Issue (2022)
+
+
+20.1. For k ⩾ 1, a group G is said to be totally k-closed if in each of its faithful
+permutation representations, say on a set Ω, G is the largest subgroup of Sym(Ω)
+which leaves invariant each of the G-orbits in the induced action on the set of ordered
+k-tuples Ωk .
+   Are there any finite insoluble totally 2-closed groups with nontrivial Fitting sub-
+group?
+   The finite totally 2-closed groups which are either soluble or have trivial Fitting
+subgroup are known.      M. Arezoomand, M. A. Iranmanesh, C. E. Praeger, G. Tracey
+
+
+∗ 20.2. Are there any nonabelian simple groups of Lie type which are totally 3-closed?
+   There are exactly six nonabelian simple totally 2-closed groups — all are sporadic
+groups, the largest being the Monster.
+                         M. Arezoomand, M. A. Iranmanesh, C. E. Praeger, G. Tracey
+  ∗ Yes, there are (T. Gong, M. R. Zeng, Y. Yang, Preprint, 2026, https://arxiv.
+org/abs/2608.17878).
+
+
+20.3. For each k, each group of order k is totally k-closed, while the alternating group
+Ak is not totally (k − 2)-closed. Is there a fixed integer k such that all finite simple
+groups which are not alternating groups are totally k-closed?
+                          M. Arezoomand, M. A. Iranmanesh, C. E. Praeger, G. Tracey
+
+
+20.4. A finite group G is said to be cut (or inverse semi-rational ) if ⟨x⟩ = ⟨y⟩ implies
+that x is conjugate to y or to y −1 for all x, y ∈ G.
+    a) Let Q(G) denote the field extension of the rationals obtained by adjoining all
+entries of the ordinary character table of G. Is there c > 0 such that |Q(G) : Q| ⩽ c for
+all cut groups? This is true if one assumes in addition that G is solvable (J. F. Tent,
+J. Algebra, 363 (2012), 73–82).
+    b) Is a Sylow 3-subgroup of a cut group also a cut group?
+     c) Let Op (G) denote the largest normal p-subgroup of G. Let G be a solvable cut
+group. Is it true that for p ∈ {5, 7} the exponent of Op (G) divides p?
+    For additional information and some positive results see (Adv. Group Theory
+Appl., 8B, 2020, 157–160 or https://arxiv.org/abs/2001.02637).                 A. Bächle
+
+
+20.5. (Well-known problem). Let G be a finite group, and V(ZG) the group of
+normalized units of the integral group ring of G. Do the spectra of G and V(ZG)
+coincide? That is, is it true that, for any integer n, there is an element of order n in
+V(ZG) if and only if there is an element of order n in G?
+    The answer is “yes” if G is solvable (M. Hertweck, Comm. Algebra 36 (2008),
+3585–3588).                                                       A. Bächle, L. Margolis
+                                  20th Issue (2022)                                   147
+
+20.6. (W. Kimmerle). The prime graph (or Gruenberg–Kegel graph) Γ(X) of a group
+X has vertices labeled by primes appearing as orders of elements in X; two distinct
+primes p and q are adjacent in Γ(X) if and only if X contains an element of order pq.
+Denote by V(ZG) the group of normalized units of the integral group ring of a group
+G. Is it true that for each finite group G the prime graphs of G and V(ZG) coincide?
+    This question has been reduced to almost simple groups (W. Kimmerle, A. Kono-
+valov, Internat. J. Algebra Comput., 27 (2017), 619–631).       A. Bächle, L. Margolis
+
+
+
+
+20.7. (W. Boone and G. Higman) Does every finitely generated group with solvable
+word problem embed into a finitely presented simple group? It is known that every
+such group embeds into a simple subgroup of a finitely presented group (W. Boone,
+G. Higman, J. Austral. Math. Soc., 18, no. 1 (1974), 41–53).               J. Belk
+
+
+
+
+20.8. Suppose K < H < F are free groups of finite rank such that rank(H) <
+rank(K), but all proper subgroups of H which contain K have ranks ⩾ rank(K).
+Then is the inclusion of H in F the only homomorphism H → F fixing all elements
+of K?                                                           G. M. Bergman
+
+
+
+
+20.9. In the group algebra of a free group over a field, does every element whose
+support in the group has cardinality more than 1 generate a proper 2-sided ideal?
+   This question is one of several related questions in (G. M. Bergman, Commun.
+Algebra, 49, no. 9 (2021), 3760–3776).                              G. M. Bergman
+
+
+
+
+20.10. (a) If U and U ′ are nonprincipal ultrafilters on N, can every group which
+can be written as a homomorphic image of an ultraproduct of groups with respect to
+U also be written as a homomorphic image of an ultraproduct of groups with respect
+to U ′ ?
+ ∗ (b) If the answer to (a) is negative, is it at least true that for any two nonprincipal
+ultrafilters U and U ′ on N, there exists a nonprincipal ultrafilter U ′′ on N such
+that every group which can be written as a homomorphic image of an ultraproduct
+of groups with respect to U or with respect to U ′ can be written as a homomorphic
+image of an ultraproduct with respect to U ′′ ?
+    A positive answer to (b) would imply that the class of groups which can be written
+as homomorphic images of nonprincipal countable ultraproducts of groups is closed
+under finite direct products. See (G. M. Bergman, Pacific J. Math., 274 (2015), 451–
+495).                                                                       G. M. Bergman
+  ∗ (b) The affirmative answer is consistent with the ZFC axioms of set theory
+(S. M. Corson, Preprint, 2025, https://arxiv.org/pdf/2503.09228).
+148                                   20th Issue (2022)
+
+20.11. Let F ⩽ H be free groups such that there exists a free group G of finite rank
+with F ⩽ G ⩽ H, and let r be the least of the ranks of such groups G. Which, if any,
+of the following statements must hold?
+    (i) There is a largest G of rank r between F and H.
+   (i′ ) For any two G1 , G2 of rank r between F and H, the subgroup ⟨G1 , G2 ⟩ has
+rank r.
+   (ii) There is a smallest G of rank r between F and H.
+  (ii′ ) For any two G1 , G2 of rank r between F and H, the subgroup G1 ∩ G2 has
+rank r.
+     If (i) holds for all such F and H, then so does (i′ ). If (ii) holds for all F , H, then
+so does (ii′ ). The converse of the former implication holds because subgroups of a free
+group of any fixed finite rank satisfy ACC, but I don’t see a way to get the converse
+of the other implication.                                                    G. M. Bergman
+
+
+
+
+20.12. Let us say that a group G has the unique n-fold product property (u.-n-p.) if
+for every n-tuple of finite nonempty subsets A1 , . . . , An ⊆ G there exists g ∈ G which
+can be written in one and only one way as g = a1 · · · an with ai ∈ Ai . It is easy to
+see that u.-n-p. implies u.-m-p. for n ⩾ m (since some of the Ai can be {1}).
+    Are the conditions u.-n-p. (n ⩾ 2) all equivalent to u.-2-p., the usual unique
+product condition?                                                         G. M. Bergman
+
+
+
+
+∗ 20.13. (a) If an abelian group can be written as a homomorphic image of a non-
+principal countable ultraproduct of not necessarily abelian groups Gi , must it be a
+homomorphic image of a nonprincipal countable ultraproduct of abelian groups? See
+(G. M. Bergman, Pacific J. Math., 274 (2015), 451–495).
+   (b) If an abelian group can be written as a homomorphic image of a direct product
+of an infinite family of not necessarily abelian finite groups, can it be written as a
+homomorphic image of a direct product of finite abelian groups?
+    To see that neither question is trivial, choose for each n > 0 a finite group Gn
+which is perfect but has elements which cannot be written as products of fewer than
+n commutators. Then both the direct product of the Gn and any nonprincipal ultra-
+product of those groups will have elements which are not products of commutators;
+hence its abelianization A will be nontrivial. There is no evident family of abelian
+groups from which to obtain A as an image of a nonprincipal ultraproduct, nor a fam-
+ily of finite abelian groups from which to obtain A as an image of a direct product.
+                                                                   G. M. Bergman
+  ∗ (a) Yes, it must (S. M. Corson, Preprint, 2025, https://arxiv.org/pdf/2503.
+09228).
+  ∗ (b) Yes it can (S. M. Corson, Preprint, 2025, https://arxiv.org/pdf/2503.
+09228).
+                                 20th Issue (2022)                                   149
+
+20.14. (a) Do there exist a variety V of groups and a group G ∈ V such that the
+coproduct in V of two copies of G is embeddable in G, but the coproduct of three
+such copies is not? See (G. M. Bergman, Indag. Math., 18 (2007), 349–403).
+   Given an embedding G ∗V G → G, one might expect the induced map
+                            G ∗V (G ∗V G) → G ∗V G → G
+to be an embedding. But this is not automatic, because in a general group variety V,
+a map G ∗V A → G ∗V B induced by an embedding A → B is not necessarily again
+an embedding.
+   (b) If there exist V and G as in (a), does there in fact exist an example with V the
+variety of groups generated by G? For this and related questions, see (G. M. Bergman,
+Algebra Number Theory, 3 (2009), 847–879).                               G. M. Bergman
+
+
+
+
+20.15. Let κ be an infinite cardinal. If a residually finite group G is embeddable
+in the full permutation group of a set of cardinality κ, must it be embeddable in
+the direct product of κ finite groups? See (G. M. Bergman, Indag. Math., 18 (2007),
+349–403).
+    The converse is true: any such direct product is residually finite and embeddable
+in the indicated permutation group. Also, the statement asked for becomes true if one
+replaces “direct product of κ finite groups” by “direct product of 2κ finite groups”,
+since G has cardinality at most 2κ , hence homomorphisms to that many finite groups
+can be chosen which, together, separate each element of G from e. G. M. Bergman
+
+
+
+
+20.16. By Hartley’s theorem (based on CFSG), if a simple locally finite group does
+not contain a particular finite group as a section, then it is isomorphic to a group of
+Lie type over a locally finite field.
+    a) Is the same true for an infinite definably simple locally finite group? A group is
+said to be definably simple if it does not contain proper definable normal subgroups.
+    b) The same question for an infinite definably simple locally finite group with
+bounded derived lengths of its solvable subgroups.                          A. V. Borovik
+150                                   20th Issue (2022)
+
+20.17. The normal covering number γ(G) of a finite non-cyclic group G is the mini-
+mum number of proper subgroups of G such that G is the union of their conjugates.
+∗ (ae) What is the exact value of lim inf γ(S )/n?
+                                             n
+                                     n even
+ (ao) What is the exact value of lim inf γ(Sn )/n?
+                                     n odd
+   Comment of 2025: It belongs to [1/12, 1/6] for n odd (S. Eberhard, C. Mellon,
+Bull. London Math. Soc. (2025), https://doi.org/10.1112/blms.70154).
+  (b) What are the exact values of lim inf γ(An )/n and lim inf γ(An )/n?
+                                        n even              n odd
+    Comment of 2025: These belong to [1/18, 1/6] for n even, and to [1/6, 4/15] for
+n odd (S. Eberhard, C. Mellon, Bull. London Math. Soc. (2025), https://doi.org/
+10.1112/blms.70154).
+ ∗ (c) What is the exact value of lim sup γ(S )/n?
+                                                 n
+                                     n even
+      It is known that lim sup γ(Sn )/n = 1/2.
+                        n odd
+ ∗ (d) What are the exact values of lim sup γ(A )/n and lim sup γ(A )/n?
+                                                     n                 n
+                                        n odd                n even
+                                                 D. Bubboloni, C. E. Praeger, P. Spiga
+  ∗ (ae) It is 1/6 (S. Eberhard, C. Mellon, Bull. London Math. Soc. (2025), https:
+//doi.org/10.1112/blms.70154).
+  ∗ (c) It is 1/4 (S. Eberhard, C. Mellon, Bull. London Math. Soc. (2025), https:
+//doi.org/10.1112/blms.70154).
+  ∗ (d) These are 1/3 for the odd case, and 1/4 for the even case (S. Eberhard,
+C. Mellon, Bull. London Math. Soc. (2025), https://doi.org/10.1112/blms.
+70154).
+
+20.18. Let Rpk be the variety of class 2 nilpotent groups of exponent pk , where p is
+a prime number and k ⩾ 2. It is true that for every p and k there are infinitely many
+subquasivarieties of Rpk each of which is generated by a finite group with derived
+subgroup of exponent pk and does not have an independent basis of quasi-identities?
+                                                                           A. I. Budkin
+
+20.19. A subgroup H of a group G is called commensurated if for all g ∈ G, the
+index |H : H ∩ gHg −1 | is finite. Can a non-abelian free group (or a non-elementary
+hyperbolic group) contain two infinite commensurated subgroups A, B with a trivial
+intersection? The answer is negative if A or B is normal.               P.-E. Caprace
+
+20.20. Let E(l, m, n) be a group on generators a, b with the presentation ⟨a, b |
+al = 1, (ab)m = bn ⟩, where l, m, n satisfy 1/l + 1/m + 1/n < 1. Are there any values
+for l, m, n such that E(l, m, n) is shortlex automatic?
+    It is known that E(6, 2, 6) is not shortlex automatic.                   C. Chalk
+
+20.21. (G. Verret). Does there exist a finite group G with two normal subgroups
+K and L, each with index 12 in G, such that K is isomorphic to L, but G/K is
+isomorphic to C12 , while G/L is isomorphic to A4 ?                   M. Conder
+∗ 20.22. Let G be a non-free and non-cyclic one-relator group in which every subgroup
+of infinite index is free. Is G a surface group?   B. Fine, G. Rosenberger, L. Wienke
+  ∗ Yes, it is (H. Wilton, Preprint, 2024, https://arxiv.org/abs/2406.02121).
+                                  20th Issue (2022)                                    151
+
+∗ 20.23. Is there a constant δ with 0 < δ < 1 and an integer N such that whenever
+A, B, and C are conjugacy classes in the alternating group Alt(n) each of size at least
+|Alt(n)|δ with n ⩾ N , then ABC = Alt(n)?                      M. Garonzi, A. Maróti
+  ∗ Yes, there are (D. Dona, Preprint, 2025, https://arxiv.org/abs/2505.06012).
+
+                                √
+20.24. Does the group SL2 (Z[ 2]) admit a faithful transitive amenable action?
+   This is the same as asking if it admits any co-amenable subgroup except the finite
+index subgroups.                                               Y. Glasner, N. Monod
+
+20.25. Let n = k 2 . Let σ ∈ Sn be the product of k disjoint cycles, of lengths
+1, 3, 5, . . . , 2k − 1. Find the limiting proportion of odd entries in the σ-column of the
+character table of Sn .
+    For some background, see pages 1005–1006 in (D. Gluck, Proc. Amer. Math. Soc.,
+147 (2019), 1005–1011).                                                            D. Gluck
+
+20.26. Let ϕ be the Euler totient function. Does there exist a constant a > 0 such
+that |Aut(G)| ⩾ ϕ(|G|)a
+    a) for every finite group G?
+    b) for every finite nilpotent group G?
+   If such a constant a exists, then a ⩽ 40
+                                          41 (J. González-Sánchez, A. Jaikin-Zapirain,
+Forum Math. Sigma, 3, Article ID e7, 11 p., electronic only (2015)). Also cf. Archive
+12.77.                                         J. González-Sánchez, A. Jaikin-Zapirain
+
+∗ 20.27. Let G be a finite group, p a prime number, and let |xG | denote the maximum
+                                                                  p
+power of p that divides the class size of an element x ∈ G. Suppose that there exists
+a p-element g ∈ G such that |g G |p = maxx∈G |xG |p . Is it true that G has a normal
+p-complement?
+   A partial answer is in (https://arxiv.org/abs/1812.03641).          I. B. Gorshkov
+  ∗ No, not necessarily, a counterexample is given by SmallGroup(192,945) (B. Sam-
+bale, Letter of 16 February 2022).
+
+20.28. Let L be a non-abelian finite simple group, and let H(L) = M (L).L be the
+universal perfect central extension, where M (L) is the Schur multiplier of L. Suppose
+that G is a finite group such that the set of class sizes of G is the same as the set of
+class sizes of H(L). Is it true that G ≃ H(L) × A, where A is an abelian group?
+    This is proved for L = Alt5 in (J. Algebra Appl., 21, no. 11 (2022), Article ID
+2250226, 8 p.).                                                          I. B. Gorshkov
+
+20.29. Let S be a non-abelian finite simple group. Is it true that for any n ∈ N, if
+the set of class sizes of a centreless finite group G is the same as the set of class sizes
+of the direct power S n , then G ≃ S n ?
+    This is proved for S = Alt25 in (J. Algebra Appl., 21, no. 11 (2022), Article ID
+2250226, 8 p.).                                                            I. B. Gorshkov
+
+20.30. (P. M. Neumann and M. R. Vaughan-Lee). Let G be a perfect and centreless
+finite group, and let n be the maximum size of a conjugate class in G. Is it true that
+|G| ⩽ n2 ?                                                             I. B. Gorshkov
+152                                     20th Issue (2022)
+
+20.31. Let ω(G) denote the set of element orders of a finite group G, and h(G) the
+number of pairwise nonisomorphic finite groups H with ω(H) = ω(G). Find h(L),
+where
+   a) L is the symmetric group of degree 10;
+   b) L is the automorphism group of the simple sporadic Janko group J2 ;
+   c) P SL(2, q) < L ⩽ Aut(P SL(2, q)).
+See the current status in (M. A. Grechkoseeva, V. D. Mazurov, W. J. Shi, A. V. Vasil’ev,
+N. Yang, Commun. Math. Stat., 11, no. 2 (2023), 169–194; Subsection 4.2).
+                                                         M. A. Grechkoseeva, A. V. Vasil’ev
+
+20.32. (E. Rapaport Strasser). The Lovász conjecture states that a vertex-transitive
+connected graph is Hamiltonian. In the special case of Cayley graphs, one can
+ask the following. Consider a set A which generates a group G and is symmetric
+(x ∈ A implies x−1 ∈ A). Is there a list a1 , a2 , . . . , an of elements of A such that
+a1 , a1 a2 , a1 a2 a3 , . . . , a1 a2 · · · an is a complete list of the elements of G? B. Green
+
+20.33. (A. Bauer). Does Higman’s Embedding Theorem relativize in the following
+way? Is it the case that for every subset X ⊆ N, there is a finitely generated group
+GX that has an X-computable presentation (that is, there is a finite generating set
+relative to which the set of relations is computably enumerable with an X oracle),
+and such that any finitely generated group has an X-computable presentation if and
+only if it can be embedded as a finitely generated subgroup of a quotient of a free
+product of finitely many copies of GX by the normal closure of a finite subset?
+    Higman’s Embedding Theorem says that for computable X, one may take GX = Z.
+                                                                                   J. Grochow
+
+20.34. Let f be an inner screen of a saturated formation F and suppose that a finite
+group A acts faithfully and f -hypercentrally on a finite group G. Is it true that
+G ⋊ A ∈ F for all G ∈ F if and only if F is a Fitting class?               W. Guo
+
+20.35. (Well-known problem). Let S be a connected orientable hyperbolic surface of
+finite type and complexity at least 2. Does its mapping class group M CG(S) have a
+non-elementary hyperbolic quotient?
+    An affirmative answer is known when S is a closed genus-2 surface (https://
+arxiv.org/pdf/2005.00567.pdf), and in the same paper it is shown that the answer
+will be affirmative provided certain hyperbolic groups are residually finite. See also a
+closely related question 16.108 about braid groups.                           M. Hagen
+
+20.36. The free Burnside group of exponent four on three generators, B(3, 4), has
+order 269 as shown by Bayes, Kautsky, and Wamsley (1974). Their proof is based
+on a theorem of Sanov (1940) which shows that B(n, 4) is finite. Sanov’s proof for
+B(3, 4) uses more than 232 fourth powers, because the subgroup of B(3, 4) generated
+by two of its generators and the square of the third has order 232 . It is also known
+that B(3, 4) needs at least 105 relations to define it, as shown by Havas and Newman
+(1980).
+    a) Can B(3, 4) be defined with fewer than a million fourth powers?
+   b) Can B(3, 4) be defined with fewer than a thousand fourth powers?
+    c) What is the smallest number of fourth powers which define B(3, 4)?
+                                                                    G. Havas, M. F. Newman
+                                 20th Issue (2022)                                   153
+
+20.37. Is it true that for every finite group G and every factorization |G| = ab there
+exist subsets A, B ⊆ G with |A| = a and |B| = b such that G = AB? Cf. 19.35 in
+Archive.
+    Comment of 2025: any minimal counterexample G must be a simple group without
+prime-index subgroups (R. R. Bildanov, V. A. Goryachenko, A. V. Vasil’ev, Siberian
+Electron. Math. Rep., 17 (2020), 683–689; M. H. Hooshmand, Commun. Algebra,
+49, no. 7 (2021), 2927–2933).                                       M. H. Hooshmand
+
+20.38. Suppose that H is an almost simple group of Lie type and G is a finite group
+such that G and H have the same sets of degrees of irreducible complex characters.
+Must there exist an abelian normal subgroup A of G such that G/A is isomorphic
+to H?
+   Comment of 2025: The conjecture was confirmed for projective general linear and
+unitary groups of dimension 3 (F. Shirjian, A. Iranmanesh, Illinois J. Math., 64, no. 1
+(2020), 49–69).                                                         A. Iranmanesh
+
+20.39. Let F be a non-abelian finitely generated free group, 1 ̸= w ∈ F , and n ⩾ 1.
+Is the group ⟨F, t | tn = w⟩ linear of degree 2 over a field of characteristic 0 if w is
+not a proper power in F ?
+    This question is motivated by the following well-known question: is it true that
+the free Q-group F Q is linear over a field? (See 13.39(b).)        A. Jaikin-Zapirain
+
+20.40. Let G be a κ-existentially closed group of cardinality λ > κ, where κ is a
+regular cardinal. Is it true that |Aut(G)| = 2λ ?
+    The answer is known to be affirmative if λ = κ (B. Kaya, M. Kuzucuoğlu,
+P. Longobardi, M. Maj, J. Algebra, 666 (2025), 840–849). B. Kaya, M. Kuzucuoğlu
+
+
+∗ 20.41. (L. Ciobanu, B. Fine, G. Rosenberger). Suppose that G is a non-cyclic resid-
+ually finite group in which every subgroup of finite index (including the group itself)
+is defined by a single defining relation, while all infinite index subgroups are free. Is
+it true that G is either free or isomorphic to the fundamental group of a compact
+surface?
+    See Archive 7.36 for a negative solution of a similar question without the assump-
+tion on infinite index subgroups.                                              D. Kielak
+  ∗ Yes, it is true (H. Wilton, Preprint, 2024, https://arxiv.org/abs/2406.02121).
+
+
+20.42. (Y. Cornulier, A. Mann, A. Thom). Does there exist a finitely generated resid-
+ually finite group that is not (elementary) amenable and satisfies a nontrivial group
+law?                                                                        S. Kionke
+
+20.43. Is every family of finite groups satisfying a common group law uniformly
+amenable?                                                   S. Kionke, E. Schesler
+
+20.44. The definition of CT(Z) is given in 17.57. Is it true that a finitely generated
+subgroup of CT(Z) either has only finitely many orbits on Z or there is a set of
+representatives for its orbits on Z which has positive density?                S. Kohl
+154                                   20th Issue (2022)
+
+20.45. Let n be a positive integer, and let G ⩽ GL(n, Z) be finitely generated. Given
+a bound b ∈ N, let eb be the number of elements of G all of whose matrix entries have
+absolute value ⩽ b. Does the limit lim ln eb / ln b always exist?              S. Kohl
+                                      b→∞
+
+
+
+20.46. A group action on a compact space is said to be topologically free if the set of
+points with trivial stabilizer is dense. Let G be a locally compact group, and ∂sp G its
+Furstenberg boundary (the largest minimal and strongly proximal compact G-space).
+Let Γ1 and Γ2 be two lattices in G, both acting faithfully on ∂sp G.
+   a) Is it possible that the Γ1 -action on ∂sp G is topologically free, but the Γ2 -action
+on ∂sp G is not topologically free?
+   b) If yes, can this also happen if ∂sp G = G/H is a homogeneous G-space?
+                                                                            A. Le Boudec
+
+20.47. Let G = Fn be a finitely generated free group. Let X be a compact G-space
+on which the G-action is faithful, minimal, and strongly proximal. Does it follow that
+the action is topologically free?                        A. Le Boudec, N. Matte Bon
+
+20.48. Suppose that P is a finite p-group with a non-trivial partition (which is
+equivalent to having proper Hughes subgroup Hp (P ) := ⟨g ∈ P | g p ̸= 1⟩ ̸= P ). If P
+admits a fixed-point-free automorphism of prime order, must P be of exponent p?
+                                                                                 M. Lewis
+
+20.49. Is it true that any finite group contains a 2-generated subgroup with the same
+exponent?
+    An affirmative answer is known for soluble groups. It is also known that any
+finite group contains a 3-generated subgroup with the same exponent (E. Detomi,
+A. Lucchini, J. London Math. Soc. (2), 87, no. 3 (2013), 689–706).        A. Lucchini
+
+20.50. For a positive integer m, let Gm be the largest group generated by m invo-
+lutions such that (xy)4 = 1 for any two involutions x, y ∈ Gm . What is the order of
+G4 ?
+    It is known that the order of G3 is equal to 211 . Also cf. 18.58. D. V. Lytkina
+
+20.51. Is it true that for every odd integer t > 3 there exists a finite non-abelian
+group G of odd order with exactly t conjugacy classes?                   D. MacHale
+
+20.52. A famous result of Burnside states that if k(G) is the number of conjugacy
+classes of a finite group G of odd order, then |G| − k(G) is divisible by 16. Is it true
+that for every integer m > 0 there exists a finite non-abelian group G(m) of odd order
+such that |G(m)| − k(G(m)) = 16m?                                          D. MacHale
+
+20.53. A nonisotropic unitary graph Γ is distance-regular with intersection array
+{q(q − 1), (q + 1)(q − 2), q + 1; 1, 1, q(q − 2)} for some prime power q. The group
+G = Aut(Γ) acts transitively on the vertex set and on the edge set of Γ. It is known
+that Γ is distance-transitive if q = 3. Does there exist a distance-regular graph with
+such an intersection array if q is not a prime power?                   A. A. Makhnev
+                                  20th Issue (2022)                                     155
+
+20.54. A distance-regular graph of diameter 3 with the second eigenvalue θ1 = a3 is
+called a Shilla graph. For a Shilla graph Γ the number a = a3 divides k and we set
+b = b(Γ) = k/a. Koolen and Park proved that there are 12 feasible intersection arrays
+of Shilla graphs with b = 3. At present it is proved that a Shilla graph with b = 3
+has intersection array {12, 10, 3; 1, 3, 8} (Doro graph), {12, 10, 5; 1, 1, 8} (nonisotropic
+unitary graph for q = 4), or {15, 12, 6; 1, 2, 10}. The automorphisms of the last graph
+were found by A. Makhnev and N. Zyulyarkina (Doklady Maths., 84, no. 1 (2011),
+510–514). Does the graph with intersection array {15, 12, 6; 1, 2, 10} exist?
+                                                              A. A. Makhnev, D. O. Revin
+
+20.55. Are there soluble finite groups G and H, of derived lengths 2 and 4 and having
+identical character tables?
+   Pairs of nonisomorphic soluble finite groups with identical character tables and
+with derived lengths n and n + 1 for any n ⩾ 2 were constructed in (S. Mattarei,
+J. Algebra, 175 (1995) 157–178).                                           S. Mattarei
+
+20.56. Is a periodic group G locally finite if it is generated by involutions and the
+centralizer of every involution in G is locally finite?                V. D. Mazurov
+
+20.57. Is a periodic group G locally finite if every finite subgroup of G is contained
+in a subgroup of G isomorphic to a finite alternating group?            V. D. Mazurov
+
+20.58. Let ω(G) denote the set of element orders of a finite group G. A finite group G
+is said to be recognizable (by spectrum) if every finite group H with ω(H) = ω(G) is
+isomorphic to G.
+   ∗ a) Is it true that for every n there is a recognizable group that is the n-th direct
+power of a nonabelian simple group?
+    b) Is it true that there is a nonabelian simple group L such that for every n there
+is a recognizable group whose socle is the k-th direct power of L for some k ⩾ n?
+                                                      V. D. Mazurov, A. V. Vasil’ev
+  ∗ a) Yes, it is true (N. Yang, I. Gorshkov, A. Staroletov, A. V. Vasil’ev, Annali
+Matem. Pura Appl., 202 (2023), 2699–2714).
+
+20.59. A subgroup H is called a virtual retract of a group G if H is a retract of
+a finite-index subgroup of G. Is it true that every finitely generated subgroup of a
+finitely generated virtually free group is a virtual retract?
+    For motivation and partial results see (A. Minasyan, Int. Math. Res. Notes,
+2021, no. 17 (2021), 13434–13477).                                       A. Minasyan
+
+20.60. We say that G is a virtually compact special group if G has a finite-index
+subgroup which is isomorphic to the fundamental group of a compact special complex
+(in the sense of F. Haglund, D. T. Wise, Geom. Funct. Anal., 17, no. 5 (2008), 1551–
+1620). Let G be a virtual retract of a finitely generated right-angled Artin group.
+Must G be a virtually compact special group?
+    An affirmative answer would provide an algebraic characterization of the class of
+virtually compact special groups as the class groups admitting finite index subgroups
+that are virtual retracts of right-angled Artin groups.                   A. Minasyan
+156                                   20th Issue (2022)
+
+20.61. Suppose that G is a virtually compact special group. Is it true that the
+centralizer of any element in G is itself virtually compact special? A. Minasyan
+
+20.62. (J. Dixmier) A group is said to be unitarisable if its every uniformly
+bounded representation on a Hilbert space is unitarisable. Is every unitarisable group
+amenable?                                                                    N. Monod
+
+20.63. a) Prove that every unitarisable group has trivial cost.
+   This is known to be true for residually finite groups (I. Epstein, N. Monod, Int.
+Math. Res. Notes, 2009, no. 22 (2009), 4336–4353).
+   b) At least prove that every unitarisable group has vanishing first L2 Betti number.
+                                                                                N. Monod
+

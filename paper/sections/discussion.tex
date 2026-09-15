@@ -1,0 +1,77 @@
+\section{Discussion}\label{sec:discussion}
+
+\subsection{What the results are worth}
+The five ``solved'' problems fall into three types. Two (18.46 and 13.19) are decided by an explicit object: a
+group of order 128 (respectively $2^9$) whose relevant property is checked by a finite computation, plus a proof
+that nothing smaller works (18.46) or a general construction (13.19). Two (21.32 and 2.78) are proved by short but
+non-trivial arguments---a Baer-sum manipulation of central extensions, and a product formula together with an
+explicit family of $p$-groups. One (16.60) is a reduction of the question to a classical theorem. In all cases the
+proofs are complete and elementary, and the computations are reproducible from the repository. The agent was not
+able to determine whether any of these answers already exist in the literature; the problems were all listed as
+unsolved in the 21st edition, but 2.78 is sixty years old and 16.60 twenty, and it would not be surprising if
+parts were known.
+
+The partial results are of a different kind. For 16.14 and 20.37 the agent proved genuine theorems (a structure
+theorem for minimal counterexamples; a perfect-matching theorem for coset unions) that reduce the problems to
+finite checks in a range, and then carried out the checks. For 19.56 the reduction to Frattini extensions of
+minimal simple groups is a clean statement, but the remaining step could not be done. For 20.21 the agent proved
+two impossibility lemmas and searched further than the previous state of knowledge (the problem's comment asks
+for a group of order at least 6144). In each case the report states precisely what is proved and what is
+computed.
+
+\subsection{Reliability}
+Three mechanisms supported reliability. (1)~\emph{Independent verification of computational claims}: every
+counterexample or construction was recomputed by a second method, and every 20.37 factorisation was rechecked by
+brute-force multiplication in GAP. This caught a real bug (the coset-side error) and gave confidence in the others.
+(2)~\emph{Self-review}: on the second day the agent re-read every report line by line, checked each step of the
+proofs (recorded in the transcript), and corrected several imprecise statements (an unjustified ``more
+generally'' clause in the 21.26 note, a vague ``chain'' claim in the 20.21 note, an overstated list of completely
+settled groups in 20.37). (3)~\emph{Honest bookkeeping}: the verification table records ranges actually completed,
+and the notes list literature dependencies that could not be checked.
+
+The obvious weakness is the literature. The agent could search the web but could not read paywalled papers, and
+did not attempt to find prior work on most of the problems it attacked. A human reviewer should therefore first
+check whether the ``solved'' problems are already solved; the mathematics itself should be checkable in a few
+hours per problem from the appendices.
+
+A second weakness is that all mathematical claims were checked only by the same system that produced them. The
+proofs in Appendix~\ref{app:proofs} are written so that a reader can verify each step; nothing depends on the
+agent's authority.
+
+\subsection{What worked and what did not}
+The combination of a computer algebra system with an agent that can write and run code quickly is well suited to
+this kind of problem list: many notebook problems ask whether a phenomenon occurs, and the SmallGroups library
+answers such questions up to order 2000 in minutes. The agent's most productive pattern was ``compute first, then
+prove'': the sharpness of Klyachko's bound, the class-2 construction for Gorchakov's problem, and the exclusion
+strategy for Berkovich's problem all came from looking at data. Delegating the triage to sub-agents was
+efficient (about 2300 problems read in an hour) but lossy (one report exceeded the output limit and part of it was
+lost).
+
+What did not work: attempts at general proofs where the problem is genuinely hard (the general case of 16.14, the
+Frattini lifting in 19.56, the $t=4$ case of 20.21); the agent recognised this fairly quickly each time and moved to
+partial results. Two sweeps were started on a vacuous or wrong formulation and had to be redone. Long searches
+sometimes ran without producing progress output, so their coverage could not be reported precisely, and one
+(20.21, rank $\ge 5$ at order 512) turned out to be infeasible only after seven hours.
+
+\subsection{Recommendations}
+For anyone repeating such an experiment:
+\begin{itemize}
+\item Provide literature access (a searchable database of MathSciNet/zbMATH reviews or the notebook's archive of
+solved problems); the largest uncertainty about the value of the results is their novelty.
+\item Insist, as here, on independent verification of every computational claim; it is cheap and it works.
+\item Make the agent write reports as it goes; the reports were the basis for the final self-review and for this
+paper, and the git history is what allowed the timestamp error to be corrected.
+\item Budget the final hours explicitly (the agent planned a consolidation phase but mis-scheduled it by misreading a
+clock); a harness-provided deadline notification would have avoided this.
+\item Prefer many small, well-instrumented sweeps with progress output over a few large ones.
+\end{itemize}
+
+\subsection{Outlook}
+Several of the partial results suggest natural continuations: for 20.37, the cases $\PSL(3,4)$ and $\Sz(8)$ with
+factor sizes 70 and 140 are small enough for an exhaustive (rather than randomised) search and would be the first
+genuine test of the conjecture beyond subgroup-based constructions; for 16.14, the case $r=2$ could be closed with
+the classification of 2-groups with three involutions, and the structure theorem may admit a purely theoretical
+continuation through the 2-covering group; for 19.56, a uniform treatment of Frattini extensions of minimal simple
+groups seems within reach of a specialist; for 2.78, the remaining question is whether every $k\ge 9$ is the
+number of $\mathrm{IE}\bar n$-systems of some simple group, which depends on the arithmetic of the subgroup orders
+of $\PSL(2,q)$.

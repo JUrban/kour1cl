@@ -1,0 +1,95 @@
+\section{Partial results}\label{sec:partial}
+
+The full statements and proofs of the theorems in this section are in Appendix~\ref{app:partial}.
+
+\subsection{Problem 16.14 (Ya.~G.~Berkovich): 2-groups with central involutions}
+\begin{problem}[16.14]
+Let $G$ be a finite 2-group with $\Omega_1(G)\le Z(G)$. Is $\rk(G/G^2)\le 2\,\rk Z(G)$?
+\end{problem}
+Write $E=\Omega_1(G)$, $r=\rk E=\rk Z(G)$ and $d=d(G)=\rk(G/G^2)$; the bound $d\le 2r$ is attained by $Q_8^r$.
+The agent proved: (A) the answer is yes for groups of class $\le 2$ with $G^2\le Z(G)$, by a Chevalley--Warning
+argument applied to the squaring map $G/(Z(G)G^2)\to Z(G)/Z(G)^2$, which is a quadratic map without non-trivial
+zeros; (B) a counterexample of minimal order has $d=2r+1$, $E\le\Phi(G)$, all maximal subgroups extremal with
+the same Frattini subgroup, every element $g\notin E$ has order $2|gE|$, every elementary abelian subgroup of
+$H=G/E$ has rank $\le 2r$, every subgroup of $H$ with trivial Schur multiplier is abelian, and $|G|\ge 2^{3r+2}$;
+(C) there is no counterexample of order $\le 2^{11}$, and none of order $2^{12}$ with $r\ge 3$. Part (C) is a
+computation guided by (B): a counterexample $G$ is a central extension of a group $H$ in the SmallGroups library
+by $E=C_2^r$ in which no involution of $H$ lifts to an involution; for each candidate $H$ this is tested through
+the 2-covering group $F/R^2[F,R]$ of $H$ (ANUPQ). All $7\,111\,878$ groups of order 512 with $d(H)=5$ and all
+groups of order $\le 256$ with the relevant rank were excluded. For $r=2$ and orders $\ge 2^{12}$ the agent
+relies on the classification of 2-groups with exactly three involutions (Konvisser, Janko), which it could not
+consult.
+
+\subsection{Problem 20.37 (M.~H.~Hooshmand): subset factorisations $G=AB$}
+\begin{problem}[20.37]
+Is it true that for every finite group $G$ and every factorisation $|G|=ab$ there are subsets $A,B\subseteq G$ with
+$|A|=a$, $|B|=b$ and $G=AB$? (A minimal counterexample is simple without prime-index subgroups.)
+\end{problem}
+Call a factor size $a$ \emph{chain-achievable} if it can be obtained from subgroup chains and transversals. The
+agent computed the chain-achievable sizes for all non-abelian simple groups of order $\le 10^6$; $\PSL(2,8)$ is
+the smallest group with non-chain-achievable sizes ($12\cdot 42$ and $21\cdot 24$), and 43 of the 56 simple groups
+below $10^6$ have such sizes---400 pairs in all. Two constructions cover most of them:
+\begin{theorem}\label{thm:2037}
+Let $H\le K\le G$ with $|K:H|$ even and $K=\gen{H,x}$ for some $x$. Then there is $B\subseteq K$ with
+$K=(H\cup Hx)B$, so $2|H|$ is a factor size of $K$ and of $G$.
+\end{theorem}
+The proof is a perfect matching in a connected vertex-transitive graph on the coset space $H\backslash K$, which
+exists by the Gallai--Edmonds structure theorem. The second construction takes $A=HX$ (a union of right cosets of
+$H$) and $B=YK$ (a union of left cosets of $K$) for subgroups $H,K$ with regular double cosets; $G=AB$ then reduces
+to an exact cover of the double coset space $H\backslash G/K$, which is small and was solved by a randomised
+dancing-links search. In this way 267 of the 400 sizes were realised by explicit sets, every one re-verified in
+GAP by direct multiplication; $\PSL(2,q)$ is completely settled for $q\le 47$ and many larger $q$. The smallest
+open cases are $70\cdot 288$ and $140\cdot 144$ for $\PSL(3,4)$ and $70\cdot 416$, $140\cdot 208$ for $\Sz(8)$,
+which resisted $3\cdot 10^5$ random attempts.
+
+\subsection{Problem 20.21 (G.~Verret / M.~Conder): $K\cong L$ with $G/K\cong C_{12}$, $G/L\cong A_4$}
+\begin{problem}[20.21]
+Is there a finite group $G$ with normal subgroups $K\cong L$ of index 12 such that $G/K\cong C_{12}$ and
+$G/L\cong A_4$?
+\end{problem}
+The agent showed that in any example $I=K\cap L$ satisfies $K/I\cong V_4$, $L/I\cong C_4$, $G/I\cong C_4\times A_4$,
+and $K$ must satisfy a ``local condition'' (L): $K$ has normal subgroups $I$ and $I'\cong I$ with $K/I\cong V_4$,
+$K/I'\cong C_4$, and an automorphism stabilising $I$ that permutes the non-trivial cosets of $I$ cyclically. Two
+lemmas exclude (L) for abelian $K$ and whenever $I\cdot I'\ne K$ (an involution-counting argument in two coset
+decompositions); computationally, no group of order $\le 2000$ is an example, and no group of order $\le 256$, of
+order $512$ and rank $\le 4$, or of order $260$--$1000$ divisible by 4 (except 512 of rank $\ge 5$ and 768)
+satisfies (L). An example, if one exists, has $|G|\ge 6144$.
+
+\subsection{Problem 19.56 (V.~S.~Monakhov): $\star$-commutators}
+\begin{problem}[19.56]
+A $\star$-commutator is a commutator $[x,y]$ of elements of coprime prime-power orders. Is $G$ soluble if
+$|ab|\ge|a||b|$ for all $\star$-commutators $a,b$ of coprime orders?
+\end{problem}
+\begin{theorem}\label{thm:1956}
+Every minimal simple group contains an involution $a$ and an element $b$ of odd prime order, both
+$\star$-commutators, with $ab$ of order 2; hence it violates the hypothesis. Consequently a counterexample to
+19.56 must be a minimal non-soluble group with non-trivial Frattini subgroup (and every non-soluble group whose
+minimal non-soluble subgroups have trivial Frattini subgroup satisfies 19.56).
+\end{theorem}
+The proof is uniform over Thompson's list: involutions are $\star$-commutators via $A_4$ or a Borel subgroup,
+elements of odd prime order via a dihedral subgroup ($[b,t]=b^{-2}$). All 208 non-soluble groups of order
+$\le 2000$ and all 443 perfect groups of order $\le 10^5$ (including many with large Frattini subgroups) violate the
+hypothesis; the agent could not handle Frattini extensions uniformly.
+
+\subsection{Problem 21.26 (F.~Lisi, L.~Sabatini): simultaneous minimal Sylow intersections}
+\begin{problem}[21.26]
+Let $p_1,\dots,p_k$ be the prime divisors of $|G|$ and $H_i$ Sylow $p_i$-subgroups. Is there $x\in G$ such that
+$H_i\cap H_i^x$ is inclusion-minimal in $\{H_i\cap H_i^g\}$ for all $i$ simultaneously?
+\end{problem}
+The answer is yes when $|G|$ has two prime divisors (or more generally $G=PQ$ for two Sylow subgroups): if
+$P\cap P^b$ and $Q\cap Q^{a'}$ are minimal with $b\in Q$, $a'\in P$, then $x=ba'$ works for both. The general
+case was verified for all groups of order $\le 2000$ (except four 2-heavy orders) and for about sixty larger groups
+(symmetric, linear, unitary, Suzuki, Mathieu, wreath products); in every case all inclusion-minimal intersections
+equal $O_p(G)$, as predicted by Zenkov's theorem, and a common $x$ was found within a few random samples.
+
+\subsection{Problem 21.111 (D.~O.~Revin, Zh.~Yang): $\tau$-groups}
+A non-identity automorphism $x$ of a simple group $S$ is a $\tau$-automorphism if any two conjugates of $x$ in
+$\gen{x,\Inn S}$ generate a $3'$-group; $S$ is a $\tau$-group if it has one. The agent showed that
+$\PSL(2,3^n)$ is a $\tau$-group for every $n\ge 2$ (an involution inverting no unipotent element), and verified
+that among the simple groups of order $\le 10^7$ divisible by 3 exactly $\PSL(2,9)$, $\PSL(2,27)$, $\PSL(2,81)$ and $\PSL(2,243)$ are $\tau$-groups, all $\tau$-automorphisms found being involutions. This suggests the answers
+``$\PSL(2,3^n)$, $n\ge 2$'' to part (a) and ``no'' to part (b).
+
+\subsection{Problem 18.117 (P.~Shumyatsky): commutators of coprime-order elements}
+For 15 sporadic groups ($M_{11}$, $M_{12}$, $M_{22}$, $M_{23}$, $M_{24}$, $J_1$, $J_2$, $\mathrm{HS}$, $J_3$, $\mathrm{McL}$, $\mathrm{He}$,
+$\mathrm{Co}_3$, $\mathrm{Co}_2$, $\mathrm{Suz}$, $\mathrm{Fi}_{22}$) every conjugacy class contains a commutator $[x,y]$ with $\gcd(|x|,|y|)=1$;
+each class comes with an explicit certificate found by random or targeted search in a permutation representation.

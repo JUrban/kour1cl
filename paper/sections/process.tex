@@ -1,0 +1,102 @@
+\section{How the run proceeded}\label{sec:process}
+
+\subsection{Timeline}
+All times are UTC; the run started at 08:03 on 13 September 2026. Appendix~\ref{app:timeline} lists all 94 commits.
+
+\paragraph{Hour 0--1 (triage).} The agent created the repository, extracted the text of the notebook, read the
+new problems of the 21st issue itself (about 140 problems) and delegated the reading of issues 1--20 to five
+sub-agents, each covering about 1500 lines of text and asked to return a compact list of problems ``settleable by
+a finite computation or a short rigorous argument''. Two of the sub-agents exceeded their output limit and had to
+be re-run with a request for a shorter report; part of one report (issues 19--20) was lost and this range was
+re-triaged 30 hours later. In parallel the agent wrote the first search scripts (Problems 21.113, 21.29, 21.99,
+21.52, 21.26, 21.115) and launched them in the background with log monitors.
+
+\paragraph{Hour 1--6 (first results).} The first theoretical result, the decidability of Problem 21.32, was drafted at
+08:52 and committed with its proof at 09:13 together with the solution of 16.60. The agent then worked through the
+candidates from the triage: for each it wrote a GAP sweep over the SmallGroups library (or over simple groups,
+primitive groups, character tables), started it, and moved on. By 13:00 about twenty sweeps were running. The
+solutions of 2.78 (13:26), 18.46 (13:52) and 13.19 (14:21, generalised at 14:38) were found in this period, each
+triggered by data from a sweep: for 18.46 the computation of minimal square-root overgroups showed that $D_8$
+needs order 128; for 13.19 a search for the smallest configuration failed but suggested the class-2 construction
+that the agent then wrote down and proved.
+
+\paragraph{Hour 6--7 (compaction).} At about 14:40 the context of the main agent was compacted. The summary
+preserved the state of the running computations and the list of open threads, and the agent continued from it. A
+side effect surfaced at this point: the timestamps the agent had been writing into its progress log since about
+13:00 were wrong by up to five hours (it had extrapolated the time instead of reading the clock). The error was
+detected by comparing with the git history and corrected.
+
+\paragraph{Hour 7--12 (the two big problems).} Problem 21.26 (Lisi--Sabatini) was verified up to order 2000 with a
+new double-coset checker. Problem 16.14 (Berkovich) was attacked theoretically: the agent proved a structure
+theorem for a minimal counterexample, realised that a counterexample of order $2^{11}$ would be a central
+extension of a group $H$ of order 256 with $d(H)=7$ satisfying a cohomological condition, and excluded all ten
+such $H$; it then extended this to orders $2^{12}$ (rank $\ge 3$), $2^9$ and $2^{10}$. Problem 20.37 (Hooshmand)
+was started at 15:50: the agent computed which factorisations of simple groups are obtainable from subgroup
+chains, found that $\PSL(2,8)$ is the first group where this fails, proved a general theorem for the case of
+two cosets (a perfect-matching argument in vertex-transitive graphs), and designed an exact-cover search for the
+remaining cases. Problem 19.56 (Monakhov) was solved for minimal simple groups at 17:46, and 20.21
+(Verret--Conder) received two impossibility lemmas.
+
+\paragraph{Hour 12--40 (large sweeps).} The second half of the run was dominated by long computations: the
+order-$2^{11}$ case of 16.14 required testing 7.1 million candidate quotients (about 6 hours on 14 cores, using the
+$p$-covering group instead of cocycle computations, an idea found at hour 12); Problem 20.21 was searched
+through all groups of order $\le 1000$ divisible by four (except two orders) and through the rank-$\le 4$ groups
+of order 512; the 20.37 exact-cover searches ran in several phases with increasing effort. Meanwhile the agent
+reviewed all reports line by line and corrected the wording of several claims.
+
+\paragraph{Hour 40--48 and the end.} The agent planned the final consolidation for three hours before the
+deadline but misread a 12-hour clock display and performed it at 09:44, 1\,h\,41\,min after the deadline. No
+mathematical content was produced after the deadline: the final commit regenerated a table from data already on
+disk, re-verified all 20.37 factorisations in GAP, stopped the remaining processes and added a closing entry to the
+progress log.
+
+\subsection{The working pattern}
+Almost every problem was approached in the same way.
+\begin{enumerate}
+\item \emph{Formalise the statement as a finite check} (a GAP function \code{Check(G)} returning a certificate of
+failure), test it on a few groups where the answer is known, and launch a sweep over a library in the background,
+usually split into several processes by order or by id range.
+\item \emph{Monitor} the log for hits and completions through the harness's monitor tool rather than by polling.
+\item \emph{If a hit appears}, verify it with a second, independent computation (for 18.46 a lattice-based check
+instead of \code{IsomorphicSubgroups}; for 13.19 a pc-presentation of the constructed group; for 20.37 a direct
+multiplication of the sets in GAP after a Python search), then look for the general pattern behind it.
+\item \emph{If no hit appears}, record the exact range verified, and think about whether the data suggests a
+proof (as for 16.14, where the sweep showed that all inclusion-minimal Sylow intersections equal $O_p(G)$, or for
+20.37, where the data showed which factor sizes need non-subgroup constructions).
+\item \emph{Write the report as soon as a result is stable}, commit, and update the index.
+\end{enumerate}
+The theoretical work was interleaved with waiting for computations. The agent's own account of its reasoning
+(preserved in the transcript) shows the typical pattern: a first idea, a concrete small case computed in GAP, a
+revision of the idea, and finally a proof written directly into the report.
+
+\subsection{Mistakes and how they were caught}
+A record of the run would be incomplete without its errors; all of them were caught by the agent itself.
+\begin{itemize}
+\item \emph{Vacuous first version of a search} (20.122): the first sweep tested triples of Sylow subgroups only,
+for which the question is trivial by Zenkov's theorem; the agent noticed this while writing the report and
+replaced the sweep by one over all nilpotent subgroups (which is much more expensive, and was therefore only
+completed for small orders).
+\item \emph{Too strong a necessary condition} (20.21): the local condition was first formulated with an
+automorphism of order exactly 3; the correct condition needs an automorphism of 3-power order, and the search was
+repeated with the corrected condition.
+\item \emph{A wrong side in a coset computation} (20.37): the first factorisation search used left cosets where
+right cosets were required; the verification step (direct multiplication) rejected the ``solutions'' and the bug
+was found immediately. This is the clearest example of the value of independent verification.
+\item \emph{Clock drift in the progress log}, corrected from the git history (see above), and the late final
+consolidation caused by a 12-hour clock display.
+\item \emph{Operational accidents}: a process-killing command that matched its own shell (three times), duplicated
+launches of the same sweep writing to the same log, GAP read-only global names, and a subagent report that exceeded
+the output limit. None affected the results.
+\item \emph{Over-optimistic literature claims}: the agent initially cited ``Konvisser's classification'' of
+2-groups with three involutions as implying $d(G)\le 4$; it could not access the paper and later marked this as an
+unverified literature dependency (it is now only needed for orders $\ge 2^{12}$ in Problem 16.14).
+\end{itemize}
+
+\subsection{Resource use}
+The agent kept a running list of its processes and repeatedly stopped low-value sweeps to stay near the 20-core
+budget (the load average was above 30 for short periods only). Memory was never an issue (peak use well below
+20\,GB). The largest single computations were: the order-$2^{11}$ analysis for 16.14 (7.1 million groups, 6
+hours on 14 cores); the order-512 rank-$\le 4$ search for 20.21 (420\,514 groups, about 8 hours on 8 cores); the
+enumeration of all $1\,006\,700\,565$ connected graphs on 11 vertices for 20.71 (nauty, about 3 hours on 8
+cores); and the 21.26 sweeps (about 800\,000 groups). The repository (without the session transcript and the
+GAP installation) is about 530\,MB, mostly logs and intermediate data.

@@ -1,0 +1,62 @@
+\section{Setting}\label{sec:setting}
+
+\subsection{The task}\label{sec:prompt}
+The complete instruction given to the agent was:
+\begin{quote}\small
+Solve as many previously unsolved problems from THE KOUROVKA NOTEBOOK (docs/21tkt.pdf) as you can within an
+overall time limit of 48 hours. The gap system is installed in gap-4.16.1 but you can also download and install
+further SW if useful. In general, try to limit yourself to 20 CPU cores and 100G RAM on this machine while working.
+Write detailed plans and reports, iterate fast and create a local git repo keeping your work and documenting your
+progress, commit often there (but don't try to push). Work rigorously---your solutions will be independently
+reviewed.
+\end{quote}
+The instruction was issued as a ``goal'' of the agent harness: a stop hook that re-invokes the agent whenever it
+tries to end its turn, so that the agent works continuously without further human input. After roughly one hour the
+experimenter re-issued the goal (``resume''), which also changed the reasoning-effort setting (see below). At the
+end of the 48 hours the experimenter asked for the present paper.
+
+\subsection{The material}
+The notebook was available as \code{docs/21tkt.pdf} together with a text extraction (\code{docs/21tkt.txt},
+15\,364 lines). The 21st edition lists the unsolved problems of all issues 1--21 (solved problems are moved to a
+separate archive), so every problem in the file was open when the edition was compiled; new problems of the 21st
+issue occupy roughly lines 8000--9100.
+
+\subsection{Hardware and software}
+The machine had 112 cores and 251\,GB of memory; the agent was asked to stay within 20 cores and 100\,GB, and did
+so approximately (the load average was mostly between 10 and 25, with short excursions to about 35 when several
+sweeps were launched at once). Software used:
+\begin{itemize}
+\item GAP~4.16.1 with its standard package distribution, in particular the SmallGroups library (all groups of order
+$\le 2000$ except 1024), the libraries of transitive (degree $\le 47$, no degree 32 data) and primitive (degree
+$\le 4095$) groups, the perfect groups library, CTblLib (character tables), AtlasRep (permutation representations
+of sporadic groups), ANUPQ ($p$-quotient and $p$-covering groups), Digraphs/bliss, irredsol, and the polycyclic
+package.
+\item nauty~2.8.6 (\code{geng}, \code{nauty.a}), built from the copy shipped with GAP's Grape package, for graph
+enumeration (Problem 20.71).
+\item Python 3.12 in a virtual environment with networkx, python-sat (CaDiCaL) and scipy.
+\item Small C programs written during the run (a dancing-links exact-cover solver, permutation-group search
+loops, graph invariants).
+\end{itemize}
+
+\subsection{The agent}
+The agent was Claude Fable 5.1 (Anthropic), run in the Claude Code harness (version 2.1.270) on the machine
+itself, with permission to execute shell commands without confirmation. The reasoning-effort setting was
+``xhigh'' for the first hour and ``high'' afterwards. The harness provides a shell tool, a background-monitor tool
+(which turns lines of a log file into notifications), sub-agents (fresh copies of the model with their own
+context), web search and fetch, and automatic context compaction: when the conversation grows too long, the
+harness replaces the older part by a summary. One such compaction happened during the run (after about seven
+hours); the agent continued from the summary and from the files on disk.
+
+Over the 48 hours the main agent produced 1232 assistant messages and issued 565 shell commands, 32 background
+monitors and 6 sub-agent calls (all six for reading and triaging parts of the notebook); the shell commands contain
+193 invocations of GAP and about 180 background launches (\code{nohup}) of long computations. Sub-agents ran on the
+same model. The transcript (about 5400 JSON lines, 18\,MB including sub-agent transcripts) is preserved in the
+\code{session/} directory of the repository.
+
+\subsection{Rules the agent set for itself}
+Early in the run the agent wrote a plan (\code{plans/PLAN.md}) with the following working rules, which it then
+followed: (1)~triage the whole notebook for problems attackable by finite search or by a short argument;
+(2)~launch cheap exhaustive searches immediately and keep them running in the background; (3)~for anything that
+yields a proof or a counterexample, verify independently (a second script or a second method) and write a report
+with reproducible scripts; (4)~for searches that find nothing, record the verified range as a partial result;
+(5)~at most 20 GAP processes at a time, each limited to 8--16\,GB.

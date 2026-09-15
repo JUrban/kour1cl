@@ -11,8 +11,8 @@ be re-run with a request for a shorter report; part of one report (issues 19--20
 re-triaged about seven hours later. In parallel the agent wrote the first search scripts (Problems 21.113, 21.29, 21.99,
 21.52, 21.26, 21.115) and launched them in the background with log monitors.
 
-\paragraph{Hour 1--6 (first results).} The first theoretical result, the decidability of Problem 21.32, was drafted at
-08:52 and committed with its proof at 09:13 together with the solution of 16.60. The agent then worked through the
+\paragraph{Hour 1--6 (first results).} The first theoretical result, the decidability of Problem 21.32, was written and committed with its proof at 08:52;
+the solution of 16.60 followed at 09:13. The agent then worked through the
 candidates from the triage: for each it wrote a GAP sweep over the SmallGroups library (or over simple groups,
 primitive groups, character tables), started it, and moved on. By 13:00 about twenty sweeps were running. The
 solutions of 2.78 (13:26), 18.46 (13:52) and 13.19 (14:21, generalised at 14:38) were found in this period, each
@@ -97,7 +97,8 @@ unverified literature dependency (it is now only needed for orders $\ge 2^{12}$ 
 The agent kept a running list of its processes and repeatedly stopped low-value sweeps to stay near the 20-core
 budget (the load average was above 30 for short periods only). Memory was never an issue (peak use well below
 20\,GB). The largest single computations were: the order-$2^{11}$ analysis for 16.14 (7.1 million groups, 6
-hours on 14 cores); the order-512 rank-$\le 4$ search for 20.21 (420\,514 groups, about 8 hours on 8 cores); the
+hours on 14 cores); the order-512 rank-$\le 4$ search for 20.21 (420\,514 groups, about 13 hours of wall-clock time on up to 8 cores,
+some blocks having been paused); the
 enumeration of all $1\,006\,700\,565$ connected graphs on 11 vertices for 20.71 (nauty, about 3 hours on 8
 cores); and the 21.26 sweeps (about 800\,000 groups). The repository (without the session transcript and the
 GAP installation) is about 530\,MB, mostly logs and intermediate data.

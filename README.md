@@ -20,3 +20,5 @@ Resource limits: ≤ 20 CPU cores, ≤ 100 GB RAM.
   Python 3.12 with networkx and python-sat in `venv/`).
 - `reports/PROGRESS.md` is the chronological log (timestamps are UTC; the entries of the first afternoon were
   corrected from the git history).
+- `paper/main.pdf` (sources in `paper/`) — an arXiv-style write-up of the experiment and its results, written
+  after the 48 hours; compile with Tectonic (`paper/bin/tectonic main.tex`) or any LaTeX with the standard packages.

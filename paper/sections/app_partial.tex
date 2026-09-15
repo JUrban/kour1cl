@@ -133,8 +133,8 @@ No abelian group satisfies (L).
 Induction on $|M|$. $\Omega_1(M)$ is characteristic, so its image in $M/I\cong V_4$ is $\alpha$-invariant, hence $1$
 or $V_4$. As $M$ is abelian, $\Omega_1(M)\cap I=\Omega_1(I)$ and $\Omega_1(M)\cap I'=\Omega_1(I')$, so
 $|\Omega_1(M)\cap I|=|\Omega_1(M)\cap I'|$. If $\Omega_1(M)I=M$ then $|\Omega_1(M)\cap I'|=|\Omega_1(M)|/4$, so
-$\Omega_1(M)I'=M$ and $M/I'$ would be elementary abelian, contradicting $M/I'\cong C_4$. Hence
-$\Omega_1(M)\le I\cap I'$, and $(M/\Omega_1(M);I/\Omega_1(I),I'/\Omega_1(I'),\bar\alpha)$ is a smaller configuration
+$\Omega_1(M)I'=M$ and $M/I'$ would be elementary abelian, contradicting $M/I'\cong C_4$. Hence $\Omega_1(M)\le I$, so $\Omega_1(M)=\Omega_1(I)$; as $|\Omega_1(I')|=|\Omega_1(I)|$ and
+$\Omega_1(I')\le\Omega_1(M)$, also $\Omega_1(M)=\Omega_1(I')\le I'$. Now $(M/\Omega_1(M);I/\Omega_1(I),I'/\Omega_1(I'),\bar\alpha)$ is a smaller configuration
 (L) ($I/\Omega_1(I)\cong I'/\Omega_1(I')$ because $I\cong I'$).
 \end{proof}
 
@@ -187,7 +187,8 @@ For $\PSL(3,3)$ the pair was found by direct computation (it contains $S_4$ and 
 remaining assertions follow since (M) passes to subgroups, every non-soluble group contains a minimal non-soluble
 subgroup, and a minimal non-soluble group with trivial Frattini subgroup is minimal simple~\cite{Thompson}.
 \end{proof}
-All 208 non-soluble groups of order $\le 2000$ and all 443 perfect groups of order $\le 10^5$ violate (M)
+The 208 non-soluble groups of order $\le 2000$ (in orders with $\le 5000$ groups) and all 443 perfect groups of
+order $\le 10^5$ violate (M)
 (\code{work/p19\_56}). The lifting of the configuration through a non-trivial Frattini subgroup is the remaining
 obstacle; the agent's partial observations are in the report.
 

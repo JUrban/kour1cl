@@ -106,3 +106,9 @@
 - 20.37: 261/400 sizes realised (280 GAP-verified factorisations); searches for the hard leftovers continue.
 - 21.113: orders 960–1000 finished (sweep complete to 1000). 20.78 and 18.56 long runs stopped (partial ranges recorded).
 - Review pass over all reports (21.32, 16.60, 2.78, 18.46, 13.19, 16.14, 20.21, 21.111, 18.117): small text fixes only.
+
+## 2026-09-15 09:45 UTC — final state
+- All computations stopped. 20.37: 267 of 400 non-chain-achievable factor sizes realised (286 factorisations,
+  all re-verified in GAP); the open sizes are listed in the report (smallest: PSL(3,4) and Sz(8), sizes 70 and 140).
+- Final documents: reports/README.md (index), reports/verifications.md (all bounded-range checks with the ranges
+  actually completed), one report per solved/partially solved problem, scripts and logs under work/.

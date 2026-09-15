@@ -1,4 +1,4 @@
-# Results index (Kourovka Notebook, 21st ed.) — status 2026-09-15 00:30 UTC (final numbers for 20.37 updated before the deadline)
+# Results index (Kourovka Notebook, 21st ed.) — final status 2026-09-15 09:45 UTC
 
 ## Solved (complete answers with proofs / verified computations)
 | Problem | Answer | Report |
@@ -14,7 +14,7 @@
 |---|---|---|
 | 16.14 (Berkovich) | true for class-2 groups with G² ≤ Z(G) (Chevalley–Warning); a minimal counterexample has d = 2r+1 and rigid structure (Theorem B); no counterexample of order ≤ 2¹¹ (7.1 million candidate quotients of order 512 excluded via the 2-covering group), none of order 2¹² with rank Z(G) ≥ 3 | `16.14_notes.md` |
 | 20.21 (Verret–Conder) | structural restrictions; no example of order ≤ 2000; the local condition (L) (which any example must satisfy) fails for all |K| ≤ 256, for |K| = 512 of rank ≤ 4 and for all |K| ≤ 1000 divisible by 4 except 512 (rank ≥ 5) and 768; Lemma T2: (L) is impossible unless K = I·φ(I); abelian K impossible | `20.21_notes.md` |
-| 20.37 (Hooshmand) | chain-achievable factor sizes for all simple groups ≤ 10⁶ (PSL(2,8) is the first where subgroup chains fail); Theorem 1 (2|H| ∈ L(G) via perfect matchings in vertex-transitive graphs); two-sided coset construction realising most of the remaining sizes computationally (≥ 266 of 400, every factorisation verified in GAP; PSL(3,4) 70·288 and Sz(8) 70·416 are the smallest open cases) | `20.37_subset_factorizations.md` |
+| 20.37 (Hooshmand) | chain-achievable factor sizes for all simple groups ≤ 10⁶ (PSL(2,8) is the first where subgroup chains fail); Theorem 1 (2|H| ∈ L(G) via perfect matchings in vertex-transitive graphs); two-sided coset construction realising most of the remaining sizes computationally (267 of 400, 286 factorisations verified in GAP; PSL(3,4) 70·288 and Sz(8) 70·416 are the smallest open cases) | `20.37_subset_factorizations.md` |
 | 21.26 (Lisi–Sabatini) | yes for groups with two prime divisors (G = PQ); verified for all groups of order ≤ 2000 (a few 2-heavy orders excepted) and many larger groups | `21.26_notes.md`, `verifications.md` |
 | 18.117 (Shumyatsky) | verified for 15 sporadic groups (M11 … Fi22) | `18.117_coprime_commutators_sporadic.md` |
 | 21.111 (Revin–Yang) | τ-groups of order ≤ 10⁷ are exactly PSL(2,3ⁿ), n = 2..5; proof that PSL(2,3ⁿ) are τ-groups | `21.111_tau_groups_partial.md` |

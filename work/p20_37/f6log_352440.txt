@@ -4,7 +4,3 @@ already solved a=40
 already solved a=55
 already solved a=66
 already solved a=72
-NOT FOUND |G|=352440 a=99
-NOT FOUND |G|=352440 a=110
-already solved a=120
-already solved a=132

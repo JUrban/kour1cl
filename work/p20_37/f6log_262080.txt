@@ -1,0 +1,5 @@
+FOUND |G|=262080 a=35 b=7488 via |H|=7 k=5 |K|=576 l=13 |Omega|=65 trial=272
+already solved a=39
+NOT FOUND |G|=262080 a=40
+already solved a=45
+already solved a=52

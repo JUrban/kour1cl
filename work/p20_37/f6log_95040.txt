@@ -1,2 +1,4 @@
 already solved a=135
 already solved a=270
+NOT FOUND |G|=95040 a=297
+FINISHED

@@ -1,14 +1,14 @@
 \section{How the run proceeded}\label{sec:process}
 
 \subsection{Timeline}
-All times are UTC; the run started at 08:03 on 13 September 2026. Appendix~\ref{app:timeline} lists all 94 commits.
+All times are UTC; the run started at 08:03 on 13 September 2026. Appendix~\ref{app:timeline} lists all 94 commits made during the run.
 
 \paragraph{Hour 0--1 (triage).} The agent created the repository, extracted the text of the notebook, read the
 new problems of the 21st issue itself (about 140 problems) and delegated the reading of issues 1--20 to five
 sub-agents, each covering about 1500 lines of text and asked to return a compact list of problems ``settleable by
 a finite computation or a short rigorous argument''. Two of the sub-agents exceeded their output limit and had to
 be re-run with a request for a shorter report; part of one report (issues 19--20) was lost and this range was
-re-triaged 30 hours later. In parallel the agent wrote the first search scripts (Problems 21.113, 21.29, 21.99,
+re-triaged about seven hours later. In parallel the agent wrote the first search scripts (Problems 21.113, 21.29, 21.99,
 21.52, 21.26, 21.115) and launched them in the background with log monitors.
 
 \paragraph{Hour 1--6 (first results).} The first theoretical result, the decidability of Problem 21.32, was drafted at
@@ -28,9 +28,10 @@ detected by comparing with the git history and corrected.
 
 \paragraph{Hour 7--12 (the two big problems).} Problem 21.26 (Lisi--Sabatini) was verified up to order 2000 with a
 new double-coset checker. Problem 16.14 (Berkovich) was attacked theoretically: the agent proved a structure
-theorem for a minimal counterexample, realised that a counterexample of order $2^{11}$ would be a central
-extension of a group $H$ of order 256 with $d(H)=7$ satisfying a cohomological condition, and excluded all ten
-such $H$; it then extended this to orders $2^{12}$ (rank $\ge 3$), $2^9$ and $2^{10}$. Problem 20.37 (Hooshmand)
+theorem for a minimal counterexample, realised that a counterexample
+of order $2^{11}$ with $r=3$ would be a central extension of a group $H$ of order 256 with $d(H)=7$ satisfying a
+cohomological condition, and excluded all ten such $H$; it then extended this to orders $2^{12}$ ($r=3$),
+$2^9$ and $2^{10}$ ($r=2$). Problem 20.37 (Hooshmand)
 was started at 15:50: the agent computed which factorisations of simple groups are obtainable from subgroup
 chains, found that $\PSL(2,8)$ is the first group where this fails, proved a general theorem for the case of
 two cosets (a perfect-matching argument in vertex-transitive graphs), and designed an exact-cover search for the

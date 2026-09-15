@@ -135,7 +135,7 @@ $\le\dim W=\dim\mathrm{Hom}_C(V^*,V^\sigma)=\langle\bar\theta,\theta^\sigma\rang
 Step 3 is the twisted Frobenius--Schur theorem of Kawanaka and Matsuyama~\cite{KM}; Step 1 is the only new
 ingredient. A numerical check for all groups of order $\le 200$ and all automorphisms is in \code{work/p16\_60/}.
 
-\subsection{Problems 2.78 / 3.57}\label{app:278}
+\subsection{Problem 2.78}\label{app:278}
 
 For a finite group $G$ let $\Ord(G)$ be the set of orders of subgroups of $G$, $f(G)=\#\{d:G\text{ has a non-normal
 subgroup of order }d\}$ and $n(G)=|\Ord(G)|-f(G)$ (the number of orders $d$ all of whose subgroups are normal).
@@ -177,8 +177,8 @@ they are non-normal of order $p^{j+1}$.
 commutator $([m,m'],1)=(z^j,1)\ne 1$), so $V\le C_M(v)$ for some $v\in V\setminus Z(M)$, and $C_M(v)=\gen{v,Z(M)}$
 has order $p^{n-1}$ (the centraliser of a non-central element has index $p$ since $M/Z(M)\cong C_p^2$). If
 $v=x^iy^j$ with $p\nmid i$ then $v^p=x^{ip}$ ($p$ odd, class 2, $|M'|=p$), so $v$ has order $p^{n-1}$ and
-$C_M(v)=\gen v$ is cyclic with unique subgroup of order $p$ equal to $\gen z$; if $v=yx^{pi}$ then
-$C_M(v)=\gen y\times\gen{x^p}$ with $z\in\gen{x^p}$. In both cases a subgroup $V_0\le C_M(v)$ with $z\notin V_0$
+$C_M(v)=\gen v$ is cyclic with unique subgroup of order $p$ equal to $\gen z$; if $p\mid i$ then $v=x^{pi'}y^j$ with $p\nmid j$, and replacing $v$ by a power generating the same subgroup we may
+assume $v=yx^{pi'}$; then $C_M(v)=\gen y\times\gen{x^p}$ with $z\in\gen{x^p}$. In both cases a subgroup $V_0\le C_M(v)$ with $z\notin V_0$
 meets the cyclic factor $\gen{x^p}$ (resp.\ $\gen v$) trivially, hence $|V_0|\le p$. Now $U\cap(M\times 1)=V_0\times 1$
 with $z\notin V_0$, so $|V_0|\le p$ and $|U|=|V_0|\cdot|\mathrm{pr}_C(U)|\le p^{r+1}$.
 \end{proof}
@@ -207,8 +207,11 @@ $2^p$, the divisors of $2^p\pm1$ and their doubles (cyclic and dihedral subgroup
 $|T|$; for $p=3$ this gives $|\Ord|=12$, and for $p\ge 5$ at least $6+6$. For $T=\PSL(2,3^p)$ ($p$ odd prime) similarly
 $|\Ord(\PSL(2,27))|=14$ and more for larger $p$. For $T=\PSL(2,p)$, $p\ge 7$ prime, $\Ord(T)$ contains
 $1,2,3,4,6,12,p,(p-1)/2,(p+1)/2,p-1,p+1,p(p-1)/2,|T|$ (Klein four groups, $S_3$, $A_4$, cyclic and dihedral
-subgroups, the Borel subgroup); these 13 numbers are distinct unless $p\in\{7,11,13,23\}$, and a direct count gives
-$|\Ord|\ge 11$ in those cases ($|\Ord(\PSL(2,7))|=11$ using $S_4\le\PSL(2,7)$). For $T=\Sz(2^p)$ there are $2p+1$
+subgroups, the Borel subgroup); these 13 numbers are distinct unless $p\in\{7,11,13,23\}$; in those cases
+$\Ord(\PSL(2,7))=\{1,2,3,4,6,7,8,12,21,24,168\}$ (using $S_4\le\PSL(2,7)$),
+$\Ord(\PSL(2,11))\supseteq\{1,2,3,4,5,6,10,11,12,55,60,660\}$ ($A_5\le\PSL(2,11)$),
+$\Ord(\PSL(2,13))\supseteq\{1,2,3,4,6,7,12,13,14,26,39,78,1092\}$ and
+$\Ord(\PSL(2,23))\supseteq\{1,2,3,4,6,8,11,12,22,23,24,253,6072\}$, so $|\Ord|\ge 11$ throughout. For $T=\Sz(2^p)$ there are $2p+1$
 two-power orders, three odd torus orders and $|T|$, so $|\Ord|\ge 2p+5\ge 11$. For $T=\PSL(3,3)$, $|\Ord|=23$.
 So $f(S)\ge 9$ unless the minimal simple section is $A_5$. If $U/\Phi(U)\cong A_5$ with $\Phi(U)\ne 1$, then
 besides the 7 orders $|\Phi(U)|d$ ($d\in D:=\{2,3,4,5,6,10,12\}$) the subgroups $\Phi(U)$ and $U$ give two further
@@ -241,7 +244,8 @@ group has $f=8$, and $f=7$ forces $G\cong A_5$.
 \begin{remark}
 The values $f(G)$ attained by non-soluble groups of order $\le 1000$ are $7,9,10,12,\dots,18,20,\dots,23$; small simple
 groups give $f(\PSL(2,7))=9$, $f(\PSL(2,8))=f(\PSL(2,11))=10$, $f(\PSL(2,13))=11$, \dots, $f(M_{11})=24$, and
-$f(\PSL(2,q))$ for $q\le 169$ takes all values in $\{7,9,\dots,26\}\setminus\{8\}$ and more. Whether composite
+$f(\PSL(2,q))$ for $q\le 169$ takes the values $7$, $9$--$23$, $25$, $26$, $28$, $32$, $35$, $42$; together with
+$f(M_{11})=24$ every integer in $\{7,9,\dots,26\}\setminus\{8\}$ is a simple number. Whether composite
 non-soluble numbers exist (i.e.\ whether some $k\ge 9$ is avoided by all simple groups) remains open.
 \end{remark}
 
@@ -260,8 +264,9 @@ that no group of order $8,16,\dots,120$ has a subgroup $S\cong D_8$ with $S\subs
 2328 groups of order 128 (SmallGroup ids 134, 136, 138, 139, 140, 141, 144, 146, 928--933) do, among them
 $D_8\wr C_2=\mathrm{SmallGroup}(128,928)$.
 \end{proof}
-The same computation gives the minimal $|H|$ for every group $G$ of order $\le 12$; $D_8$ is the only one of them
-needing $|H|>|G|^2$ (e.g.\ $C_2^2$: 16, $S_3$: 36, $Q_8$: 48, $C_2^3$: 64, $A_4$: 24, $D_{12}$: 144). Hence
+The same computation gives the minimal $|H|$ for the sixteen groups of order $\le 12$ listed in the report (the
+remaining groups of order $\le 12$ are cyclic of odd order or $C_{10}$, where $|H|\le|G|^2$ is trivial);
+$D_8$ is the only one of them needing $|H|>|G|^2$ (e.g.\ $C_2^2$: 16, $S_3$: 36, $Q_8$: 48, $C_2^3$: 64, $A_4$: 24, $D_{12}$: 144). Hence
 Klyachko's estimate $|H|\le 2|G|^2$ cannot be improved to $c|G|^2$ with $c<2$.
 
 \subsection{Problem 13.19}\label{app:1319}
@@ -269,7 +274,7 @@ Klyachko's estimate $|H|\le 2|G|^2$ cannot be improved to $c|G|^2$ with $c<2$.
 \paragraph{Reformulation.} If $Q\le G_1\times\dots\times G_n$ and $N_i=Q\cap\ker\pi_i$, then $\bigcap N_i=1$, and
 ``$H$ projects onto $G_i$'' means $HN_i=Q$. Conversely, a group $Q$ with normal subgroups $N_1,\dots,N_n$ with
 $\bigcap N_i=1$ and a normal subgroup $H$ with $HN_i=Q$ for all $i$ gives such a configuration with $G_i=Q/N_i$.
-One checks $\gamma_n(Q)\le H\bigcap_i N_i=H$ (a commutator of weight $n$ has, for each $i$, a factor that can be
+One checks $\gamma_n(Q)\le H\cdot\bigcap_i N_i=H$ (a commutator of weight $n$ has, for each $i$, a factor that can be
 taken in $N_i$ modulo $H$), so $Q/H$ has class $\le n-1$; in particular $n\ge 3$ is needed for a non-regular
 2-group $Q/H$.
 

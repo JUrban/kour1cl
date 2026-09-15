@@ -1,6 +1,6 @@
 \section{The repository}\label{app:repo}
 
-The repository (git, 94 commits, branch \code{master}) has the following layout.
+The repository (git, branch \code{master}; 94 commits during the run, later commits add this paper) has the following layout.
 \begin{itemize}
 \item \code{README.md} --- entry point; \code{plans/PLAN.md} --- the plan and the triage tables.
 \item \code{reports/} --- one Markdown report per solved or partially solved problem:
@@ -10,7 +10,7 @@ The repository (git, 94 commits, branch \code{master}) has the following layout.
 \path{20.21_notes.md}, \path{19.56_star_commutators.md}, \path{21.26_notes.md}, \path{21.111_tau_groups_partial.md},
 \path{18.117_coprime_commutators_sporadic.md}; the index \code{README.md}; the table \code{verifications.md}; and
 the chronological log \code{PROGRESS.md}.
-\item \code{work/p<problem>/} --- 58 directories with the scripts (261 GAP files, 14 Python files, 7 C files) and
+\item \code{work/p<problem>/} --- 57 directories with the scripts (261 GAP files, 14 Python files, 7 C files) and
 their logs; each report names the scripts that support its claims. Examples: \path{work/p21_26/check2.g} (the
 double-coset checker), \path{work/p16_14/pcover_filter.g} (the 2-covering-group filter),
 \path{work/p20_37/fact4.py}, \code{dlx.c}, \path{verify_all2.g} (the factorisation search and its independent
@@ -21,4 +21,4 @@ verification), \path{work/p20_71/cards.c} (the nauty filter).
 The GAP installation and the Python virtual environment are not part of the repository. All computations were run
 with GAP~4.16.1 as installed in \code{gap-4.16.1/}; the scripts use only library functions of GAP and its standard
 packages, and can be re-run with commands of the form
-\path{gap -q -b -o 8g work/p21_26/s2_601_650.g}.
+\texttt{gap -q -b -o 8g work/p21\_26/s2\_601\_650.g}.

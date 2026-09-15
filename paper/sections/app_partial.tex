@@ -89,8 +89,8 @@ $AB=\bigcup_{i,b}Hx_ib$ is the union of all right cosets, each once, so $AB=G$ a
 \end{proof}
 
 \begin{theorem}\label{thm:2037T1}
-Let $H\le K\le G$ with $|K:H|$ even and $K=\gen{H,x}$ for some $x\in K$. Then there is $B\subseteq K$ with
-$|B|=|K|/(2|H|)$ and $K=(H\cup Hx)B$; in particular $2|H|\in L(K)\subseteq L(G)$.
+Let $H\le K\le G$ with $|K:H|$ even and $K=\gen{H,x}$ for some $x\in K$ (necessarily $x\notin H$). Then there is
+$B\subseteq K$ with $|B|=|K|/(2|H|)$ and $K=(H\cup Hx)B$; in particular $2|H|\in L(K)\subseteq L(G)$.
 \end{theorem}
 \begin{proof}
 Let $\Gamma$ be the simple graph with vertex set $H\backslash K$ and an edge $\{Hb,Hxb\}$ for every $b\in K$ with
@@ -120,7 +120,7 @@ GAP (\code{work/p20\_37/verify\_all2.g}: 286 factorisations, 0 failures).
 \subsection{Problem 20.21}\label{app:2021}
 Let $G$, $K\cong L$ be as in the problem and $I=K\cap L$. Then $G/I$ embeds in $C_{12}\times A_4$, $|K/I|=|L/I|\in
 \{4,12\}$, and the case 12 leads, via an isomorphism $\varphi:L\to K$, to a smaller configuration of the same kind
-(so a minimal example is not of this type). In the case 4, $K/I\cong V_4$, $L/I\cong C_4$, $G/I\cong C_4\times A_4$,
+(so an example of minimal order is not of this type, and every example contains one of the case-4 type). In the case 4, $K/I\cong V_4$, $L/I\cong C_4$, $G/I\cong C_4\times A_4$,
 and an element $s$ mapping to a 3-cycle acts on $K/I$ as a 3-cycle. With $I'=\varphi(I)\trianglelefteq K$ one has
 $K/I'\cong C_4$ and $I'\cong I$. Hence any example satisfies the \emph{local condition} (L): a group $M$ with
 normal subgroups $I,I'\cong I$, $M/I\cong V_4$, $M/I'\cong C_4$, and an automorphism $\alpha$ with $\alpha(I)=I$
@@ -150,10 +150,12 @@ non-trivial coset. Counting involutions in $II'$ in two ways gives $N_2(I)+c_2=N
 involutions lie in $I$ and in $I'$. Then $W=\Omega_1(M)=\Omega_1(I)=\Omega_1(I')\le I\cap I'$, $W\ne 1$, and
 $(M/W;I/W,I'/W,\bar\alpha)$ is a smaller configuration (L) with $|I/W:(I\cap I')/W|=2$.
 \end{proof}
-Consequently an example must have $K=I\cdot\varphi(I)$. Computationally (\code{work/p20\_21}): no group of order
-$\le 2000$ (orders divisible by 12 with $\le 30\,000$ groups, except 1536) has the required normal subgroups; and no
-group of order $\le 256$, of order 512 and rank $\le 4$, or of order 260--1000 divisible by 4 (except 512 of rank
-$\ge 5$ and 768) satisfies (L). An example, if it exists, has $|G|\ge 6144$.
+Consequently an example of minimal order must have $K=I\cdot\varphi(I)$. Computationally (\code{work/p20\_21}): no
+group of order $\le 2000$ in an order divisible by 12 with $\le 30\,000$ groups has the required normal subgroups;
+and no group of order $\le 256$, of order 512 and rank $\le 4$, or of order 260--1000 divisible by 4 (except 512 of
+rank $\ge 5$ and 768) satisfies (L). Since an example of order $\le 3072$ would contain a case-4 example whose $K$
+has order $\le 256$, no example of order $\le 3072$ exists (this covers the orders skipped by the direct search),
+and an example, if it exists, has $|G|\ge 6144$.
 
 \subsection{Problem 19.56}\label{app:1956}
 Condition (M): $|ab|\ge|a||b|$ for all $\star$-commutators $a,b$ of coprime orders. (M) is inherited by subgroups.
@@ -166,8 +168,9 @@ non-trivial element of $V$ is $[v,y]$ for some $v$.
 \begin{theorem}\label{thm:1956app}
 Every minimal simple group $S$ contains $\star$-commutators $a$ (an involution) and $b$ (of odd prime order $s$) with
 $a$ inverting $b$, so $|ab|=2<2s=|a||b|$ and $S$ violates (M). Hence every group with a minimal simple subgroup
-violates (M), and a counterexample to 19.56 is a minimal non-soluble group all of whose minimal non-soluble
-subgroups have non-trivial Frattini subgroup.
+violates (M); every counterexample to 19.56 contains a minimal non-soluble subgroup which is again a
+counterexample and has non-trivial Frattini subgroup; and a counterexample of minimal order is minimal
+non-soluble with non-trivial Frattini subgroup.
 \end{theorem}
 \begin{proof}
 By Thompson~\cite{Thompson}, $S$ is $\PSL(2,2^f)$ ($f\ge 2$ prime), $\PSL(2,3^f)$ ($f$ odd prime), $\PSL(2,p)$ ($p>3$,
@@ -180,9 +183,9 @@ $\star$-commutators by (c); some odd prime $s$ divides $(q-1)/2$ or $(q+1)/2$ (b
 and the dihedral subgroup of order $q\mp1$ provides $b$ of order $s$ and an inverting involution. For
 $S=\Sz(q)$: the involutions are the non-trivial elements of $Z(P)$ ($P$ a Sylow 2-subgroup) on which $C_{q-1}$
 acts fixed-point-freely, so (d) applies; the normaliser of $C_{q-1}$ is dihedral and $q-1$ has an odd prime factor.
-For $\PSL(3,3)$ the pair was found by direct computation (it contains $S_4$ and $D_{12}$). The last two sentences
-follow since (M) passes to subgroups and a minimal non-soluble group with trivial Frattini subgroup is minimal
-simple.
+For $\PSL(3,3)$ the pair was found by direct computation (it contains $S_4$ and $D_{12}$). The
+remaining assertions follow since (M) passes to subgroups, every non-soluble group contains a minimal non-soluble
+subgroup, and a minimal non-soluble group with trivial Frattini subgroup is minimal simple~\cite{Thompson}.
 \end{proof}
 All 208 non-soluble groups of order $\le 2000$ and all 443 perfect groups of order $\le 10^5$ violate (M)
 (\code{work/p19\_56}). The lifting of the configuration through a non-trivial Frattini subgroup is the remaining
@@ -190,7 +193,7 @@ obstacle; the agent's partial observations are in the report.
 
 \subsection{Problem 21.26}\label{app:2126}
 \begin{proposition}
-If $G=PQ$ for a Sylow $p$-subgroup $P$ and a Sylow $q$-subgroup $Q$ (e.g.\ if $|G|$ has two prime divisors), there is
+If $|G|$ has exactly two prime divisors $p,q$, with Sylow subgroups $P$ and $Q$ (so $G=PQ=QP$), there is
 $x$ with $P\cap P^x$ and $Q\cap Q^x$ both inclusion-minimal.
 \end{proposition}
 \begin{proof}

@@ -17,21 +17,22 @@ end of the 48 hours the experimenter asked for the present paper.
 
 \subsection{The material}
 The notebook was available as \code{docs/21tkt.pdf} together with a text extraction (\code{docs/21tkt.txt},
-15\,364 lines). The 21st edition lists the unsolved problems of all issues 1--21 (solved problems are moved to a
-separate archive), so every problem in the file was open when the edition was compiled; new problems of the 21st
-issue occupy roughly lines 8000--9100.
+15\,364 lines). The 21st edition lists the problems of all issues 1--21 that were unsolved at the previous edition (2022), with
+the ones solved since then marked by an asterisk and commented (107 such marks), together with an archive of
+problems solved earlier; the new problems of the 21st issue occupy roughly lines 8000--9100. None of the twelve
+problems treated in Sections~\ref{sec:solved}--\ref{sec:partial} carries such a mark.
 
 \subsection{Hardware and software}
 The machine had 112 cores and 251\,GB of memory; the agent was asked to stay within 20 cores and 100\,GB, and did
 so approximately (the load average was mostly between 10 and 25, with short excursions to about 35 when several
 sweeps were launched at once). Software used:
 \begin{itemize}
-\item GAP~4.16.1 with its standard package distribution, in particular the SmallGroups library (all groups of order
+\item GAP~4.16.1~\cite{GAP} with its standard package distribution, in particular the SmallGroups library (all groups of order
 $\le 2000$ except 1024), the libraries of transitive (degree $\le 47$, no degree 32 data) and primitive (degree
 $\le 4095$) groups, the perfect groups library, CTblLib (character tables), AtlasRep (permutation representations
 of sporadic groups), ANUPQ ($p$-quotient and $p$-covering groups), Digraphs/bliss, irredsol, and the polycyclic
 package.
-\item nauty~2.8.6 (\code{geng}, \code{nauty.a}), built from the copy shipped with GAP's Grape package, for graph
+\item nauty~2.8.6~\cite{nauty} (\code{geng}, \code{nauty.a}), built from the copy shipped with GAP's Grape package, for graph
 enumeration (Problem 20.71).
 \item Python 3.12 in a virtual environment with networkx, python-sat (CaDiCaL) and scipy.
 \item Small C programs written during the run (a dancing-links exact-cover solver, permutation-group search
@@ -44,8 +45,7 @@ itself, with permission to execute shell commands without confirmation. The reas
 ``xhigh'' for the first hour and ``high'' afterwards. The harness provides a shell tool, a background-monitor tool
 (which turns lines of a log file into notifications), sub-agents (fresh copies of the model with their own
 context), web search and fetch, and automatic context compaction: when the conversation grows too long, the
-harness replaces the older part by a summary. One such compaction happened during the run (after about seven
-hours); the agent continued from the summary and from the files on disk.
+harness replaces the older part by a summary. One such compaction happened during the run (after about six and a half hours); the agent continued from the summary and from the files on disk.
 
 Over the 48 hours the main agent produced 1232 assistant messages and issued 565 shell commands, 32 background
 monitors and 6 sub-agent calls (all six for reading and triaging parts of the notebook); the shell commands contain

@@ -11,12 +11,13 @@ able to determine whether any of these answers already exist in the literature; 
 unsolved in the 21st edition, but 2.78 is sixty years old and 16.60 twenty, and it would not be surprising if
 parts were known.
 
-The partial results are of a different kind. For 16.14 and 20.37 the agent proved genuine theorems (a structure
-theorem for minimal counterexamples; a perfect-matching theorem for coset unions) that reduce the problems to
+The partial results are of a different kind. For 16.14 and 20.37 the agent proved
+theorems (a structure theorem for minimal counterexamples; a coset-union theorem obtained from the classical
+perfect-matching property of vertex-transitive graphs) that reduce the problems to
 finite checks in a range, and then carried out the checks. For 19.56 the reduction to Frattini extensions of
 minimal simple groups is a clean statement, but the remaining step could not be done. For 20.21 the agent proved
-two impossibility lemmas and searched further than the previous state of knowledge (the problem's comment asks
-for a group of order at least 6144). In each case the report states precisely what is proved and what is
+two impossibility lemmas and searched well beyond the range of a direct search (its own bound: an example, if it exists, has order
+at least 6144). In each case the report states precisely what is proved and what is
 computed.
 
 \subsection{Reliability}
@@ -47,8 +48,7 @@ strategy for Berkovich's problem all came from looking at data. Delegating the t
 efficient (about 2300 problems read in an hour) but lossy (one report exceeded the output limit and part of it was
 lost).
 
-What did not work: attempts at general proofs where the problem is genuinely hard (the general case of 16.14, the
-Frattini lifting in 19.56, the $t=4$ case of 20.21); the agent recognised this fairly quickly each time and moved to
+What did not work: attempts at general proofs where the problem is genuinely hard (the general case of 16.14, the Frattini lifting in 19.56, the case $I\cdot I'=K$ of 20.21); the agent recognised this fairly quickly each time and moved to
 partial results. Two sweeps were started on a vacuous or wrong formulation and had to be redone. Long searches
 sometimes ran without producing progress output, so their coverage could not be reported precisely, and one
 (20.21, rank $\ge 5$ at order 512) turned out to be infeasible only after seven hours.

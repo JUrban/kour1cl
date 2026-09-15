@@ -11,7 +11,7 @@ All scripts/logs are in `work/<problem>/`. "Verified for X" means: exhaustive ch
 | 21.113(b) (Robinson) | Ψ_{p,G} is a projective character (Σ a_φ Φ_φ, a_φ ≥ 0) | all library tables with Brauer tables (order ≤ 10⁷, incl. sporadics J1, M11, M12, M22, J2, HS, …); all p-soluble groups of order ≤ 400 | `work/p21_113/brauer_lib.g`, `bsolv.g` |
 | 21.26 (Lisi–Sabatini) | x with all Sylow intersections H_i ∩ H_i^x simultaneously minimal | all groups of order ≤ 2000 except orders 1024, 1280, 1536, 1792 (orders 768, 1152, 1728, 1920 included) — 793 156 groups with ≥ 2 non-normal Sylow subgroups in 601..2000 (heavy orders excluded) alone; plus S₈–S₉, A₈, M₁₁, M₁₂, M₂₂, L₃(3), L₃(4), L₃(5), U₃(3), U₃(4), U₃(5), U₄(2), Sz(8), PSL(2,q) (q ≤ 81), PGL(2,q), wreath products S₃≀S₃, S₄≀S₃, S₃≀S₄, S₄≀S₄, A₅≀C₂, A₅≀S₃, S₅≀C₂, …, GL(2,q), GL(3,3) and more (`big2_log.txt`). In every case all inclusion-minimal intersections P ∩ P^x equal O_p(G) (Zenkov) and a common x exists | `work/p21_26/check2.g` (double-coset method) |
 | 21.52 / 21.53 (Gorshkov) | Aut of |ab|-coloured complete graph on an involution class equals Stab_{Aut L}(D); Aut = Aut₂ ∩ Aut_p | all simple L of order ≤ 7920 (A5 … M11), all involution classes: both true | `work/p21_52` |
-| 21.25 (Breuer–Guralnick) | simple G = ⟨Sylow p₁, Sylow p₂⟩ for all (p₁,p₂), p₁=p₂ allowed | all 65 simple groups of order ≤ 2·10⁶ | `work/p21_25` |
+| 21.25 (Breuer–Guralnick) | simple G = ⟨Sylow p₁, Sylow p₂⟩ for all (p₁,p₂), p₁=p₂ allowed | all 66 simple groups of order ≤ 2·10⁶ | `work/p21_25` |
 | 21.27 / 21.28 (Burness et al.) | every element of a simple transitive group is a product of two derangements; δ(G) ≥ 89/325 | all simple groups of order ≤ 5·10⁵, all transitive actions (all subgroup classes); minimum δ observed 2/7 (PSL(2,7), PSL(3,4)) | `work/p21_27` |
 | 21.135 / 21.59(a) | character-degree multisets vs trivial radical / almost simple | groups of orders 60,120,168,336,360,504,660,720 with trivial radical: no other group of the same order has the same degree multiset | `work/p21_135` |
 | 11.8(b) (Berkovich) | same degree multiset, one soluble ⇒ other soluble | all orders ≤ 1200 with ≤ 20000 groups: no soluble/non-soluble pair with equal multisets | `work/p11_8` |
@@ -35,7 +35,7 @@ All scripts/logs are in `work/<problem>/`. "Verified for X" means: exhaustive ch
 | Problem | Statement (short) | Verified range | Scripts |
 |---|---|---|---|
 | 20.21 (Verret–Conder) | G with normal K ≅ L of index 12, G/K ≅ C₁₂, G/L ≅ A₄ | no example among all groups of order ≤ 2000 (orders with ≤ 30000 groups; all orders divisible by 12 except 1536); also no candidate K of order ≤ 256, nor of order 512 and rank ≤ 4, nor of any order 260–1000 divisible by 4 except 512, 768, satisfying the local necessary condition (L) | `work/p20_21` |
-| 20.86 (Schmid) | ℓ^p ≥ k^{p−1} (Gheri's inequality f_p^p ≥ s_p^{p−1}) for non-p-soluble groups | all 208 non-soluble groups of order ≤ 2000 (orders with ≤ 5000 groups), all 65 simple groups of order ≤ 3·10⁶; perfect groups: see the final row | `work/p20_86` |
+| 20.86 (Schmid) | ℓ^p ≥ k^{p−1} (Gheri's inequality f_p^p ≥ s_p^{p−1}) for non-p-soluble groups | all 208 non-soluble groups of order ≤ 2000 (orders with ≤ 5000 groups), all 73 simple groups of order ≤ 3·10⁶; perfect groups: see the final row | `work/p20_86` |
 | 20.30 (Neumann–Vaughan-Lee) | perfect centreless G: |G| ≤ n² (n = max class size) | all perfect groups of order < 10⁶ with trivial centre | `work/p20_30` |
 | 19.30 | same order and same set of orders of vanishing elements as S ⇒ G ≅ S | S = A₅, PSL(2,7), A₆, PSL(2,8), PSL(2,11), PSL(2,13): all groups of order |S| | `work/p19_30` |
 | 19.20 (Cameron) | |End(G)| = |PIso(G)| ⇒ G abelian | all groups of order ≤ 120 | `work/p19_20` |
@@ -50,7 +50,7 @@ All scripts/logs are in `work/<problem>/`. "Verified for X" means: exhaustive ch
 | 16.45 (Cameron) | (final) | b(G) = μ′(G) for all non-cyclic groups of order ≤ 32 | `work/p16_45` |
 | 17.1 (Isaacs) | partition by equal-order subgroups with a non-abelian component | none for exponent-3 groups of order 3⁶ (exact cover over all subgroups of order 27) | `work/p17_1` |
 | 21.2 (Amiri) | order-divisibility bijection onto a simple group forces simplicity | no non-simple group of order 60, 168 (see the final row for more orders) admits such a bijection (Hall condition on order statistics) | `work/p21_2` |
-| 18.20 / 18.119 / 14.44 / 19.20 | (stopped) | verified for orders ≤ 250 / ≤ 240 / ≤ 382 / ≤ 127 respectively | |
+| 18.20 / 18.119 / 14.44 / 19.20 | (stopped) | verified for orders ≤ 250 / ≤ 240 / ≤ 382 / ≤ 120 respectively | |
 | 19.12 (Bezerra–Halasi–Maróti–Sidki) | every finite simple group is conjugacy-expansive | verified (all 2^k normal subsets N, all classes C) for all 34 simple groups with ≤ 24 conjugacy classes in the character table library (order ≤ 3·10⁶): A5…A7, PSL(2,q) (q ≤ 61), PSL(3,3), PSL(3,4), PSU(3,3)…PSU(3,5), PSU(4,2), Sz(8), M11, M12, J1, J2, … | `work/p19_12` |
 | 20.100 (Sun, n = 4) | 4-subsets orderable with a₁, a₂², a₃³, a₄⁴ distinct | all 85 groups of order coprime to 30 and ≤ 300 (all 4-subsets, C program) | `work/p20_100` |
 | 21.2 (Amiri) | (final) | no non-simple group of order 60, 168, 360, 504, 660, 1092 admits an order-divisibility bijection onto the simple group of that order | `work/p21_2` |

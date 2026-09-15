@@ -12,7 +12,8 @@ group $H$ such that the derived subgroup of $H$ is isomorphic to $G$?
 \begin{theorem}\label{thm:2132}
 Let $G$ be a finite group, $e=2\exp Z(G)$ and $m=\lceil\log_2|G|\rceil$. If $G\cong H'$ for some finite group $H$,
 then $G\cong (H^*)'$ for a finite group $H^*$ with $|H^*|\le |\Aut G|\cdot|Z(G)|^2\cdot e^{2m}$. Consequently the
-problem is decidable, and it lies in nondeterministic quasi-polynomial time (a witness of order $|G|^{O(\log|G|)}$).
+problem is decidable, and it lies in nondeterministic quasi-polynomial time (a witness of order $|G|^{O(\log|G|)}$);
+no lower bound on the complexity is offered.
 Moreover, if $G\cong H'$ then some subgroup $Q$ with $\Inn(G)\le Q\le\Aut(G)$ satisfies $Q'=\Inn(G)$; when
 $Z(G)=1$ this condition is also sufficient.
 \end{theorem}
@@ -44,11 +45,12 @@ $T$ is monotone on subgroups by Frobenius reciprocity. \emph{Literature.} The tw
 reduction to the centraliser of $\alpha^2$ is the only new step, and the agent regards this answer as ``possibly
 known or easy for experts''. The classical case $\alpha=\mathrm{id}$ is the inequality $T(G)\ge 1+\#\{\text{involutions}\}$.
 
-\subsection{Problems 2.78 / 3.57 (P.~I.~Trofimov): group-theoretic numbers}
+\subsection{Problem 2.78 (P.~I.~Trofimov): group-theoretic numbers}
 \begin{problem}[2.78]
 For a finite group $G$ let $f(G)$ be the number of orders $d$ such that $G$ has a non-normal subgroup of order $d$
 (the number of $\mathrm{IE}\bar n$-systems). An integer $k$ is soluble if every group with $f(G)=k$ is soluble,
-simple if $f(S)=k$ for some non-abelian simple $S$, absolutely simple if in addition no non-soluble non-simple
+simple if $f(S)=k$ for some simple $S$ (we read this as non-abelian simple; with abelian $S$ admitted, $0$ would
+be both soluble and absolutely simple), absolutely simple if in addition no non-soluble non-simple
 group has $f=k$, and composite if no simple group has $f=k$. Are the sets of soluble numbers and of absolutely
 simple numbers finite or infinite? Do composite non-soluble numbers exist?
 \end{problem}
@@ -62,8 +64,9 @@ of $p$-groups $M_{p^n}\times C_{p^r}$ (modular group times cyclic) with $|\Ord|=
 $f(A_5\times P)=7n+9r+9$, which represents every integer $\ge 86$. The lower bound $f\ge 9$ for simple groups
 other than $A_5$ uses Thompson's list of minimal simple groups and a count of subgroup orders; the case $f\in\{7,8\}$
 is settled by an analysis of minimal normal subgroups. \emph{Literature.} The problem dates from the second issue
-(1965) and is still listed as open; the existence of composite non-soluble numbers remains open (data suggests
-that every $k\ge 9$ is a simple number).
+(1965) and is still listed as open. The second question of 2.78 (do composite non-soluble numbers exist?) and
+Problem 3.57 (the distribution of non-soluble and simple numbers) are not answered; the data suggest that every
+$k\ge 9$ is a simple number.
 
 \subsection{Problem 18.46 (Ant.~A.~Klyachko): sharpness of $|H|\le 2|G|^2$}
 \begin{problem}[18.46]
@@ -77,8 +80,9 @@ product $D_8\wr C_2$ attains the bound.
 \emph{Idea.} Exhaustive verification: all groups of order $8,16,\dots,120$ are in the SmallGroups library, and two
 independent GAP computations show that none contains a dihedral subgroup of order 8 consisting of squares.
 Exactly 14 of the 2328 groups of order 128 do. The table of minimal $|H|$ for all groups of order $\le 12$
-shows that $D_8$ is the smallest group needing the factor 2. \emph{Literature.} The bound is from
-Baranov--Klyachko (2012); the agent found no prior determination of the sharpness.
+shows that $D_8$ is the smallest group needing the factor 2. \emph{Literature.} The bound and the
+lower bound $|G|^2$ are from Baranov--Klyachko~\cite{BK}, cited in the notebook; the agent found no prior
+determination of the sharpness. Whether infinitely many groups need $2|G|^2$ was not investigated.
 
 \subsection{Problem 13.19 (Yu.~M.~Gorchakov): regularity of $Q/H$}
 \begin{problem}[13.19]
@@ -87,8 +91,9 @@ $i$ the projections of both $Q$ and $H$ onto $G_i$ coincide with $G_i$. If $Q/H$
 regular $p$-group?
 \end{problem}
 \begin{theorem}\label{thm:1319}
-No, for every prime $p$. Every finite $p$-group $P$ of class $c$ occurs as $Q/H$ in such a configuration with
-$n=c+1$. The smallest explicit example has $|Q|=2^9$, $n=3$ and $Q/H\cong D_8$.
+No, for every prime $p$. Every finite $p$-group $P$ of class $c$ occurs as $Q/H$ in
+such a configuration with $n=c+1$. The smallest example constructed has $|Q|=2^9$, $n=3$ and $Q/H\cong D_8$ (not
+regular, as regular 2-groups are abelian); no example exists with $|Q|\le 192$.
 \end{theorem}
 \emph{Idea.} The reformulation is: $Q$ has normal subgroups $N_1,\dots,N_n$ with $\bigcap N_i=1$ and $HN_i=Q$
 for all $i$ (then $G_i=Q/N_i$). The class of $Q/H$ is at most $n-1$, so non-regular quotients need $n\ge 3$. The

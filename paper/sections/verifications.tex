@@ -6,7 +6,7 @@ count exceeds $N$ were skipped; 512, 1024 and 1536 are always skipped unless sta
 of \code{reports/verifications.md}.
 
 \small
-\begin{longtable}{p{2.5cm}p{5.4cm}p{6.8cm}}
+\begin{longtable}{L{2.6cm}L{5.3cm}L{6.8cm}}
 \toprule
 Problem & Statement checked & Range verified \\
 \midrule
@@ -16,18 +16,18 @@ Problem & Statement checked & Range verified \\
 21.113 (Robinson) & $\Psi_{p,G}$ is a character; projective character & all groups of order $\le 1000$ except 512, 768; all perfect groups of order $\le 10^5$; all primitive groups of degree $\le 40$ and order $\le 2\cdot10^6$; 1663 library tables of order $\le 10^7$ (Brauer tables where available); $p$-soluble groups $\le 400$ \\
 21.26 (Lisi--Sabatini) & simultaneous minimal Sylow intersections & all groups of order $\le 2000$ except 1024, 1280, 1536, 1792; $\sim 60$ larger groups (see Section~\ref{sec:partial}) \\
 21.52/21.53 (Gorshkov) & automorphisms of the $|ab|$-coloured complete graph on an involution class & all simple $L$ of order $\le 7920$, all involution classes \\
-21.25 (Breuer--Guralnick) & simple $G=\gen{P_1,P_2}$ for Sylow subgroups of any two primes & all 65 simple groups of order $\le 2\cdot10^6$ \\
+21.25 (Breuer--Guralnick) & simple $G=\gen{P_1,P_2}$ for Sylow subgroups of any two primes & all 66 simple groups of order $\le 2\cdot10^6$ \\
 21.27/21.28 (Burness et al.) & products of two derangements; $\delta(G)\ge 89/325$ & all simple groups of order $\le 5\cdot10^5$, all transitive actions; minimum $\delta$ observed $2/7$ \\
-21.135/21.59(a) & character-degree multisets vs trivial radical / almost simple & orders 60--720 with trivial radical \\
+21.135/21.59(a) & character-degree multisets vs trivial radical / almost simple & the groups of orders 60, 120, 168, 336, 360, 504, 660, 720 with trivial radical \\
 21.2 (Amiri) & order-divisibility bijection onto a simple group forces simplicity & orders 60, 168, 360, 504, 660, 1092 \\
-20.115 (Wilde) & $\chi(x)\ne0\Rightarrow o(x)\mid |G|/\chi(1)$ & 208 non-soluble groups $\le 2000$; 2275 library tables with $\le 300$ classes \\
-20.78 (Qian codegree conjecture) & element of order $m\Rightarrow m$ divides some codegree & non-soluble groups $\le 2000$ with $F(G)\ne1$; 2275 library tables; perfect groups $\le 10^5$ with $F(G)\ne 1$ \\
+20.115 (Wilde) & $\chi(x)\ne0\Rightarrow o(x)\mid |G|/\chi(1)$ & the 208 non-soluble groups $\le 2000$ (orders with $\le 5000$ groups); 2275 library tables with $\le 300$ classes \\
+20.78 (Qian codegree conjecture) & element of order $m\Rightarrow m$ divides some codegree & non-soluble groups $\le 2000$ (orders with $\le 5000$ groups) with $F(G)\ne1$; 2275 library tables; perfect groups $\le 10^5$ with $F(G)\ne 1$ \\
 19.108 (Wilde) & $p$-groups, $p$ odd: $\chi(x)\ne0\Rightarrow o(x)\mid|P|/\chi(1)^2$ & all non-abelian groups of order $3^3$--$3^7$, $5^3$--$5^5$, $7^3$--$7^4$ \\
-20.49 (Lucchini) & 2-generated subgroup of the same exponent & 208 non-soluble groups $\le 2000$ \\
-20.4(b),(c) (Bächle) & cut groups: Sylow 3-subgroups cut; $\exp O_p(G)=p$ ($p=5,7$) & all cut groups of order $\le 2000$ divisible by 3, 25 or 49 \\
+20.49 (Lucchini) & 2-generated subgroup of the same exponent & the 208 non-soluble groups $\le 2000$ (orders with $\le 5000$ groups) \\
+20.4(b),(c) (Bächle) & cut groups: Sylow 3-subgroups cut; $\exp O_p(G)=p$ ($p=5,7$) & all cut groups of order $\le 2000$ divisible by 3, 25 or 49 (orders with $\le 5000$ groups, except 512, 1024, 1536) \\
 20.122 (Zenkov) & $\min_G(A,B,C)$, $\mathrm{Min}_G(A,B,C)\le F(G)$ for nilpotent $A,B,C$ & all nilpotent subgroups, orders $\le 95$ and parts of 123--190 \\
 20.71(a),(b) (Lauri/Pannone) & connected graph with $k\in\{2,3\}$ card types and $>k$ orbits & all connected graphs on $\le 11$ vertices ($1\,006\,700\,565$ on 11 vertices) \\
-20.86 (Schmid) & Gheri's inequality for non-$p$-soluble groups & 208 non-soluble groups $\le 2000$; 65 simple groups $\le 3\cdot10^6$; all perfect groups $\le 2\cdot10^5$ \\
+20.86 (Schmid) & Gheri's inequality for non-$p$-soluble groups & the 208 non-soluble groups $\le 2000$ (orders with $\le 5000$ groups); the 73 simple groups $\le 3\cdot10^6$; all perfect groups $\le 2\cdot10^5$ \\
 20.30 (Neumann--Vaughan-Lee) & perfect centreless $G$: $|G|\le n^2$ ($n$ = max class size) & all perfect groups of order $<10^6$ with trivial centre \\
 20.55 (Mattarei) & identical character tables, derived lengths 2 and 4 & soluble groups $\le 1000$ (orders with $\le 3000$ groups) \\
 20.99 (Sun, $k=5$) & 5 disjoint cosets with pairwise $\gcd$ of indices $\le 4$ & groups of order $\le 31$ \\
@@ -35,13 +35,13 @@ Problem & Statement checked & Range verified \\
 19.12 (Bezerra et al.) & every finite simple group is conjugacy-expansive & 34 simple groups with $\le 24$ classes (order $\le 3\cdot10^6$) \\
 19.20 (Cameron) & $|\mathrm{End}(G)|=|\mathrm{PIso}(G)|\Rightarrow G$ abelian & all groups of order $\le 120$ \\
 19.30 & same order and same vanishing-element orders as $S\Rightarrow G\cong S$ & $S=A_5$, $\PSL(2,7)$, $A_6$, $\PSL(2,8)$, $\PSL(2,11)$, $\PSL(2,13)$ \\
-19.33 (Giannelli) & $\chi_P$ with a linear constituent has $\ge p$ of them & non-soluble groups $\le 2000$; simple groups $\le 10^6$ \\
+19.33 (Giannelli) & $\chi_P$ with a linear constituent has $\ge p$ of them & non-soluble groups $\le 2000$ (orders with $\le 5000$ groups); simple groups $\le 10^6$ \\
 18.20 (Belonogov) & semiproportional irreducibles have equal degree & all groups $\le 250$; 2063 library tables with $\le 200$ classes \\
 18.44 (Keller) & only $(D_8,\F_3^2)$ & non-abelian groups $\le 120$, modules over $\F_q$, $q\le 13$, $|V|\le 2\cdot10^5$ \\
 18.56 (Cutolo) & core-2 2-groups have an abelian subgroup of index $\le 4$ & all 2-groups of order $\le 128$ \\
 18.77 (Passman) & kernels of max-degree irreducibles of $p$-groups intersect trivially ($p>e$) & $p$-groups of order $2^4$--$2^8$, $3^3$--$3^7$, $5^3$--$5^5$ \\
 18.114 (Schmid) & $k(VG)=|V|$ for irreducible $5'$-subgroups of $\GL(n,5)$ & $n\le 3$: only Singer cycles \\
-18.119 (Shumyatsky) & Sylow subgroups of $w(G)$ generated by $w$-values & all groups $\le 240$ (six words); $\delta_2,\gamma_3$ for groups $\le 2000$ with derived length $\ge 3$ \\
+18.119 (Shumyatsky) & Sylow subgroups of $w(G)$ generated by $w$-values & all groups $\le 240$ for the words $[x,y]$, $[x,y,z]$, $\delta_2$, $\delta_3$, $[[x,y],[z,t],u]$, $[[x,y,z],[t,u]]$; $\delta_2$ and $\gamma_3$ for all groups $\le 2000$ (orders with $\le 5000$ groups) of derived length $\ge 3$ with non-nilpotent $G''$ \\
 18.120 (Jabara) & $P=AB$, $A$ abelian, $B$ class 2 $\Rightarrow\gen{A,[B,B]}=AB_0$ & all $p$-groups of order 16--64, 27--243, 125 \\
 17.1 (Isaacs) & partition by subgroups of equal order with a non-abelian component & exponent-3 groups of order $3^6$; exponent-5 groups of order $5^6$ \\
 17.128 (Jabara) & $T$ of exponent $p$ if all elements of $TA\setminus T$ have order $p$ & 3-groups of order $\le 3^5$ \\
@@ -58,14 +58,14 @@ Problem & Statement checked & Range verified \\
 11.18/17.80 (Brandl, Macedońska) & $G(2,3)=\gen{x,y\mid x=[x,y,y],\,y=[y,x,x,x]}$ & perfect; no subgroup of index $\le 12$; no quotient onto a simple group of order $\le 2\cdot10^5$; coset enumeration fails at $4\cdot10^8$ cosets \\
 21.111 & $\tau$-groups & simple groups of order $\le 10^7$ (Section~\ref{sec:partial}) \\
 18.117 & coprime commutators & 15 sporadic groups (Section~\ref{sec:partial}) \\
-19.56 & $\star$-commutator hypothesis & non-soluble groups $\le 2000$; perfect groups $\le 10^5$ \\
+19.56 & $\star$-commutator hypothesis & non-soluble groups $\le 2000$ (orders with $\le 5000$ groups); perfect groups $\le 10^5$ \\
 20.21 & existence of the configuration & groups $\le 2000$; local condition to $|K|\le 1000$ (Section~\ref{sec:partial}) \\
 \bottomrule
 \end{longtable}
 \normalsize
 
 Two of these deserve a comment. In 21.26 the sweep also recorded, for every group, that all inclusion-minimal
-intersections $P\cap P^x$ equal $O_p(G)$---an instance of Zenkov's theorem that the agent used as a sanity check
-of the code. In 20.71 the computation is a nauty-based enumeration with a C filter and is the largest single
+intersections $P\cap P^x$ equal $O_p(G)$---an instance of Zenkov's theorem~\cite{Zenkov} that the
+agent used as a sanity check of the code. In 20.71 the computation is a nauty-based enumeration with a C filter and is the largest single
 enumeration of the run; the case $k=4$ (already solved in the literature) served as a positive control, since the
 filter finds examples on 9 vertices for $k=4$.

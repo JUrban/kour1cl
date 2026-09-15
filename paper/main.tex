@@ -2,6 +2,7 @@
 \usepackage[a4paper,margin=2.5cm]{geometry}
 \usepackage{amsmath,amssymb,amsthm}
 \usepackage{booktabs,longtable,array}
+\newcolumntype{L}[1]{>{\raggedright\arraybackslash}p{#1}}
 \usepackage{url}
 \usepackage[colorlinks=true,linkcolor=blue!50!black,citecolor=blue!50!black,urlcolor=blue!50!black]{hyperref}
 \usepackage{xcolor}
@@ -62,11 +63,11 @@ harness, with GAP~4.16.1 and a 20-core budget) was asked to solve as many unsolv
 21st edition of the Kourovka Notebook and to document its work rigorously. The agent triaged the roughly 2300 open
 problems, launched about 190 GAP computations, and combined computer searches with short proofs. It produced
 complete answers to five problems (21.32: the property ``$G\cong H'$ for some finite $H$'' is decidable, with a
-quasi-polynomial witness bound; 16.60: $T(G)\ge |S_\alpha|$ for every automorphism $\alpha$; 2.78/3.57: the sets of
-soluble and of absolutely simple group-theoretic numbers are finite; 18.46: Klyachko's bound $|H|\le 2|G|^2$ for
+quasi-polynomial witness bound; 16.60: $T(G)\ge |S_\alpha|$ for every automorphism $\alpha$; 2.78: the sets of
+soluble and of absolutely simple group-theoretic numbers are finite (the main question of 2.78); 18.46: Klyachko's bound $|H|\le 2|G|^2$ for
 square-root overgroups is sharp; 13.19: Gorchakov's question on subdirect products has a negative answer for
 every prime), substantial partial results on seven further problems (16.14, 20.37, 20.21, 19.56, 21.26, 21.111,
-18.117), and bounded-range verifications for about thirty more. All proofs are self-contained and all
+18.117), and bounded-range verifications for about forty-five more. All proofs are self-contained and all
 computations are reproducible from a git repository. We describe the setting, the workflow, the mistakes made
 along the way, and what the experience suggests about using such agents for research mathematics. The status of
 the results with respect to the literature was not independently checked by the agent; some of the arguments may

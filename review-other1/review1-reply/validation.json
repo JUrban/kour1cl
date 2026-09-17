@@ -1,0 +1,22 @@
+{
+  "status": "PASS",
+  "checked_utc": "2026-09-15T16:17:32.537615+00:00",
+  "scope": "Actual final archive members and manifests, current full-source bytes, PDF digest, and exact TeX/figure/ancillary binding to successful portable replay.",
+  "pdf_sha256": "ec9a5482cdfb9ee2b3937fd1980eed6448ab5f954454c9d5287d06aa8a4c3c25",
+  "arxiv_members": 96,
+  "full_source_members": 139,
+  "handoff": {
+    "kourovka-experiment.pdf": {
+      "bytes": 628385,
+      "sha256": "ec9a5482cdfb9ee2b3937fd1980eed6448ab5f954454c9d5287d06aa8a4c3c25"
+    },
+    "kourovka-experiment-arxiv-source.tar.gz": {
+      "bytes": 225047,
+      "sha256": "e9c9f1c6f4c2f5324f84b71d22e4608fa2569ac0923708ecb2bccdbd06bf7c34"
+    },
+    "kourovka-experiment-full-source.zip": {
+      "bytes": 944767,
+      "sha256": "1427bad6fcd539546e50178292ef7c51f643934dfd24f1c36be0a912e2c5e4d8"
+    }
+  }
+}

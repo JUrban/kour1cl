@@ -1,0 +1,8 @@
+p= 7 : 1 - 2t + 3t^p at t=2/3 = -115/729 = -0.157750  (<0 : True)
+p=11 : 1 - 2t + 3t^p at t=2/3 = -17635/59049 = -0.298650  (<0 : True)
+p=13 : 1 - 2t + 3t^p at t=2/3 = -168955/531441 = -0.317919  (<0 : True)
+claimed bound -115/729 for p=7: -115/729 = -0.15775034293552812
+with a negative coefficientwise factor, a convergent H(2/3) would give a negative number >= 3: consistent
+P_K(2/3) with p=7, K= 1 : 13.54
+P_K(2/3) with p=7, K= 5 : 4.553e+05
+P_K(2/3) with p=7, K=20 : 4.299e+22

@@ -1,0 +1,4 @@
+order 2: 2 quasigroups, violations of t_2(x,y)=y: 0
+order 3: 12 quasigroups, violations of t_6(x,y)=y: 0
+order 4: 576 quasigroups, violations of t_24(x,y)=y: 0
+t_6(0, e_0) = (0, 0, 0, 0, 0, 0, 1)   e_6 = (0, 0, 0, 0, 0, 0, 1)   different: True

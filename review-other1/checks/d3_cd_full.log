@@ -1,0 +1,16 @@
+Syntax warning: Unbound global variable in d3_cd.g:9
+      meas := List(all, H -> Size(H)*Size(Centralizer(Xg,H)));;
+                                                      ^^
+Syntax warning: Unbound global variable in d3_cd.g:11
+      Dcd := Intersection(Filtered(all, H -> Size(H)*Size(Centralizer(Xg,H)) =\
+ mx));;
+                                                                      ^^
+Syntax warning: Unbound global variable in d3_cd.g:11
+      Dcd := Intersection(Filtered(all, H -> Size(H)*Size(Centralizer(Xg,H)) =\
+ mx));;
+                                                                              \
+ ^^
+Syntax warning: Unbound global variable in d3_cd.g:12
+      j := Minimum(List(Filtered(subs, IsAbelian), A -> Index(Xg,A)));;
+                                                              ^^
+nonabelian groups tested: 132  violations: 0

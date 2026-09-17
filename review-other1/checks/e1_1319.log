@@ -1,0 +1,8 @@
+|D| = 8 D8
+|Q| = 256
+phi is a homomorphism: true
+|H| = 32  Q/H = D8
+Q subdirect (projections onto each factor onto D): [ true, true, true, true ]
+H subdirect: [ true, true, true, true ]
+H contains the diagonal: true
+Q/H is not regular: s^2 = t^2 = 1 but (st)^2 <> 1 in D8: true

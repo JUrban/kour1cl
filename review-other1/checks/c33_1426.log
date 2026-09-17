@@ -1,0 +1,11 @@
+k=2 R=1 I=[0, 1] :
+   Q_0(j,..,j) over I = [1, 0]  vanishes on z2=z1+d: True  max degree per variable: 3
+   Q_1(j,..,j) over I = [0, 1]  vanishes on z2=z1+d: True  max degree per variable: 3
+k=2 R=2 I=[0, 1, 2] :
+   Q_0(j,..,j) over I = [1, 0, 0]  vanishes on z2=z1+d: True  max degree per variable: 6
+   Q_1(j,..,j) over I = [0, 1, 0]  vanishes on z2=z1+d: True  max degree per variable: 6
+   Q_2(j,..,j) over I = [0, 0, 1]  vanishes on z2=z1+d: True  max degree per variable: 6
+k=3 R=1 I=[0, 1, 2] :
+   Q_0(j,..,j) over I = [1, 0, 0]  vanishes on z2=z1+d: True  max degree per variable: 6
+   Q_1(j,..,j) over I = [0, 1, 0]  vanishes on z2=z1+d: True  max degree per variable: 6
+   Q_2(j,..,j) over I = [0, 0, 1]  vanishes on z2=z1+d: True  max degree per variable: 6

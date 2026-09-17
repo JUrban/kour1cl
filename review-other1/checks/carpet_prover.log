@@ -1,0 +1,4 @@
+type A2: (5) requests 6, failures 0;  (6) raw requests 24, merged 12, failures 0
+type B2: (5) requests 20, failures 0;  (6) raw requests 96, merged 48, failures 0
+type G2: (5) requests 78, failures 0;  (6) raw requests 480, merged 240, failures 0
+TOTAL (5) 104, (6) 300, failures 0

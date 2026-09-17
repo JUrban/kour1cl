@@ -1,0 +1,10 @@
+H = C4: without extra orbit [ 16, true, 4, true ]  with extra orbit 
+[ 35, true, 4, true ]
+H = S3: without extra orbit [ 36, true, 6, true ]  with extra orbit 
+[ 75, true, 6, true ]
+H = Q8: without extra orbit [ 64, true, 8, true ]  with extra orbit 
+[ 131, true, 8, true ]
+21.76: |<[[1,1],[0,1]],[[1,0],[j,1]]>| over F9 = 120
+   upper parameters: [ 0*Z(3), Z(3)^0, Z(3) ]  lower parameters: 
+[ 0*Z(3), Z(3^2)^2, Z(3^2)^6 ]  (j = Z(3^2)^2)
+13.19 example: |Q| = 256  closed under multiplication: true

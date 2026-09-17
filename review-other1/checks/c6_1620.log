@@ -1,0 +1,4 @@
+|SL2(q)| for q = 5,7,13: [120, 336, 2184]   |PSL2(q)|: [60, 168, 1092]
+|A| = product / 2 = 44029440  paper says 44,029,440: True
+pairwise non-divisibility of 60, 168, 1092: True
+centre C_2 x C_2 after killing z1z2z3: 2^3/2 = 4 elements, i.e. order 4

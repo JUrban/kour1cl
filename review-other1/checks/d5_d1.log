@@ -1,0 +1,17 @@
+r=1 : proportion covered by r independent hyperplanes = 1/3 = 0.3333   > 7/9 ? False
+r=2 : proportion covered by r independent hyperplanes = 5/9 = 0.5556   > 7/9 ? False
+r=3 : proportion covered by r independent hyperplanes = 19/27 = 0.7037   > 7/9 ? False
+r=4 : proportion covered by r independent hyperplanes = 65/81 = 0.8025   > 7/9 ? True
+r=5 : proportion covered by r independent hyperplanes = 211/243 = 0.8683   > 7/9 ? True
+so r <= 3 and the index bound is 3^3 = 27; for p = 2 the subgroup is abelian and the bound is 4
+orderings of the four nonidentity elements of C5 giving distinct a_i^i: 0 (paper claims none)
+check of the paper's parity argument: sum of i*a_i over any ordering = {0, 1, 2, 3, 4}
+D.1 (20.100) counterexample bound p_n * n^(n-1):
+  n=2 : least prime > n+1 is 5, bound = 10
+  n=3 : least prime > n+1 is 5, bound = 45
+  n=4 : least prime > n+1 is 7, bound = 448
+  n=5 : least prime > n+1 is 7, bound = 4375
+  n=6 : least prime > n+1 is 11, bound = 85536
+  n=7 : least prime > n+1 is 11, bound = 1294139
+D.4 (20.124) identity checked by hand: B(D(u)) = phi(u), D(u)phi(u)D(v)phi(u)^{-1} = uv phi(uv)^{-1} = D(uv),
+  so B(gB(g)hB(g)^{-1}) = phi(uv) = B(g)B(h).

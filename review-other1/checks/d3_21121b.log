@@ -1,0 +1,2 @@
+abelian p'-subgroups tested: 344  violations: 0
+60 vs 16 and 64: true true  so 2 < log60/log4 < 3

@@ -1,0 +1,9 @@
+|K| = 96
+relations: [ true, true, true, true, true, true, true ]
+|H| = 24  StructureDescription(H) = SL(2,3)
+|G| = 2592
+IsMonomial(G) = false
+character degrees (collected) = [ [ 1, 3 ], [ 3, 5 ], [ 4, 9 ], [ 6, 8 ], 
+  [ 8, 6 ], [ 12, 8 ], [ 24, 1 ] ]
+degrees of non-monomial irreducibles = [ 8, 8, 8, 8, 8, 8 ]
+B normal abelian, |B|, |K|, B cap K: true true 27 96 1

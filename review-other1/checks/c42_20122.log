@@ -1,0 +1,8 @@
+|G| = 36864 expected 36864; soluble: true
+|A|=16 |B|=2048 nilpotent: truetrue
+number of conjugates of B: 9
+ordered pairs: 81
+distinct intersections: 10 orders: [ [ 2, 5 ], [ 4, 4 ], [ 8, 1 ] ]
+inclusion-minimal: 5 minimum-order: 5 (order 2)
+Min = A: true  min = A: true  |F(G)| = 
+512  min <= F(G): false  Min <= F(G): false

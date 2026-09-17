@@ -1,0 +1,4 @@
+every k is realised by arbitrarily large sizes: True
+D_k partition the sizes 0..200: True
+d/dX at X=1 : -Y + Y**k + l*(Y - 1)  i.e. Y^k = l + (1-l)Y : True
+integer solutions (k,l) of the group-ring identity in the abelianisation: [(0, 1), (1, 0)]

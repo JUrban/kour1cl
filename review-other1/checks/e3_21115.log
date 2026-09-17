@@ -1,0 +1,3 @@
+(G,+) is abelian: associative True, commutative True, identity True
+every subgroup tested is closed under +: True  (19 subgroups)
+affine-coset property spot check: cosets gH are additive cosets: True

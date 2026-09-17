@@ -1,0 +1,6 @@
+PBW monomials of weight <= c+1 = 3: 13
+spanning set of M = I/(J + I^{c+1}): [(0, 0, 1), (0, 0, 2), (1, 0, 0)]
+  d(x): monomial (0, 1, 0)  lies in J + I^{c+1}: True
+  d(y): monomial (0, 0, 1)  lies in J + I^{c+1}: False
+  d(u): monomial (1, 0, 0)  lies in J + I^{c+1}: False
+so ker d contains x and nothing else among the basis vectors: ker d = h, as the paper claims

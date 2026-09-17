@@ -1,0 +1,44 @@
+A2 req3 OK
+B2 req6 OK
+B2 req7 OK
+B2 req8 OK
+B2 req9 OK
+B2 req10 OK
+G2 req19 OK
+G2 req20 OK
+G2 req21 OK
+G2 req22 OK
+G2 req23 OK
+G2 req32 OK
+G2 req33 OK
+G2 req34 OK
+G2 req35 OK
+G2 req36 OK
+G2 req37 OK
+G2 req38 OK
+G2 req39 OK
+  A2 req3: request [((-1, 0), 1), ((0, -1), 1)] has combined constant 1, printed requested coefficient 1 -> match
+  B2 req6: request [((-2, -1), 1), ((1, 0), 1)] has combined constant 1, printed requested coefficient 1 -> match
+  B2 req7: request [((-1, 0), 1), ((0, -1), 1)] has combined constant 1, printed requested coefficient 1 -> match
+  B2 req8: request [((-1, -1), 2), ((0, 1), 1)] has combined constant 1, printed requested coefficient 1 -> match
+  B2 req9: request [((-1, 0), 2), ((0, -1), 1)] has combined constant 1, printed requested coefficient 1 -> match
+  B2 req10: request [((-1, -1), 1), ((-1, 0), 1)] has combined constant 2, printed requested coefficient 2 -> match
+  G2 req19: request [((-3, -1), 1), ((1, 0), 1)] has combined constant 1, printed requested coefficient 1 -> match
+  G2 req20: request [((-1, -1), 2), ((0, 1), 1)] has combined constant 1, printed requested coefficient 1 -> match
+  G2 req21: request [((-3, -2), 1), ((1, 1), 1)] has combined constant 1, printed requested coefficient 1 -> match
+  G2 req22: request [((-1, -1), 1), ((-1, 0), 1)] has combined constant 2, printed requested coefficient 2 -> match
+  G2 req23: request [((-1, 0), 2), ((0, -1), 1)] has combined constant 1, printed requested coefficient 1 -> match
+  G2 req32: request [((-2, -1), 2), ((1, 0), 1)] has combined constant 3, printed requested coefficient 3 -> match
+  G2 req33: request [((-3, -1), 2), ((1, 0), 3)] has combined constant 1, printed requested coefficient 1 -> match
+  G2 req34: request [((-1, -1), 3), ((0, 1), 1)] has combined constant 1, printed requested coefficient 1 -> match
+  G2 req35: request [((-2, -1), 3), ((3, 1), 1)] has combined constant 1, printed requested coefficient 1 -> match
+  G2 req36: request [((-1, -1), 2), ((-1, 0), 1)] has combined constant 3, printed requested coefficient 3 -> match
+  G2 req37: request [((-1, 0), 3), ((0, -1), 2)] has combined constant 1, printed requested coefficient 1 -> match
+  G2 req38: request [((-3, -1), 1), ((0, -1), 1)] has combined constant 1, printed requested coefficient 1 -> match
+  G2 req39: request [((-2, -1), 1), ((-1, -1), 1)] has combined constant 3, printed requested coefficient 3 -> match
+ALL OK
+type A destination (1, 1): 1 distinct requests (all requests for -p): [[((-1, 0), 1), ((0, -1), 1)]]
+type B destination (1, 1): 2 distinct requests (all requests for -p): [[((-2, -1), 1), ((1, 0), 1)], [((-1, 0), 1), ((0, -1), 1)]]
+type B destination (2, 1): 3 distinct requests (all requests for -p): [[((-1, -1), 1), ((-1, 0), 1)], [((-1, -1), 2), ((0, 1), 1)], [((-1, 0), 2), ((0, -1), 1)]]
+type G destination (2, 1): 5 distinct requests (all requests for -p): [[((-3, -2), 1), ((1, 1), 1)], [((-3, -1), 1), ((1, 0), 1)], [((-1, -1), 1), ((-1, 0), 1)], [((-1, -1), 2), ((0, 1), 1)], [((-1, 0), 2), ((0, -1), 1)]]
+type G destination (3, 2): 8 distinct requests (all requests for -p): [[((-3, -1), 1), ((0, -1), 1)], [((-3, -1), 2), ((1, 0), 3)], [((-2, -1), 1), ((-1, -1), 1)], [((-2, -1), 2), ((1, 0), 1)], [((-2, -1), 3), ((3, 1), 1)], [((-1, -1), 2), ((-1, 0), 1)], [((-1, -1), 3), ((0, 1), 1)], [((-1, 0), 3), ((0, -1), 2)]]

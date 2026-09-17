@@ -1,0 +1,10 @@
+S3: T(G) = 4  max inverted = 4  identity and bound hold: true
+Q8: T(G) = 6  max inverted = 6  identity and bound hold: true
+  |iota| > 1 !
+D10: T(G) = 6  max inverted = 6  identity and bound hold: false
+C3 : C4: T(G) = 8  max inverted = 8  identity and bound hold: true
+A4: T(G) = 6  max inverted = 6  identity and bound hold: true
+(C4 x C2) : C2: T(G) = 12  max inverted = 12  identity and bound hold: true
+S4: T(G) = 10  max inverted = 10  identity and bound hold: true
+D10, automorphism of order 5: iota values are 0.309017 and -0.809017 (both real), absolute values 0.309017, 0.809017 <= 1
+so the earlier flag was an artifact of testing rationality of |iota|^2, not a violation of |iota| <= 1

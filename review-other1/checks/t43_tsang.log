@@ -1,0 +1,8 @@
+index check: true
+|lambda(G)| = 605
+|G| = 605  |Z(G)| = 1  |Aut(G)| = 12100
+claimed automorphisms are homomorphisms: true
+|Hol| = 7320500  expected 605*12100 = 7320500
+Normalizer(Sym(605), lambda(G)) = Hol ? true
+theta normalises Hol: true
+theta^2 in Hol: false   theta^4 = 1: true  theta in Hol: false

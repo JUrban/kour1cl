@@ -1,0 +1,12 @@
+p=3 d=1 |G|=54 expected 54  supersolvable:true derived length:2 |Z_inf|=
+1 |Phi|=3
+  number of system normalizers = 9 expected p^(d+1) = 9
+  least number with trivial intersection = 2 expected 2
+p=3 d=2 |G|=486 expected 486  supersolvable:true derived length:2 |Z_inf|=
+1 |Phi|=3
+  number of system normalizers = 27 expected p^(d+1) = 27
+  least number with trivial intersection = 3 expected 3
+p=5 d=1 |G|=250 expected 250  supersolvable:true derived length:2 |Z_inf|=
+1 |Phi|=5
+  number of system normalizers = 25 expected p^(d+1) = 25
+  least number with trivial intersection = 2 expected 2

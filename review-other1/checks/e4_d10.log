@@ -1,0 +1,18 @@
+degrees: [ 1, 1, 2, 2 ]  T(G) = 6  |Aut| = 20
+Syntax warning: Unbound global variable in e4_d10.g:9
+        "  inverted = ", inv, "  sum chi(1) iota = ", Sum([1..Length(irr)], i \
+-> irr[i][1]*iota[i]), "\n");
+                                                                              \
+             ^^^^
+aut order 1: iota = [ 1, 1, 1, 1 ]  |iota|^2 = [ 1, 1, 1, 1 ]  inverted = 
+6  sum chi(1) iota = 6
+aut order 4: iota = [ 1, 1, 0, 0 ]  |iota|^2 = [ 1, 1, 0, 0 ]  inverted = 
+2  sum chi(1) iota = 2
+aut order 4: iota = [ 1, 1, 0, 0 ]  |iota|^2 = [ 1, 1, 0, 0 ]  inverted = 
+2  sum chi(1) iota = 2
+aut order 2: iota = [ 1, 1, 1, 1 ]  |iota|^2 = [ 1, 1, 1, 1 ]  inverted = 
+6  sum chi(1) iota = 6
+aut order 5: iota = [ 1, 1, 1/2*E(5)+1/2*E(5)^4, 1/2*E(5)^2+1/2*E(5)^3 
+ ]  |iota|^2 = [ 1, 1, -1/2*E(5)-1/4*E(5)^2-1/4*E(5)^3-1/2*E(5)^4, 
+  -1/4*E(5)-1/2*E(5)^2-1/2*E(5)^3-1/4*E(5)^4 ]  inverted = 
+1  sum chi(1) iota = 1

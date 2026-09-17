@@ -1,0 +1,12 @@
+p= 31 ord_p(2)=  5 : identity holds for all D < ord_p(2)
+p= 37 ord_p(2)= 36 : identity holds for all D < ord_p(2)
+p=101 ord_p(2)=100 : identity holds for all D < ord_p(2)
+p=131 ord_p(2)=130 : identity holds for all D < ord_p(2)
+violations: 0
+k=2 : E = 2, D = 2, 2^D = 4
+k=3 : E = 6, D = 12, 2^D = 4096
+k=4 : E = 16, D = 48, 2^D = 281474976710656
+k=5 : E = 40, D = 160, 2^D = big
+k=6 : E = 96, D = 480, 2^D = big
+k=2, D=2: primes just above 2^D and their ord_p(2) > D ? [(5, 4, True), (7, 3, True), (11, 10, True)]
+k=3, D=12: primes just above 2^D and their ord_p(2) > D ? [(4099, 4098, True), (4111, 2055, True), (4127, 2063, True)]

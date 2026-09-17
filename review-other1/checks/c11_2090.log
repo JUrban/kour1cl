@@ -1,0 +1,12 @@
+Syntax warning: Unbound global variable in c11_2090.g:14
+for k in [1..3] do G := img(k);; Print("k=",k," |image| = ", Size(G), "  perfe\
+ct: ", IsPerfectGroup(G), "  StructureDescription (k<=2): ", (function() if k<\
+=2 then return StructureDescription(G); else return "-"; fi; end)(), "\n"); od\
+;
+                                                                              \
+                                                                              \
+                                    ^
+k=1 |image| = 60  perfect: true  StructureDescription (k<=2): A5
+k=2 |image| = 240  perfect: false  StructureDescription (k<=2): C2 x C2 x A5
+k=3 |image| = 15360  perfect: false  StructureDescription (k<=2): -
+w^2+w+1 = 0: true

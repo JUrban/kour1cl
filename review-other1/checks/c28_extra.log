@@ -1,0 +1,4 @@
+720720 == lcm(1..16): True  lcm(1..16) = 720720
+w^2 as a word before using the relations: xytxyt
+using txt = x and tyt = y (all generators are involutions): xytxyt -> xy(txt)(tyt)t^2 = xyxy
+and the paper writes w^2 = x y x y^{-1}, which equals xyxy since y^2 = 1: True

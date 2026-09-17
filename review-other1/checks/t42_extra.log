@@ -1,0 +1,5 @@
+|K| = 96 IdGroup = [ 96, 204 ] IsMonomial = true
+E normal in K: true |E| = 8 elementary abelian: true
+A4 complement: 12 A4 E cap A4 = 1
+all groups of order <= 240 that are non-monomial: smallest orders: 
+[ 24, 48, 60, 72, 96, 108, 120, 144, 160, 168, 180, 192, 216, 240 ]

@@ -1,0 +1,6 @@
+720720 = {2: 4, 3: 2, 5: 1, 7: 1, 11: 1, 13: 1}  matches 2^4*3^2*5*7*11*13: True
+p=11: E =  65520, even: True, gcd(E,p)=1, E/2 = 32760
+p=13: E =  55440, even: True, gcd(E,p)=1, E/2 = 27720
+paper's exponents: 32760 (p=11) and 27720 (p=13) -> True True
+every divisor of 720720 not divisible by p divides E: True (structural: v_p(720720)=1)
+v_11(720720) = 1  v_13 = 1

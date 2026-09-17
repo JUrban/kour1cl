@@ -6,10 +6,22 @@ together with the identity of the proposers and comments on partial progress. It
 question that motivated the experiment reported here: \emph{what can a current general-purpose AI agent, given a
 computer algebra system and two days, do with a large collection of genuinely open research problems?}
 
+Michael Kinyon and Josef Urban conceived and oversaw the experiment. They gave the coding agent an explicit
+48-hour deadline and requested local resource limits of generally 20 CPU cores and 100~GB of memory. With access to
+GAP, further software and the literature, the agent could choose which previously unsolved problems to pursue. The
+aim was to evaluate current AI and automated reasoning capabilities on open research problems under a shared
+budget: selecting questions, interpreting hypotheses, developing arguments and checking the resulting claims.
+
+The design follows the use of explicit time and resource budgets in automated theorem proving competitions and in
+human mathematical contests such as the International Mathematical Olympiad~\cite{casc,imo}. Urban's specific
+inspiration was the MPTPChallenge, designed in 2006, twenty years before this experiment~\cite{mptpchallenge}:
+attempt related problems under a shared budget and reuse discoveries across them. Here the challenge concerns open
+research problems, with freedom to select questions, consult sources and choose computational tools.
+
 The experiment was deliberately simple in design. The agent received one instruction (reproduced verbatim in
 Section~\ref{sec:prompt}), a machine with GAP~4.16.1 installed, and a time limit of 48 hours; it was asked to
 document everything in a local git repository and warned that its solutions would be reviewed independently. The
-human experimenter did not intervene except to restart the agent's goal loop after the initial hour and, at the very
+experimenters did not intervene except to restart the agent's goal loop after the initial hour and, at the very
 end, to ask for this write-up. Everything below---the choice of problems, the computations, the proofs, the
 reports, and this paper---was produced by the agent.
 

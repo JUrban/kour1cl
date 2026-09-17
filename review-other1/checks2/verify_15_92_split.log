@@ -1,0 +1,3 @@
+rows: 150  passing: 150
+prime used per h: {7: [11], 8: [11], 9: [13], 10: [13], 11: [11], 12: [13]}
+max moved points: 13

@@ -1,0 +1,34 @@
+Round 2 checks (17 September 2026), against the authors' reply and the now-public repository.
+
+1. Ancillary bundle supplied with the reply (review1-reply/ancillary), three documented commands:
+   PASS_1962_RANK_TWO_CERTIFICATES a2 6 36 6 4 / b2 20 126 7 4 / g2 78 601 11 4
+   PASS_1961_SQUARE_COMPLETION_CERTIFICATES a2 12 72 6 24 24 4 / b2 48 380 12 80 96 4 / g2 240 2739 19 312 480 4
+   PASS_1962_G2_INTEGER_CONSTANTS 120 156 3508 9
+   The fourth script, verify_19_62_monomial_certificates.py, aborts: results/19.62-g2-monomial-certificates.jsonl
+   is absent from the local copy, from anc/ in the arXiv tarball (30 entries) and from ancillary/ in the full-source
+   zip (28 entries). Neither archive contains any file matching "monomial-certificates".
+
+2. Handoff hashes verified: the two archives and kourovka-experiment.pdf match manifest.json and validation.json;
+   the reviewed PDF digest is ec9a5482cdfb9ee2b3937fd1980eed6448ab5f954454c9d5287d06aa8a4c3c25.
+
+3. Public repository github.com/JUrban/kour1, branch master: 4,146 blobs, 1.17 GB; branch paper/arxiv-experiment
+   carries paper/ancillary/. research/complete-candidate-ledger.json has candidate_count 46, outside_reviews 0,
+   priority "unestablished" on every entry, and the same 46 problems in the same order as Appendix B.
+
+4. 21.114 (D.6) verified in GAP from the archive's own permutation models (p21114.g): both retained models give
+   |P| = 512, derived series orders 512, 32, 2, 1, Z(P) = C4, a unique cyclic central subgroup of order 4,
+   |Q| = 128, a(Q) = 16, Q weakly ab-maximal, derived length of P equal to 3.
+
+5. 15.92: the archive's replay scripts run here. check_15_92_cycles.py prints 15_92_CYCLE_CONTROLS_DONE 150 240 and
+   verify_15_92_diagrams.py completes under GAP with returncode 0. My own check of their receipt (this directory)
+   confirms for all 150 rows that the chosen prime occurs exactly once as a cycle length, that no other cycle length
+   is divisible by it, that every length divides 720720, and that 720720/p kills every other cycle. The prime per h
+   is 11 for h in {7,8,11} and 13 for h in {9,10,12}, so the split is forced by the transcribed cycle data.
+
+6. 20.100: the public repository has 88 files for this problem totalling 7.5 MB. The n = 7 certificate is not among
+   them; the largest is the n = 6 certificate at 6.4 MB. The generator log records the certificate's sha256 and the
+   shard logs record PASS_SHARD lines (42,891,332 nodes, 907,884,384 relation implications in shard 3). So the claim
+   stays documented but not independently checkable.
+
+7. No session JSONL is public (state/session.json is 155 bytes), so the retrieval claim about problem 21.106 cannot
+   be checked from outside.
